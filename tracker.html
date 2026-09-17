@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SSC CHSL 2026 — Candidate Command Center</title>
+  <style>
+    :root {
+      --bg-main: #090D16;
+      --bg-card: #121826;
+      --bg-card-hover: #172033;
+      --border: #1E293B;
+      --border-focus: #06B6D4;
+      --text-primary: #F8FAFC;
+      --text-secondary: #94A3B8;
+      --text-muted: #64748B;
+      --accent-cyan: #06B6D4;
+      --accent-emerald: #10B981;
+      --accent-amber: #F59E0B;
+      --accent-rose: #F43F5E;
+      --accent-indigo: #6366F1;
+      --radius: 10px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--bg-main);
+      color: var(--text-primary);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.5;
+      padding: 24px 16px 80px;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* HEADER */
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 24px;
+    }
+
+    .header-titles h1 {
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .header-titles p {
+      color: var(--text-secondary);
+      font-size: 14px;
+      margin-top: 4px;
+    }
+
+    .header-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+    }
+
+    button {
+      background: var(--bg-card);
+      color: var(--text-primary);
+      border: 1px solid var(--border);
+      padding: 8px 16px;
+      border-radius: var(--radius);
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s ease;
+    }
+
+    button:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--border-focus);
+    }
+
+    button.primary {
+      background: #0284C7;
+      border-color: #0284C7;
+      color: #FFFFFF;
+    }
+    button.primary:hover {
+      background: #0369A1;
+    }
+
+    button.success {
+      background: #059669;
+      border-color: #059669;
+      color: #FFFFFF;
+    }
+    button.success:hover {
+      background: #047857;
+    }
+
+    .sync-status {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      padding: 6px 12px;
+      border-radius: 20px;
+      background: rgba(30, 41, 59, 0.5);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+    }
+    .sync-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent-rose);
+    }
+    .sync-dot.connected {
+      background: var(--accent-emerald);
+      box-shadow: 0 0 8px rgba(16, 185, 129, 0.6);
+    }
+
+    /* METRICS GRID */
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+
+    .metric-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+    }
+
+    .metric-title {
+      font-size: 12px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .metric-value {
+      font-size: 26px;
+      font-weight: 700;
+      margin-top: 6px;
+      color: var(--text-primary);
+    }
+
+    .progress-bar-container {
+      width: 100%;
+      height: 8px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 4px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent-cyan), var(--accent-emerald));
+      width: 8%;
+      transition: width 0.3s ease;
+    }
+
+    .metric-sub {
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-top: 6px;
+    }
+
+    /* FILTER TABS */
+    .filter-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+
+    .tab-btn {
+      padding: 8px 14px;
+      border-radius: 20px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      font-size: 13px;
+      cursor: pointer;
+    }
+    .tab-btn:hover {
+      color: var(--text-primary);
+    }
+    .tab-btn.active {
+      background: rgba(6, 182, 212, 0.15);
+      border-color: var(--accent-cyan);
+      color: var(--accent-cyan);
+      font-weight: 600;
+    }
+
+    /* SUBJECT SECTIONS */
+    .subject-section {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 24px;
+      overflow: hidden;
+    }
+
+    .subject-header {
+      padding: 16px 20px;
+      background: rgba(255, 255, 255, 0.02);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .subject-title {
+      font-size: 16px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .subject-weight {
+      font-size: 12px;
+      color: var(--text-muted);
+      background: rgba(255, 255, 255, 0.05);
+      padding: 4px 10px;
+      border-radius: 20px;
+    }
+
+    /* TOPIC TABLE */
+    .topic-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    .topic-table th {
+      text-align: left;
+      padding: 12px 16px;
+      color: var(--text-muted);
+      border-bottom: 1px solid var(--border);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .topic-table td {
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      vertical-align: middle;
+    }
+
+    .topic-table tr:hover td {
+      background: rgba(255, 255, 255, 0.015);
+    }
+
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      user-select: none;
+      transition: transform 0.1s ease;
+    }
+    .status-badge:active {
+      transform: scale(0.96);
+    }
+
+    .status-completed {
+      background: rgba(16, 185, 129, 0.15);
+      color: #34D399;
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+    .status-progress {
+      background: rgba(245, 158, 11, 0.15);
+      color: #FBBF24;
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+    .status-pending {
+      background: rgba(148, 163, 184, 0.1);
+      color: #94A3B8;
+      border: 1px solid rgba(148, 163, 184, 0.2);
+    }
+
+    .score-badge {
+      font-family: monospace;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--accent-cyan);
+      cursor: pointer;
+      padding: 2px 6px;
+      border-radius: 4px;
+      display: inline-block;
+    }
+    .score-badge:hover {
+      background: rgba(6, 182, 212, 0.15);
+    }
+
+    .subtopic-list {
+      color: var(--text-secondary);
+      font-size: 12px;
+      margin-top: 4px;
+      line-height: 1.4;
+    }
+
+    .target-week {
+      display: inline-block;
+      font-size: 11px;
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-secondary);
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+
+    /* TOAST ALERT */
+    #toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: #0284C7;
+      color: #FFFFFF;
+      padding: 12px 20px;
+      border-radius: var(--radius);
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+      font-size: 13px;
+      font-weight: 600;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      pointer-events: none;
+      z-index: 1000;
+    }
+    #toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* MODAL */
+    .modal-overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+      z-index: 999;
+    }
+    .modal-overlay.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .modal-box {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      width: 90%;
+      max-width: 400px;
+    }
+    .modal-box h3 {
+      font-size: 18px;
+      margin-bottom: 12px;
+    }
+    .modal-input {
+      width: 100%;
+      padding: 10px;
+      background: var(--bg-main);
+      border: 1px solid var(--border);
+      color: var(--text-primary);
+      border-radius: 6px;
+      margin-bottom: 16px;
+      font-size: 14px;
+    }
+    .modal-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- HEADER -->
+    <header>
+      <div class="header-titles">
+        <h1>🎯 SSC CHSL 2026 — Candidate Command Center</h1>
+        <p>Targets: <strong>176+ DEO Grade A</strong> &bull; <strong>157+ LDC/JSA</strong> &bull; Runway: ~13 Weeks (Mid-Dec Floor)</p>
+      </div>
+      <div class="header-actions">
+        <div class="sync-status">
+          <div class="sync-dot" id="syncDot"></div>
+          <span id="syncText">Not Connected</span>
+        </div>
+        <button id="btnConnect" class="primary" onclick="connectFile()">📁 Connect README.md</button>
+        <button onclick="saveToFile(true)" id="btnSave">💾 Save Now</button>
+        <button onclick="copyMarkdown()">📋 Copy MD</button>
+      </div>
+    </header>
+
+    <!-- EXECUTIVE METRICS -->
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="metric-title">
+          <span>Syllabus Coverage</span>
+          <span id="lblProgressPct">8%</span>
+        </div>
+        <div class="metric-value" id="valCoverage">8%</div>
+        <div class="progress-bar-container">
+          <div class="progress-bar" id="barProgress" style="width: 8%;"></div>
+        </div>
+        <div class="metric-sub" id="lblCompletedCount">2 of 27 topics completed</div>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-title">Diagnostic Accuracy</div>
+        <div class="metric-value" style="color: var(--accent-emerald);" id="valAccuracy">94.1%</div>
+        <div class="metric-sub">16 / 17 questions net correct (Threshold $\ge 80\%$)</div>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-title">Runway Countdown</div>
+        <div class="metric-value" style="color: var(--accent-cyan);" id="valCountdown">88 Days</div>
+        <div class="metric-sub">Target floor: Mid-December 2026 (Week 1 / 13)</div>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-title">Prep Phase Status</div>
+        <div class="metric-value" style="color: var(--accent-amber);">Phase 1</div>
+        <div class="metric-sub">Foundation Build (Target: Baseline $\to$ 100/200)</div>
+      </div>
+    </div>
+
+    <!-- FILTER TABS -->
+    <div class="filter-tabs">
+      <div class="tab-btn active" onclick="filterSubject('all', this)">All Subjects</div>
+      <div class="tab-btn" onclick="filterSubject('reasoning', this)">General Intelligence</div>
+      <div class="tab-btn" onclick="filterSubject('quant', this)">Quantitative Aptitude</div>
+      <div class="tab-btn" onclick="filterSubject('english', this)">English Language</div>
+      <div class="tab-btn" onclick="filterSubject('ga', this)">General Awareness</div>
+      <div class="tab-btn" onclick="filterSubject('tier2', this)">Tier-II Gatekeepers</div>
+    </div>
+
+    <!-- MAIN SUBJECT PANELS -->
+    <div id="subjectPanels">
+      <!-- Injected by JavaScript -->
+    </div>
+  </div>
+
+  <!-- TOAST ALERT -->
+  <div id="toast">Saved changes to README.md</div>
+
+  <!-- MODAL SCORE INPUT -->
+  <div class="modal-overlay" id="scoreModal">
+    <div class="modal-box">
+      <h3 id="modalTopicTitle">Enter Diagnostic Score</h3>
+      <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 12px;">Log your score for this topic (e.g. 14/15 or 5/5):</p>
+      <input type="text" class="modal-input" id="scoreInput" placeholder="e.g. 14 / 15 (93.3%)" />
+      <div class="modal-actions">
+        <button onclick="closeModal()">Cancel</button>
+        <button class="primary" onclick="confirmScore()">Save Score</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // CORE DATA STATE
+    const state = {
+      fileHandle: null,
+      rawMarkdown: "",
+      subjects: [
+        {
+          id: "reasoning",
+          name: "General Intelligence & Reasoning",
+          weight: "25 Qs / 50 Marks (Tier-I) + 30 Qs / 90 Marks (Tier-II)",
+          topics: [
+            {
+              code: "B",
+              name: "Classification (Odd One Out)",
+              subtopics: "Semantic, Symbolic/Number, Figural Classification",
+              week: "Week 2",
+              status: "COMPLETED",
+              score: "14 / 15 (93.3%)",
+              notes: "Golden Rule (Group of 3), Priority Ladder, Unit Digit check"
+            },
+            {
+              code: "C",
+              name: "Series & Patterns",
+              subtopics: "Semantic, Number, Figural Series, Pattern Folding",
+              week: "Week 2–3",
+              status: "IN PROGRESS",
+              score: "2 / 2 (100%)",
+              notes: "Rate of Growth Rule, 2-Level Step-Ladder"
+            },
+            {
+              code: "A",
+              name: "Analogy",
+              subtopics: "Semantic, Symbolic/Number, Figural Analogy",
+              week: "Week 3",
+              status: "PENDING",
+              score: "—",
+              notes: "Pending"
+            },
+            {
+              code: "D",
+              name: "Coding & Operations",
+              subtopics: "Coding-Decoding, Symbolic & Numerical Operations, Word Building",
+              week: "Week 3–4",
+              status: "PENDING",
+              score: "—",
+              notes: "Pending"
+            },
+            {
+              code: "E",
+              name: "Visual / Spatial Reasoning",
+              subtopics: "Space Orientation, Venn Diagrams, Punched Hole, Embedded Figures",
+              week: "Week 5–6",
+              status: "PENDING",
+              score: "—",
+              notes: "Pending"
+            },
+            {
+              code: "F",
+              name: "Logical & Cognitive Reasoning",
+              subtopics: "Drawing Inferences, Critical Thinking, Problem Solving, Trends",
+              week: "Week 8–9",
+              status: "PENDING",
+              score: "—",
+              notes: "Pending"
+            }
+          ]
+        },
+        {
+          id: "quant",
+          name: "Quantitative Aptitude",
+          weight: "25 Qs / 50 Marks (Tier-I) + 30 Qs / 90 Marks (Tier-II)",
+          topics: [
+            {
+              code: "3.A",
+              name: "Number Systems",
+              subtopics: "Whole Numbers, Decimals, Fractions, Relationship Between Numbers",
+              week: "Week 2–3",
+              status: "PENDING",
+              score: "—",
+              notes: "Core Number Sense"
+            },
+            {
+              code: "3.B",
+              name: "Fundamental Arithmetic: Block 1",
+              subtopics: "Percentages, Ratio & Proportion, Square Roots, Averages",
+              week: "Week 2–3",
+              status: "PENDING",
+              score: "—",
+              notes: "Core Arithmetic Foundation"
+            },
+            {
+              code: "3.B",
+              name: "Fundamental Arithmetic: Block 2",
+              subtopics: "Profit & Loss, Discount, Simple & Compound Interest",
+              week: "Week 3–4",
+              status: "PENDING",
+              score: "—",
+              notes: "Commercial Math"
+            },
+            {
+              code: "3.B",
+              name: "Fundamental Arithmetic: Block 3",
+              subtopics: "Time & Work, Pipes & Cistern, Time-Speed-Distance, Mixtures",
+              week: "Week 4–5",
+              status: "PENDING",
+              score: "—",
+              notes: "Motion & Work Logic"
+            },
+            {
+              code: "3.C",
+              name: "Algebra",
+              subtopics: "Basic Algebraic Identities, Surds, Linear Graphs",
+              week: "Week 6–7",
+              status: "PENDING",
+              score: "—",
+              notes: "Identity Manipulation"
+            },
+            {
+              code: "3.E",
+              name: "Mensuration",
+              subtopics: "2D Polygons, Circles, 3D Solids (Cylinder, Cone, Prism, Sphere)",
+              week: "Week 8–9",
+              status: "PENDING",
+              score: "—",
+              notes: "Formula Memorization"
+            },
+            {
+              code: "3.D",
+              name: "Geometry",
+              subtopics: "Triangle Centres, Congruence, Circles, Chords, Tangents",
+              week: "Week 8–10",
+              status: "PENDING",
+              score: "—",
+              notes: "Theorems & Visual Geometry"
+            },
+            {
+              code: "3.F",
+              name: "Trigonometry",
+              subtopics: "Ratios, Complementary Angles, Standard Identities, Heights & Distances",
+              week: "Week 9–10",
+              status: "PENDING",
+              score: "—",
+              notes: "Angle Value Table"
+            },
+            {
+              code: "3.G",
+              name: "Statistical Charts",
+              subtopics: "Histograms, Frequency Polygon, Bar Diagram, Pie Chart",
+              week: "Week 10",
+              status: "PENDING",
+              score: "—",
+              notes: "Data Interpretation"
+            }
+          ]
+        },
+        {
+          id: "english",
+          name: "English Language",
+          weight: "25 Qs / 50 Marks (Tier-I) + 40 Qs / 120 Marks (Tier-II)",
+          topics: [
+            {
+              code: "1.A",
+              name: "Daily Vocabulary Engine",
+              subtopics: "Synonyms, Antonyms, One Word Substitution, Idioms & Phrases, Spellings",
+              week: "Weeks 1–13 (Daily)",
+              status: "IN PROGRESS",
+              score: "20 Words/Day",
+              notes: "Blackbook / PYQ Target: 1,500 words"
+            },
+            {
+              code: "1.B",
+              name: "Core Grammar Foundation",
+              subtopics: "Subject-Verb Agreement, Tenses, Prepositions, Spot Error, Fill Blanks",
+              week: "Weeks 2–4",
+              status: "PENDING",
+              score: "—",
+              notes: "Grammar Rules Mastery"
+            },
+            {
+              code: "1.B",
+              name: "Voice & Narration Mastery",
+              subtopics: "Active / Passive Voice of Verbs, Direct / Indirect Speech Conversion",
+              week: "Weeks 5–7",
+              status: "PENDING",
+              score: "—",
+              notes: "Zero-error scoring rules"
+            },
+            {
+              code: "1.C",
+              name: "Sentence & Passage Skills",
+              subtopics: "Shuffling of Sentence Parts (PQRS), Cloze Passage",
+              week: "Weeks 7–9",
+              status: "PENDING",
+              score: "—",
+              notes: "Contextual Speed"
+            },
+            {
+              code: "1.C",
+              name: "Reading Comprehension",
+              subtopics: "Narrative story passage + Current affairs editorial report",
+              week: "Weeks 9–11",
+              status: "PENDING",
+              score: "—",
+              notes: "Tier-II Mandatory requirement"
+            }
+          ]
+        },
+        {
+          id: "ga",
+          name: "General Awareness",
+          weight: "25 Qs / 50 Marks (Tier-I) + 20 Qs / 60 Marks (Tier-II)",
+          topics: [
+            {
+              code: "4.A",
+              name: "Current Affairs (Daily)",
+              subtopics: "National Events, Sports, Schemes, Summits, Appointments",
+              week: "Daily (Weeks 1–13)",
+              status: "IN PROGRESS",
+              score: "15 min/day",
+              notes: "Dead-time habit"
+            },
+            {
+              code: "4.B",
+              name: "Indian Polity & Constitution",
+              subtopics: "Articles, Fundamental Rights, Amendments, President, Parliament",
+              week: "Weeks 2–4",
+              status: "PENDING",
+              score: "—",
+              notes: "High-yield marks"
+            },
+            {
+              code: "4.B",
+              name: "Indian & World Geography",
+              subtopics: "River Drainage (East vs West), Mountains, National Parks, Solar System",
+              week: "Weeks 4–6",
+              status: "PENDING",
+              score: "—",
+              notes: "Physical & Map GK"
+            },
+            {
+              code: "4.B",
+              name: "Indian History & Culture",
+              subtopics: "Ancient Dynasties, Freedom Struggle (1857–1947), Classical Dances, Temples",
+              week: "Weeks 6–8",
+              status: "PENDING",
+              score: "—",
+              notes: "Timeline GK"
+            },
+            {
+              code: "4.C",
+              name: "General Science",
+              subtopics: "Everyday Physics, Chemistry Alloys/Acids, Human Anatomy, Pathogens",
+              week: "Weeks 8–10",
+              status: "PENDING",
+              score: "—",
+              notes: "10th standard science"
+            },
+            {
+              code: "4.B",
+              name: "Indian Economy & Static GK",
+              subtopics: "GDP/Inflation, 5-Year Plans, Census 2011, Awards & Books",
+              week: "Weeks 10–11",
+              status: "PENDING",
+              score: "—",
+              notes: "Economic Scene"
+            }
+          ]
+        },
+        {
+          id: "tier2",
+          name: "Tier-II Gatekeepers (Mandatory Qualifying)",
+          weight: "Skill Test / Typing Test + Computer Knowledge Test",
+          topics: [
+            {
+              code: "SKILL-1",
+              name: "DEO Skill Test (Part A)",
+              subtopics: "15,000 Key Depressions / Hour (~50 WPM on computer)",
+              week: "Weeks 5–13",
+              status: "PENDING",
+              score: "Goal: 50 WPM",
+              notes: "15 mins daily practice"
+            },
+            {
+              code: "SKILL-2",
+              name: "LDC / JSA Typing Test (Part C)",
+              subtopics: "35 WPM (English) or 30 WPM (Hindi)",
+              week: "Weeks 5–13",
+              status: "PENDING",
+              score: "Goal: 35 WPM",
+              notes: "Accuracy >= 93%"
+            },
+            {
+              code: "COMP",
+              name: "Computer Knowledge Test",
+              subtopics: "CPU, Memory (RAM/ROM), MS Word, Excel, Networking & Cyber Threats",
+              week: "Weeks 8–12",
+              status: "PENDING",
+              score: "15 Qs / 45 Marks",
+              notes: "Mandatory Qualifying"
+            }
+          ]
+        }
+      ]
+    };
+
+    // RENDER FUNCTIONS
+    function render() {
+      const container = document.getElementById("subjectPanels");
+      container.innerHTML = "";
+
+      let totalTopics = 0;
+      let completedTopics = 0;
+
+      state.subjects.forEach(subject => {
+        const section = document.createElement("div");
+        section.className = "subject-section";
+        section.dataset.subjectId = subject.id;
+
+        let rowsHtml = "";
+        subject.topics.forEach((t, index) => {
+          totalTopics++;
+          if (t.status === "COMPLETED") completedTopics++;
+
+          let statusClass = "status-pending";
+          let statusIcon = "⬜";
+          if (t.status === "COMPLETED") { statusClass = "status-completed"; statusIcon = "✅"; }
+          if (t.status === "IN PROGRESS") { statusClass = "status-progress"; statusIcon = "⏳"; }
+
+          rowsHtml += `
+            <tr>
+              <td style="font-weight: 700; width: 60px; color: var(--text-muted);">${t.code}</td>
+              <td>
+                <div style="font-weight: 600; color: var(--text-primary); font-size: 14px;">${t.name}</div>
+                <div class="subtopic-list">${t.subtopics}</div>
+              </td>
+              <td style="width: 130px;">
+                <span class="target-week">${t.week}</span>
+              </td>
+              <td style="width: 160px;">
+                <span class="status-badge ${statusClass}" onclick="toggleStatus('${subject.id}', ${index})">
+                  ${statusIcon} ${t.status}
+                </span>
+              </td>
+              <td style="width: 150px;">
+                <span class="score-badge" onclick="editScore('${subject.id}', ${index})">${t.score}</span>
+              </td>
+              <td style="color: var(--text-secondary); font-size: 12px;">${t.notes}</td>
+            </tr>
+          `;
+        });
+
+        section.innerHTML = `
+          <div class="subject-header">
+            <div class="subject-title">
+              <span>${subject.name}</span>
+            </div>
+            <div class="subject-weight">${subject.weight}</div>
+          </div>
+          <table class="topic-table">
+            <thead>
+              <tr>
+                <th>Code</th>
+                <th>Topic & Subtopics</th>
+                <th>Target Week</th>
+                <th>Status (Click to toggle)</th>
+                <th>Diagnostic Score</th>
+                <th>Mastered Rules / Notes</th>
+              </tr>
+            </thead>
+            <tbody>${rowsHtml}</tbody>
+          </table>
+        `;
+        container.appendChild(section);
+      });
+
+      // Update Executive Stats
+      const pct = Math.round((completedTopics / totalTopics) * 100);
+      document.getElementById("lblProgressPct").innerText = pct + "%";
+      document.getElementById("valCoverage").innerText = pct + "%";
+      document.getElementById("barProgress").style.width = pct + "%";
+      document.getElementById("lblCompletedCount").innerText = `${completedTopics} of ${totalTopics} topics completed`;
+
+      calculateCountdown();
+    }
+
+    // TOGGLE STATUS
+    function toggleStatus(subjectId, topicIndex) {
+      const subj = state.subjects.find(s => s.id === subjectId);
+      if (!subj) return;
+      const topic = subj.topics[topicIndex];
+
+      if (topic.status === "PENDING") {
+        topic.status = "IN PROGRESS";
+      } else if (topic.status === "IN PROGRESS") {
+        topic.status = "COMPLETED";
+        if (topic.score === "—" || topic.score === "") {
+          editScore(subjectId, topicIndex);
+        }
+      } else {
+        topic.status = "PENDING";
+      }
+
+      render();
+      saveToFile(false);
+    }
+
+    // MODAL EDIT SCORE
+    let activeScoreTarget = null;
+    function editScore(subjectId, topicIndex) {
+      const subj = state.subjects.find(s => s.id === subjectId);
+      if (!subj) return;
+      activeScoreTarget = { subj, topic: subj.topics[topicIndex] };
+      document.getElementById("modalTopicTitle").innerText = `Log Score: ${activeScoreTarget.topic.name}`;
+      document.getElementById("scoreInput").value = activeScoreTarget.topic.score !== "—" ? activeScoreTarget.topic.score : "";
+      document.getElementById("scoreModal").classList.add("open");
+      document.getElementById("scoreInput").focus();
+    }
+
+    function closeModal() {
+      document.getElementById("scoreModal").classList.remove("open");
+      activeScoreTarget = null;
+    }
+
+    function confirmScore() {
+      if (activeScoreTarget) {
+        const val = document.getElementById("scoreInput").value.trim();
+        activeScoreTarget.topic.score = val ? val : "—";
+        render();
+        saveToFile(false);
+      }
+      closeModal();
+    }
+
+    // COUNTDOWN CALCULATOR
+    function calculateCountdown() {
+      const targetDate = new Date("2026-12-15T09:00:00");
+      const today = new Date();
+      const diffTime = targetDate - today;
+      const diffDays = Math.max(0, Math.ceil(diffTime / (1000 * 60 * 60 * 24)));
+      document.getElementById("valCountdown").innerText = `${diffDays} Days`;
+    }
+
+    // FILTER SUBJECT
+    function filterSubject(subjectId, btn) {
+      document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+
+      document.querySelectorAll(".subject-section").forEach(sec => {
+        if (subjectId === "all" || sec.dataset.subjectId === subjectId) {
+          sec.style.display = "block";
+        } else {
+          sec.style.display = "none";
+        }
+      });
+    }
+
+    // FILE SYSTEM ACCESS API ENGINE
+    async function connectFile() {
+      try {
+        if ("showOpenFilePicker" in window) {
+          const [handle] = await window.showOpenFilePicker({
+            types: [{
+              description: "Markdown Files",
+              accept: { "text/markdown": [".md"], "text/plain": [".md", ".txt"] }
+            }]
+          });
+          state.fileHandle = handle;
+          const file = await handle.getFile();
+          state.rawMarkdown = await file.text();
+          
+          document.getElementById("syncDot").classList.add("connected");
+          document.getElementById("syncText").innerText = handle.name;
+          document.getElementById("btnConnect").innerText = "🔄 Reconnect";
+          showToast(`Connected to ${handle.name}`);
+        } else {
+          showToast("File System API not supported in this browser. Use Chrome/Edge.");
+        }
+      } catch (err) {
+        if (err.name !== "AbortError") {
+          console.error(err);
+          showToast("Could not access file");
+        }
+      }
+    }
+
+    async function saveToFile(isManualClick) {
+      if (!state.fileHandle) {
+        if (isManualClick) {
+          showToast("Please click 'Connect README.md' first");
+          connectFile();
+        }
+        return;
+      }
+
+      try {
+        const writable = await state.fileHandle.createWritable();
+        const updatedMarkdown = generateUpdatedMarkdown();
+        await writable.write(updatedMarkdown);
+        await writable.close();
+        showToast("✅ Saved to README.md in real-time!");
+      } catch (err) {
+        console.error("Write error:", err);
+        showToast("Error saving to disk. Check permissions.");
+      }
+    }
+
+    function generateUpdatedMarkdown() {
+      // Calculate overall stats
+      let totalTopics = 0;
+      let completedTopics = 0;
+      state.subjects.forEach(s => s.topics.forEach(t => {
+        totalTopics++;
+        if (t.status === "COMPLETED") completedTopics++;
+      }));
+      const pct = Math.round((completedTopics / totalTopics) * 100);
+      const progressBarBlocks = Math.round(pct / 10);
+      const barStr = "■".repeat(progressBarBlocks) + "□".repeat(10 - progressBarBlocks);
+
+      // Reconstruct clean Markdown
+      return `# 🎯 SSC CHSL 2026 — MASTER CANDIDATE TRACKER
+
+> **Candidate Workspace:** \`CHSL 2026 Preparation Engine\`  
+> **Primary Target:** DEO / DEO Grade 'A' Cutoff $\\approx$ **176+ / 200** (Net $\\approx 88$ Correct MCQs)  
+> **Safety Net Target:** LDC / JSA Cutoff $\\approx$ **157+ / 200** (Net $\\approx 79$ Correct MCQs)  
+> **Runway:** $\\approx 13$ Weeks (Aggressive Planning Floor: Mid-December 2026)  
+> **Weekly Commitment:** 30 Hours (5:00–7:00 AM & 8:30–10:30 PM)
+
+---
+
+## 🧭 EXECUTIVE DASHBOARD
+
+| Dimension | Target Benchmark | Live Candidate Metric | Status |
+| :--- | :---: | :---: | :---: |
+| **Current Preparation Phase** | Phase 1: Foundation (Weeks 2–6) | **Phase 1 (Week 1 / 13)** | 🟢 On Schedule |
+| **Overall Syllabus Coverage** | 100% of Syllabus Modules | \`[${barStr}] ${pct}% Completed\` | ⏳ Active |
+| **Overall Diagnostic Accuracy** | $\\ge 80\\%$ (Negative Marking Safety) | **94.1%** (16 / 17 Correct) | 🎯 Optimal |
+| **Sectional Timer Execution** | Strictly 15 Mins / 25 Questions | Untimed $\\to$ Timed transition by Week 4 | ⏳ Building |
+| **DEO Typing Benchmark** | 15,000 KDPH ($\\approx 50$ WPM) | Scheduled to begin Week 5 | ⬜ Scheduled |
+
+---
+
+## 📁 REPOSITORY DOCUMENTATION
+
+| Document | File Path | Description |
+| :--- | :--- | :--- |
+| **Official Notification** | [\`Notice_of_adv_chsle_2026.pdf\`](Notice_of_adv_chsle_2026.pdf) | Official SSC notification with exam rules, eligibility, & post schemes. |
+| **Master Blueprint / Roadmap** | [\`CHSL_2026_MASTER_ROADMAP.md\`](CHSL_2026_MASTER_ROADMAP.md) | 13-week phase breakdown, 30h weekly rhythm, & Sunday audit rules. |
+| **Verified Detailed Syllabus** | [\`CHSL_2026_DETAILED_SYLLABUS.md\`](CHSL_2026_DETAILED_SYLLABUS.md) | Full Tier-I & Tier-II syllabus with official notification paragraph citations. |
+| **Mastery Teaching Engine** | [\`Mastery-Prompt.md\`](Mastery-Prompt.md) | The interactive pedagogical prompt with the 7-point feedback architecture. |
+
+---
+
+## 📊 SUBJECT 1: GENERAL INTELLIGENCE & REASONING (Weeks 2–9)
+*Weightage: 25 Questions / 50 Marks (Tier-I) + 30 Questions / 90 Marks (Tier-II)*
+
+| Status | Code | Official Topic | Target Week | Diagnostic Score | Key Rules & Patterns Mastered |
+| :---: | :---: | :--- | :---: | :---: | :--- |
+${formatTableRows(state.subjects[0].topics)}
+
+---
+
+## 📊 SUBJECT 2: QUANTITATIVE APTITUDE (Weeks 2–10)
+*Weightage: 25 Questions / 50 Marks (Tier-I) + 30 Questions / 90 Marks (Tier-II)*
+
+| Status | Code | Official Topic Area | Target Week | Diagnostic Score | Status & Action Items |
+| :---: | :---: | :--- | :---: | :---: | :--- |
+${formatTableRows(state.subjects[1].topics)}
+
+---
+
+## 📊 SUBJECT 3: ENGLISH LANGUAGE (Weeks 1–11)
+*Weightage: 25 Questions / 50 Marks (Tier-I) + 40 Questions / 120 Marks (Tier-II)*
+
+| Status | Code | Official Topic Area | Schedule | Benchmark Goal | Status & Action Items |
+| :---: | :---: | :--- | :---: | :---: | :--- |
+${formatTableRows(state.subjects[2].topics)}
+
+---
+
+## 📊 SUBJECT 4: GENERAL AWARENESS (Weeks 1–13)
+*Weightage: 25 Questions / 50 Marks (Tier-I) + 20 Questions / 60 Marks (Tier-II)*
+
+| Status | Code | Official Topic Area | Target Week | Priority Focus Areas |
+| :---: | :---: | :--- | :---: | :--- |
+${formatTableRows(state.subjects[3].topics, true)}
+
+---
+
+## ⌨️ TIER-II MUST-QUALIFY GATEKEEPERS (Weeks 5–13)
+*Conducted on the SAME DAY as Tier-II Written Examination*
+
+| Module | Official Requirement | Preparation Window | Daily Target | Live Status |
+| :--- | :--- | :---: | :---: | :---: |
+${formatTier2Rows(state.subjects[4].topics)}
+
+---
+
+## 📈 SUNDAY MOCK TEST & ERROR LOG SCORECARD
+
+| Mock # | Target Date | Raw Score (/200) | Attempted | Net Accuracy | 15-Min Sectional Timer Status | Primary Weakness Identified |
+| :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **#01** | Sep 21, 2026 | *Pending* | / 100 | *Goal: $\\ge 80\\%$* | *Pending* | *Baseline Diagnostic Test* |
+| **#02** | Sep 28, 2026 | — | / 100 | — | — | — |
+| **#03** | Oct 05, 2026 | — | / 100 | — | — | — |
+| **#04** | Oct 12, 2026 | — | / 100 | — | — | — |
+| **#05** | Oct 19, 2026 | — | / 100 | — | — | — |
+| **#06** | Oct 26, 2026 | — | / 100 | — | — | — |
+| **#07** | Nov 02, 2026 | — | / 100 | — | — | — |
+| **#08** | Nov 09, 2026 | — | / 100 | — | — | — |
+| **#09** | Nov 16, 2026 | — | / 100 | — | — | — |
+| **#10** | Nov 23, 2026 | — | / 100 | — | — | — |
+| **#11** | Nov 30, 2026 | — | / 100 | — | — | — |
+| **#12** | Dec 07, 2026 | — | / 100 | — | — | — |
+| **#13** | Dec 14, 2026 | — | / 100 | — | — | — |
+
+---
+
+## ⚡ ACTIVE PRACTICE CHALLENGES
+
+### 5 Tougher Number Series Questions (Current In-Progress Drill)
+* **Q1 (Drop & Explode):** $8, 4, 4, 6, 12, 30, \\mathbf{?}$  
+* **Q2 (Prime-Gap Trap):** $43, 45, 48, 53, 60, 71, 84, \\mathbf{?}$  
+* **Q3 (Compounding Multiplier):** $4, 5, 8, 27, 104, \\mathbf{?}$  
+* **Q4 (Polynomial / Cubic):** $2, 12, 36, 80, 150, \\mathbf{?}$  
+* **Q5 (Fluctuating Interleaved):** $12, 32, 15, 28, 19, 23, 24, 17, \\mathbf{?}$  
+
+---
+
+*Last Updated: ${new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} | Maintained with \`Mastery-Prompt.md\`*
+`;
+    }
+
+    function formatTableRows(topics, isGA = false) {
+      return topics.map(t => {
+        let icon = "⬜";
+        if (t.status === "COMPLETED") icon = "✅";
+        if (t.status === "IN PROGRESS") icon = "⏳";
+
+        if (isGA) {
+          return `| ${icon} | **${t.code}** | **${t.name}** | ${t.week} | ${t.notes} |`;
+        }
+        return `| ${icon} | **${t.code}** | **${t.name}** | ${t.week} | ${t.score} | ${t.notes} |`;
+      }).join("\n");
+    }
+
+    function formatTier2Rows(topics) {
+      return topics.map(t => {
+        let icon = "⬜ Scheduled";
+        if (t.status === "COMPLETED") icon = "✅ Completed";
+        if (t.status === "IN PROGRESS") icon = "⏳ In Progress";
+        return `| **${t.name}** | **${t.subtopics}** | ${t.week} | ${t.notes} | ${icon} |`;
+      }).join("\n");
+    }
+
+    // TOAST NOTIFIER
+    function showToast(msg) {
+      const toast = document.getElementById("toast");
+      toast.innerText = msg;
+      toast.classList.add("show");
+      setTimeout(() => toast.classList.remove("show"), 2800);
+    }
+
+    // COPY TO CLIPBOARD
+    function copyMarkdown() {
+      const md = generateUpdatedMarkdown();
+      navigator.clipboard.writeText(md).then(() => {
+        showToast("📋 Copied full updated Markdown to clipboard!");
+      });
+    }
+
+    // INITIAL MOUNT
+    render();
+  </script>
+</body>
+</html>
