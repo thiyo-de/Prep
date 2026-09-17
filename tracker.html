@@ -4,6 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SSC CHSL 2026 — Candidate Command Center</title>
+
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Remix Icon CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
+
   <style>
     :root {
       --bg-main: #090D16;
@@ -22,15 +31,22 @@
       --radius: 10px;
     }
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    /* GLOBAL RESET & STRICT NO ITALICS */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-style: normal !important;
+    }
 
     body {
       background-color: var(--bg-main);
       color: var(--text-primary);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
       line-height: 1.5;
       padding: 24px 16px 80px;
       min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
     }
 
     .container {
@@ -52,17 +68,23 @@
 
     .header-titles h1 {
       font-size: 24px;
-      font-weight: 700;
+      font-weight: 800;
       letter-spacing: -0.5px;
       display: flex;
       align-items: center;
       gap: 10px;
     }
 
+    .header-titles h1 i {
+      color: var(--accent-cyan);
+      font-size: 26px;
+    }
+
     .header-titles p {
       color: var(--text-secondary);
-      font-size: 14px;
+      font-size: 13px;
       margin-top: 4px;
+      font-weight: 500;
     }
 
     .header-actions {
@@ -78,6 +100,7 @@
       border: 1px solid var(--border);
       padding: 8px 16px;
       border-radius: var(--radius);
+      font-family: 'Plus Jakarta Sans', sans-serif;
       font-size: 13px;
       font-weight: 600;
       cursor: pointer;
@@ -85,6 +108,10 @@
       align-items: center;
       gap: 8px;
       transition: all 0.2s ease;
+    }
+
+    button i {
+      font-size: 15px;
     }
 
     button:hover {
@@ -113,13 +140,14 @@
     .sync-status {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 8px;
       font-size: 12px;
-      padding: 6px 12px;
+      padding: 6px 14px;
       border-radius: 20px;
       background: rgba(30, 41, 59, 0.5);
       border: 1px solid var(--border);
       color: var(--text-secondary);
+      font-weight: 600;
     }
     .sync-dot {
       width: 8px;
@@ -144,23 +172,30 @@
       background: var(--bg-card);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 16px 18px;
+      padding: 18px 20px;
     }
 
     .metric-title {
       font-size: 12px;
       color: var(--text-muted);
       text-transform: uppercase;
-      letter-spacing: 0.5px;
-      font-weight: 600;
+      letter-spacing: 0.6px;
+      font-weight: 700;
       display: flex;
       justify-content: space-between;
+      align-items: center;
+    }
+
+    .metric-title i {
+      font-size: 16px;
+      color: var(--accent-cyan);
     }
 
     .metric-value {
       font-size: 26px;
-      font-weight: 700;
-      margin-top: 6px;
+      font-weight: 800;
+      margin-top: 8px;
+      letter-spacing: -0.5px;
       color: var(--text-primary);
     }
 
@@ -170,7 +205,7 @@
       background: rgba(255, 255, 255, 0.08);
       border-radius: 4px;
       overflow: hidden;
-      margin-top: 10px;
+      margin-top: 12px;
     }
 
     .progress-bar {
@@ -183,7 +218,8 @@
     .metric-sub {
       font-size: 12px;
       color: var(--text-secondary);
-      margin-top: 6px;
+      margin-top: 8px;
+      font-weight: 500;
     }
 
     /* FILTER TABS */
@@ -195,22 +231,27 @@
     }
 
     .tab-btn {
-      padding: 8px 14px;
+      padding: 8px 16px;
       border-radius: 20px;
       background: var(--bg-card);
       border: 1px solid var(--border);
       color: var(--text-secondary);
       font-size: 13px;
+      font-weight: 600;
       cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
     }
     .tab-btn:hover {
       color: var(--text-primary);
+      border-color: rgba(255, 255, 255, 0.15);
     }
     .tab-btn.active {
       background: rgba(6, 182, 212, 0.15);
       border-color: var(--accent-cyan);
       color: var(--accent-cyan);
-      font-weight: 600;
     }
 
     /* SUBJECT SECTIONS */
@@ -239,12 +280,18 @@
       gap: 10px;
     }
 
+    .subject-title i {
+      color: var(--accent-cyan);
+      font-size: 18px;
+    }
+
     .subject-weight {
       font-size: 12px;
       color: var(--text-muted);
       background: rgba(255, 255, 255, 0.05);
-      padding: 4px 10px;
+      padding: 4px 12px;
       border-radius: 20px;
+      font-weight: 600;
     }
 
     /* TOPIC TABLE */
@@ -261,7 +308,8 @@
       border-bottom: 1px solid var(--border);
       font-size: 11px;
       text-transform: uppercase;
-      letter-spacing: 0.5px;
+      letter-spacing: 0.6px;
+      font-weight: 700;
     }
 
     .topic-table td {
@@ -278,10 +326,10 @@
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      padding: 4px 10px;
+      padding: 5px 12px;
       border-radius: 6px;
       font-size: 12px;
-      font-weight: 600;
+      font-weight: 700;
       cursor: pointer;
       user-select: none;
       transition: transform 0.1s ease;
@@ -307,17 +355,19 @@
     }
 
     .score-badge {
-      font-family: monospace;
+      font-family: 'Plus Jakarta Sans', monospace;
       font-size: 13px;
       font-weight: 700;
       color: var(--accent-cyan);
       cursor: pointer;
-      padding: 2px 6px;
+      padding: 3px 8px;
       border-radius: 4px;
       display: inline-block;
+      background: rgba(6, 182, 212, 0.08);
+      border: 1px solid rgba(6, 182, 212, 0.2);
     }
     .score-badge:hover {
-      background: rgba(6, 182, 212, 0.15);
+      background: rgba(6, 182, 212, 0.2);
     }
 
     .subtopic-list {
@@ -325,6 +375,7 @@
       font-size: 12px;
       margin-top: 4px;
       line-height: 1.4;
+      font-weight: 500;
     }
 
     .target-week {
@@ -332,8 +383,9 @@
       font-size: 11px;
       background: rgba(255, 255, 255, 0.05);
       color: var(--text-secondary);
-      padding: 2px 8px;
+      padding: 3px 8px;
       border-radius: 4px;
+      font-weight: 600;
     }
 
     /* TOAST ALERT */
@@ -353,6 +405,9 @@
       transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
       pointer-events: none;
       z-index: 1000;
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
     #toast.show {
       opacity: 1;
@@ -363,7 +418,7 @@
     .modal-overlay {
       position: fixed;
       top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(0, 0, 0, 0.7);
+      background: rgba(0, 0, 0, 0.75);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -386,17 +441,19 @@
     }
     .modal-box h3 {
       font-size: 18px;
-      margin-bottom: 12px;
+      font-weight: 700;
+      margin-bottom: 10px;
     }
     .modal-input {
       width: 100%;
-      padding: 10px;
+      padding: 10px 12px;
       background: var(--bg-main);
       border: 1px solid var(--border);
       color: var(--text-primary);
       border-radius: 6px;
       margin-bottom: 16px;
       font-size: 14px;
+      font-family: 'Plus Jakarta Sans', sans-serif;
     }
     .modal-actions {
       display: flex;
@@ -411,7 +468,7 @@
     <!-- HEADER -->
     <header>
       <div class="header-titles">
-        <h1>🎯 SSC CHSL 2026 — Candidate Command Center</h1>
+        <h1><i class="ri-focus-3-line"></i> SSC CHSL 2026 — Candidate Command Center</h1>
         <p>Targets: <strong>176+ DEO Grade A</strong> &bull; <strong>157+ LDC/JSA</strong> &bull; Runway: ~13 Weeks (Mid-Dec Floor)</p>
       </div>
       <div class="header-actions">
@@ -419,9 +476,15 @@
           <div class="sync-dot" id="syncDot"></div>
           <span id="syncText">Not Connected</span>
         </div>
-        <button id="btnConnect" class="primary" onclick="connectFile()">📁 Connect README.md</button>
-        <button onclick="saveToFile(true)" id="btnSave">💾 Save Now</button>
-        <button onclick="copyMarkdown()">📋 Copy MD</button>
+        <button id="btnConnect" class="primary" onclick="connectFile()">
+          <i class="ri-folder-open-line"></i> Connect README.md
+        </button>
+        <button onclick="saveToFile(true)" id="btnSave">
+          <i class="ri-save-3-line"></i> Save Now
+        </button>
+        <button onclick="copyMarkdown()">
+          <i class="ri-file-copy-line"></i> Copy MD
+        </button>
       </div>
     </header>
 
@@ -430,7 +493,7 @@
       <div class="metric-card">
         <div class="metric-title">
           <span>Syllabus Coverage</span>
-          <span id="lblProgressPct">8%</span>
+          <i class="ri-pie-chart-line"></i>
         </div>
         <div class="metric-value" id="valCoverage">8%</div>
         <div class="progress-bar-container">
@@ -440,32 +503,41 @@
       </div>
 
       <div class="metric-card">
-        <div class="metric-title">Diagnostic Accuracy</div>
+        <div class="metric-title">
+          <span>Diagnostic Accuracy</span>
+          <i class="ri-shield-check-line"></i>
+        </div>
         <div class="metric-value" style="color: var(--accent-emerald);" id="valAccuracy">94.1%</div>
-        <div class="metric-sub">16 / 17 questions net correct (Threshold $\ge 80\%$)</div>
+        <div class="metric-sub">16 / 17 questions net correct (Threshold &ge; 80%)</div>
       </div>
 
       <div class="metric-card">
-        <div class="metric-title">Runway Countdown</div>
+        <div class="metric-title">
+          <span>Runway Countdown</span>
+          <i class="ri-timer-flash-line"></i>
+        </div>
         <div class="metric-value" style="color: var(--accent-cyan);" id="valCountdown">88 Days</div>
         <div class="metric-sub">Target floor: Mid-December 2026 (Week 1 / 13)</div>
       </div>
 
       <div class="metric-card">
-        <div class="metric-title">Prep Phase Status</div>
+        <div class="metric-title">
+          <span>Prep Phase Status</span>
+          <i class="ri-flag-line"></i>
+        </div>
         <div class="metric-value" style="color: var(--accent-amber);">Phase 1</div>
-        <div class="metric-sub">Foundation Build (Target: Baseline $\to$ 100/200)</div>
+        <div class="metric-sub">Foundation Build (Target: Baseline &rarr; 100/200)</div>
       </div>
     </div>
 
     <!-- FILTER TABS -->
     <div class="filter-tabs">
-      <div class="tab-btn active" onclick="filterSubject('all', this)">All Subjects</div>
-      <div class="tab-btn" onclick="filterSubject('reasoning', this)">General Intelligence</div>
-      <div class="tab-btn" onclick="filterSubject('quant', this)">Quantitative Aptitude</div>
-      <div class="tab-btn" onclick="filterSubject('english', this)">English Language</div>
-      <div class="tab-btn" onclick="filterSubject('ga', this)">General Awareness</div>
-      <div class="tab-btn" onclick="filterSubject('tier2', this)">Tier-II Gatekeepers</div>
+      <div class="tab-btn active" onclick="filterSubject('all', this)"><i class="ri-apps-2-line"></i> All Subjects</div>
+      <div class="tab-btn" onclick="filterSubject('reasoning', this)"><i class="ri-brain-line"></i> General Intelligence</div>
+      <div class="tab-btn" onclick="filterSubject('quant', this)"><i class="ri-calculator-line"></i> Quantitative Aptitude</div>
+      <div class="tab-btn" onclick="filterSubject('english', this)"><i class="ri-translate-2"></i> English Language</div>
+      <div class="tab-btn" onclick="filterSubject('ga', this)"><i class="ri-earth-line"></i> General Awareness</div>
+      <div class="tab-btn" onclick="filterSubject('tier2', this)"><i class="ri-keyboard-line"></i> Tier-II Gatekeepers</div>
     </div>
 
     <!-- MAIN SUBJECT PANELS -->
@@ -475,17 +547,17 @@
   </div>
 
   <!-- TOAST ALERT -->
-  <div id="toast">Saved changes to README.md</div>
+  <div id="toast"><i class="ri-check-line"></i> <span id="toastMsg">Saved changes to README.md</span></div>
 
   <!-- MODAL SCORE INPUT -->
   <div class="modal-overlay" id="scoreModal">
     <div class="modal-box">
       <h3 id="modalTopicTitle">Enter Diagnostic Score</h3>
-      <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 12px;">Log your score for this topic (e.g. 14/15 or 5/5):</p>
+      <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 12px; font-weight: 500;">Log your score for this topic (e.g. 14/15 or 5/5):</p>
       <input type="text" class="modal-input" id="scoreInput" placeholder="e.g. 14 / 15 (93.3%)" />
       <div class="modal-actions">
         <button onclick="closeModal()">Cancel</button>
-        <button class="primary" onclick="confirmScore()">Save Score</button>
+        <button class="primary" onclick="confirmScore()"><i class="ri-check-line"></i> Save Score</button>
       </div>
     </div>
   </div>
@@ -498,6 +570,7 @@
       subjects: [
         {
           id: "reasoning",
+          icon: "ri-brain-line",
           name: "General Intelligence & Reasoning",
           weight: "25 Qs / 50 Marks (Tier-I) + 30 Qs / 90 Marks (Tier-II)",
           topics: [
@@ -559,6 +632,7 @@
         },
         {
           id: "quant",
+          icon: "ri-calculator-line",
           name: "Quantitative Aptitude",
           weight: "25 Qs / 50 Marks (Tier-I) + 30 Qs / 90 Marks (Tier-II)",
           topics: [
@@ -647,6 +721,7 @@
         },
         {
           id: "english",
+          icon: "ri-translate-2",
           name: "English Language",
           weight: "25 Qs / 50 Marks (Tier-I) + 40 Qs / 120 Marks (Tier-II)",
           topics: [
@@ -699,6 +774,7 @@
         },
         {
           id: "ga",
+          icon: "ri-earth-line",
           name: "General Awareness",
           weight: "25 Qs / 50 Marks (Tier-I) + 20 Qs / 60 Marks (Tier-II)",
           topics: [
@@ -760,6 +836,7 @@
         },
         {
           id: "tier2",
+          icon: "ri-keyboard-line",
           name: "Tier-II Gatekeepers (Mandatory Qualifying)",
           weight: "Skill Test / Typing Test + Computer Knowledge Test",
           topics: [
@@ -814,21 +891,27 @@
           if (t.status === "COMPLETED") completedTopics++;
 
           let statusClass = "status-pending";
-          let statusIcon = "⬜";
-          if (t.status === "COMPLETED") { statusClass = "status-completed"; statusIcon = "✅"; }
-          if (t.status === "IN PROGRESS") { statusClass = "status-progress"; statusIcon = "⏳"; }
+          let statusIcon = '<i class="ri-checkbox-blank-line"></i>';
+          if (t.status === "COMPLETED") { 
+            statusClass = "status-completed"; 
+            statusIcon = '<i class="ri-checkbox-circle-fill"></i>'; 
+          }
+          if (t.status === "IN PROGRESS") { 
+            statusClass = "status-progress"; 
+            statusIcon = '<i class="ri-time-fill"></i>'; 
+          }
 
           rowsHtml += `
             <tr>
-              <td style="font-weight: 700; width: 60px; color: var(--text-muted);">${t.code}</td>
+              <td style="font-weight: 800; width: 60px; color: var(--text-muted);">${t.code}</td>
               <td>
-                <div style="font-weight: 600; color: var(--text-primary); font-size: 14px;">${t.name}</div>
+                <div style="font-weight: 700; color: var(--text-primary); font-size: 14px;">${t.name}</div>
                 <div class="subtopic-list">${t.subtopics}</div>
               </td>
-              <td style="width: 130px;">
+              <td style="width: 140px;">
                 <span class="target-week">${t.week}</span>
               </td>
-              <td style="width: 160px;">
+              <td style="width: 170px;">
                 <span class="status-badge ${statusClass}" onclick="toggleStatus('${subject.id}', ${index})">
                   ${statusIcon} ${t.status}
                 </span>
@@ -836,7 +919,7 @@
               <td style="width: 150px;">
                 <span class="score-badge" onclick="editScore('${subject.id}', ${index})">${t.score}</span>
               </td>
-              <td style="color: var(--text-secondary); font-size: 12px;">${t.notes}</td>
+              <td style="color: var(--text-secondary); font-size: 12px; font-weight: 500;">${t.notes}</td>
             </tr>
           `;
         });
@@ -844,6 +927,7 @@
         section.innerHTML = `
           <div class="subject-header">
             <div class="subject-title">
+              <i class="${subject.icon}"></i>
               <span>${subject.name}</span>
             </div>
             <div class="subject-weight">${subject.weight}</div>
@@ -962,10 +1046,10 @@
           
           document.getElementById("syncDot").classList.add("connected");
           document.getElementById("syncText").innerText = handle.name;
-          document.getElementById("btnConnect").innerText = "🔄 Reconnect";
+          document.getElementById("btnConnect").innerHTML = '<i class="ri-refresh-line"></i> Reconnect';
           showToast(`Connected to ${handle.name}`);
         } else {
-          showToast("File System API not supported in this browser. Use Chrome/Edge.");
+          showToast("File System API not supported in this browser. Use Chrome or Edge.");
         }
       } catch (err) {
         if (err.name !== "AbortError") {
@@ -989,7 +1073,7 @@
         const updatedMarkdown = generateUpdatedMarkdown();
         await writable.write(updatedMarkdown);
         await writable.close();
-        showToast("✅ Saved to README.md in real-time!");
+        showToast("Saved to README.md in real-time!");
       } catch (err) {
         console.error("Write error:", err);
         showToast("Error saving to disk. Check permissions.");
@@ -997,7 +1081,6 @@
     }
 
     function generateUpdatedMarkdown() {
-      // Calculate overall stats
       let totalTopics = 0;
       let completedTopics = 0;
       state.subjects.forEach(s => s.topics.forEach(t => {
@@ -1008,7 +1091,6 @@
       const progressBarBlocks = Math.round(pct / 10);
       const barStr = "■".repeat(progressBarBlocks) + "□".repeat(10 - progressBarBlocks);
 
-      // Reconstruct clean Markdown
       return `# 🎯 SSC CHSL 2026 — MASTER CANDIDATE TRACKER
 
 > **Candidate Workspace:** \`CHSL 2026 Preparation Engine\`  
@@ -1147,7 +1229,7 @@ ${formatTier2Rows(state.subjects[4].topics)}
     // TOAST NOTIFIER
     function showToast(msg) {
       const toast = document.getElementById("toast");
-      toast.innerText = msg;
+      document.getElementById("toastMsg").innerText = msg;
       toast.classList.add("show");
       setTimeout(() => toast.classList.remove("show"), 2800);
     }
@@ -1156,7 +1238,7 @@ ${formatTier2Rows(state.subjects[4].topics)}
     function copyMarkdown() {
       const md = generateUpdatedMarkdown();
       navigator.clipboard.writeText(md).then(() => {
-        showToast("📋 Copied full updated Markdown to clipboard!");
+        showToast("Copied full updated Markdown to clipboard!");
       });
     }
 
