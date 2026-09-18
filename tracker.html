@@ -469,7 +469,7 @@
     <header>
       <div class="header-titles">
         <h1><i class="ri-focus-3-line"></i> SSC CHSL 2026 — Candidate Command Center</h1>
-        <p>Targets: <strong>176+ DEO Grade A</strong> &bull; <strong>157+ LDC/JSA</strong> &bull; Runway: ~13 Weeks (Mid-Dec Floor)</p>
+        <p>Personal score goals: <strong>176+ DEO</strong> &bull; <strong>157+ LDC/JSA</strong> &bull; Not confirmed cutoffs</p>
       </div>
       <div class="header-actions">
         <div class="sync-status">
@@ -492,7 +492,7 @@
     <div class="metrics-grid">
       <div class="metric-card">
         <div class="metric-title">
-          <span>Syllabus Coverage</span>
+          <span>Topic Checklist Completion</span>
           <i class="ri-pie-chart-line"></i>
         </div>
         <div class="metric-value" id="valCoverage">8%</div>
@@ -504,20 +504,20 @@
 
       <div class="metric-card">
         <div class="metric-title">
-          <span>Diagnostic Accuracy</span>
+          <span>Recorded Drill Accuracy</span>
           <i class="ri-shield-check-line"></i>
         </div>
-        <div class="metric-value" style="color: var(--accent-emerald);" id="valAccuracy">94.1%</div>
-        <div class="metric-sub">16 / 17 questions net correct (Threshold &ge; 80%)</div>
+        <div class="metric-value" style="color: var(--accent-emerald);" id="valAccuracy">—</div>
+        <div class="metric-sub" id="accuracyDetail">Connect README to calculate recorded fraction scores; not full-exam readiness.</div>
       </div>
 
       <div class="metric-card">
         <div class="metric-title">
-          <span>Runway Countdown</span>
+          <span>Personal Deadline Countdown</span>
           <i class="ri-timer-flash-line"></i>
         </div>
         <div class="metric-value" style="color: var(--accent-cyan);" id="valCountdown">88 Days</div>
-        <div class="metric-sub">Target floor: Mid-December 2026 (Week 1 / 13)</div>
+        <div class="metric-sub">Personal deadline: 15 December 2026; not an announced exam date</div>
       </div>
 
       <div class="metric-card">
@@ -525,8 +525,8 @@
           <span>Prep Phase Status</span>
           <i class="ri-flag-line"></i>
         </div>
-        <div class="metric-value" style="color: var(--accent-amber);">Phase 1</div>
-        <div class="metric-sub">Foundation Build (Target: Baseline &rarr; 100/200)</div>
+        <div class="metric-value" style="color: var(--accent-amber);">Unassessed</div>
+        <div class="metric-sub">Full timed baseline required before assessing readiness</div>
       </div>
     </div>
 
@@ -567,6 +567,9 @@
     const state = {
       fileHandle: null,
       rawMarkdown: "",
+      connected: false,
+      activeFilter: "all",
+      dirty: new Set(),
       subjects: [
         {
           id: "reasoning",
@@ -843,7 +846,7 @@
             {
               code: "SKILL-1",
               name: "DEO Skill Test (Part A)",
-              subtopics: "15,000 Key Depressions / Hour (~50 WPM on computer)",
+              subtopics: "15,000 KDPH; posts specified in notification para 8.1",
               week: "Weeks 5–13",
               status: "PENDING",
               score: "Goal: 50 WPM",
@@ -856,7 +859,7 @@
               week: "Weeks 5–13",
               status: "PENDING",
               score: "Goal: 35 WPM",
-              notes: "Accuracy >= 93%"
+              notes: "Track correct speed and errors; verify applicable SSC error limits"
             },
             {
               code: "COMP",
@@ -872,10 +875,77 @@
       ]
     };
 
+    state.subjects.find(s => s.id === "quant").topics.push({code: "T2-MATH", name: "Tier-II Statistics & Probability", subtopics: "Mean, median, mode, standard deviation, simple probability", week: "Weeks 10–11", status: "PENDING", score: "—", notes: ""});
+    state.subjects.find(s => s.id === "tier2").topics.splice(1, 0, {code: "SKILL-B", name: "DEO Skill Test (Part B)", subtopics: "8,000 KDPH; other DEO posts", week: "Weeks 5–13", status: "PENDING", score: "Goal: 8,000 KDPH", notes: "15 mins daily practice; train for applicable post"});
+
+    function escapeHtml(value) {
+      return String(value).replace(/[&<>"']/g, c => ({"&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"}[c]));
+    }
+    function plain(value) { return value.replace(/\*\*/g, "").trim(); }
+    function topicKey(subject, topic) { return subject.id + ":" + topic.name; }
+    function fraction(value) {
+      const match = value.match(/^(\d+)\s*\/\s*(\d+)(?:\s*\([\d.]+%\))?$/);
+      if (!match) return null;
+      const correct = Number(match[1]), attempted = Number(match[2]);
+      return attempted > 0 && correct <= attempted ? {correct, attempted} : null;
+    }
+    // Require an unambiguous row for every tracked topic before allowing writes.
+    function parseMarkdown(markdown) {
+      const lines = markdown.split(/\r?\n/);
+      const records = [];
+      let section = "";
+      const sections = [["SUBJECT 1:", "reasoning"], ["SUBJECT 2:", "quant"], ["SUBJECT 3:", "english"], ["SUBJECT 4:", "ga"], ["TIER-II MUST-QUALIFY", "tier2"]];
+      for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
+        const line = lines[lineIndex];
+        if (line.startsWith("## ")) section = (sections.find(([heading]) => line.includes(heading)) || ["", ""])[1];
+        if (!section || !line.startsWith("|")) continue;
+        const cells = line.split("|").slice(1, -1).map(c => c.trim());
+        const subject = state.subjects.find(s => s.id === section);
+        const tier = section === "tier2";
+        const topic = subject.topics.find(t => t.name === plain(cells[tier ? 0 : 2] || ""));
+        if (!topic) continue;
+        if (cells.length !== (tier || section === "ga" ? 5 : 6)) throw new Error("Malformed topic row: " + topic.name);
+        const statusCell = cells[tier ? 4 : 0];
+        const status = statusCell.includes("✅") ? "COMPLETED" : statusCell.includes("⏳") ? "IN PROGRESS" : statusCell.includes("⬜") ? "PENDING" : null;
+        if (!status) throw new Error("Unknown status: " + topic.name);
+        records.push({subject, topic, lineIndex, cells, status});
+      }
+      for (const subject of state.subjects) for (const topic of subject.topics) {
+        if (records.filter(r => r.topic === topic).length !== 1) throw new Error("Missing or duplicate topic: " + topic.name);
+      }
+      return {lines, records, separators: markdown.match(/\r?\n/g) || []};
+    }
+    function importMarkdown(markdown) {
+      const parsed = parseMarkdown(markdown);
+      for (const r of parsed.records) {
+        const tier = r.subject.id === "tier2", ga = r.subject.id === "ga";
+        r.topic.status = r.status;
+        r.topic.week = r.cells[tier ? 2 : 3];
+        r.topic.notes = r.cells[tier ? 3 : ga ? 4 : 5];
+        if (tier) r.topic.subtopics = plain(r.cells[1]);
+        else if (!ga) r.topic.score = r.cells[4];
+      }
+      state.rawMarkdown = markdown;
+      state.dirty.clear();
+    }
+    function requireConnection() {
+      if (state.connected) return true;
+      showToast("Connect README.md before editing; existing records will be loaded.");
+      return false;
+    }
+
     // RENDER FUNCTIONS
     function render() {
       const container = document.getElementById("subjectPanels");
       container.innerHTML = "";
+      if (!state.connected) {
+        container.textContent = "Connect README.md to load and edit your saved progress.";
+        document.getElementById("valCoverage").innerText = "—";
+        document.getElementById("lblCompletedCount").innerText = "No records loaded";
+        document.getElementById("barProgress").style.width = "0%";
+        calculateCountdown();
+        return;
+      }
 
       let totalTopics = 0;
       let completedTopics = 0;
@@ -884,9 +954,11 @@
         const section = document.createElement("div");
         section.className = "subject-section";
         section.dataset.subjectId = subject.id;
+        section.style.display = state.activeFilter === "all" || state.activeFilter === subject.id ? "block" : "none";
 
         let rowsHtml = "";
-        subject.topics.forEach((t, index) => {
+        subject.topics.forEach((original, index) => {
+          const t = Object.fromEntries(Object.entries(original).map(([key, value]) => [key, escapeHtml(value)]));
           totalTopics++;
           if (t.status === "COMPLETED") completedTopics++;
 
@@ -917,7 +989,7 @@
                 </span>
               </td>
               <td style="width: 150px;">
-                <span class="score-badge" onclick="editScore('${subject.id}', ${index})">${t.score}</span>
+                <span class="score-badge" ${subject.id !== "tier2" && subject.id !== "ga" ? `onclick="editScore('${subject.id}', ${index})"` : ""}>${t.score}</span>
               </td>
               <td style="color: var(--text-secondary); font-size: 12px; font-weight: 500;">${t.notes}</td>
             </tr>
@@ -951,16 +1023,26 @@
 
       // Update Executive Stats
       const pct = Math.round((completedTopics / totalTopics) * 100);
-      document.getElementById("lblProgressPct").innerText = pct + "%";
-      document.getElementById("valCoverage").innerText = pct + "%";
+
+      document.getElementById("valCoverage").innerText = state.connected ? pct + "%" : "—";
       document.getElementById("barProgress").style.width = pct + "%";
       document.getElementById("lblCompletedCount").innerText = `${completedTopics} of ${totalTopics} topics completed`;
 
+      if (!state.connected) document.getElementById("lblCompletedCount").innerText = "Connect README to load your progress";
+      let correct = 0, attempted = 0;
+      const subjects = new Set();
+      state.subjects.filter(s => s.id !== "tier2").forEach(s => s.topics.forEach(t => {
+        const result = fraction(t.score);
+        if (result) { correct += result.correct; attempted += result.attempted; subjects.add(s.id); }
+      }));
+      document.getElementById("valAccuracy").innerText = state.connected && attempted ? (100 * correct / attempted).toFixed(1) + "%" : "—";
+      document.getElementById("accuracyDetail").innerText = state.connected ? `${correct}/${attempted} recorded questions (${[...subjects].join(", ") || "none"}); fraction scores only, not a full diagnostic.` : "Connect README to load recorded scores.";
       calculateCountdown();
     }
 
     // TOGGLE STATUS
     function toggleStatus(subjectId, topicIndex) {
+      if (!requireConnection()) return;
       const subj = state.subjects.find(s => s.id === subjectId);
       if (!subj) return;
       const topic = subj.topics[topicIndex];
@@ -969,13 +1051,14 @@
         topic.status = "IN PROGRESS";
       } else if (topic.status === "IN PROGRESS") {
         topic.status = "COMPLETED";
-        if (topic.score === "—" || topic.score === "") {
+        if (subjectId !== "tier2" && subjectId !== "ga" && (topic.score === "—" || topic.score === "")) {
           editScore(subjectId, topicIndex);
         }
       } else {
         topic.status = "PENDING";
       }
 
+      state.dirty.add(topicKey(subj, topic));
       render();
       saveToFile(false);
     }
@@ -983,6 +1066,7 @@
     // MODAL EDIT SCORE
     let activeScoreTarget = null;
     function editScore(subjectId, topicIndex) {
+      if (!requireConnection() || subjectId === "tier2" || subjectId === "ga") return;
       const subj = state.subjects.find(s => s.id === subjectId);
       if (!subj) return;
       activeScoreTarget = { subj, topic: subj.topics[topicIndex] };
@@ -1000,7 +1084,9 @@
     function confirmScore() {
       if (activeScoreTarget) {
         const val = document.getElementById("scoreInput").value.trim();
+        if (val && !fraction(val)) { showToast("Enter correct / attempted, e.g. 14 / 15. Correct cannot exceed attempted."); return; }
         activeScoreTarget.topic.score = val ? val : "—";
+        state.dirty.add(topicKey(activeScoreTarget.subj, activeScoreTarget.topic));
         render();
         saveToFile(false);
       }
@@ -1018,6 +1104,7 @@
 
     // FILTER SUBJECT
     function filterSubject(subjectId, btn) {
+      state.activeFilter = subjectId;
       document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
 
@@ -1030,200 +1117,84 @@
       });
     }
 
-    // FILE SYSTEM ACCESS API ENGINE
+    // Serialize saves; reject external edits instead of overwriting them.
+    let saveQueue = Promise.resolve();
     async function connectFile() {
+      if (state.dirty.size) { showToast("Unsaved changes: save or copy them before reconnecting. Reload to discard them."); return; }
+      await saveQueue;
       try {
-        if ("showOpenFilePicker" in window) {
-          const [handle] = await window.showOpenFilePicker({
-            types: [{
-              description: "Markdown Files",
-              accept: { "text/markdown": [".md"], "text/plain": [".md", ".txt"] }
-            }]
-          });
-          state.fileHandle = handle;
-          const file = await handle.getFile();
-          state.rawMarkdown = await file.text();
-          
-          document.getElementById("syncDot").classList.add("connected");
-          document.getElementById("syncText").innerText = handle.name;
-          document.getElementById("btnConnect").innerHTML = '<i class="ri-refresh-line"></i> Reconnect';
-          showToast(`Connected to ${handle.name}`);
-        } else {
-          showToast("File System API not supported in this browser. Use Chrome or Edge.");
-        }
-      } catch (err) {
-        if (err.name !== "AbortError") {
-          console.error(err);
-          showToast("Could not access file");
-        }
-      }
+        if (!("showOpenFilePicker" in window)) { showToast("Use Chrome or Edge to connect a local README.md."); return; }
+        const [handle] = await window.showOpenFilePicker({types: [{description: "Candidate README", accept: {"text/markdown": [".md"]}}]});
+        const markdown = await (await handle.getFile()).text();
+        importMarkdown(markdown);
+        state.fileHandle = handle;
+        state.connected = true;
+        document.getElementById("syncDot").classList.add("connected");
+        document.getElementById("syncText").innerText = handle.name;
+        document.getElementById("btnConnect").innerText = "Reconnect";
+        render();
+        showToast("Loaded existing progress from " + handle.name);
+      } catch (err) { if (err.name !== "AbortError") showToast("Could not connect: " + err.message); }
     }
-
-    async function saveToFile(isManualClick) {
-      if (!state.fileHandle) {
-        if (isManualClick) {
-          showToast("Please click 'Connect README.md' first");
-          connectFile();
+    function saveToFile(isManualClick) {
+      if (!requireConnection()) return Promise.resolve();
+      saveQueue = saveQueue.then(async () => {
+        if (!state.dirty.size) { if (isManualClick) showToast("No unsaved changes"); return; }
+        let writable;
+        try {
+          const current = await (await state.fileHandle.getFile()).text();
+          if (current !== state.rawMarkdown) throw new Error("File changed externally. Copy your edits, then reload and reconnect to merge them.");
+          const updatedMarkdown = generateUpdatedMarkdown();
+          const savedKeys = new Map([...state.dirty].map(key => [key, topicSnapshot(key)]));
+          writable = await state.fileHandle.createWritable();
+          await writable.write(updatedMarkdown);
+          await writable.close();
+          writable = null;
+          state.rawMarkdown = updatedMarkdown;
+          for (const [key, snapshot] of savedKeys) if (topicSnapshot(key) === snapshot) state.dirty.delete(key);
+          showToast("Saved edited topic rows to " + state.fileHandle.name);
+        } catch (err) {
+          if (writable) { try { await writable.abort(); } catch (_) {} }
+          showToast("Not saved: " + err.message);
         }
-        return;
-      }
-
-      try {
-        const writable = await state.fileHandle.createWritable();
-        const updatedMarkdown = generateUpdatedMarkdown();
-        await writable.write(updatedMarkdown);
-        await writable.close();
-        showToast("Saved to README.md in real-time!");
-      } catch (err) {
-        console.error("Write error:", err);
-        showToast("Error saving to disk. Check permissions.");
-      }
+      });
+      return saveQueue;
     }
-
-    function generateUpdatedMarkdown() {
-      let totalTopics = 0;
-      let completedTopics = 0;
-      state.subjects.forEach(s => s.topics.forEach(t => {
-        totalTopics++;
-        if (t.status === "COMPLETED") completedTopics++;
+    function topicSnapshot(key) {
+      for (const subject of state.subjects) for (const topic of subject.topics) if (topicKey(subject, topic) === key) return JSON.stringify(topic);
+    }
+    function recordedMetrics() {
+      const topics = state.subjects.flatMap(subject => subject.topics);
+      let correct = 0, attempted = 0;
+      state.subjects.filter(subject => subject.id !== "tier2").forEach(subject => subject.topics.forEach(topic => {
+        const result = fraction(topic.score);
+        if (result) { correct += result.correct; attempted += result.attempted; }
       }));
-      const pct = Math.round((completedTopics / totalTopics) * 100);
-      const progressBarBlocks = Math.round(pct / 10);
-      const barStr = "■".repeat(progressBarBlocks) + "□".repeat(10 - progressBarBlocks);
-
-      return `# 🎯 SSC CHSL 2026 — MASTER CANDIDATE TRACKER
-
-> **Candidate Workspace:** \`CHSL 2026 Preparation Engine\`  
-> **Primary Target:** DEO / DEO Grade 'A' Cutoff $\\approx$ **176+ / 200** (Net $\\approx 88$ Correct MCQs)  
-> **Safety Net Target:** LDC / JSA Cutoff $\\approx$ **157+ / 200** (Net $\\approx 79$ Correct MCQs)  
-> **Runway:** $\\approx 13$ Weeks (Aggressive Planning Floor: Mid-December 2026)  
-> **Weekly Commitment:** 30 Hours (5:00–7:00 AM & 8:30–10:30 PM)
-
----
-
-## 🧭 EXECUTIVE DASHBOARD
-
-| Dimension | Target Benchmark | Live Candidate Metric | Status |
-| :--- | :---: | :---: | :---: |
-| **Current Preparation Phase** | Phase 1: Foundation (Weeks 2–6) | **Phase 1 (Week 1 / 13)** | 🟢 On Schedule |
-| **Overall Syllabus Coverage** | 100% of Syllabus Modules | \`[${barStr}] ${pct}% Completed\` | ⏳ Active |
-| **Overall Diagnostic Accuracy** | $\\ge 80\\%$ (Negative Marking Safety) | **94.1%** (16 / 17 Correct) | 🎯 Optimal |
-| **Sectional Timer Execution** | Strictly 15 Mins / 25 Questions | Untimed $\\to$ Timed transition by Week 4 | ⏳ Building |
-| **DEO Typing Benchmark** | 15,000 KDPH ($\\approx 50$ WPM) | Scheduled to begin Week 5 | ⬜ Scheduled |
-
----
-
-## 📁 REPOSITORY DOCUMENTATION
-
-| Document | File Path | Description |
-| :--- | :--- | :--- |
-| **Official Notification** | [\`Notice_of_adv_chsle_2026.pdf\`](Notice_of_adv_chsle_2026.pdf) | Official SSC notification with exam rules, eligibility, & post schemes. |
-| **Master Blueprint / Roadmap** | [\`CHSL_2026_MASTER_ROADMAP.md\`](CHSL_2026_MASTER_ROADMAP.md) | 13-week phase breakdown, 30h weekly rhythm, & Sunday audit rules. |
-| **Verified Detailed Syllabus** | [\`CHSL_2026_DETAILED_SYLLABUS.md\`](CHSL_2026_DETAILED_SYLLABUS.md) | Full Tier-I & Tier-II syllabus with official notification paragraph citations. |
-| **Mastery Teaching Engine** | [\`Mastery-Prompt.md\`](Mastery-Prompt.md) | The interactive pedagogical prompt with the 7-point feedback architecture. |
-
----
-
-## 📊 SUBJECT 1: GENERAL INTELLIGENCE & REASONING (Weeks 2–9)
-*Weightage: 25 Questions / 50 Marks (Tier-I) + 30 Questions / 90 Marks (Tier-II)*
-
-| Status | Code | Official Topic | Target Week | Diagnostic Score | Key Rules & Patterns Mastered |
-| :---: | :---: | :--- | :---: | :---: | :--- |
-${formatTableRows(state.subjects[0].topics)}
-
----
-
-## 📊 SUBJECT 2: QUANTITATIVE APTITUDE (Weeks 2–10)
-*Weightage: 25 Questions / 50 Marks (Tier-I) + 30 Questions / 90 Marks (Tier-II)*
-
-| Status | Code | Official Topic Area | Target Week | Diagnostic Score | Status & Action Items |
-| :---: | :---: | :--- | :---: | :---: | :--- |
-${formatTableRows(state.subjects[1].topics)}
-
----
-
-## 📊 SUBJECT 3: ENGLISH LANGUAGE (Weeks 1–11)
-*Weightage: 25 Questions / 50 Marks (Tier-I) + 40 Questions / 120 Marks (Tier-II)*
-
-| Status | Code | Official Topic Area | Schedule | Benchmark Goal | Status & Action Items |
-| :---: | :---: | :--- | :---: | :---: | :--- |
-${formatTableRows(state.subjects[2].topics)}
-
----
-
-## 📊 SUBJECT 4: GENERAL AWARENESS (Weeks 1–13)
-*Weightage: 25 Questions / 50 Marks (Tier-I) + 20 Questions / 60 Marks (Tier-II)*
-
-| Status | Code | Official Topic Area | Target Week | Priority Focus Areas |
-| :---: | :---: | :--- | :---: | :--- |
-${formatTableRows(state.subjects[3].topics, true)}
-
----
-
-## ⌨️ TIER-II MUST-QUALIFY GATEKEEPERS (Weeks 5–13)
-*Conducted on the SAME DAY as Tier-II Written Examination*
-
-| Module | Official Requirement | Preparation Window | Daily Target | Live Status |
-| :--- | :--- | :---: | :---: | :---: |
-${formatTier2Rows(state.subjects[4].topics)}
-
----
-
-## 📈 SUNDAY MOCK TEST & ERROR LOG SCORECARD
-
-| Mock # | Target Date | Raw Score (/200) | Attempted | Net Accuracy | 15-Min Sectional Timer Status | Primary Weakness Identified |
-| :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **#01** | Sep 21, 2026 | *Pending* | / 100 | *Goal: $\\ge 80\\%$* | *Pending* | *Baseline Diagnostic Test* |
-| **#02** | Sep 28, 2026 | — | / 100 | — | — | — |
-| **#03** | Oct 05, 2026 | — | / 100 | — | — | — |
-| **#04** | Oct 12, 2026 | — | / 100 | — | — | — |
-| **#05** | Oct 19, 2026 | — | / 100 | — | — | — |
-| **#06** | Oct 26, 2026 | — | / 100 | — | — | — |
-| **#07** | Nov 02, 2026 | — | / 100 | — | — | — |
-| **#08** | Nov 09, 2026 | — | / 100 | — | — | — |
-| **#09** | Nov 16, 2026 | — | / 100 | — | — | — |
-| **#10** | Nov 23, 2026 | — | / 100 | — | — | — |
-| **#11** | Nov 30, 2026 | — | / 100 | — | — | — |
-| **#12** | Dec 07, 2026 | — | / 100 | — | — | — |
-| **#13** | Dec 14, 2026 | — | / 100 | — | — | — |
-
----
-
-## ⚡ ACTIVE PRACTICE CHALLENGES
-
-### 5 Tougher Number Series Questions (Current In-Progress Drill)
-* **Q1 (Drop & Explode):** $8, 4, 4, 6, 12, 30, \\mathbf{?}$  
-* **Q2 (Prime-Gap Trap):** $43, 45, 48, 53, 60, 71, 84, \\mathbf{?}$  
-* **Q3 (Compounding Multiplier):** $4, 5, 8, 27, 104, \\mathbf{?}$  
-* **Q4 (Polynomial / Cubic):** $2, 12, 36, 80, 150, \\mathbf{?}$  
-* **Q5 (Fluctuating Interleaved):** $12, 32, 15, 28, 19, 23, 24, 17, \\mathbf{?}$  
-
----
-
-*Last Updated: ${new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} | Maintained with \`Mastery-Prompt.md\`*
-`;
+      return {percent: Math.round(100 * topics.filter(t => t.status === "COMPLETED").length / topics.length), correct, attempted};
     }
-
-    function formatTableRows(topics, isGA = false) {
-      return topics.map(t => {
-        let icon = "⬜";
-        if (t.status === "COMPLETED") icon = "✅";
-        if (t.status === "IN PROGRESS") icon = "⏳";
-
-        if (isGA) {
-          return `| ${icon} | **${t.code}** | **${t.name}** | ${t.week} | ${t.notes} |`;
+    function generateUpdatedMarkdown() {
+      if (!state.connected) throw new Error("Connect README.md first");
+      if (!state.dirty.size) return state.rawMarkdown;
+      const {lines, records, separators} = parseMarkdown(state.rawMarkdown);
+      for (const r of records) {
+        if (!state.dirty.has(topicKey(r.subject, r.topic))) continue;
+        const tier = r.subject.id === "tier2";
+        const icon = r.topic.status === "COMPLETED" ? "✅" : r.topic.status === "IN PROGRESS" ? "⏳" : "⬜";
+        r.cells[tier ? 4 : 0] = tier ? icon + " " + r.topic.status : icon;
+        if (!tier && r.subject.id !== "ga") r.cells[4] = r.topic.score;
+        lines[r.lineIndex] = "| " + r.cells.join(" | ") + " |";
+      }
+      const metrics = recordedMetrics();
+      for (let index = 0; index < lines.length; index++) {
+        if (lines[index].startsWith("| **Topic Checklist Completion** |")) {
+          lines[index] = `| **Topic Checklist Completion** | All tracked topic groups; not a mastery measure | **${metrics.percent}% Completed** | Self-reported |`;
         }
-        return `| ${icon} | **${t.code}** | **${t.name}** | ${t.week} | ${t.score} | ${t.notes} |`;
-      }).join("\n");
-    }
-
-    function formatTier2Rows(topics) {
-      return topics.map(t => {
-        let icon = "⬜ Scheduled";
-        if (t.status === "COMPLETED") icon = "✅ Completed";
-        if (t.status === "IN PROGRESS") icon = "⏳ In Progress";
-        return `| **${t.name}** | **${t.subtopics}** | ${t.week} | ${t.notes} | ${icon} |`;
-      }).join("\n");
+        if (lines[index].startsWith("| **Recorded Drill Accuracy** |")) {
+          const accuracy = metrics.attempted ? (100 * metrics.correct / metrics.attempted).toFixed(1) + "%" : "No fraction scores";
+          lines[index] = `| **Recorded Drill Accuracy** | Correct / attempted in recorded fraction scores | **${accuracy}** (${metrics.correct} / ${metrics.attempted} Correct) | Recorded drills only; not a full diagnostic |`;
+        }
+      }
+      return lines.map((line, index) => line + (separators[index] || "")).join("");
     }
 
     // TOAST NOTIFIER
@@ -1236,11 +1207,14 @@ ${formatTier2Rows(state.subjects[4].topics)}
 
     // COPY TO CLIPBOARD
     function copyMarkdown() {
+      if (!requireConnection()) return;
       const md = generateUpdatedMarkdown();
       navigator.clipboard.writeText(md).then(() => {
         showToast("Copied full updated Markdown to clipboard!");
-      });
+      }).catch(() => showToast("Clipboard unavailable. Use Save Now in a supported browser."));
     }
+
+    window.addEventListener("beforeunload", event => { if (state.dirty.size) { event.preventDefault(); event.returnValue = ""; } });
 
     // INITIAL MOUNT
     render();

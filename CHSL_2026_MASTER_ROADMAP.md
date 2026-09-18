@@ -1,10 +1,10 @@
 # SSC CHSL 2026 — 3-MONTH NOOB-TO-PRO MASTER BLUEPRINT
 
-> **Exam:** Staff Selection Commission (10+2) CHSL 2026  
-> **Target 1 (Primary):** DEO / DEO Grade 'A' Cutoff $\approx$ **176 / 200** (Net $\approx 88$ Correct MCQs)  
-> **Target 2 (Safety Net):** LDC / JSA Cutoff $\approx$ **157 / 200** (Net $\approx 79$ Correct MCQs)  
-> **Runway:** $\approx 13$ Weeks (Aggressive Planning Floor: Mid-December 2026)  
-> **Study Capacity:** 30 Hours / Week (17.5h Weekdays + 12.5h Weekends)
+> **Exam:** Staff Selection Commission (10+2) CHSL 2026
+> **Target 1 (Primary):** DEO / DEO Grade 'A' personal score goal $\approx$ **176 / 200** (not a confirmed cutoff)
+> **Target 2 (Safety Net):** LDC / JSA personal score goal $\approx$ **157 / 200** (not a confirmed cutoff)
+> **Runway:** $\approx 13$ Weeks (Personal preparation deadline: 15 December 2026; revise when SSC announces exam dates)
+> **Study Capacity:** 30 Hours / Week (20h Weekdays + 10h Weekends)
 
 ---
 
@@ -14,7 +14,8 @@
 | :--- | :---: | :--- |
 | **Correct Answer** | $+2$ Marks | High reward for certainty. |
 | **Incorrect Answer** | **$-0.50$ Marks** | 25% negative penalty in Tier-I. |
-| **Break-Even Accuracy** | **$80\%$** | Attempting guesses below 80% accuracy erodes your score. High accuracy on 80 attempts beats low accuracy on 95 attempts. |
+| **Expected-score break-even** | **20% Tier-I; 25% Tier-II** | Tier-I: 2p − 0.5(1−p) = 0. Tier-II: 3p − (1−p) = 0. Consider time cost and uncertainty; this is not a target accuracy. |
+| **Practice accuracy benchmark** | **80% initially** | Track alongside attempts, time and net score; raise the benchmark as performance improves. |
 | **Sectional Timers** | **15 Minutes / Section** | No borrowing time across subjects. You must develop 36-second execution speed per question. |
 | **Tier-II Reality** | $+3$ / **$-1.00$ Marks** | Tier-II penalty is 33.3%. Elimination habits built now protect your final rank. |
 
@@ -30,7 +31,7 @@ W1: Diagnostic ──► W2–W6: Foundation ──► W7–W10: Consolidation �
 | Phase | Duration | Score Target | Primary Focus & Deliverables |
 | :--- | :---: | :---: | :--- |
 | **Phase 0: Diagnostic** | Week 1 | Establish Baseline | Full-length unassisted mock. Score sets exact topic priorities. |
-| **Phase 1: Foundation** | Weeks 2–6 (5 wks) | Baseline $\to$ **100** | Every high-yield topic covered once. Concept first, speed second. Max 80–100 PYQs per chapter. |
+| **Phase 1: Foundation** | Weeks 2–6 (5 wks) | Baseline $\to$ **100** | Every high-yield topic covered once. Concept first, speed second. Use verified PYQs; adjust volume to independent retention checks. |
 | **Phase 2: Consolidation**| Weeks 7–10 (4 wks)| **100 $\to$ 145** | Full Mocks 2x/week under 15-min timers. Error Notebook becomes primary learning tool. |
 | **Phase 3: Sprint** | Weeks 11–12 (2 wks)| **145 $\to$ 176+** | Daily timed sectional drills. Polish speed and eliminate careless errors. |
 | **Phase 4: Taper** | Week 13 (1 wk) | Maintain | Zero new topics. Pure revision of formula sheets, vocab, and static GK. Protect sleep. |
@@ -41,11 +42,12 @@ W1: Diagnostic ──► W2–W6: Foundation ──► W7–W10: Consolidation �
 
 | Subject | Weekly Hours | Share | Tactical Purpose |
 | :--- | :---: | :---: | :--- |
-| **Quantitative Aptitude** | **10.0 hrs** | 33% | Highest difficulty spread (7 areas). Highest leverage for long-term cutoff clearance. |
-| **Reasoning** | **5.5 hrs** | 18% | Pattern-based. High initial accuracy; shift surplus hours to Quant by Week 5. |
-| **English Language** | **6.0 hrs** | 20% | Daily vocab drill (20 words) + progressive grammar rules. |
-| **General Awareness** | **5.0 hrs** | 17% | High-yield static GK (Polity, Rivers, History, Science) + 15-min daily current affairs. |
-| **Mocks & Error Review** | **3.5 hrs** | 12% | Sunday Crucible: 60-min timed test + 2.5-hour deep-dive error teardown. |
+| **Quantitative Aptitude** | **8 hrs** | 26.7% | Foundation, practice and Tier-II maths. |
+| **Reasoning** | **4 hrs** | 13.3% | Patterns and independent timed practice. |
+| **English Language** | **6 hrs** | 20% | Grammar, vocabulary and comprehension. |
+| **General Awareness** | **6 hrs** | 20% | Static GK, science and current affairs. |
+| **Mocks & Error Review** | **4 hrs** | 13.3% | Sunday: 1h mock + 3h review/remediation. |
+| **Typing / Computer / Flexible Review** | **2 hrs** | 6.7% | Daily typing from Week 5; computer preparation from Week 8. |
 
 ---
 
@@ -58,7 +60,7 @@ W1: Diagnostic ──► W2–W6: Foundation ──► W7–W10: Consolidation �
 4. **Weeks 6–7:** Basic Algebraic Identities, Surds, Linear Graphs.
 5. **Weeks 8–9:** Mensuration (2D & 3D Formulas) + Geometry Centres & Chords.
 6. **Weeks 9–10:** Trigonometry Identities & Heights-Distances.
-7. **Week 10:** Statistical Charts (Tables, Bar, Histogram, Pie Chart).
+7. **Weeks 10–11:** Statistical Charts; Tier-II mean, median, mode, standard deviation and simple probability.
 
 ### 2. General Intelligence & Reasoning
 1. **Weeks 2–3:** Analogy, Classification, Series (Semantic, Number, Figural).
@@ -92,11 +94,17 @@ W1: Diagnostic ──► W2–W6: Foundation ──► W7–W10: Consolidation �
 | **Tuesday** | Reasoning (New Concepts & Patterns) | General Awareness (Static GK) |
 | **Wednesday**| Quantitative Aptitude (Practice Drills) | English Language (Cloze / Error Practice) |
 | **Thursday** | Reasoning (Practice Drills / Speed) | General Awareness (Static GK) |
-| **Friday** | Quantitative Aptitude (Weak Area Revisit)| Reasoning (Weak Area Revisit) |
+| **Friday** | Quantitative Aptitude (Weak Area Revisit) | Quantitative Aptitude (Practice / Tier-II Maths) |
 | **Saturday** | English Language (Voice/Narration Drill) | General Awareness (Revision & Quiz) |
-| **Sunday** | **Full Sectional-Timed Mock (100 Qs, 60 min)** | **Error Notebook Analysis + Remediation** |
+| **Sunday** | **60-min mock + 60-min error review** | **2h error analysis + remediation** |
 
-*Note: 15–20 minutes of daily typing drill added from Week 5 for DEO (15,000 KDPH requirement).*
+**Additional weekend block:** Saturday 2 hours for typing/computer/flexible review. Total: 28 hours in the table + 2 hours = 30 hours. From Week 5, distribute 105 minutes of this allowance as 15 minutes of typing daily; move an equal amount of displaced subject work into Saturday's extra block. Use the remaining 15 minutes plus reassigned subject time for computer study from Week 8. These are reallocations, not extra hours.
+
+DEO Part A: 15,000 KDPH for specified posts; Part B: 8,000 KDPH for other DEO posts. LDC/JSA: 35 WPM English or 30 WPM Hindi. Train for your applicable route.
+
+From Week 7, use Friday evening for a second 1h mock and 1h review, replacing 2h of Quant. Weekly total stays 30h: Quant 6h, mocks/review 6h; other allocations unchanged.
+
+Vocabulary and current affairs are included in English and GA budgets. Redistribute short portions across days for daily practice; do not add unbudgeted hours.
 
 ---
 
@@ -105,7 +113,7 @@ W1: Diagnostic ──► W2–W6: Foundation ──► W7–W10: Consolidation �
 Every Sunday after the mock test, log these 5 metrics:
 
 1. **Total Score (/200):** Track progression against phase target band.
-2. **Accuracy % on Attempted:** Must be **$\ge 80\%$**. If below 80%, reduce wild guessing.
+2. **Accuracy % on Attempted:** Use **80% as an initial practice benchmark**, not the break-even threshold. Diagnose errors and time use before changing attempt strategy.
 3. **Weakest Section:** Allocate 2 surplus hours from your strongest section next week.
 4. **Sectional Timer Status:** Did you finish within 15 minutes for each subject?
 5. **Careless Errors Count:** Number of questions missed due to misreading vs. lack of concept.
@@ -114,7 +122,13 @@ Every Sunday after the mock test, log these 5 metrics:
 
 ## PART 7 — NON-NEGOTIABLE CORE RULES
 
-1. **Sleep Protects the 5:00 AM Block:** In bed by 11:00 PM. Cut evening study if needed, never cut sleep below 6 hours.
-2. **Never Practice Untimed After Week 4:** Everything from Week 5 onward must be under a stopwatch/timer.
+1. **Protect Sleep:** Shift study blocks earlier or later to preserve adequate sleep; the listed times are adjustable.
+2. **Timed Exam Practice From Week 5:** Time mocks and exam drills; allow untimed concept repair before retesting independently.
 3. **No New Topics After Week 12:** Taper phase is strictly for consolidation.
 4. **The Error Notebook is Sacred:** Any question missed in a mock goes into your handwritten/digital error log with the exact reason for failure.
+
+## Planning assumptions and evidence
+
+Score bands are provisional goals, not predicted outcomes or official cutoffs. Establish a full four-subject timed baseline before judging readiness or changing allocations. Tier-I score = 2 × correct − 0.5 × wrong: 88 correct with no wrong answers = 176; 88 correct and 12 wrong = 170.
+
+The 7 September 2026 notification leaves Tier-I and Tier-II dates to be announced. The 15 December deadline is personal. Source: official notification, sections 13.8 and 13.9, including para 13.9.13.6 for DEO routes.
