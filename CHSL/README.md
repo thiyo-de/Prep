@@ -27,7 +27,7 @@ Click any resource below to jump directly into the materials:
 
 - [x] **Classification (Odd One Out)** — Week 2 | Accuracy: 14/15 (93.3%) | *Golden Rule (Group of 3), Priority Ladder*
 - [x] **Series & Patterns** — Weeks 2–3 | Accuracy: 2/2 (100%) | *Rate of Growth Rule, 2-Level Step-Ladder*
-- [x] **Analogy** — Week 3 | *Semantic, Symbolic, Figural Analogy*
+- [x] **Analogy** — Week 3 | Accuracy: 19/20 (95.0%) | *Priority Ladder, Triad Sets, Digit Operations, Word-to-Number*
 - [ ] **Coding & Operations** — Weeks 3–4 | *Coding-Decoding, Symbolic & Numerical Operations*
 - [ ] **Visual / Spatial Reasoning** — Weeks 5–6 | *Space Orientation, Venn Diagrams, Paper Folding*
 - [ ] **Logical & Cognitive Reasoning** — Weeks 8–9 | *Drawing Inferences, Critical Thinking, Syllogisms*
