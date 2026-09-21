@@ -396,6 +396,27 @@ Four words are given. Three belong to the same category or share a specific rela
 
 ---
 
+### 🔬 Lucent GK Reference: Physical Quantities & Measurement Units (High-Yield)
+
+In SSC Semantic Analogy and Classification, questions regularly test the exact physical quantity being measured. Group options by physical property:
+
+| Physical Quantity | SI Unit | Common / Practical / CGS Units | SSC Exam Distractor Clues |
+|---|---|---|---|
+| **Energy / Work / Heat** | **Joule (J)** | **Calorie (cal)**, **Erg**, **Electron-volt (eV)**, **Kilowatt-hour (kWh)** | $1\text{ cal} \approx 4.184\text{ J}$; $1\text{ J} = 10^7\text{ ergs}$. kWh is a unit of **Energy**, NOT Power! |
+| **Power** | **Watt (W)** | **Kilowatt (kW)**, **Horsepower (hp)** | $1\text{ hp} = 746\text{ Watts}$. Rate of doing work ($1\text{ W} = 1\text{ J/s}$). |
+| **Force** | **Newton (N)** | **Dyne**, **Pound-force (lbf)** | $1\text{ N} = 10^5\text{ dynes}$. $\text{Mass} \times \text{Acceleration}$. |
+| **Pressure / Stress** | **Pascal (Pa)** | **Bar**, **Torr**, **Atmosphere (atm)**, $\text{N/m}^2$ | $1\text{ bar} = 10^5\text{ Pa}$; $1\text{ atm} = 760\text{ Torr}$. Force per unit area. |
+| **Temperature** | **Kelvin (K)** | **Degree Celsius (°C)**, **Fahrenheit (°F)** | Kelvin is the SI base unit (no degree symbol). |
+| **Electric Current** | **Ampere (A)** | Milliampere (mA), Biot (abA) | Base SI unit. Measured by Ammeter. |
+| **Electric Potential** | **Volt (V)** | Millivolt (mV), Statvolt | Potential difference / EMF. Measured by Voltmeter. |
+| **Electric Resistance** | **Ohm ($\Omega$)** | Statohm; Conductance = **Siemens / Mho** | Conductance ($\text{Siemens}$) is the reciprocal of Resistance. |
+| **Magnetic Field / Flux** | **Tesla (T)** / **Weber (Wb)** | **Gauss (G)** ($1\text{ T} = 10^4\text{ G}$), **Maxwell (Mx)** | Weber = Magnetic Flux; Tesla = Magnetic Flux Density. |
+| **Frequency** | **Hertz (Hz)** | Cycles per second (cps) | $1\text{ Hz} = 1\text{ cycle/sec}$. |
+| **Power of Lens** | **Dioptre (D)** | $\text{meter}^{-1}$ | $P = 1/f$ (focal length in meters). |
+| **Luminous Intensity / Flux** | **Candela (cd)** / **Lumen (lm)** | Lux (illuminance) | Candela is SI base unit. |
+
+---
+
 ## B2. Symbolic / Number Classification
 
 ### Definition
