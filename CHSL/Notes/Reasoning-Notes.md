@@ -219,6 +219,31 @@ A↔Z | B↔Y | C↔X | D↔W | E↔V | F↔U | G↔T | H↔S | I↔R | J↔Q | 
 
 ---
 
+### Word-to-Number Analogy: (WORD : NUMBER)
+
+A high-yield hybrid where a word is mapped to a single integer (e.g., `CAT : 72`).
+
+#### High-Frequency Word-to-Number Patterns
+
+| Pattern Type | Mathematical Formula | Example | Quick Recognition Clue |
+|---|---|---|---|
+| **Raw Positional Sum** | $\sum \text{Positions}$ | `CAT : 24` <br> $3+1+20 = 24$ | Target number is small (sum of positions). |
+| **Sum $\times$ Letter Count** | $(\sum \text{Positions}) \times (\text{Length})$ | `CAT : 72` <br> $(3+1+20) \times 3 = 72$ | Target number is a multiple of word length (24 × 3 = 72). |
+| **Opposite Positional Sum** | $\sum (27 - \text{Position})$ | `CAT : 57` <br> $(24+26+7) = 57$ | Target number exceeds forward sum substantially. |
+| **Sum $\pm$ Letter Count** | $(\sum \text{Positions}) \pm (\text{Length})$ | `CAT : 27` <br> $24 + 3 = 27$ | Target number is very close to raw sum. |
+
+#### ⚡ 5-Second Unit-Digit Exam Shortcut
+When the rule is $(\text{Sum}) \times (\text{Number of Letters})$:
+1. Find the sum of letter positions (e.g., `DOG` = $4 + 15 + 7 = 2\mathbf{6}$).
+2. Multiply **only the unit digit** by the number of letters: $\mathbf{6} \times 3 = 1\mathbf{8}$ (ends in **8**).
+3. Scan options immediately: in most SSC questions, **only one option ends in 8** (e.g., **78**). You can mark the correct key in under 5 seconds without multiplying two-digit numbers!
+
+#### Common Distractor Traps in Word-to-Number Analogy
+1. **The Raw Sum Trap:** SSC will almost always include the unmultiplied raw sum as Option A (e.g., offering **26** for `DOG : ?`). It catches candidates who find the letter values but forget to apply the length multiplier.
+2. **The Wrong Multiplier Trap:** Using a constant multiplier (like $\times 2$) instead of counting the exact number of letters in the specific word.
+
+---
+
 ## A3. Figural Analogy
 
 ### Definition
