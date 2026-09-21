@@ -32,6 +32,7 @@
 | **Reasoning Reference Notes** | [`Reasoning-Notes.md`](Notes/Reasoning-Notes.md) | Complete topic definitions, Golden Rules, and exam methods for Reasoning topics. |
 | **Notes Generation Prompt** | [`Notes-Template-Prompt.md`](Notes/Notes-Template-Prompt.md) | Standardized template prompt to generate notes for Quant & GA. |
 | **Candidate Command Center** | [`tracker.html`](Tracker/tracker.html) | Interactive browser dashboard with local file sync for tracking progress. |
+| **Quick Revision Reader** | [`reader.html`](Notes/reader.html) | Interactive mobile-friendly reader for all notes and study materials. |
 
 ---
 

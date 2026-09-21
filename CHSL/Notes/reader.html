@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SSC CHSL 2026 — Quick Revision Vault</title>
+
+  <!-- Google Fonts: Plus Jakarta Sans & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Remix Icon CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
+
+  <!-- Marked.js Markdown Parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    :root {
+      --bg-main: #090D16;
+      --bg-card: #121826;
+      --bg-card-hover: #172033;
+      --border: #1E293B;
+      --border-focus: #06B6D4;
+      --text-primary: #F8FAFC;
+      --text-secondary: #94A3B8;
+      --text-muted: #64748B;
+      --accent-cyan: #06B6D4;
+      --accent-emerald: #10B981;
+      --accent-amber: #F59E0B;
+      --accent-rose: #F43F5E;
+      --accent-indigo: #6366F1;
+      --radius: 10px;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-style: normal !important;
+    }
+
+    body {
+      background-color: var(--bg-main);
+      color: var(--text-primary);
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      line-height: 1.65;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* TOP NAVBAR */
+    .top-nav {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(9, 13, 22, 0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: var(--text-primary);
+    }
+
+    .nav-brand i {
+      color: var(--accent-cyan);
+      font-size: 20px;
+    }
+
+    .nav-brand span {
+      font-size: 15px;
+      font-weight: 800;
+      letter-spacing: -0.3px;
+    }
+
+    /* SUBJECT SWITCHER TABS */
+    .subject-tabs {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      overflow-x: auto;
+      max-width: 100%;
+      padding-bottom: 2px;
+    }
+
+    .tab-btn {
+      background: var(--bg-card);
+      color: var(--text-secondary);
+      border: 1px solid var(--border);
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+      text-decoration: none;
+    }
+
+    .tab-btn:hover {
+      color: var(--text-primary);
+      border-color: var(--border-focus);
+    }
+
+    .tab-btn.active {
+      background: linear-gradient(135deg, rgba(6, 182, 212, 0.2), rgba(16, 185, 129, 0.2));
+      border-color: var(--accent-cyan);
+      color: var(--text-primary);
+    }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .action-btn {
+      background: var(--bg-card);
+      color: var(--text-secondary);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: var(--radius);
+      font-size: 13px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      text-decoration: none;
+    }
+
+    .action-btn:hover {
+      color: var(--text-primary);
+      border-color: var(--border-focus);
+    }
+
+    /* LAYOUT: SIDEBAR + CONTENT */
+    .app-layout {
+      max-width: 1300px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 28px;
+      padding: 24px 20px 80px;
+    }
+
+    @media (max-width: 900px) {
+      .app-layout {
+        grid-template-columns: 1fr;
+      }
+      .sidebar {
+        display: none;
+      }
+      .sidebar.mobile-open {
+        display: block;
+        position: fixed;
+        top: 60px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 40;
+        background: var(--bg-main);
+        padding: 20px;
+        overflow-y: auto;
+      }
+    }
+
+    /* SIDEBAR TOC */
+    .sidebar {
+      position: sticky;
+      top: 80px;
+      max-height: calc(100vh - 100px);
+      overflow-y: auto;
+      padding-right: 12px;
+    }
+
+    .toc-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+    }
+
+    .toc-header {
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .toc-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .toc-item a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 600;
+      display: block;
+      padding: 6px 10px;
+      border-radius: 6px;
+      transition: all 0.15s ease;
+      line-height: 1.4;
+    }
+
+    .toc-item a:hover {
+      background: var(--bg-card-hover);
+      color: var(--accent-cyan);
+    }
+
+    .toc-item.level-2 a {
+      padding-left: 10px;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+
+    .toc-item.level-3 a {
+      padding-left: 20px;
+      font-size: 12px;
+    }
+
+    /* SEARCH BOX */
+    .search-box {
+      margin-bottom: 14px;
+      position: relative;
+    }
+
+    .search-box input {
+      width: 100%;
+      background: var(--bg-main);
+      border: 1px solid var(--border);
+      color: var(--text-primary);
+      padding: 8px 12px 8px 32px;
+      border-radius: 8px;
+      font-size: 12px;
+      font-family: inherit;
+    }
+
+    .search-box input:focus {
+      outline: none;
+      border-color: var(--accent-cyan);
+    }
+
+    .search-box i {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+
+    /* MAIN CONTENT VIEW */
+    .content-area {
+      min-width: 0;
+    }
+
+    .reading-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 36px 40px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    }
+
+    @media (max-width: 600px) {
+      .reading-card {
+        padding: 20px 16px;
+      }
+    }
+
+    /* TYPOGRAPHY & MARKDOWN STYLES */
+    .markdown-body {
+      font-size: 15px;
+      color: var(--text-primary);
+      line-height: 1.7;
+    }
+
+    .markdown-body h1 {
+      font-size: 26px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin-top: 32px;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      color: #FFFFFF;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .markdown-body h1:first-child {
+      margin-top: 0;
+    }
+
+    .markdown-body h2 {
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: -0.4px;
+      margin-top: 30px;
+      margin-bottom: 14px;
+      color: var(--accent-cyan);
+    }
+
+    .markdown-body h3 {
+      font-size: 16px;
+      font-weight: 700;
+      margin-top: 22px;
+      margin-bottom: 10px;
+      color: #E2E8F0;
+    }
+
+    .markdown-body h4 {
+      font-size: 14px;
+      font-weight: 700;
+      margin-top: 18px;
+      margin-bottom: 8px;
+      color: #CBD5E1;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .markdown-body p {
+      margin-bottom: 16px;
+      color: #CBD5E1;
+    }
+
+    .markdown-body strong {
+      color: #FFFFFF;
+      font-weight: 700;
+    }
+
+    .markdown-body ul, .markdown-body ol {
+      margin-bottom: 16px;
+      padding-left: 24px;
+      color: #CBD5E1;
+    }
+
+    .markdown-body li {
+      margin-bottom: 6px;
+    }
+
+    /* BLOCKQUOTES & GOLDEN RULES */
+    .markdown-body blockquote {
+      margin: 20px 0;
+      padding: 14px 18px;
+      background: rgba(6, 182, 212, 0.08);
+      border-left: 4px solid var(--accent-cyan);
+      border-radius: 0 8px 8px 0;
+      color: #E0F2FE;
+      font-weight: 500;
+    }
+
+    .markdown-body blockquote p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* CODE & ASCII FLOWCHARTS */
+    .markdown-body pre {
+      background: #060910;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px;
+      overflow-x: auto;
+      margin: 18px 0;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      line-height: 1.5;
+      color: #38BDF8;
+    }
+
+    .markdown-body code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      background: rgba(255, 255, 255, 0.08);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #F43F5E;
+    }
+
+    .markdown-body pre code {
+      background: transparent;
+      padding: 0;
+      color: inherit;
+    }
+
+    /* TABLES */
+    .markdown-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 24px 0;
+      font-size: 13px;
+      background: #090D16;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+
+    .markdown-body th {
+      background: rgba(30, 41, 59, 0.8);
+      color: #F8FAFC;
+      font-weight: 700;
+      text-align: left;
+      padding: 10px 14px;
+      border-bottom: 2px solid var(--border);
+      white-space: nowrap;
+    }
+
+    .markdown-body td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      color: #CBD5E1;
+    }
+
+    .markdown-body tr:last-child td {
+      border-bottom: none;
+    }
+
+    .markdown-body tr:hover td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .markdown-body hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 32px 0;
+    }
+
+    /* LOADING & ERROR */
+    .loader {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 60px 20px;
+      color: var(--text-secondary);
+      gap: 12px;
+    }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid rgba(6, 182, 212, 0.2);
+      border-top-color: var(--accent-cyan);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- TOP NAVIGATION BAR -->
+  <nav class="top-nav">
+    <a href="../../" class="nav-brand">
+      <i class="ri-book-read-line"></i>
+      <span>Revision Vault</span>
+    </a>
+
+    <!-- SUBJECT TABS -->
+    <div class="subject-tabs">
+      <a href="?note=reasoning" id="tabReasoning" class="tab-btn">
+        <i class="ri-brain-line"></i> Reasoning Notes
+      </a>
+      <a href="?note=english" id="tabEnglish" class="tab-btn">
+        <i class="ri-translate-2"></i> English Notes
+      </a>
+      <a href="?note=roadmap" id="tabRoadmap" class="tab-btn">
+        <i class="ri-route-line"></i> 13-Week Blueprint
+      </a>
+      <a href="?note=syllabus" id="tabSyllabus" class="tab-btn">
+        <i class="ri-list-check-3"></i> Detailed Syllabus
+      </a>
+      <a href="?note=teachrule" id="tabTeachRule" class="tab-btn">
+        <i class="ri-robot-2-line"></i> Teaching Rules
+      </a>
+      <a href="?note=chsl" id="tabChsl" class="tab-btn">
+        <i class="ri-file-list-3-line"></i> CHSL Dashboard
+      </a>
+    </div>
+
+    <!-- UTILITIES -->
+    <div class="nav-actions">
+      <button class="action-btn" onclick="toggleSidebar()" id="btnTocMobile">
+        <i class="ri-menu-2-line"></i> Contents
+      </button>
+      <a href="../Tracker/tracker.html" class="action-btn">
+        <i class="ri-dashboard-2-line"></i> Tracker
+      </a>
+      <a href="../../" class="action-btn">
+        <i class="ri-home-4-line"></i> Home
+      </a>
+    </div>
+  </nav>
+
+  <!-- APP LAYOUT -->
+  <div class="app-layout">
+
+    <!-- SIDEBAR: TABLE OF CONTENTS -->
+    <aside class="sidebar" id="sidebar">
+      <div class="toc-card">
+        <div class="toc-header">
+          <i class="ri-list-unordered"></i> Table of Contents
+        </div>
+
+        <div class="search-box">
+          <i class="ri-search-line"></i>
+          <input type="text" id="searchInput" placeholder="Filter headings..." oninput="filterToc()">
+        </div>
+
+        <ul class="toc-list" id="tocList">
+          <li class="toc-item"><span style="color: var(--text-muted); font-size: 12px;">Loading contents...</span></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- CONTENT AREA -->
+    <main class="content-area">
+      <article class="reading-card">
+        <div id="content" class="markdown-body">
+          <div class="loader">
+            <div class="spinner"></div>
+            <div>Loading revision notes...</div>
+          </div>
+        </div>
+      </article>
+    </main>
+
+  </div>
+
+  <script>
+    // Note File Mapping
+    const NOTE_FILES = {
+      "reasoning": "Reasoning-Notes.md",
+      "english": "English-Notes.md",
+      "chsl": "../README.md",
+      "roadmap": "../Syllabus/CHSL_2026_MASTER_ROADMAP.md",
+      "syllabus": "../Syllabus/CHSL_2026_DETAILED_SYLLABUS.md",
+      "teachrule": "../Teaching Rule/Teach-Rule.md",
+      "prompt": "Notes-Template-Prompt.md"
+    };
+
+    // Get current note key from URL params
+    const params = new URLSearchParams(window.location.search);
+    const activeKey = params.get("note") || "reasoning";
+
+    // Set Active Tab
+    document.querySelectorAll(".tab-btn").forEach(btn => {
+      const targetParam = new URL(btn.href, window.location.href).searchParams.get("note");
+      if (targetParam === activeKey) {
+        btn.classList.add("active");
+      }
+    });
+
+    // Mobile sidebar toggle
+    function toggleSidebar() {
+      document.getElementById("sidebar").classList.toggle("mobile-open");
+    }
+
+    // Filter TOC by search term
+    function filterToc() {
+      const q = document.getElementById("searchInput").value.toLowerCase();
+      document.querySelectorAll(".toc-item").forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? "block" : "none";
+      });
+    }
+
+    // Load and Render Markdown
+    async function loadNote() {
+      const filename = NOTE_FILES[activeKey] || NOTE_FILES["reasoning"];
+      const contentEl = document.getElementById("content");
+      const tocList = document.getElementById("tocList");
+
+      try {
+        const res = await fetch(filename);
+        if (!res.ok) throw new Error("HTTP " + res.status + " while loading " + filename);
+        const md = await res.text();
+
+        // Render Markdown using marked.js
+        contentEl.innerHTML = marked.parse(md);
+
+        // Build Table of Contents dynamically from H1, H2, H3
+        const headings = contentEl.querySelectorAll("h1, h2, h3");
+        tocList.innerHTML = "";
+
+        headings.forEach((h, index) => {
+          const anchorId = "section-" + index;
+          h.id = anchorId;
+
+          const level = h.tagName.toLowerCase() === "h1" ? 1 : h.tagName.toLowerCase() === "h2" ? 2 : 3;
+          const li = document.createElement("li");
+          li.className = `toc-item level-${level}`;
+          
+          const a = document.createElement("a");
+          a.href = "#" + anchorId;
+          a.innerText = h.innerText.replace(/^[A-Z0-9\.\s\-]+:\s*/, "");
+          a.onclick = () => {
+            document.getElementById("sidebar").classList.remove("mobile-open");
+          };
+
+          li.appendChild(a);
+          tocList.appendChild(li);
+        });
+
+        if (headings.length === 0) {
+          tocList.innerHTML = '<li class="toc-item"><span style="color: var(--text-muted); font-size: 12px;">No headings found</span></li>';
+        }
+
+      } catch (err) {
+        contentEl.innerHTML = `
+          <div style="padding: 40px; text-align: center; color: var(--accent-rose);">
+            <i class="ri-error-warning-line" style="font-size: 36px; margin-bottom: 12px; display: block;"></i>
+            <h2 style="color: var(--text-primary); margin-bottom: 8px;">Failed to Load Notes</h2>
+            <p style="color: var(--text-secondary); margin-bottom: 20px;">Could not fetch ${filename}: ${err.message}</p>
+            <a href="../../" class="action-btn" style="display: inline-flex;">Return Home</a>
+          </div>
+        `;
+      }
+    }
+
+    loadNote();
+  </script>
+</body>
+</html>
