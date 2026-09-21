@@ -144,6 +144,14 @@ Terms are numbers or letter groups → Symbolic/Number Analogy.
 | n³+k | Term is just above a perfect cube | 5:127 (125+2) |
 | n×(n+1) | Term = product of two consecutive numbers | 7:56 (7×8) |
 | n×(n-1) | Term = product of n and n-1 | 8:56 (8×7) |
+| **Digit Product** | 2nd term is product of digits of 1st term | 43:12 (4×3=12), 72:14 (7×2=14) |
+| **Digit Sum** | 2nd term is sum of digits of 1st term | 58:13 (5+8=13), 94:13 (9+4=13) |
+| **Digit Sum Power** | 2nd term is square/cube of digit sum | 15:216 ((1+5)³=6³=216) |
+
+#### ⚠️ The "Arbitrary Subtraction" Distractor Trap
+- **The Trap:** When the 2nd term is significantly smaller than a 2-digit 1st term (e.g., $43 : 12$), candidates instinctively subtract: $43 - 31 = 12$. Applying $72 - 31 = 41$, they find **41** prominently sitting as an option.
+- **The Rule:** Large arbitrary subtraction gaps (like $-31$) with no mathematical pattern are **deliberate SSC distractors**.
+- **Execution Clue:** If the 2nd number drops sharply, test **Digit Product** ($4 \times 3 = 12$) and **Digit Sum** ($4 + 3 = 7$) *before* attempting arbitrary subtraction.
 
 #### Must-Know Squares (1–25)
 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36, 7²=49, 8²=64, 9²=81, 10²=100,
