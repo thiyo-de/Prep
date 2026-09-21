@@ -649,6 +649,45 @@
         // Render Markdown using marked.js
         contentEl.innerHTML = marked.parse(md);
 
+        // Normalize and resolve links relative to reader location
+        contentEl.querySelectorAll("a").forEach(link => {
+          const href = link.getAttribute("href");
+          if (!href || href.startsWith("#") || href.startsWith("http://") || href.startsWith("https://") || href.startsWith("mailto:")) return;
+
+          // Seamless reader navigation for markdown documents:
+          if (href.includes("Reasoning-Notes.md")) {
+            link.href = "?note=reasoning";
+          } else if (href.includes("English-Notes.md")) {
+            link.href = "?note=english";
+          } else if (href.includes("CHSL_2026_MASTER_ROADMAP.md")) {
+            link.href = "?note=roadmap";
+          } else if (href.includes("CHSL_2026_DETAILED_SYLLABUS.md")) {
+            link.href = "?note=syllabus";
+          } else if (href.includes("Teach-Rule.md") || href.includes("Mastery-Prompt.md")) {
+            link.href = "?note=teachrule";
+          } else if (href.includes("Notes-Template-Prompt.md")) {
+            link.href = "?note=prompt";
+          } else if (href.endsWith("README.md")) {
+            link.href = "?note=chsl";
+          } else if (href.includes("reader.html")) {
+            link.href = "reader.html";
+          } else if (href.includes("tracker.html")) {
+            link.href = "../Tracker/tracker.html";
+          } else if (href.includes("Notice_of_adv_chsle_2026.pdf") || href.endsWith(".pdf")) {
+            link.href = "../Notice/Notice_of_adv_chsle_2026.pdf";
+            link.target = "_blank";
+          } else if (href.startsWith("Notice/")) {
+            link.href = "../" + href;
+            link.target = "_blank";
+          } else if (href.startsWith("Tracker/")) {
+            link.href = "../" + href;
+          } else if (href.startsWith("Syllabus/") || href.startsWith("Teaching Rule/")) {
+            link.href = "../" + href;
+          } else if (href.startsWith("Notes/")) {
+            link.href = "./" + href.replace(/^Notes\//, "");
+          }
+        });
+
         // Build Table of Contents dynamically from H1, H2, H3
         const headings = contentEl.querySelectorAll("h1, h2, h3");
         tocList.innerHTML = "";
