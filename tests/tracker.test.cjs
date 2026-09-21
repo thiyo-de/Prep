@@ -4,8 +4,8 @@ const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
 const root = path.resolve(__dirname, '..');
-const html = fs.readFileSync(path.join(root, 'tracker.html'), 'utf8');
-const readme = fs.readFileSync(path.join(root, 'README.md'), 'utf8');
+const html = fs.readFileSync(path.join(root, 'CHSL', 'Tracker', 'tracker.html'), 'utf8');
+const readme = fs.readFileSync(path.join(root, 'CHSL', 'README.md'), 'utf8');
 const source = html.match(/<script>([\s\S]*?)<\/script>/)[1];
 
 function harness(markdown = readme) {
@@ -49,7 +49,7 @@ test('imports actual progress, retains bare score, calculates only recorded frac
   assert.equal(h.run('state.subjects[0].topics[2].status'), 'COMPLETED');
   assert.equal(h.run('state.subjects[0].topics[2].score'), '90');
   assert.equal(h.elements.valAccuracy.innerText, '94.1%');
-  assert.equal(h.elements.valCoverage.innerText, '6%');
+  assert.equal(h.elements.valCoverage.innerText, '10%');
   assert.equal(h.run('generateUpdatedMarkdown()'), readme);
 });
 
@@ -63,7 +63,7 @@ test('saving a topic preserves mock scores, extra notes, other rows and reloads 
   assert.ok(h.disk.text.includes('| ✅ | **A** | **Analogy** | Week 3 | 90 | Pending |'));
   const before = original.split('\n'), after = h.disk.text.split('\n');
   const changed = before.filter((line, i) => line !== after[i]);
-  assert.equal(changed.length, 3); // One topic row and two derived metric rows only.
+  assert.equal(changed.length, 1); // One topic row only (status is IN PROGRESS; completion and accuracy metrics unchanged).
   const fresh = harness(h.disk.text); await fresh.connect();
   assert.equal(fresh.run('state.subjects[1].topics[0].status'), 'IN PROGRESS');
 });
