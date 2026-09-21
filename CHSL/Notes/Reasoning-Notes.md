@@ -161,6 +161,35 @@ Terms are numbers or letter groups → Symbolic/Number Analogy.
 1³=1, 2³=8, 3³=27, 4³=64, 5³=125, 6³=216, 7³=343, 8³=512, 9³=729, 10³=1000,
 11³=1331, 12³=1728, 13³=2197, 14³=2744, 15³=3375
 
+#### Must-Know Prime Numbers (1–100) — Total 25 Primes
+
+| Range | Count | Prime Numbers |
+|---|:---:|---|
+| **1 – 10** | 4 | **2, 3, 5, 7** |
+| **11 – 20** | 4 | **11, 13, 17, 19** |
+| **21 – 30** | 2 | **23, 29** |
+| **31 – 40** | 2 | **31, 37** |
+| **41 – 50** | 3 | **41, 43, 47** |
+| **51 – 60** | 2 | **53, 59** |
+| **61 – 70** | 2 | **61, 67** |
+| **71 – 80** | 3 | **71, 73, 79** |
+| **81 – 90** | 2 | **83, 89** |
+| **91 – 100** | 1 | **97** |
+
+> **⚡ 10-Digit Mnemonic Code:** `44 - 22 - 32 - 23 - 21` (Memorize like a phone number to count primes in each decade! Total = 25 primes).
+
+#### Critical SSC Prime Rules & "Fake Prime" Composite Traps
+1. **The Only Even Prime:** **2** is the smallest and ONLY even prime number. All other primes are odd.
+2. **1 is Neutral:** **1** is neither prime nor composite.
+3. **The "Fake Prime" Traps (Composite numbers that look prime in SSC papers):**
+   - **91** $= 7 \times 13$ *(Extremely high frequency SSC distractor!)*
+   - **119** $= 7 \times 17$
+   - **133** $= 7 \times 19$
+   - **143** $= 11 \times 13$
+   - **161** $= 7 \times 23$ *(Tests divisibility by 7)*
+   - **221** $= 13 \times 17$
+   - **323** $= 17 \times 19$
+
 ---
 
 ### Set / Triad Analogy: (a, b, c)
