@@ -19,11 +19,3 @@ A structured, evidence-based preparation workspace for Staff Selection Commissio
   * [Notes Template Prompt](CHSL/Notes/Notes-Template-Prompt.md)
 * **Mastery Teaching Rules**: [`CHSL/Teaching Rule/Teach-Rule.md`](CHSL/Teaching%20Rule/Teach-Rule.md)
 
----
-
-## 🛠️ Verification & Test Suite
-
-Run the automated Node.js test suite verifying markdown synchronization and tracker logic:
-```bash
-node --test tests/tracker.test.cjs
-```
