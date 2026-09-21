@@ -190,6 +190,18 @@ Terms are numbers or letter groups → Symbolic/Number Analogy.
    - **221** $= 13 \times 17$
    - **323** $= 17 \times 19$
 
+#### ⚡ The 3-Second SSC Divisibility Rule for 7 ("Double & Subtract")
+Most SSC fake-prime composite traps ($91, 119, 133, 161$) are multiples of 7. To check any number in 3 seconds:
+> **Rule:** Take the last digit, **double it**, and **subtract** it from the remaining number. If the result is a multiple of 7 (or 0), the whole number is divisible by 7!
+- **Test 161:** Last digit $1 \times 2 = 2 \implies 16 - 2 = \mathbf{14}$ (Divisible by 7 $\implies 161 = 7 \times 23$).
+- **Test 91:** Last digit $1 \times 2 = 2 \implies 9 - 2 = \mathbf{7}$ (Divisible by 7 $\implies 91 = 7 \times 13$).
+- **Test 119:** Last digit $9 \times 2 = 18 \implies 18 - 11 = \mathbf{7}$ (Divisible by 7 $\implies 119 = 7 \times 17$).
+
+#### ⏱ The Universal $\sqrt{N}$ Prime Testing Method (Test any number in 15 seconds)
+1. Find the nearest perfect square just above the number: for $N = 161$, $13^2 = 169 \implies \sqrt{161} \approx 12.6$.
+2. **Only test prime numbers** less than or equal to that square root ($\mathbf{2, 3, 5, 7, 11}$). You never need to test numbers above $\sqrt{N}$!
+3. If it is not divisible by any of these primes, it is guaranteed **Prime** (e.g., $127, 137, 149$). If divisible by even one (e.g., $161 \div 7 = 23$), it is **Composite**.
+
 ---
 
 ### Set / Triad Analogy: (a, b, c)
