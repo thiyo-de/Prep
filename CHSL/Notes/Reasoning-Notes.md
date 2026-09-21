@@ -349,21 +349,21 @@ Four words are given. Three belong to the same category or share a specific rela
 
 ### Key Categories SSC Tests Repeatedly
 
-| Category | What to Check |
-|---|---|
-| Mammals vs Reptiles vs Birds | Bat and Whale are mammals (not fish/birds!) |
-| Disease causes | Bacterial vs Viral vs Protozoan vs Deficiency |
-| Planets | Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune (8 total — no Pluto) |
-| Metals vs Non-metals | |
-| Fruits vs Vegetables | Tomato, Cucumber are fruits botanically |
-| Rivers — India vs World | |
-| States vs Union Territories | Delhi, J&K, Puducherry are UTs |
+| Category | High-Yield SSC Examples | What to Check & Common Pitfalls |
+|---|---|---|
+| **Units of Measurement vs Physical Quantity** | • **Temperature:** Kelvin, Celsius, Fahrenheit <br> • **Pressure:** Pascal, Bar, Torr <br> • **Energy/Work:** Joule, Calorie, Erg, eV <br> • **Power:** Watt, Horsepower <br> • **Force:** Newton, Dyne <br> • **Resistance:** Ohm, Mho | **The Common Dimension Rule:** Group by the physical property measured. If 3 measure Temperature and 1 measures Pressure (e.g. *Kelvin, Celsius, Fahrenheit, Pascal*), **Pascal** is the odd one out. Do not confuse SI vs Imperial! |
+| **Mammals vs Reptiles vs Fish vs Birds** | • **Mammals (give birth, lungs):** Whale, Dolphin, Seal, Bat, Platypus <br> • **Fish (gills, fins):** Shark, Salmon, Rohu <br> • **Reptiles (scales, cold-blooded):** Snake, Lizard, Crocodile <br> • **Amphibians:** Frog, Toad, Salamander | • **Whale & Dolphin** are **Mammals**, not fish! <br> • **Bat** is a **Mammal**, not a bird! <br> • **Shark** is a **Fish** (cartilaginous). <br> • **Penguin** is a **Bird** (cannot fly, but lays eggs). |
+| **World Capitals vs Famous Cities** | • **Capitals:** New Delhi, Tokyo, Paris, Washington D.C., Ottawa, Canberra, Beijing <br> • **Non-Capital Metros:** New York, Sydney, Toronto, Mumbai, Shanghai | New York, Sydney, and Toronto are famous metropolises but **not national capitals**. Look for the Capital property. |
+| **Metals vs Non-Metals vs Metalloids** | • **Metals:** Iron, Copper, Gold, Silver, Mercury <br> • **Non-Metals:** Carbon (Diamond, Graphite), Sulfur, Oxygen <br> • **Metalloids:** Silicon, Germanium, Arsenic | **Mercury** is a liquid, but still a **Metal**. **Diamond** is an allotrope of non-metal Carbon. |
+| **Disease Causes** | • **Bacterial:** Tuberculosis, Cholera, Typhoid <br> • **Viral:** Polio, Rabies, Measles, Influenza <br> • **Protozoan:** Malaria, Amoebiasis | Check the causative pathogen (Bacteria vs Virus vs Protozoa). |
+| **Fruits vs Vegetables** | Tomato, Cucumber, Pumpkin are botanically **Fruits** (contain seeds); Potato, Ginger, Carrot are root/tuber **Vegetables**. | Underground tubers (Potato, Ginger) vs above-ground fruits. |
+| **Planets** | Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune (8 total) | **Pluto** is a dwarf planet (demoted in 2006). |
 
-### Common SSC Trap
-- **Bat** — looks like a bird, but it is a **mammal** (only flying mammal).
-- **Whale** — lives in water, but it is a **mammal**, not a fish.
-- **Pluto** — is NOT a planet (dwarf planet since 2006).
-- **Spider** — is NOT an insect (it has 8 legs, not 6; it is an arachnid).
+### Common SSC Traps in Semantic Classification
+1. **The Physical Dimension Trap (Units):** Comparing whether a unit is metric or imperial instead of checking the **underlying physical property** (e.g., Temperature vs. Pressure, Energy vs. Power).
+2. **The Aquatic Animal Trap:** Grouping animals by habitat (living in water) rather than biological class. A Whale lives in water but is a **Mammal** (breathes with lungs); a Shark is a **Fish** (breathes with gills).
+3. **The Flight Trap:** A Bat flies but is a **Mammal**; an Ostrich or Penguin cannot fly but is a **Bird**.
+4. **The Insect Trap:** A Spider has 8 legs and belongs to Arachnids — it is **NOT an insect** (insects have 6 legs).
 
 ---
 
