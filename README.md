@@ -22,8 +22,9 @@ Click any document below to open it immediately:
 ### 🤖 AI Tutor Engine
 * [🎓 **Mastery Teaching Rules (`Teach-Rule.md`)**](CHSL/Teaching%20Rule/Teach-Rule.md) — Socratic learning protocol, anti-infodump rules, 7-point feedback engine, and 20-question Gauntlet framework.
 
-### 🎯 Candidate Study Checklist
-* [✅ **Go to CHSL 2026 Interactive Study Checklist**](CHSL/README.md) — Native, distraction-free markdown checklist to track topic completion, daily drills, and Sunday mock tests.
+### 🎯 Candidate Study Checklists & Modules
+* [✅ **SSC CHSL 2026 Interactive Study Checklist**](CHSL/README.md) — Native, distraction-free markdown checklist to track topic completion, daily drills, and Sunday mock tests.
+* [🚆 **RRB NTPC Master Exam & Preparation Guide**](NTPC/README.md) — Graduate & Undergraduate posts, Level 6 Commercial Apprentice / Station Master salary details, CBT-1 & 2 exam schemes, and 90% syllabus overlap map.
 
 ---
 
