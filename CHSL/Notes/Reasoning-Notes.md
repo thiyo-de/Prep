@@ -155,6 +155,33 @@ Terms are numbers or letter groups → Symbolic/Number Analogy.
 
 ---
 
+### Set / Triad Analogy: (a, b, c)
+
+In modern SSC CHSL & CGL exams, questions are frequently framed as number triads: `(First, Second, Third)`. The third term is usually derived from a mathematical operation on the first two.
+
+#### High-Yield Triad Patterns (Checked in Priority Order)
+
+| Pattern Type | Mathematical Formula | Example Triad | Quick Recognition Clue |
+|---|---|---|---|
+| **Average-Square Pattern** | $\left(\frac{\text{First} + \text{Second}}{2}\right)^2 = \text{Third}$ | $(6, 14, 100)$ <br> $\frac{6+14}{2}=10 \to 10^2=100$ | 3rd number is a prominent square ($100, 144, 169, 196, 225$). |
+| **Ends Product Pattern** | $\text{First} \times \text{Third} = \text{Middle}$ | $(12, 168, 14)$ <br> $12 \times 14 = 168$ | Middle number is substantially larger than both outer numbers. |
+| **Sum-Multiplier Pattern** | $(\text{First} + \text{Second}) \times k = \text{Third}$ | $(13, 17, 150)$ <br> $(13+17) \times 5 = 150$ | 3rd number is a multiple of $(a+b)$. |
+| **Difference-Cube Pattern** | $(\text{Second} - \text{First})^3 = \text{Third}$ | $(9, 15, 216)$ <br> $(15-9)^3 = 6^3 = 216$ | 3rd number is a known cube ($64, 125, 216, 343$). |
+
+#### ⚡ 10-Second SSC Shortcut for Average-Square Triads
+When you spot a perfect square at the end ($100, 144, 169, 196...$):
+1. **Take the square root of the 3rd number:** $\sqrt{100} = 10$.
+2. **Double it:** $10 \times 2 = 20$.
+3. **Verify if the sum of the first two terms equals that doubled root:** $6 + 14 = 20$.
+4. **Scan options using the same shortcut:**
+   - For $(9, 17, 169)$: $\sqrt{169} = 13 \to 13 \times 2 = 26$. Does $9 + 17 = 26$? Yes $\to$ mark option in under 10 seconds!
+
+#### Common Distractor Traps in Set Analogy
+1. **The Consecutive Square Trap:** If the expected square is $11^2 = 121$, an attractive trap option will give $12^2 = 144$ (e.g. $(7, 15, 144)$ where $\frac{7+15}{2}=11$, but option used $12^2$).
+2. **The Partial Match Trap:** A distractor where the sum is correct, but the multiplication factor is different from the question set. Always calculate the exact multiplier.
+
+---
+
 ### Symbolic / Letter Analogy Rules
 
 #### Alphabet Position Table (Forward)
