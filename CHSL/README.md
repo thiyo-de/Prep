@@ -25,7 +25,7 @@ Click any resource below to jump directly into the materials:
 *Weightage: 25 Qs / 50 Marks (Tier-I) + 30 Qs / 90 Marks (Tier-II)*  
 *Rule: Identify pattern in <15 seconds; skip Figural/Series if stuck after 45 seconds.*
 
-- [ ] **Classification (Odd One Out)** — Week 2 | *Diagnostic Pending* | *Golden Rule (Group of 3), Priority Ladder*
+- [x] **Classification (Odd One Out)** — Week 2 | Accuracy: 18/20 (90.0%) | *Golden Rule (Group of 3), Priority Ladder, Taxonomic Class vs Limb Trap*
 - [ ] **Series & Patterns** — Weeks 2–3 | *Diagnostic Pending* | *Rate of Growth Rule, 2-Level Step-Ladder*
 - [x] **Analogy** — Week 3 | Accuracy: 19/20 (95.0%) | *Priority Ladder, Triad Sets, Digit Operations, Word-to-Number*
 - [ ] **Coding & Operations** — Weeks 3–4 | *Coding-Decoding, Symbolic & Numerical Operations*

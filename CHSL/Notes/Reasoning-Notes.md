@@ -405,6 +405,21 @@ Four words are given. Three belong to the same category or share a specific rela
 2. **The Aquatic Animal Trap:** Grouping animals by habitat (living in water) rather than biological class. A Whale lives in water but is a **Mammal** (breathes with lungs); a Shark is a **Fish** (breathes with gills).
 3. **The Flight Trap:** A Bat flies but is a **Mammal**; an Ostrich or Penguin cannot fly but is a **Bird**.
 4. **The Insect Trap:** A Spider has 8 legs and belongs to Arachnids — it is **NOT an insect** (insects have 6 legs).
+5. **The Limb vs. Taxonomic Class Trap (Reptiles vs. Amphibians):** Candidates pick *Snake* thinking it has zero legs while Lizard, Crocodile, and Frog have 4 legs. **Scientific biological class strictly trumps morphology (number of limbs)**: Snake, Lizard, Crocodile, Alligator, Chameleon = **Reptiles** (dry scaly skin, amniotic shelled eggs laid on land); Frog, Toad, Salamander, Newt = **Amphibians** (moist scaleless glandular skin, eggs laid in water, aquatic gill-breathing tadpole stage).
+
+---
+
+### 🦎 Lucent GK Reference: Vertebrate Animal Taxonomy (High-Yield SSC Traps)
+
+In SSC/Railways Classification and Semantic Analogy, examiners heavily exploit candidates' confusion between visual appearance (habitat/limbs/flight) and true zoological classification:
+
+| Class | Key Defining Characteristics | High-Yield Examples Tested | Frequent Distractor Traps |
+|---|---|---|---|
+| **Pisces (Fish)** | Cold-blooded, breathe via **gills**, paired fins, 2-chambered heart | Shark, Rohu, Catla, Tuna, Salmon | **Shark** is a cartilaginous Fish. **Whale** and **Dolphin** are NOT fish! |
+| **Amphibia (Amphibians)** | Cold-blooded, **dual life**, moist/smooth scaleless skin, jelly eggs in water, gills $\to$ lungs/skin, 3-chambered heart | **Frog, Toad, Salamander, Newt** | **Salamander** looks like a lizard, but is an Amphibian (water eggs, no scales). |
+| **Reptilia (Reptiles)** | Cold-blooded, **dry epidermal scales/scutes**, creep/crawl low to ground, shelled eggs on dry land, lungs, 3-chambered heart (Crocodile = 4) | **Snake, Lizard, Crocodile, Alligator, Tortoise, Turtle, Chameleon** | Candidates trap on **Snake** for having 0 legs. Biologically, snakes and lizards share identical scaly skin and land-egg reproduction. |
+| **Aves (Birds)** | Warm-blooded, **feathers**, toothless beaked jaws, hollow (pneumatic) bones, lay hard eggs, 4-chambered heart | Sparrow, Crow, Pigeon, Eagle, **Penguin, Ostrich, Kiwi, Emu** | **Penguin** and **Ostrich** cannot fly, but they have feathers and lay eggs — they are **Birds**, never mammals! |
+| **Mammalia (Mammals)** | Warm-blooded, **mammary glands** (produce milk), give **live birth** (viviparous), hair/fur on body, 4-chambered heart | Human, Dog, Cow, Lion, Elephant, **Bat, Whale, Dolphin, Platypus** | • **Bat** is a flying **Mammal**, NOT a bird! <br> • **Whale & Dolphin** are marine **Mammals**, NOT fish! <br> • **Platypus & Echidna** are rare egg-laying (oviparous) mammals. |
 
 ---
 
