@@ -1,4 +1,4 @@
-﻿# 📚 Unified Study Guides & Knowledge Base (`Guides`)
+# 📚 Unified Study Guides & Knowledge Base (`Guides`)
 
 > **Architectural Purpose:** A single, centralized knowledge repository for all competitive government exam preparations (SSC CHSL, RRB NTPC, etc.).  
 > Because **SSC** and **Railway** share ~85–90% of the syllabus (Quantitative Aptitude, Reasoning, and General Awareness), all core conceptual notes, study PDFs, and prompts are maintained here once to prevent duplicate notes across exam folders.
@@ -35,6 +35,7 @@ Guides/
 ## ⚡ Direct Access Links
 
 ### 🧠 Subject Notes
+* [🧬 **Biology: Food & Nutrition Notes**](Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md) — Comprehensive concepts, laboratory food tests (Iodine, Biuret), vitamin/mineral tables, deficiency diseases, and exam traps.
 * [🧠 **Reasoning Notes**](Notes/Reasoning/Reasoning-Notes.md) — Analogy, Classification, Number Series, Coding-Decoding, Traps.
 * [📝 **Notes Generator Prompt**](Notes/Templates/Notes-Template-Prompt.md) — Standardized AI prompt template to generate notes for Quant & GA.
 
