@@ -47,6 +47,7 @@ Both exams share **~85–90% of the syllabus**, allowing one single foundational
 * [📚 **Master Guides Index**](Guides/README.md) — Overview of shared materials, notes, and topic mappings.
 * [🧠 **General Intelligence & Reasoning Notes**](Guides/Notes/Reasoning/Reasoning-Notes.md) — Analogy, Classification, Series, Coding-Decoding, Traps.
 * [🧬 **Biology: Food & Nutrition Notes**](Guides/Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md) — Concepts, food tests (Iodine, Biuret), vitamin/mineral directories, deficiency diseases.
+* [🧵 **Biology: Fibre to Fabric Notes**](Guides/Notes/General%20Awareness/Biology/02-Fibre-to-Fabric.md) — Natural vs synthetic fibres, cotton/wool/silk processing, sericulture, and industrial exam traps.
 * [📝 **Notes Generator Prompt**](Guides/Notes/Templates/Notes-Template-Prompt.md) — Standardized AI prompt template to generate reference notes for Quant & GA.
 * [📁 **Study Materials Library**](Guides/Materials/) — Handouts, textbooks, and subject PDFs (e.g., [Biology Food & Nutrition](Guides/Materials/General%20Awareness/Biology/Food/Food.pdf)).
 * [🎓 **Mastery Teaching Rules (`Teach-Rule.md`)**](Guides/Teaching%20Rule/Teach-Rule.md) — Socratic learning protocol, feedback engine, and 20-question Gauntlet framework.

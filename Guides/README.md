@@ -36,11 +36,13 @@ Guides/
 
 ### 🧠 Subject Notes
 * [🧬 **Biology: Food & Nutrition Notes**](Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md) — Comprehensive concepts, laboratory food tests (Iodine, Biuret), vitamin/mineral tables, deficiency diseases, and exam traps.
+* [🧵 **Biology: Fibre to Fabric Notes**](Notes/General%20Awareness/Biology/02-Fibre-to-Fabric.md) — Natural vs synthetic fibres, cotton/wool/silk processing, sericulture, and industrial exam traps.
 * [🧠 **Reasoning Notes**](Notes/Reasoning/Reasoning-Notes.md) — Analogy, Classification, Number Series, Coding-Decoding, Traps.
 * [📝 **Notes Generator Prompt**](Notes/Templates/Notes-Template-Prompt.md) — Standardized AI prompt template to generate notes for Quant & GA.
 
 ### 📖 Study Materials
 * [🥗 **Biology: Food & Nutrition PDF**](Materials/General%20Awareness/Biology/Food/Food.pdf) — Core Lucent/NCERT science reference for Railway GA.
+* [🧵 **Biology: Fibre to Fabric PDF**](Materials/General%20Awareness/Biology/Fibre%20to%20Fabric/Fibre%20to%20Fabric.pdf) — Comprehensive slides on natural & animal fibres, sericulture, and wool processing.
 
 ### 🎓 AI Tutor Protocol
 * [🎓 **Mastery Teaching Rules**](Teaching%20Rule/Teach-Rule.md) — Socratic study prompt for AI pair-tutoring.
