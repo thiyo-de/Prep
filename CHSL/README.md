@@ -10,13 +10,14 @@
 
 Click any resource below to jump directly into the materials:
 
-* [📘 **English Notes**](Notes/English-Notes.md) — Vocabulary pairs, 12 core grammar rules, Voice, Narration & Cloze.
-* [🧠 **Reasoning Notes**](Notes/Reasoning-Notes.md) — Analogy, Classification, Number Series, Coding-Decoding, Traps.
-* [📝 **Notes Generator Prompt**](Notes/Notes-Template-Prompt.md) — AI template prompt to generate notes for Quant & GA.
+* [🧠 **Reasoning Notes**](../Guides/Notes/Reasoning/Reasoning-Notes.md) — Analogy, Classification, Number Series, Coding-Decoding, Traps.
+* [📝 **Notes Generator Prompt**](../Guides/Notes/Templates/Notes-Template-Prompt.md) — AI template prompt to generate notes for Quant & GA.
+* [📚 **Unified Study Materials & Notes**](../Guides/README.md) — Central knowledge repository for English, Quant, Reasoning, and GA.
 * [📅 **13-Week Master Roadmap**](Syllabus/CHSL_2026_MASTER_ROADMAP.md) — Weekly phase breakdown, scoring break-even laws, and timetable.
 * [📑 **Detailed Syllabus**](Syllabus/CHSL_2026_DETAILED_SYLLABUS.md) — Official SSC Tier-I & Tier-II syllabus.
 * [📄 **Official Notification PDF**](Notice/Notice_of_adv_chsle_2026.pdf) — Exam pattern, vacancies, eligibility, and post details.
-* [🎓 **Mastery Teaching Rules**](Teaching%20Rule/Teach-Rule.md) — Socratic study prompt for AI pair-tutoring.
+* [🎓 **Mastery Teaching Rules**](../Guides/Teaching%20Rule/Teach-Rule.md) — Socratic study prompt for AI pair-tutoring.
+* [🚆 **RRB NTPC Parallel Guide**](../NTPC/README.md) — Syllabus overlap & Railway prep strategy.
 * [🏠 **Return to Repository Home**](../README.md)
 
 ---

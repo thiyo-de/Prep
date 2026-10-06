@@ -88,8 +88,8 @@
 | Subject | Overlap % | Syllabus Scope & Key Topics | Strategy |
 | :--- | :---: | :--- | :--- |
 | **Mathematics** | **95%** | Number Systems, Percentages, Ratio, Profit & Loss, SI/CI, Time & Work, Time & Distance, Algebra, Geometry, Trigonometry, Mensuration, Elementary Statistics. | **100% Identical.** Prepare via SSC CHSL; covers Railway CBT-1 and CBT-2 fully. |
-| **Reasoning** | **95%** | Analogy, Classification (Odd One Out), Number & Alphabet Series, Coding-Decoding, Mathematical Operations, Blood Relations, Syllogisms, Venn Diagrams, Puzzles. | **100% Identical.** Notes in `CHSL/Notes/Reasoning-Notes.md` apply directly. |
-| **General Awareness** | **80%** | History, Polity, Geography, Economy, Static GK, Current Affairs, General Science. | **NTPC asks heavily from Lucent Science** (Physics, Chemistry, Biology make up 40% of GA). |
+| **Reasoning** | **95%** | Analogy, Classification (Odd One Out), Number & Alphabet Series, Coding-Decoding, Mathematical Operations, Blood Relations, Syllogisms, Venn Diagrams, Puzzles. | **100% Identical.** Notes in [`Guides/Notes/Reasoning/Reasoning-Notes.md`](../Guides/Notes/Reasoning/Reasoning-Notes.md) apply directly. |
+| **General Awareness** | **80%** | History, Polity, Geography, Economy, Static GK, Current Affairs, General Science. | **NTPC asks heavily from Lucent Science** (Physics, Chemistry, Biology make up 40% of GA). Study via [`Guides/Materials/General Awareness/`](../Guides/Materials/General%20Awareness/). |
 | **English Language** | **0%** | Tested in SSC CHSL (Vocab, Grammar, Cloze). | **NOT TESTED AT ALL IN RAILWAYS.** |
 
 ---
