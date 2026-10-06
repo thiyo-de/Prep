@@ -277,3 +277,241 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 | **Process of unwinding silk from cocoons** | **Reeling (நூல் எடுத்தல்)** |
 | **Tensile strength of a silk thread** | As strong as a **comparable thread of steel** |
 | **Country that invented silk & guarded it** | **Ancient China** (Empress Si-Lung-Chi $\to$ The Silk Route) |
+
+---
+
+## 📝 MODULE 6: THE PRACTICE QUESTIONS GAUNTLET (COMPLETE QUESTION BANK)
+
+> **Self-Testing Rule:** Try answering each question in under 15 seconds before checking the answer box!
+
+### Q1. Choose the correct answer from the given statements:
+*கொடுக்கப்பட்டுள்ள கூற்றுகளிலிருந்து சரியான விடையைத் தேர்ந்தெடுக்கவும்:*  
+*Statement (I): Natural fibres like cotton, wool, silk, nylon are obtained from plants or animals.*  
+*கூற்று (I): பருத்தி, கம்பளி, பட்டு, நைலான் போன்ற இயற்கை இழைகள் தாவரங்கள் அல்லது விலங்குகளிடமிருந்து பெறப்படுகின்றன.*  
+*Statement (II): Synthetic fibres are made by human beings, that is why these are called synthetic or man-made fibres.*  
+*கூற்று (II): செயற்கை இழைகள் மனிதர்களால் உருவாக்கப்படுகின்றன, அதனால்தான் இவை செயற்கை அல்லது மனிதனால் உருவாக்கப்பட்ட இழைகள் என்று அழைக்கப்படுகின்றன.*
+* (A) Statement (I) and Statement (II) both are true
+* (B) Statement (I) and Statement (II) both are false
+* (C) Statement (I) is true but Statement (II) is false
+* (D) Statement (I) is false but Statement (II) is true
+> **Answer:** **(D) Statement (I) is false but Statement (II) is true**  
+> **Explanation:** Statement (I) is false because **Nylon is a synthetic fibre**, not a natural fibre. Statement (II) is entirely correct.
+
+---
+
+### Q2. Separating cotton fibres from the seeds by combing is called ______:
+*பருத்தி இழையிலிருந்து அதன் விதைகளை சீவுதல் (Combing) மூலம் பிரித்தெடுக்கும் முறைக்கு ______ என்று பெயர்.*
+* (A) Ginning (ஜின்னிங் / விதை நீக்குதல்)
+* (B) Yarning (யார்னிங்)
+* (C) Thermoforming (தெர்மோஃபார்மிங்)
+* (D) Molding (மோல்டிங்)
+> **Answer:** **(A) Ginning (கொட்டையெடுத்தல் / விதை நீக்குதல்)**  
+> **Explanation:** Ginning separates seeds from raw cotton bolls using comb-like devices or automated ginning machinery.
+
+---
+
+### Q3. The process of making continuous yarn from raw fibres is called ______:
+*இழைகளிலிருந்து நூல் தயாரிக்கும் முறைக்கு ______ என்று பெயர்.*
+* (A) Ginning
+* (B) Spinning
+* (C) Knitting
+* (D) Weaving
+> **Answer:** **(B) Spinning (நூல் நூற்றல்)**  
+> **Explanation:** Drawing out a mass of cotton wool fibres and twisting them together produces yarn (Spinning).
+
+---
+
+### Q4. Give the correct sequence of manufacturing cotton fabric from the field:
+*பருத்தி நார் உற்பத்தியின் சரியான வரிசையைத் தருக:*  
+*1) Carding (சீவுதல்) | 2) Cultivation (சாகாபடி) | 3) Ginning (கொட்டை எடுத்தல்) | 4) Spinning (நூற்பு) | 5) Weaving (நெசவு)*
+* (A) 2, 1, 3, 4, 5
+* (B) 2, 3, 4, 5, 1
+* (C) 2, 3, 1, 4, 5
+* (D) 2, 1, 4, 5, 3
+> **Answer:** **(C) 2, 3, 1, 4, 5**  
+> **Explanation:** Cultivation (growing in field) $\to$ Ginning (removing seeds) $\to$ Carding (cleaning/sliver) $\to$ Spinning (making yarn) $\to$ Weaving (making fabric).
+
+---
+
+### Q5. Match the textile process in Column-I with its description in Column-II:
+*நிரல்-I இல் உள்ள செயல்முறையின் பெயரை, நிரல்-II இல் உள்ள அதன் விளக்கத்துடன் பொருத்துக:*
+
+| Column-I (செயல்முறை) | Column-II (விளக்கம்) |
+| :--- | :--- |
+| **A. Ginning (ஜின்னிங்)** | **i.** Arranging two sets of yarns together to make a fabric *(இரண்டு செட் நூல்களை ஒன்றாகச் சேர்த்து துணியை உருவாக்குதல்)* |
+| **B. Spinning (நூற்பு)** | **ii.** Making a piece of fabric from a single yarn *(ஒரே ஒரு நூலில் இருந்து ஒரு துண்டு துணியை உருவாக்குதல்)* |
+| **C. Knitting (பின்னல்)** | **iii.** Separation of fibres from cotton seeds *(பருத்தி விதைகளிலிருந்து இழைகளைப் பிரித்தல்)* |
+| **D. Weaving (நெய்தல்)** | **iv.** Making yarns from fibres *(இழைகளிலிருந்து நூல்களை உருவாக்குதல்)* |
+
+* (A) A - iii, B - iv, C - ii, D - i
+* (B) A - iv, B - i, C - ii, D - iii
+* (C) A - iii, B - iv, C - i, D - ii
+* (D) A - ii, B - iii, C - iv, D - i
+> **Answer:** **(A) A - iii, B - iv, C - ii, D - i**  
+> **Explanation:** Ginning = Seed removal (iii); Spinning = Fibre to yarn (iv); Knitting = Single yarn loops (ii); Weaving = 2 sets of yarns interlaced (i).
+
+---
+
+### Q6. Which among the following fibres is obtained directly from animals?
+*பின்வருவனவற்றில் விலங்குகளிடமிருந்து பெறப்படும் இழை எது?*
+* (A) Wool
+* (B) Nylon
+* (C) Cotton
+* (D) Jute
+> **Answer:** **(A) Wool (கம்பளி)**  
+> **Explanation:** Wool is obtained from the fleece of sheep, goats, or yaks. (Cotton & Jute are plant fibres; Nylon is synthetic).
+
+---
+
+### Q7. Which of the following is an example of an animal fibre?
+*விலங்குகளிடமிருந்து பெறப்படும் இழைக்கு ஒரு உதாரணம்:*
+* (A) Cotton
+* (B) Silk
+* (C) Nylon
+* (D) Polyester
+> **Answer:** **(B) Silk (பட்டு)**  
+> **Explanation:** Silk is an animal protein fibre secreted by the silkworm caterpillar (*Bombyx mori*).
+
+---
+
+### Q8. Which of the following does NOT constitute 90% of the dry weight of any human food?
+*பின்வருவனவற்றில் எது எந்த ஒரு உணவின் உலர் எடையில் (dry weight) 90 சதவீதமாக இருப்பதில்லை?*
+* (A) Carbohydrates
+* (B) Fibres
+* (C) Proteins
+* (D) Fats
+> **Answer:** **(B) Fibres (நார்ப்பொருட்கள்)**  
+> **Explanation:** Carbohydrates, Proteins, and Fats form over 90% of dry food mass; dietary fibres provide non-nutritive indigestible bulk in small percentages.
+
+---
+
+### Q9. Arrange the steps of the cotton system spinning in the correct industrial sequence:
+*பருத்தி நூற்பு முறையின் நிலைகளைச் சரியான வரிசையில் அடுக்கவும்:*  
+*A. Drawing (இழுத்தல்) | B. Spinning (நூற்பு) | C. Roving (ரோவிங்) | D. Carding (கார்டிங்) | E. Blow Room Operations (ப்ளோ ரூம் செயல்பாடுகள்)*
+* (A) E, D, A, C, B
+* (B) A, B, D, C, E
+* (C) E, C, D, A, B
+* (D) D, C, B, A, E
+> **Answer:** **(A) E, D, A, C, B**  
+> **Explanation:** **Blow Room (E)** cleans bales $\to$ **Carding (D)** produces sliver $\to$ **Drawing (A)** parallels sliver $\to$ **Roving (C)** thins strand $\to$ **Spinning (B)** twists into yarn.
+
+---
+
+### Q10. Which statement is true about the rearing of silkworms for obtaining silk?
+*பட்டுப்புழு வளர்ப்பு குறித்த பின்வரும் கூற்றுகளில் எது சரியானது?*
+* (A) The rearing of silkworms for obtaining silk is called silk
+* (B) The rearing of silkworms for obtaining silk is called the cocoon
+* (C) The rearing of silkworms for obtaining silk is called sericulture
+* (D) The rearing of silkworms for obtaining silk is called silviculture
+> **Answer:** **(C) The rearing of silkworms for obtaining silk is called sericulture (பட்டுப்புழு வளர்ப்பு)**  
+> **Explanation:** Commercial silkworm rearing is **Sericulture**. *(Silviculture refers to the cultivation and management of forest trees).*
+
+---
+
+### Q11. Which fatal occupational disease is associated with workers in the wool sorting industry?
+*கம்பளி தரம் பிரிக்கும் (sorting) தொழிற்சாலை தொழிலாளர்களைத் தாக்கும் தொழில்சார் நோய் எது?*
+* (A) Sorter's Disease (Anthrax)
+* (B) Silicosis
+* (C) Asbestosis
+* (D) Tuberculosis
+> **Answer:** **(A) Sorter's Disease (Anthrax)**  
+> **Explanation:** Caused by inhaling airborne spores of the bacterium ***Bacillus anthracis*** present in infected animal fleece.
+
+---
+
+### Q12. The process of thoroughly washing sheared sheep fleece in tanks to remove natural grease, dust, and dirt is called:
+*கத்தரிக்கப்பட்ட ரோமத்திலிருந்து பிசுபிசுப்பு மற்றும் அழுக்கை நீக்க பெரிய தொட்டிகளில் கழுவும் முறைக்கு என்ன பெயர்?*
+* (A) Shearing
+* (B) Scouring
+* (C) Sorting
+* (D) Carding
+> **Answer:** **(B) Scouring (சுத்தம் செய்தல்)**  
+> **Explanation:** Scouring washes away animal sebum grease, dirt, and dried perspiration before sorting.
+
+---
+
+### Q13. The tiny, fluffy fibre balls that are combed and picked out from sheep fleece are known as:
+*ரோமத்திலிருந்து தேர்ந்தெடுக்கப்படும் சிறிய மென்மையான சுருள் உருண்டைகள் எவ்வாறு அழைக்கப்படுகின்றன?*
+* (A) Sliver
+* (B) Burrs
+* (C) Cocoons
+* (D) Bolls
+> **Answer:** **(B) Burrs (பர்ஸ் / சுருள்கள்)**  
+> **Explanation:** Burrs are small fluffy fibre clusters that appear on untreated wool and sweaters if not combed out.
+
+---
+
+### Q14. Why does shearing (fleece cutting) not cause any physical pain to a sheep?
+*செம்மறியாட்டின் முடிகளை கத்தரிப்பது அதற்கு வலியை ஏற்படுத்தாதது ஏன்?*
+* (A) Wool is made of living nerve cells
+* (B) The uppermost layer of the skin consists of dead cells
+* (C) Sheep are given heavy anesthesia
+* (D) Sheep have no skin receptors
+> **Answer:** **(B) The uppermost layer of the skin consists of dead cells**  
+> **Explanation:** Just like human hair and fingernails, the epidermis's stratum corneum is composed of dead keratinized cells.
+
+---
+
+### Q15. World-famous luxury "Pashmina" shawls are woven from the soft under-fur of:
+*உலகப் புகழ்பெற்ற 'பஷ்மினா' சால்வைகள் எந்த விலங்கின் மென்மையான ரோமத்திலிருந்து நெய்யப்படுகின்றன?*
+* (A) Angora Rabbit
+* (B) Kashmiri Goat
+* (C) Bactrian Camel
+* (D) Llama
+> **Answer:** **(B) Kashmiri Goat (காஷ்மீரி ஆடு)**  
+> **Explanation:** Kashmiri goats living in extreme Himalayan altitudes produce an ultra-fine, insulating under-fur called Pashmina.
+
+---
+
+### Q16. High-durability luxury "Mohair" wool is obtained from which specialized animal breed?
+*'மோஹேர்' (Mohair) கம்பளி எந்த சிறப்பு ஆட்டு இனத்திலிருந்து பெறப்படுகிறது?*
+* (A) Angora Goat
+* (B) Marino Sheep
+* (C) Tibetan Yak
+* (D) Alpaca
+> **Answer:** **(A) Angora Goat (அங்கோரா ஆடு)**  
+> **Explanation:** Angora goats produce Mohair, known for its high luster, sheen, and resilience.
+
+---
+
+### Q17. Jute fibre is extracted from which anatomical part of the jute plant?
+*சணல் இழை சணல் செடியின் எந்தப் பகுதியிலிருந்து பிரித்தெடுக்கப்படுகிறது?*
+* (A) Leaf
+* (B) Stem / Bark
+* (C) Root
+* (D) Flower
+> **Answer:** **(B) Stem / Bark (தண்டு)**  
+> **Explanation:** Jute is a bast fibre stripped from the outer stem tissue after microbiological rotting in stagnant water (**Retting**).
+
+---
+
+### Q18. While secreting the continuous silk filament to form a cocoon, the silkworm moves its head in which geometric pattern?
+*பட்டுக்கூடு கட்டும்போது பட்டுப்புழு தனது தலையை எந்த வடிவில் அசைக்கிறது?*
+* (A) Circular loop (O)
+* (B) Figure of Eight (8)
+* (C) Spiral helix (S)
+* (D) Zig-zag (Z)
+> **Answer:** **(B) Figure of Eight (8)**  
+> **Explanation:** The caterpillar swings its head in the shape of the number "8", extruding liquid fibroin protein from salivary spinnerets.
+
+---
+
+### Q19. The technical process of unwinding delicate continuous silk filaments from boiled cocoons is known as:
+*கொதிக்கவைத்த பட்டுக்கூட்டிலிருந்து பட்டு நூலை பிரித்தெடுக்கும் தொழில்நுட்ப முறைக்கு என்ன பெயர்?*
+* (A) Shearing
+* (B) Ginning
+* (C) Reeling
+* (D) Scouring
+> **Answer:** **(C) Reeling (நூல் எடுத்தல் / ரீலிங்)**  
+> **Explanation:** Reeling unspools $300\text{ to }900\text{ meters}$ of continuous silk thread from 3–8 softened cocoons together into a single strand.
+
+---
+
+### Q20. Chemically, both natural Wool and Silk fibres are composed of which biological macromolecule?
+*வேதியியல் ரீதியாக கம்பளி மற்றும் பட்டு ஆகிய இரண்டு இயற்கை இழைகளும் எதனால் ஆனவை?*
+* (A) Cellulose (கார்போஹைட்ரேட்)
+* (B) Proteins (புரதங்கள்)
+* (C) Lipids (கொழுப்புகள்)
+* (D) Nucleic acids
+> **Answer:** **(B) Proteins (புரதங்கள்)**  
+> **Explanation:** Animal fibres are animal protein polymers (Wool = Keratin protein; Silk = Fibroin and Sericin proteins). In contrast, plant fibres like cotton and jute are Cellulose!
