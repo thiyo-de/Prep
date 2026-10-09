@@ -1,85 +1,91 @@
-# 🎯 SSC & Railway Unified Exam Preparation Engine (`Prep`)
+# Government Exam Preparation
 
-> **Primary Targets:**  
-> 1. **SSC CHSL 2026:** DEO Grade 'A' (Target: **176+ / 200**) & LDC/JSA (Target: **157+ / 200**)  
-> 2. **RRB NTPC:** Level 6 Commercial Apprentice / Station Master & Level 5 Goods Train Manager  
-> **Strategic Principle:** Unified core syllabus foundation with exam-specific depth adaptation.
+A shared preparation repository for **SSC CHSL 2026** and **RRB NTPC Graduate 2026**, containing notifications, detailed syllabuses, timetable coverage guides and subject notes. Shared foundations also support later SSC CGL preparation; CGL-specific coverage is not included yet.
 
----
+**Focus:** pay-first job preferences, exam-specific preparation and practical posting information.
 
-## 💡 Strategic Core: Why SSC + Railway are Unified Here
+Updated: **9 October 2026**.
 
-Both exams share **~85–90% of the syllabus**, allowing one single foundational preparation engine. However, the **depth, speed constraints, and subject focus differ**:
+## Exam guides
 
+**[All-in-one CHSL + NTPC covering list](CHSL_NTPC_2026_ALL_IN_ONE_COVERING_LIST.md)** - merged topics, exam-specific additions and timetable gaps in one reference.
+
+| Exam | Post priorities, salary and dates | Detailed syllabus | Timetable coverage |
+|---|---|---|---|
+| SSC CHSL | [CHSL guide](CHSL/README.md) | [Syllabus](CHSL/Syllabus/CHSL_2026_DETAILED_SYLLABUS.md) | [Coverage guide](CHSL/Syllabus/CHSL_2026_EXAM_COVERING_LIST.md) |
+| RRB NTPC Graduate | [NTPC guide](NTPC/README.md) | [Syllabus](NTPC/Syllabus/NTPC_2026_DETAILED_SYLLABUS.md) | [Coverage guide](NTPC/Syllabus/NTPC_2026_EXAM_COVERING_LIST.md) |
+
+## Job priorities and salary
+
+**CHSL:** DEO Level 5 > DEO Level 4 / DEO Grade A > LDC / JSA.
+
+**NTPC:** Chief Commercial cum Ticket Supervisor > Goods Train Manager > Junior Accounts Assistant / Senior Clerk.
+
+These are income-first recommendations, subject to post eligibility. NTPC Goods Train Manager is prioritised for running-allowance potential, not a guaranteed take-home ranking. JAA and Senior Clerk have equal starting basic pay.
+
+| Exam | Post | Starting basic / month | Approx. in-hand / month |
+|---|---|---|---|
+| NTPC | Chief Commercial cum Ticket Supervisor | Rs. 35,400 | Rs. 57,000-67,000 |
+| NTPC | Goods Train Manager | Rs. 29,200 | Duty-dependent; running allowances apply |
+| NTPC | Junior Accounts Assistant / Senior Clerk | Rs. 29,200 | Rs. 47,000-56,000 |
+| CHSL | DEO - Level 5, where available | Rs. 29,200 | Rs. 47,000-56,000 |
+| CHSL | DEO / DEO Grade A - Level 4 | Rs. 25,500 | Rs. 42,000-50,000 |
+| CHSL | LDC / JSA | Rs. 19,900 | Rs. 31,000-36,000 |
+
+Salary ranges are planning estimates using 60% DA, 10-30% HRA, standard transport allowance, 10% pension contribution on basic + DA and ordinary deductions. Individual income tax, loans and special allowances are excluded. Posting, government quarters and training can change pay. Calculation sources and full assumptions are in the exam guides above.
+
+## Exam dates
+
+| Exam | Stage | Date / status |
+|---|---|---|
+| CHSL 2026 | Tier-I | **30 November-31 December 2026 - officially proposed window** |
+| CHSL 2026 | Tier-II / skill or typing test | No date verified as of this update |
+| NTPC Graduate 2026 | CBT-1 | Not specified in supplied notice; no later official date verified |
+| NTPC Graduate 2026 | CBT-2 | Not specified in supplied notice; no later official date verified |
+
+The CHSL window comes from the [official SSC notice dated 1 October 2026](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_01102026.pdf). It is not an individual candidate's exam date. Application and correction dates are listed in each exam guide.
+
+NTPC recruitment details follow the [supplied CEN 06/2026 PDF](NTPC/Notice/Notification.pdf). A matching official-hosted copy was not independently verified; confirm the cycle and amendments through the [official RRB portal](https://rrb.indianrailways.gov.in/).
+
+## Posting region
+
+CHSL has all-India posting liability. RRB Chennai / Southern Railway is a regional option, but postings can be elsewhere in Tamil Nadu or Kerala. **Neither examination guarantees Trichy or nearby towns.** An examination centre does not determine the job location.
+
+## Preparation approach
+
+Use the detailed syllabus to establish scope, the coverage guide to identify gaps in the coaching timetable, and shared notes for revision. Practise exam-specific questions and timed papers alongside the timetable.
+
+| Area | Shared preparation | Exam-specific work |
+|---|---|---|
+| Mathematics | Arithmetic and overlapping mathematical topics | Follow each exam's full syllabus and timing |
+| Reasoning | Series, analogy, coding, logic and other overlapping topics | Cover the additional topics listed in each syllabus |
+| General Awareness | History, geography, polity, economy, science and current affairs | Use the respective syllabus to set breadth and depth |
+| English | Useful for SSC preparation | CHSL tests English; NTPC has no separate English section |
+| Computer / typing | Computer knowledge and practical accuracy | Follow the selection rules for the particular exam and post |
+
+Coaching timetables are study sequences, not official exam schedules. Completing their daily topics does not automatically cover every notification requirement.
+
+## Repository structure
+
+```text
+CHSL/
+  Notice/       Recruitment notification
+  Syllabus/     Detailed syllabus and coverage guide
+  Time Table/   Coaching timetable
+  README.md     Post priorities, salary and dates
+NTPC/
+  Notice/       Supplied recruitment notification
+  Syllabus/     Detailed syllabus and coverage guide
+  Time Table/   Coaching timetable
+  README.md     Post priorities, salary and dates
+Guides/
+  Materials/    Reference PDFs and study resources
+  Notes/        Subject notes and note templates
+  Teaching Rule/  Tutoring instructions
 ```
-                       ┌───────────────────────────────┐
-                       │   Guides/ (Unified Engine)    │
-                       │   • Quantitative Aptitude     │
-                       │   • Reasoning                 │
-                       │   • General Awareness         │
-                       │   • English Language          │
-                       └───────────────┬───────────────┘
-                                       │
-                 ┌─────────────────────┴─────────────────────┐
-                 ▼                                           ▼
-  ┌───────────────────────────────┐           ┌───────────────────────────────┐
-  │         CHSL/ (SSC)           │           │         NTPC/ (Railway)       │
-  │ • High Speed: 36 sec/question │           │ • Moderate: 54 sec/question   │
-  │ • English Tested (Tier-I & II)│           │ • Zero English (0%)           │
-  │ • Advanced Maths (Geometry,   │           │ • High Science Depth (Lucent  │
-  │   Algebra, Trigonometry)      │           │   Physics, Chem, Bio ~40%)    │
-  └───────────────────────────────┘           └───────────────────────────────┘
-```
 
-| Dimension | SSC CHSL 2026 | RRB NTPC (Graduate / UG) | Strategic Action |
-| :--- | :--- | :--- | :--- |
-| **Syllabus Overlap** | Reference Baseline | **~85–90% Overlap** | Prepare topics once in `Guides/`. |
-| **Speed / Time Limit** | 60 mins / 100 Qs (**36s / Q**) | 90 mins / 100 Qs (**54s / Q**) | Practice high speed for SSC; accuracy & calculation for Railway. |
-| **General Awareness Depth** | Broad Static GK, History, Polity, CA | **Deep General Science (~40% of GA)** | Study NCERT / Lucent Physics, Chem, Bio via `Guides/Materials/`. |
-| **English Language** | **Mandatory** (25 Qs Tier-I, 40 Qs Tier-II) | **Not Tested (0%)** | English prep in `Guides/` serves SSC and Tier-II exclusively. |
-| **Mathematics Depth** | Heavy Advanced Maths + Arithmetic | Arithmetic heavy + Elementary Stats | Core math notes cover both; practice statistics for Railway CBT-2. |
+## Shared resources
 
----
+[Study guides](Guides/README.md) | [Reasoning notes](Guides/Notes/Reasoning/Reasoning-Notes.md) | [English fundamentals](Guides/Notes/English/01-Fundamentals-and-Parts-of-Speech.md) | [Biology notes](Guides/Notes/General%20Awareness/Biology/) | [Note template](Guides/Notes/Templates/Notes-Template-Prompt.md)
 
-## ⚡ Quick-Click Study Launchpad
-
-### 📚 Unified Guides & Knowledge Base (`Guides/`)
-* [📚 **Master Guides Index**](Guides/README.md) — Overview of shared materials, notes, and topic mappings.
-* [🧠 **General Intelligence & Reasoning Notes**](Guides/Notes/Reasoning/Reasoning-Notes.md) — Analogy, Classification, Series, Coding-Decoding, Traps.
-* [📘 **English: Fundamentals & Parts of Speech Notes**](Guides/Notes/English/01-Fundamentals-and-Parts-of-Speech.md) — Sentence architecture, Clause vs Phrase, Subject/Object/Complements, Articles, SVOCA, and Parts of Speech.
-* [🧬 **Biology: Food & Nutrition Notes**](Guides/Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md) — Concepts, food tests (Iodine, Biuret), vitamin/mineral directories, deficiency diseases.
-* [🧵 **Biology: Fibre to Fabric Notes**](Guides/Notes/General%20Awareness/Biology/02-Fibre-to-Fabric.md) — Natural vs synthetic fibres, cotton/wool/silk processing, sericulture, and industrial exam traps.
-* [📝 **Notes Generator Prompt**](Guides/Notes/Templates/Notes-Template-Prompt.md) — Standardized AI prompt template to generate reference notes for Quant & GA.
-* [📁 **Study Materials Library**](Guides/Materials/) — Handouts, textbooks, and subject PDFs (e.g., [Biology Food & Nutrition](Guides/Materials/General%20Awareness/Biology/1%20Food/Food.pdf)).
-* [🎓 **Mastery Teaching Rules (`Teach-Rule.md`)**](Guides/Teaching%20Rule/Teach-Rule.md) — Socratic learning protocol, feedback engine, and 20-question Gauntlet framework.
-
-### 🏛️ SSC CHSL Specific Track (`CHSL/`)
-* [✅ **SSC CHSL 2026 Interactive Study Checklist**](CHSL/README.md) — Topic checklists, mock scorecards, and daily tracking.
-* [📅 **13-Week Master Roadmap**](CHSL/Syllabus/CHSL_2026_MASTER_ROADMAP.md) — Week-by-week phase breakdown (Baseline $\to$ 100 $\to$ 145 $\to$ 176+).
-* [📑 **Verified Detailed Syllabus**](CHSL/Syllabus/CHSL_2026_DETAILED_SYLLABUS.md) — Complete Tier-I and Tier-II topic breakdown and skill tests.
-* [📄 **Official Notification (PDF)**](CHSL/Notice/Notice_of_adv_chsle_2026.pdf) — Exam pattern, vacancies, eligibility, and post details.
-* [⏱️ **90-Day Study Timetable (PDF)**](CHSL/Time%20Table/SSC%20CHSL%202026%2090%20DAY%20TIMETABLE.pdf) — Comprehensive 90-day timetable.
-
-### 🚆 RRB NTPC Specific Track (`NTPC/`)
-* [🚆 **RRB NTPC Master Exam & Preparation Guide**](NTPC/README.md) — Graduate & Undergraduate posts, Level 6 Commercial Apprentice / Station Master salary details, CBT-1 & 2 exam schemes, and overlap strategy.
-
----
-
-## 🧭 13-Week Roadmap at a Glance
-
-```
-W1: Baseline Mock ──► W2–W6: Foundation ──► W7–W10: Consolidation ──► W11–W12: Sprint ──► W13: Taper
- (Diagnose Gaps)       (Target: 0 → 100)     (Target: 100 → 145)      (Target: 145 → 176+)  (Formula Revision)
-```
-
-## ⏰ Daily Operational Rhythm (30 Hours/Week)
-
-| Day | Morning Block (5:00 – 7:00 AM) | Evening Block (8:30 – 10:30 PM) |
-| :--- | :--- | :--- |
-| **Monday** | Quantitative Aptitude (New Concepts) | English Language (Grammar + Vocab) |
-| **Tuesday** | Reasoning (New Concepts & Patterns) | General Awareness (Static GK / Science) |
-| **Wednesday** | Quantitative Aptitude (Practice Drills) | English Language (Cloze / Error Practice) |
-| **Thursday** | Reasoning (Practice Drills / Speed) | General Awareness (Science Focus: Lucent) |
-| **Friday** | Quantitative Aptitude (Weak Area Revisit) | Quantitative Aptitude (Practice / Tier-II Maths) |
-| **Saturday** | English Language (Voice / Narration Drill) | General Awareness (Revision & Quiz) |
-| **Sunday** | **60-min Full Mock + 60-min Error Review** | **2-Hour Error Analysis & Remediation** |
+Official notifications and later amendments take precedence over study notes, coaching material and this repository's recommendations.

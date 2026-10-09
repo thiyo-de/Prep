@@ -1,113 +1,43 @@
-# 🚆 RRB NTPC (GRADUATE & UNDERGRADUATE) — MASTER EXAM & PREPARATION GUIDE
+# RRB NTPC Graduate 2026
 
-> **Agent Context & Purpose:** This document is the master knowledge base for the **Railway Recruitment Board Non-Technical Popular Categories (RRB NTPC)** examination. Any AI model reading this file should act as an expert Railway Exam Mentor, assisting the candidate with eligibility verification, post preference locking, syllabus tracking, and CBT-1 / CBT-2 preparation.
+Pay-first post priorities and examination dates from the supplied CEN 06/2026. Updated: 9 October 2026.
 
----
+## Job priority and salary
 
-## 🧭 EXECUTIVE OVERVIEW
+| Priority | Post | Pay level | Starting basic / month | Approx. in-hand / month |
+|---|---|---|---|---|
+| 1 | Chief Commercial cum Ticket Supervisor | 6 | Rs. 35,400 | Rs. 57,000-67,000 |
+| 2 | Goods Train Manager | 5 | Rs. 29,200 | Duty-dependent; see note below |
+| 3 (equal) | Junior Accounts Assistant cum Typist | 5 | Rs. 29,200 | Rs. 47,000-56,000 |
+| 3 (equal) | Senior Clerk cum Typist | 5 | Rs. 29,200 | Rs. 47,000-56,000 |
 
-| Dimension | Details |
-| :--- | :--- |
-| **Exam Name** | Railway Recruitment Board — Non-Technical Popular Categories (RRB NTPC) |
-| **Conducting Body** | Indian Railways (through 21 regional RRBs: RRB Chennai, Mumbai, Kolkata, etc.) |
-| **Target Notification** | Expected October |
-| **Target Posts** | **Commercial Apprentice (CA)**, **Station Master (SM)**, **Goods Train Manager** |
-| **Selection Mode** | 100% Merit-Based (CBT-1 $\to$ CBT-2 $\to$ CBAT/Typing $\to$ Document & Medical Verification). **No Interview.** |
-| **Candidate Base Strategy** | Dual-track preparation with **SSC CHSL 2026** (~85–90% syllabus overlap). |
+**Income-first preference: Commercial Supervisor > Goods Train Manager > JAA / Senior Clerk.** Commercial Supervisor has the highest starting basic pay. Goods Train Manager is placed second for running-allowance potential, not a guaranteed take-home ranking; actual earnings can exceed those of higher-basic-pay posts. JAA and Senior Clerk have equal starting pay.
 
----
+Goods Train Manager pay depends on running duties, kilometreage and special running-staff pay rules. A reliable monthly in-hand estimate cannot be derived from this recruitment notice alone; the clerical salary range should not be treated as its payslip estimate. Operational shifts also affect preparation time.
 
-## 💰 POST HIERARCHY & SALARY BREAKDOWN (7TH CPC)
+Estimates assume 60% DA, 10-30% HRA, standard transport allowance, 10% pension contribution on basic + DA, and roughly Rs. 300-1,000 in other deductions. They exclude individual income-tax deductions, loans and special allowances. Government quarters, training pay and later allowance revisions can change the amount; these are planning estimates, not salary guarantees.
 
-### Top Target Posts (Priority Hierarchy)
+Calculation references: [DA baseline](https://www.epfindia.gov.in/site_docs/PDFs/Circulars/Y2026-2027/Circular_EnhancementOfDA_%2024042026.pdf), [HRA rules](https://www.pib.gov.in/NEWSITE/erelcontent.aspx?lang=2&reg=3&relid=166967), [transport allowance](https://doe.gov.in/files/cenetral-pay_document/TPTA_Eng1.pdf), [pension contribution](https://www.pfrda.org.in/en/web/pfrda/schemes/national-pension-system/nps-for-central-government).
 
-```
-1. Commercial Apprentice (Level 6) ──► Highest Comfort & Office Prestige (Desk Job)
-2. Station Master (Level 6)        ──► Operational Authority & Leadership (Station Operations)
-3. Goods Train Manager (Level 5)   ──► Highest In-Hand Cash (Running Staff + Km Allowance)
-```
+## Examination dates
 
-### Detailed Monthly Salary Comparison
+| Event | Date / status in supplied notice |
+|---|---|
+| Applications | 8 October-6 November 2026, closing 11:59 PM |
+| Fee deadline | 8 November 2026 |
+| Modification window | 9-18 November 2026 |
+| CBT-1 | Date not specified; no later official date verified |
+| CBT-2 | Date not specified; no later official date verified |
+| Document verification / medical | To be communicated by RRB |
 
-| Pay Component | Commercial Apprentice (Level 6) | Station Master (Level 6) | Goods Train Manager (Level 5) |
-| :--- | :---: | :---: | :---: |
-| **Pay Level (7th CPC)** | **Level 6** | **Level 6** | **Level 5** |
-| **Basic Pay** | ₹35,400 | ₹35,400 | ₹29,200 |
-| **Dearness Allowance (DA ~50%)** | ₹17,700 | ₹17,700 | ₹14,600 |
-| **HRA (City X: 27% / 30%)** | ₹9,558 | ₹9,558 | ₹7,884 |
-| **Transport Allowance (TA)** | ₹4,800 | ₹4,800 | ₹4,800 |
-| **Night Duty / Overtime** | — | ₹3,000 – ₹5,000 | ₹3,000 – ₹5,000 |
-| **Running Allowance (KMA)** | — | — | **₹20,000 – ₹35,000+** |
-| **Estimated Gross Salary** | **₹67,000 – ₹72,000** | **₹70,000 – ₹78,000** | **₹78,000 – ₹95,000+** |
-| **Estimated Net In-Hand** | **₹60,000 – ₹66,000** | **₹63,000 – ₹70,000** | **₹72,000 – ₹88,000+** |
+Source: [supplied notification](Notice/Notification.pdf), page 4. A matching official-hosted CEN 06/2026 was not independently verified. Confirm this cycle and amendments on the [official RRB portal](https://rrb.indianrailways.gov.in/); dates from another NTPC cycle do not apply.
 
-### Post Profile & Stage Requirements
+## Posting
 
-1. **Commercial Apprentice (CA) — *The "King" Post*:**
-   * **Role:** Commercial inspection, cargo/freight booking, passenger amenities. Fixed day shifts.
-   * **Selection Stages:** **Only CBT-1 + CBT-2.** (No Typing test, No Aptitude test).
-   * **Medical Standard:** **C-2** (Spectacles/glasses completely allowed; lenient eye standards).
+RRB Chennai / Southern Railway does not guarantee Trichy. Southern Railway postings can be elsewhere in Tamil Nadu or Kerala; ICF is a Chennai option. Location and duty hours are secondary considerations after pay in the preference order above.
 
-2. **Station Master (SM) — *The Operational Leader*:**
-   * **Role:** Station operations, train dispatching, signal coordination, safety compliance.
-   * **Selection Stages:** CBT-1 $\to$ CBT-2 $\to$ **CBAT (Computer-Based Aptitude / Psycho Test)**.
-   * **Medical Standard:** **A-2** (Strict distant vision $6/9, 6/9$ without glasses; zero color blindness).
+## Study material
 
-3. **Goods Train Manager (Goods Guard) — *Maximum In-Hand Cash*:**
-   * **Role:** In charge of freight train running, brake-van operation, route verification.
-   * **Selection Stages:** **Only CBT-1 + CBT-2.** (No Typing, No CBAT).
-   * **Medical Standard:** **A-2** (Strict distant vision $6/9, 6/9$ without glasses).
+[All-in-one CHSL + NTPC covering list](../CHSL_NTPC_2026_ALL_IN_ONE_COVERING_LIST.md)
 
----
-
-## 🎯 EXAM SCHEME & MARKING RULES
-
-### Stage 1: CBT-1 (Screening Test — Common for All Posts)
-* **Duration:** **90 Minutes** (120 Minutes for PwBD)
-* **Total Questions:** **100 Questions** (1 mark each)
-* **Negative Marking:** **$-\frac{1}{3}$** ($0.33$ mark deducted per incorrect answer)
-* **Subject Distribution:**
-  * **General Awareness (GK + Science):** 40 Questions
-  * **Mathematics:** 30 Questions
-  * **General Intelligence & Reasoning:** 30 Questions
-  * 🟢 **NO ENGLISH SECTION.**
-
-### Stage 2: CBT-2 (Main Examination — Decides Merit & Cutoff)
-* **Duration:** **90 Minutes**
-* **Total Questions:** **120 Questions** (1 mark each)
-* **Negative Marking:** **$-\frac{1}{3}$**
-* **Subject Distribution:**
-  * **General Awareness (GK + Science):** 50 Questions
-  * **Mathematics:** 35 Questions
-  * **General Intelligence & Reasoning:** 35 Questions
-
----
-
-## 🔄 SYLLABUS OVERLAP: SSC CHSL vs. RRB NTPC
-
-| Subject | Overlap % | Syllabus Scope & Key Topics | Strategy |
-| :--- | :---: | :--- | :--- |
-| **Mathematics** | **95%** | Number Systems, Percentages, Ratio, Profit & Loss, SI/CI, Time & Work, Time & Distance, Algebra, Geometry, Trigonometry, Mensuration, Elementary Statistics. | **100% Identical.** Prepare via SSC CHSL; covers Railway CBT-1 and CBT-2 fully. |
-| **Reasoning** | **95%** | Analogy, Classification (Odd One Out), Number & Alphabet Series, Coding-Decoding, Mathematical Operations, Blood Relations, Syllogisms, Venn Diagrams, Puzzles. | **100% Identical.** Notes in [`Guides/Notes/Reasoning/Reasoning-Notes.md`](../Guides/Notes/Reasoning/Reasoning-Notes.md) apply directly. |
-| **General Awareness** | **80%** | History, Polity, Geography, Economy, Static GK, Current Affairs, General Science. | **NTPC asks heavily from Lucent Science** (Physics, Chemistry, Biology make up 40% of GA). Study via [`Guides/Materials/General Awareness/`](../Guides/Materials/General%20Awareness/). |
-| **English Language** | **0%** | Tested in SSC CHSL (Vocab, Grammar, Cloze). | **NOT TESTED AT ALL IN RAILWAYS.** |
-
----
-
-## 📋 PRE-NOTIFICATION ACTION CHECKLIST
-
-Before the official notification releases:
-
-1. **Aadhaar Card Verification:** Ensure your Aadhaar is linked to an active mobile number for OTP verification.
-2. **Category Certificate (OBC-NCL / EWS / SC / ST):** Must be in **Central Government format**, issued within the valid financial year.
-3. **Educational Certificates:** 10th marksheet (Date of Birth proof), 12th marksheet, and Degree passing certificate/marksheets.
-4. **Eye Checkup (Self-Check):** If targeting Station Master or Goods Guard, verify that distant vision meets the **A-2 standard ($6/9, 6/9$ without glasses)**. If you wear glasses, prioritize **Commercial Apprentice** and clerical posts.
-
----
-
-## 🤖 INSTRUCTIONS FOR AI ASSISTANTS
-When this file is loaded into any AI conversation:
-1. Treat the user as an **SSC CHSL & RRB NTPC dual-aspirant**.
-2. When creating study schedules or mock tests, integrate Railway CBT-1 speed targets (**54 seconds/question**) alongside CHSL speed targets (**36 seconds/question**).
-3. Prioritize **General Science (Physics, Chemistry, Biology from Lucent GK)** during General Awareness drills.
-4. Maintain the post preference order: **Commercial Apprentice $\to$ Station Master $\to$ Goods Train Manager**.
+[Detailed syllabus](Syllabus/NTPC_2026_DETAILED_SYLLABUS.md) | [Coverage guide](Syllabus/NTPC_2026_EXAM_COVERING_LIST.md) | [Timetable](Time%20Table/RRB%20NTPC%202026%20120%20Day%20Timetable.pdf) | [CHSL](../CHSL/README.md)

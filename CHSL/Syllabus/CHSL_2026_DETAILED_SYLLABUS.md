@@ -1,3 +1,11 @@
+# SSC CHSL 2026 - DETAILED SYLLABUS
+
+> **Source:** [Supplied CHSL 2026 Notification](../Notice/Notice_of_adv_chsle_2026.pdf), paragraphs 13.10-13.11, pages 21-24.
+> **Editorial note:** Lettered categories organise the notification's topics for study; they are not all official SSC headings.
+> **Practice mapping:** [Timetable and Exam Covering List](CHSL_2026_EXAM_COVERING_LIST.md).
+
+---
+
 ## TIER-I SYLLABUS
 
 ### 1. ENGLISH LANGUAGE
@@ -354,12 +362,10 @@ Questions cover:
 
 #### D. Comprehension
 
-Two or more paragraphs may be given.
+Two or more paragraphs will be given. The notification specifies:
 
-The passages may include:
-
-- A simple passage based on a book or story
-- A passage based on a current-affairs editorial or report
+- At least one simple paragraph based on a book or story
+- Another paragraph based on a current-affairs editorial or report
 
 Questions will test understanding and comprehension of the passages.
 
@@ -445,11 +451,15 @@ Questions will test understanding and comprehension of the passages.
 | Reasoning | ✓ | ✓ |
 | Mathematics | ✓ | ✓ |
 | General Awareness | ✓ | ✓ |
-| Computer | — | ✓ |
+| Dedicated Computer Knowledge test | Not a separate Tier-I component | Qualifying Tier-II component |
 | Probability | — | ✓ |
 | Standard Deviation | — | ✓ |
 | Comprehension | ✓ | ✓ |
 
-**Important:** Tier-II Mathematics is essentially the Tier-I Mathematics syllabus with **Statistics & Probability added**.
+**Important:** Tier-II retains the Tier-I Maths topics and explicitly adds mean, median, mode, standard deviation and simple probability. Averages and statistical charts already appear in Tier-I. Comprehension also appears in both tiers; Tier-II specifies the passage format above.
 
 Similarly, Tier-II adds a dedicated **Computer Knowledge/Proficiency** component.
+
+**Accessibility provision:** For VH candidates with 40% or more visual disability, the notification excludes Maps/Graphs/Diagrams/Statistical Data from Tier-I General Intelligence and Quantitative Aptitude and the corresponding Tier-II Maths and Reasoning modules (paragraphs 13.10.5 and 13.11.6).
+
+*Last Updated: 9 October 2026*
