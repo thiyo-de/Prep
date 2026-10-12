@@ -15,7 +15,8 @@ Guides/
 │   │   └── Biology/
 │   │       ├── 1 Food/Food.pdf
 │   │       ├── 2 Fibre to Fabric/Fibre to Fabric.pdf
-│   │       └── 3 Categories of Plants/Categories of Plants.pdf
+│   │       ├── 3 Categories of Plants/Categories of Plants.pdf
+│   │       └── 4 Body Movements/Chapter-04 BODY MOVEMENTS.pdf
 │   ├── Quantitative Aptitude/ # Arithmetic & Advanced Mathematics references
 │   └── Reasoning/             # General Intelligence & Logical Reasoning references
 │
@@ -47,6 +48,7 @@ Guides/
 * [🥗 **Biology: Food & Nutrition PDF**](Materials/General%20Awareness/Biology/1%20Food/Food.pdf) — Core Lucent/NCERT science reference for Railway GA.
 * [🧵 **Biology: Fibre to Fabric PDF**](Materials/General%20Awareness/Biology/2%20Fibre%20to%20Fabric/Fibre%20to%20Fabric.pdf) — Comprehensive slides on natural & animal fibres, sericulture, and wool processing.
 * [🌿 **Biology: Categories of Plants PDF**](Materials/General%20Awareness/Biology/3%20Categories%20of%20Plants/Categories%20of%20Plants.pdf) — Core NCERT biology study reference on plant categorization.
+* [🦴 **Biology: Body Movements PDF**](Materials/General%20Awareness/Biology/4%20Body%20Movements/Chapter-04%20BODY%20MOVEMENTS.pdf) — NCERT biology reference on human skeletal system, joints, and locomotion.
 
 ### 🎓 AI Tutor Protocol
 * [🎓 **Mastery Teaching Rules**](Teaching%20Rule/Teach-Rule.md) — Socratic study prompt for AI pair-tutoring.
