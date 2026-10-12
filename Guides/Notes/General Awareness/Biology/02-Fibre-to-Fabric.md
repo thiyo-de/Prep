@@ -2,8 +2,8 @@
 
 > **Section:** General Awareness / General Science — Biology (Chapter 02: Fibre to Fabric)  
 > **Target Exams:** RRB NTPC (CBT-1 & CBT-2) | SSC CHSL (Tier-I & Tier-II)  
-> **Weightage:** 1 to 2 Questions (Textile biology, natural vs synthetic polymers, sericulture, wool processing)  
-> **Source Material:** NCERT Science (Class 6th & 7th) + Chandru Maths Comprehensive Module  
+> **Exam scope:** General science preparation; no fixed chapter-wise question count is established.
+> **Source:** [Fibre to Fabric.pdf](../../../Materials/General%20Awareness/Biology/2%20Fibre%20to%20Fabric/Fibre%20to%20Fabric.pdf), 64 pages. Added explanations and practice are identified below.
 > **Purpose:** Personal reference notes — fibre taxonomy, industrial processing pipelines, sericulture, and exam traps.
 
 ---
@@ -27,13 +27,13 @@
 ## 🧬 MODULE 1: CORE TAXONOMY & THE 3-STAGE CHAIN
 
 ### 1. The Fundamental Pipeline
-Every garment undergoes a mandatory 3-stage morphological transformation:
+A common route for woven and knitted cloth is shown below. It is not universal: nonwoven fabrics can be formed without making yarn first.
 
 $$\mathbf{Fibre\ (இழை)} \xrightarrow[\text{Twisting}]{\text{Spinning}} \mathbf{Yarn\ (நூல்)} \xrightarrow[\text{Interlacing / Looping}]{\text{Weaving / Knitting}} \mathbf{Fabric\ (துணி)}$$
 
 * **Fibre (இழை / நார்):** Extremely thin, fine, hair-like elementary strand.
 * **Yarn (நூல்):** Continuous strand made by drawing out and twisting multiple fibres together.
-* **Fabric (துணி):** Finished wearable cloth manufactured by weaving or knitting yarns.
+* **Fabric (துணி):** Cloth commonly made by weaving or knitting yarns; nonwoven methods are another route.
 
 ---
 
@@ -51,7 +51,7 @@ $$\mathbf{Fibre\ (இழை)} \xrightarrow[\text{Twisting}]{\text{Spinning}} \ma
    PLANT FIBRES      ANIMAL FIBRES                       • Petrochemical-derived
   (Cellulose-based)  (Protein-based)                     • Man-made synthetic polymers
    • Cotton           • Wool (Sheep, Goat, Yak)          • Examples: Nylon, Polyester,
-   • Jute             • Silk (Silkworm)                    Acrylic, Rayon
+   • Jute             • Silk (Silkworm)                    Acrylic
    • Flax / Linen     • Mohair (Angora goat)
    • Coir (Coconut)   • Cashmere (Himalayan goat)
 ```
@@ -60,15 +60,17 @@ $$\mathbf{Fibre\ (இழை)} \xrightarrow[\text{Twisting}]{\text{Spinning}} \ma
 | :--- | :--- | :--- |
 | **Origin** | Derived directly from agricultural plants or animals. | Synthesized chemically from petroleum products (petrochemicals). |
 | **Chemical Basis** | **Cellulose** (Plants) or **Protein** (Animals: Keratin/Fibroin). | Synthetic polymers (Polyamides, Polyesters, Polyacrylics). |
-| **Key Examples** | Cotton, Jute, Linen, Wool, Silk. | **Nylon, Polyester, Acrylic, Rayon**. |
-| **Characteristics** | High breathability, moisture-absorbing, biodegradable. | High tensile strength, wrinkle-resistant, dries quickly, non-biodegradable. |
+| **Key Examples** | Cotton, Jute, Linen, Wool, Silk. | **Nylon, Polyester, Acrylic**. |
+| **Characteristics** | Properties vary with fibre type and finishing; many are moisture-absorbing and biodegradable. | Many are strong, quick-drying and wrinkle-resistant; properties and degradability depend on the polymer. |
 
 ---
+
+**Rayon correction:** Rayon is a manufactured fibre made from regenerated cellulose, commonly sourced from wood pulp. It is often described as artificial or semi-synthetic. Do not group it with petroleum-derived nylon/polyester without this distinction. The PDF's broad man-made/synthetic grouping needs this qualification.
 
 ## 🌿 MODULE 2: PLANT FIBRES & COTTON PROCESSING
 
 ### 1. Cotton (`பருத்தி`)
-* **Agricultural Conditions:** Requires **Black Soil (கரிசல் மண்)** and a **warm climate**.
+* **Agricultural Conditions:** Grows well in suitable **black soil (கரிசல் மண்)** and a **warm climate**, but black soil is not its only possible soil.
 * **Fruit of the Plant:** Known as **Cotton Bolls (பருத்தி உருண்டைகள்)** (approx. the size of a lemon). When ripe, the bolls burst open, exposing seeds covered with soft white cotton fibres.
 
 ---
@@ -85,7 +87,7 @@ Cotton Bolls ──► [Ginning] ──► Raw Cotton Fibre ──► [Carding] 
 
 #### Step II: Carding (கார்டிங்)
 * **Definition:** Cleaning, opening, and untangling compressed bales of ginned cotton.
-* **Output:** Converts tangled fibres into a continuous, loose, rope-like strand called **Sliver (வெள்ளி / இழைத் தொகுப்பு)**.
+* **Output:** Converts tangled fibres into a continuous, loose, rope-like strand called **Sliver (இழைத் தொகுப்பு)**.
 * **Significance:** Often called the **"Heart" of the spinning process** because it removes short broken fibres, dust, and aligns fibers parallel.
 
 #### Step III: Spinning (நூல் நூற்றல்)
@@ -98,9 +100,9 @@ Cotton Bolls ──► [Ginning] ──► Raw Cotton Fibre ──► [Carding] 
 
 ---
 
-### 3. Industrial Cotton Spinning Sequence *(Top Exam MCQ)*
+### 3. Industrial Cotton Spinning Sequence 
 
-In modern textile spinning mills, cotton passes through this precise sequence:
+A common conventional ring-spinning sequence is:
 1. **Blow Room Operations:** Opening bales, cleaning raw cotton, removing heavy dirt, leaves, and trash.
 2. **Carding:** Disentangling fibres, removing short fibres, aligning them into a continuous **sliver**.
 3. **Drawing:** Blending and doubling slivers to improve uniformity and parallelization.
@@ -118,7 +120,7 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
         ┌────────────────────────────────┴────────────────────────────────┐
         ▼                                                                 ▼
      WEAVING (நெசவு)                                                  KNITTING (பின்னல்)
-• Uses TWO SETS of yarns (Warp & Weft)                            • Uses a SINGLE continuous yarn
+• Uses TWO SETS of yarns (Warp & Weft)                            • Can use a single continuous yarn
 • Interlaced at RIGHT ANGLES (90°)                                • Interlocked in continuous LOOPS
 • Less stretchable, structured cloth                              • Highly STRETCHABLE and elastic
 • Done on Handlooms (கைத்தறி) or Powerlooms                       • Done by hand knitting needles or machines
@@ -127,10 +129,10 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 
 | Feature | Weaving (நெசவு) | Knitting (பின்னல்) |
 | :--- | :--- | :--- |
-| **Number of Yarns** | **Two sets of yarns** (Longitudinal Warp + Transverse Weft). | **Only ONE single yarn**. |
+| **Number of Yarns** | **Two sets of yarns** (Longitudinal Warp + Transverse Weft). | Can be made with one continuous yarn; industrial knitting may use several yarns. |
 | **Method** | Interlacing at right angles ($90^\circ$). | Interlocking interconnected loops. |
-| **Mechanical Property** | Rigid, dimensional stability, non-elastic. | **High stretchability and recovery**. |
-| **Unravelling Behavior** | Does not easily unravel with a single pull. | Pulling a single snagged thread **unravels the whole fabric** (e.g., pulling thread from torn socks). |
+| **Mechanical Property** | Usually less stretchable than comparable knitted cloth; elastic woven fabrics also exist. | **High stretchability and recovery**. |
+| **Unravelling Behavior** | Does not easily unravel with a single pull. | Some knitted structures unravel when a loose thread is pulled; not every knit behaves identically. |
 | **Apparel Products** | Formal shirts, trousers, sarees, denim. | Sweaters, cardigans, socks, vests, T-shirts. |
 
 ---
@@ -142,6 +144,12 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 * **Retting Process (சணல் அழுக வைத்தல்):** The harvested stems are tied in bundles and submerged in stagnant water for 15–20 days. Microbes rot the stem tissue, releasing the strong, golden bast fibres, which are stripped by hand.
 
 ---
+
+### 6. Fabric finishing and examples (PDF pages 12-15)
+
+After fabric formation, finishing can include bleaching to remove colour, dyeing to add colour and printing to add patterns. Smoothness and shine may involve other finishing treatments; bleaching alone does not guarantee either.
+
+The PDF names cotton voile, rayon, linen, satin and denim. These terms are not all fibre names: rayon is a manufactured fibre; linen is associated with flax; satin is a weave and denim is typically a twill fabric.
 
 ## 🐑 MODULE 3: ANIMAL FIBRES — WOOL (கம்பளி)
 
@@ -159,31 +167,31 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 | Animal | Breed / Variety | Wool Type / Special Characteristic | Native Region |
 | :--- | :--- | :--- | :--- |
 | **Sheep (செம்மறியாடு)** | Common domestic sheep breeds | Standard apparel wool | Nationwide / Global |
-| **Angora Goat (அங்கோரா ஆடு)** | Angora breed | **Mohair (மோஹேர்)**: Soft, lustrous, high-durability wool | Hilly regions (Jammu & Kashmir) |
+| **Angora Goat (அங்கோரா ஆடு)** | Angora breed | **Mohair (மோஹேர்)**: Soft, lustrous, high-durability wool | Origin associated with Ankara, Turkey; also raised elsewhere |
 | **Kashmiri Goat** | Pashmina breed | **Pashmina Wool**: Exceptionally soft, woven into world-famous Pashmina shawls | Cold high-altitude Kashmir |
 | **Yak (யாக்)** | Bos grunniens | Coarse, dense, heavy insulating wool | Tibet and Ladakh |
 | **Camel (ஒட்டகம்)** | Bactrian / Dromedary | Body hair used as insulating wool | Desert regions / Central Asia |
-| **Llama & Alpaca** | South American camelids | **Alpaca fibre**: Silky, lightweight, luxury warm fleece | South America (Andes) |
+| **Llama & Alpaca** | South American camelids | Separate llama and alpaca fibres; alpaca fibre is valued for soft, warm textiles | South America (Andes) |
 
-* **Selective Breeding (தேர்ந்தெடுத்து இனப்பெருக்கம் செய்தல்):** The agricultural practice of selecting parents with specific desirable characteristics (e.g., soft under-hair) to breed offspring that yield exclusively fine fleece.
+* **Selective Breeding (தேர்ந்தெடுத்து இனப்பெருக்கம் செய்தல்):** The agricultural practice of selecting parents with specific desirable characteristics (e.g., soft under-hair) to increase the frequency of desirable fleece traits in offspring; the outcome is not guaranteed or exclusive.
 
 ---
 
-### 3. The 6-Step Industrial Wool Processing Pipeline *(EXAM FAVORITE)*
+### 3. The 6-Step Industrial Wool Processing Pipeline 
 
 ```
 [1. Shearing] ──► [2. Scouring] ──► [3. Sorting] ──► [4. Cleaning Burrs] ──► [5. Dyeing] ──► [6. Rolling]
 ```
 
 1. **Step I: Shearing (கத்தரித்தல்):**
-   * The fleece of the sheep is shaved off along with a thin outermost layer of skin using electric clippers (like a barber's razor).
-   * **Why it doesn't hurt:** The uppermost layer of skin is composed of **dead epithelial cells**.
+   * The fleece is cut close to the skin with shears or clippers. The PDF uses the older school wording “with a thin layer of skin”; normal shearing aims not to cut living skin.
+   * **Why cutting fleece normally does not hurt:** Hair shafts are dead keratinised material and have no nerves. Cutting living skin can hurt; correct technique matters.
    * **Timing:** Done during **early summer / hot weather** so the sheep can comfortably survive without protective fleece until hair regrows.
 2. **Step II: Scouring (சுத்தம் செய்தல்):**
    * Sheared fleece is washed thoroughly in large tanks of warm water with detergents to remove natural **grease, dust, sweat, and dirt**.
 3. **Step III: Sorting (தரம் பிரித்தல்):**
    * Washed wool is sent to factories where fibres are separated based on texture, length, and quality.
-   * ⚠️ **Occupational Hazard — Sorter’s Disease:** Sorting factory workers inhale dust containing the bacterium ***Bacillus anthracis***, which causes a fatal blood infection called **Anthrax / Sorter’s Disease**.
+   * ⚠️ **Occupational Hazard — Sorter’s Disease:** Contaminated animal material can carry spores of ***Bacillus anthracis***. Inhalation can cause serious **anthrax / wool-sorter's disease**; it is not merely a generic blood infection and is not always fatal.
 4. **Step IV: Cleaning of Burrs (சுருள்களை நீக்குதல்):**
    * Small, fluffy, round fibre tangles called **burrs** are combed and picked out from the fleece.
 5. **Step V: Dyeing (சாயம் பூசுதல்):**
@@ -211,7 +219,7 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
                                       │
                                (Lays hundreds of eggs)
                                       ▼
-                      Eggs on Mulberry Leaves (முட்டைகள்)
+                      Eggs collected/stored on cloth or paper
                                       │
                                (Hatches after warming)
                                       ▼
@@ -234,28 +242,32 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
                               Adult Silk Moth
 ```
 
-* **The Secretion Phase:** When the caterpillar reaches full maturity, it stops eating and enters the pupal stage. It weaves a net to anchor itself, swings its head from side to side in the **shape of the figure eight ("8")**, and secretes liquid salivary protein that **hardens on exposure to air into silk fibre**.
-* **Cocoon Formation:** The caterpillar completely envelops itself in this continuous silk thread (often $300\text{ to }900\text{ meters}$ long per cocoon) to form a **Cocoon (பட்டுக்கூடு)**.
+* **The Secretion Phase:** When the caterpillar reaches maturity, it stops eating and spins a cocoon before becoming a pupa. It weaves a net to anchor itself, swings its head from side to side in the **shape of the figure eight ("8")**, and secretes liquid salivary protein that **hardens on exposure to air into silk fibre**.
+* **Cocoon Formation:** The caterpillar completely envelops itself in this continuous silk thread (length varies with silkworm strain and rearing conditions) to form a **Cocoon (பட்டுக்கூடு)**.
 
 ---
 
+### Rearing silkworms (PDF pages 47-49)
+
+Eggs are collected on cloth or paper and stored hygienically under suitable temperature and humidity. They are warmed for hatching when fresh mulberry leaves are available. Larvae are kept in clean bamboo trays and fed fresh chopped mulberry leaves. After roughly 25-30 days of feeding in the source account, mature larvae stop eating and spin cocoons on small racks or twigs. Timing varies with rearing conditions.
+
+Life stages: **egg -> larva/caterpillar -> pupa -> adult moth**. The **cocoon is the silk covering**, not a separate life stage.
+
 ### 3. Processing Silk: From Cocoon to Saree
 * **Harvesting:** Cocoons are harvested **before** the adult moth breaks out (which would cut the continuous silk filament into broken pieces).
-* **Killing & Softening:** A pile of cocoons is placed in the **hot sun, boiled in water, or exposed to steam**. This serves two purposes:
-  1. Kills the pupa inside cleanly.
-  2. Dissolves the sticky sericin gum holding the cocoon fibres together.
+* **Killing & Softening:** A pile of cocoons is placed in the **hot sun, boiled in water, or exposed to steam**. Heating is used to kill the pupa and prevent emergence. Hot-water cooking softens the sericin gum for reeling; sun-drying alone does not dissolve it.
 * **Reeling the Silk (நூல் எடுத்தல்):** The specialized mechanical process of carefully unwinding and gathering the continuous silk thread from the softened cocoons.
 
 ---
 
 ### 4. Varieties of Silk & Historical Background
 * **Silk Varieties:**
-  * **Mulberry Silk:** Most common ($>85\%$ of world silk); harvested from *Bombyx mori* feeding on mulberry leaves; soft, shiny, elastic.
+  * **Mulberry Silk:** The most common commercial silk; harvested from *Bombyx mori* feeding on mulberry leaves; soft, shiny, elastic.
   * **Non-Mulberry Silks (Wild Silks):** **Tassar Silk (தசர் பட்டு)**, **Muga Silk (முகா பட்டு)** (golden-yellow silk unique to Assam), **Kosa Silk (கோசா பட்டு)**.
 * **Discovery of Silk:**
-  * Discovered in ancient **China** around 2700 BCE.
+  * The exact discovery date is uncertain. The PDF presents an ancient **Chinese legend**, not a securely dated event.
   * According to legend, Empress **Si-Lung-Chi** (wife of Emperor Huang-ti) was inspecting damaged mulberry leaves in the imperial gardens when a shiny cocoon accidentally dropped into her hot cup of tea. The heat unraveled the delicate, lustrous thread.
-  * China guarded the secret of sericulture for centuries. The caravan trade route used to smuggle and transport silk across Asia to the West became known as the **"Silk Route" (பட்டுப் பாதை)**.
+  * China guarded the secret of sericulture for centuries. The network of trade routes carrying silk and other goods across Asia and beyond is known as the **"Silk Route" (பட்டுப் பாதை)**.
 
 ---
 
@@ -265,24 +277,24 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 | :--- | :--- |
 | **Separating cotton fibres from seeds** | **Ginning (கொட்டையெடுத்தல்)** |
 | **Converting fibres into continuous yarn** | **Spinning (நூல் நூற்றல்)** |
-| **Heart of the spinning process (aligns sliver)** | **Carding (கார்டிங்)** |
+| **Carding: opening and aligning fibres into sliver** | **Carding (கார்டிங்)** |
 | **Industrial spinning order** | $\text{Blow Room} \to \text{Carding} \to \text{Drawing} \to \text{Roving} \to \text{Spinning}$ |
-| **Fabric made from a SINGLE yarn** | **Knitting (பின்னல்)** — Sweaters, socks |
+| **Fabric that can be made from a single yarn** | **Knitting (பின்னல்)** — Sweaters, socks |
 | **Fabric made from TWO SETS of yarns** | **Weaving (நெசவு)** — Handlooms, sarees |
-| **Tool popularized by Mahatma Gandhi (1920)** | **Charkha (ராட்டினம்)** |
+| **Spinning tool promoted by Mahatma Gandhi** | **Charkha (ராட்டினம்)** |
 | **Occupational disease in wool sorting** | **Sorter's Disease** (caused by ***Bacillus anthracis*** bacterium) |
 | **Chemical nature of animal fibres (wool/silk)** | **Proteins** (Fleece = Keratin; Silk = Fibroin/Sericin) |
 | **Commercial rearing of silkworms** | **Sericulture (பட்டுப்புழு வளர்ப்பு)** *(Trap: Silviculture = Forest trees)* |
 | **Head movement of silkworm while spinning** | Swings head in the **Figure of Eight ("8")** |
 | **Process of unwinding silk from cocoons** | **Reeling (நூல் எடுத்தல்)** |
 | **Tensile strength of a silk thread** | As strong as a **comparable thread of steel** |
-| **Country that invented silk & guarded it** | **Ancient China** (Empress Si-Lung-Chi $\to$ The Silk Route) |
+| **Country associated with the PDF's silk-discovery legend** | **Ancient China** (Empress Si-Lung-Chi $\to$ The Silk Route) |
 
 ---
 
 ## 📝 MODULE 6: THE PRACTICE QUESTIONS GAUNTLET (COMPLETE QUESTION BANK)
 
-> **Self-Testing Rule:** Try answering each question in under 15 seconds before checking the answer box!
+> **Source questions:** Q1-Q10 follow the PDF (pages 53-63), with wording/options adapted. Q11-Q20 are additional practice, not questions printed in the PDF. These are not verified previous-year exam questions. Q8 retains the source key but flags defective wording.
 
 ### Q1. Choose the correct answer from the given statements:
 *கொடுக்கப்பட்டுள்ள கூற்றுகளிலிருந்து சரியான விடையைத் தேர்ந்தெடுக்கவும்:*  
@@ -380,8 +392,8 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 * (B) Fibres
 * (C) Proteins
 * (D) Fats
-> **Answer:** **(B) Fibres (நார்ப்பொருட்கள்)**  
-> **Explanation:** Carbohydrates, Proteins, and Fats form over 90% of dry food mass; dietary fibres provide non-nutritive indigestible bulk in small percentages.
+> **Source key:** **(B) Fibres (நார்ப்பொருட்கள்)**; the question is scientifically overgeneralised.  
+> **Explanation:** The PDF marks B, but the wording “any food” makes this a defective generalisation. Food composition varies; dietary fibre is also largely carbohydrate. Keep B only as the source key, not as a universal scientific rule.
 
 ---
 
@@ -407,6 +419,8 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 > **Explanation:** Commercial silkworm rearing is **Sericulture**. *(Silviculture refers to the cultivation and management of forest trees).*
 
 ---
+
+### Additional practice (not printed in the source PDF)
 
 ### Q11. Which fatal occupational disease is associated with workers in the wool sorting industry?
 *கம்பளி தரம் பிரிக்கும் (sorting) தொழிற்சாலை தொழிலாளர்களைத் தாக்கும் தொழில்சார் நோய் எது?*
@@ -447,8 +461,8 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 * (B) The uppermost layer of the skin consists of dead cells
 * (C) Sheep are given heavy anesthesia
 * (D) Sheep have no skin receptors
-> **Answer:** **(B) The uppermost layer of the skin consists of dead cells**  
-> **Explanation:** Just like human hair and fingernails, the epidermis's stratum corneum is composed of dead keratinized cells.
+> **Answer:** **(B), the intended school-text answer.**  
+> **Explanation:** The clearer explanation is that wool hair shafts have no nerves. Normal shearing cuts fleece, not living skin; accidental cuts can hurt.
 
 ---
 
@@ -503,7 +517,7 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 * (C) Reeling
 * (D) Scouring
 > **Answer:** **(C) Reeling (நூல் எடுத்தல் / ரீலிங்)**  
-> **Explanation:** Reeling unspools $300\text{ to }900\text{ meters}$ of continuous silk thread from 3–8 softened cocoons together into a single strand.
+> **Explanation:** Reeling unwinds filaments from softened cocoons; several filaments can be combined into a raw-silk thread. Length and number combined vary.
 
 ---
 
@@ -515,3 +529,23 @@ $$\mathbf{Blow\ Room} \longrightarrow \mathbf{Carding} \longrightarrow \mathbf{D
 * (D) Nucleic acids
 > **Answer:** **(B) Proteins (புரதங்கள்)**  
 > **Explanation:** Animal fibres are animal protein polymers (Wool = Keratin protein; Silk = Fibroin and Sericin proteins). In contrast, plant fibres like cotton and jute are Cellulose!
+
+---
+
+## Source coverage and correction references
+
+| PDF pages | Coverage |
+|---|---|
+| 1-15 | Fibre/yarn/fabric, natural and manufactured fibres, finishing and examples |
+| 16-27 | Cotton, ginning, carding, spinning, charkha, weaving/knitting and industrial sequence |
+| 28-40 | Animal fibres and wool processing |
+| 41-50 | Silk-moth life cycle, rearing, cocoons and reeling |
+| 51-52 | Silk-discovery legend and Silk Route |
+| 53-63 | All 10 source questions, adapted with explanations |
+| 64 | Closing slide |
+
+Jute detail, expanded animal-breed tables, chemical names and Q11-Q20 are supplementary study material. Wool “burrs” follows the PDF's fluffy-tangle wording; in industrial processing the term can also refer to plant burrs/vegetable contamination, so do not equate every burr with a wool pill.
+
+References: [official definition of rayon](https://www.govinfo.gov/content/pkg/CFR-2004-title16-vol1/pdf/CFR-2004-title16-vol1-part303.pdf), [government sericulture teaching material](https://bieap.apcfss.in/Uploads/Materials/II_SERICULTURE.pdf). The supplied PDF provides the classroom process descriptions; the qualifications above prevent its simplified wording from becoming universal rules.
+
+[Food and Nutrition](01-Food-and-Nutrition.md) | [Next: Categories of Plants](03-Categories-of-Plants.md)

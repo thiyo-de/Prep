@@ -2,8 +2,8 @@
 
 > **Section:** General Awareness / General Science — Biology (Chapter 01: Food & Nutrition)  
 > **Target Exams:** RRB NTPC (CBT-1 & CBT-2) | SSC CHSL (Tier-I & Tier-II)  
-> **Weightage:** 2 to 4 Questions (~40% General Science weightage in Railway CBT-1)  
-> **Source Material:** NCERT Science (Class 6th–10th) + Chandru Maths Comprehensive Module  
+> **Exam scope:** General science preparation; no fixed chapter-wise question count is established.
+> **Source:** [Food.pdf](../../../Materials/General%20Awareness/Biology/1%20Food/Food.pdf), 122 pages. See the coverage map and correction references below.
 > **Purpose:** Personal reference notes — core concepts, laboratory tests, vitamin directory, and deficiency traps.
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-### 2. The Founding Fathers of Science *(High-Frequency Exam Trap)*
+### 2. The Founding Fathers of Science 
 
 ```
                            Plato (Philosopher)
@@ -89,11 +89,27 @@
    * **Fungi and Bacteria** are nature’s primary decomposers; they break down dead organic matter and return essential nitrogen, carbon, and phosphorus to the soil.
 5. **Modern Biotechnology:**
    * **DNA Fingerprinting:** Forensics technique used to identify criminal suspects and resolve paternity disputes.
-   * **Stem Cell Therapy (தண்டுசெல் சிகிச்சை):** Medical use of undifferentiated stem cells to repair or regenerate damaged tissues and organs.
+   * **Stem Cell Therapy (தண்டுசெல் சிகிச்சை):** Use of stem cells with the aim of replacing or repairing damaged cells and tissues; not all proposed organ-repair uses are established treatments.
    * **Biofuels (உயிரி எரிபொருட்கள்):** Renewable fuels synthesized from algae and plant biomass.
-   * **Medicinal Botany (*Neem - Azadirachta indica*):** Natural antibacterial, antifungal, and antidiabetic agent; all parts (leaves, bark, seeds) have commercial/medicinal value.
+   * **Applied Botany (*Neem - Azadirachta indica*):** Neem is a source of plant products used in soaps, pest control and traditional preparations. This does not establish that neem cures diabetes or other diseases.
 
 ---
+
+### 5. Additional introductory coverage from the PDF
+
+| Area | What to remember | PDF pages |
+|---|---|---|
+| Reasons to study biology | Understand the body and nature; address disease, food shortage and pollution; careers in medicine, nursing, research and environmental science | 7-8 |
+| Agriculture | Crop improvement, pest management and farming techniques apply biological knowledge | 10-12 |
+| Health and medicine | Antibiotics act against susceptible bacteria, not viruses; vaccination trains immune responses; genetics explains inherited disease; hygiene reduces germ spread | 13-14 |
+| Environment | Photosynthesis, decomposition, biodiversity conservation and protection of endangered species | 15 |
+| Materials and personal care | Cotton, wool and silk; plant products in soaps/lotions; natural rubber from latex | 16-18 |
+| Other subfields | Evolutionary biology studies change across generations; molecular biology studies biological processes at molecular level | 21-22 |
+| Food ingredients | Dishes combine ingredients: rice/dal are plant-derived, chicken/milk animal-derived; salt and water are not plant or animal tissues | 33-39 |
+| Several nutrients per food | “Carbohydrate-rich” rice does not contain only carbohydrate | 56, 70 |
+| Water sources | Drinking water, other drinks and food all contribute water | 73 |
+
+**Test safety:** Caustic soda and other food-test reagents are hazardous. Practical work requires teacher supervision, eye protection and no tasting of treated food.
 
 ## 🌿 MODULE 2: FOOD ORIGINS & ANIMAL CLASSIFICATION
 
@@ -116,11 +132,11 @@ Herbivores                      Carnivores                      Omnivores
 | Class | Definition | Standard Examples | High-Yield / Tricky Exam Examples |
 | :--- | :--- | :--- | :--- |
 | **Herbivores (தாவர உண்ணிகள்)** | Animals that feed exclusively on plants and plant derivatives | Cow, Goat, Deer, Sheep, Horse | **Zebra, Camel** |
-| **Carnivores (ஊன் உண்ணிகள்)** | Animals that feed exclusively on the meat/tissue of other animals | Tiger, Lion, Leopard, Wolf | **Crocodile, Dolphin, Eagle, Fox** |
-| **Omnivores (அனைத்துண்ணிகள்)** | Animals that feed on both vegetative matter and animal flesh | Humans, Bear, Crow, Dog | **Western Gorilla, Rhea, Cassowary, Box Turtle, Rat, Catfish, Hedgehog, Sugar Glider** |
+| **Carnivores (ஊன் உண்ணிகள்)** | Animals that feed exclusively on the meat/tissue of other animals | Tiger, Lion, Leopard, Wolf | **Crocodile, Dolphin, Eagle** |
+| **Omnivores (அனைத்துண்ணிகள்)** | Animals that feed on both vegetative matter and animal flesh | Humans, Bear, Crow, Dog, Red Fox | **Western Gorilla, Rhea, Cassowary, Box Turtle, Rat, Catfish, Hedgehog, Sugar Glider** |
 
 > [!WARNING]
-> **Exam Trap:** SSC and Railway exams frequently test non-obvious omnivores in odd-one-out questions. Remember: **Western Gorilla, Rhea, Cassowary, Catfish, and Sugar Glider are Omnivores**.
+> **Classification caution:** The PDF gives Western Gorilla, Rhea, Cassowary, Catfish and Sugar Glider as omnivore examples. Diet varies by species: western gorillas and cassowaries eat mainly plant foods but can consume animal matter. Do not treat broad animal names as strict diet rules.
 
 ---
 
@@ -130,7 +146,7 @@ Herbivores                      Carnivores                      Omnivores
                                THE 7 ESSENTIAL COMPONENTS
    ┌───────────────────────┬─────────────────────────┬─────────────────────────┐
    ▼                       ▼                         ▼                         ▼
-Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nutrient Regulators
+Energy-Giving Foods   Body-Building Foods       Protective Foods          Other Essential Components
 • Carbohydrates       • Proteins                • Vitamins                • Dietary Fibres (Roughage)
 • Fats                                          • Minerals                • Water
 ```
@@ -148,8 +164,8 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 * **Primary Function:** **Growth, Tissue Repair, and Muscle Building (உடல் கட்டமைப்பு)**.
 * **Biological Roles:** Forms structural muscle fibers (actin/myosin), biological enzymes, transport proteins (hemoglobin), and immune antibodies.
 * **Rich Dietary Sources:**
-  * *Plant:* Soybeans (highest plant protein content), pulses, grams, peas, beans, nuts.
-  * *Animal:* Eggs (albumin), milk, paneer, fish, chicken, lean meat.
+  * *Plant:* Soybeans (a rich plant protein source), pulses, grams, peas, beans, nuts.
+  * *Animal:* Eggs (including ovalbumin in egg white), milk, paneer, fish, chicken, lean meat.
 
 ---
 
@@ -163,12 +179,12 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 ---
 
 ### 4. Dietary Fibres / Roughage (`நார்ச்சத்துக்கள்`)
-* **Biological Nature:** Indigestible plant cellulose that resists human digestive enzymes.
-* **Nutritional Contribution:** Provides **ZERO calories and ZERO nutrients**.
+* **Biological Nature:** Food components including cellulose and other fibres that resist digestion by human small-intestinal enzymes.
+* **Nutritional Contribution:** In the school-level account, roughage is not digested like starch and adds bulk. Some fibres are fermented by gut bacteria and contribute energy through absorbable short-chain fatty acids.
 * **Essential Function:**
   1. Adds bulk to food bolus, aiding intestinal peristalsis.
-  2. **Helps the body get rid of undigested food and waste**, preventing constipation and colon disease.
-* **Exclusivity Rule:** Provided **ONLY by plant foods** (whole grains, pulses, unpeeled fruits, salads). Meat, milk, and eggs contain zero fibre.
+  2. **Helps the body get rid of undigested food and waste**, helping bowel movement and reducing constipation.
+* **Usual sources:** Whole grains, pulses, fruits and vegetables. Plain meat, milk and eggs contain no dietary fibre. Fortified foods may contain added fibre.
 
 ---
 
@@ -181,7 +197,7 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 
 ---
 
-## 🧪 MODULE 4: LABORATORY NUTRIENT TESTING *(TOP EXAM PRIORITY)*
+## 🧪 MODULE 4: LABORATORY NUTRIENT TESTING 
 
 ```
 [1. STARCH TEST]  ──► Food Sample + Dilute Iodine Solution ──► BLUE-BLACK COLOR
@@ -194,14 +210,14 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 | Nutrient | Step-by-Step Procedure | Reagents Used & Exact Quantities | Expected Positive Reaction | Scientific Reason |
 | :--- | :--- | :--- | :--- | :--- |
 | **Starch (Carbohydrate)** | Place a piece of raw cut potato or boiled rice on a clean white tile. Add reagent directly using a dropper. | **2 to 3 drops of Dilute Iodine Solution** | **Blue-Black Color (நீலம்-கருப்பு நிறம்)** | Iodine molecules get trapped within the helical coil of amylose starch, forming a dark polyiodide complex. |
-| **Protein** | 1. Grind food (e.g., dal powder) into a paste.<br>2. Transfer to test tube; add 10 drops water and shake.<br>3. Add Copper Sulphate.<br>4. Add Caustic Soda; shake and let rest for 3 minutes. | • **2 drops Copper Sulphate ($\text{CuSO}_4$)**<br>• **10 drops Caustic Soda ($\text{NaOH}$)** | **Violet Color (ஊதா நிறம்)** | **Biuret Reaction:** Copper ions ($\text{Cu}^{2+}$) in an alkaline environment complex with peptide bonds (-CONH-) in proteins. |
+| **Protein** | 1. Grind food (e.g., dal powder) into a paste.<br>2. Transfer to test tube; add 10 drops water and shake.<br>3. Add Copper Sulphate.<br>4. Add Caustic Soda; shake and let rest for a few minutes. | • **2 drops Copper Sulphate ($\text{CuSO}_4$)**<br>• **10 drops Caustic Soda ($\text{NaOH}$)** | **Violet Color (ஊதா நிறம்)** | **Biuret Reaction:** Copper ions ($\text{Cu}^{2+}$) in an alkaline environment complex with peptide bonds (-CONH-) in proteins. |
 | **Fats** | 1. Wrap a sample (e.g., groundnut) in a piece of paper.<br>2. Crush gently without tearing the paper.<br>3. Allow paper to dry in air (to evaporate any water).<br>4. Inspect against light. | **No chemical reagent** (Mechanical paper test) | **Translucent Oily Patch (ஒளிபுகும் எண்ணெய் கறை)** | Lipids permanently alter the refractive index of paper fibers, allowing light to scatter through translucently. |
 
 > [!IMPORTANT]
 > **Key Exam Traps on Testing:**
 > * **Reagents for Protein:** Must be **$\text{CuSO}_4$ (2 drops)** + **Caustic Soda / $\text{NaOH}$ (10 drops)**. Remember the ratio: $2 : 10$.
 > * **Starch Color:** It is strictly **Blue-Black**, NOT violet, yellow, or pink.
-> * **The Fat Drying Rule:** Water can also make paper translucent temporarily. Therefore, you **must allow the paper to dry**; if the oily spot persists, it is definitively fat.
+> * **The Fat Drying Rule:** Water can also make paper translucent temporarily. Therefore, you **must allow the paper to dry**; a persistent greasy patch supports the presence of fat in this classroom test.
 
 ---
 
@@ -216,9 +232,9 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
                 ▼                                             ▼
        4 Fat-Soluble Vitamins                        9 Water-Soluble Vitamins
             (A, D, E, K)                           (Vitamin C + 8 B-Complex)
-   • Stored in liver & fatty tissues             • Dissolve in water; not stored long-term
-   • Do not need daily replacement               • Excess excreted regularly in urine
-   • Excess intake can cause toxicity            • Daily dietary replenishment required
+   • Stored in liver & fatty tissues             • Dissolve in water; B12 has substantial body stores
+   • Body stores exist; a balanced diet remains important               • Excess excreted regularly in urine
+   • Excess intake can cause toxicity            • Regular dietary intake remains important
 ```
 
 ---
@@ -233,12 +249,12 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 | **Vitamin $\text{B}_3$** | Niacin (Nicotinic acid) | **Water** | NAD/NADP coenzymes in cellular energy transfer | Meat, fish, peanuts, whole wheat | **Pellagra**: The 4-D disease (Dermatitis, Diarrhea, Dementia, Death). |
 | **Vitamin $\text{B}_5$** | Pantothenic Acid | **Water** | Coenzyme-A synthesis; fatty acid breakdown | Avocados, broccoli, eggs, poultry | Burning Feet Syndrome, chronic fatigue. |
 | **Vitamin $\text{B}_6$** | Pyridoxine | **Water** | Amino acid transamination, neurotransmitter synthesis | Whole grains, bananas, chickpeas, fish | Neurological convulsions, microcytic anemia. |
-| **Vitamin $\text{B}_7$** | Biotin | **Water** | Fatty acid synthesis, keratin production | Egg yolk, almonds, soybeans, mushrooms | Dermatitis, alopecia (hair thinning/loss). |
+| **Vitamin $\text{B}_7$** | Biotin | **Water** | Coenzyme in fatty-acid and other metabolic reactions | Egg yolk, almonds, soybeans, mushrooms | Dermatitis, alopecia (hair thinning/loss). |
 | **Vitamin $\text{B}_9$** | Folic Acid (Folate) | **Water** | DNA synthesis, cell division, RBC maturation | Spinach, leafy greens, legumes, liver | **Megaloblastic Anemia**; Neural tube defects in fetuses. |
-| **Vitamin $\text{B}_{12}$** | Cobalamin (Cyanocobalamin) | **Water** | Myelin sheath integrity, RBC synthesis (contains **Cobalt**) | Meat, fish, liver, eggs, milk (*absent in pure vegetarian plant food*) | **Pernicious Anemia**, irreversible spinal cord nerve degeneration. |
-| **Vitamin C** | Ascorbic Acid | **Water** | **Collagen synthesis** for connective tissues; antioxidant; white blood cell immunity; iron absorption | Amla (highest concentration), lemon, orange, guava, green chili | **Scurvy (ஸ்கர்வி)**: Bleeding spongy gums, loose teeth, poor wound healing. |
+| **Vitamin $\text{B}_{12}$** | Cobalamin (Cyanocobalamin) | **Water** | Myelin sheath integrity, RBC synthesis (contains **Cobalt**) | Meat, fish, liver, eggs, milk (unfortified plant foods are not reliable sources; fortified foods can supply B12) | **Megaloblastic anaemia** and neurological damage. Pernicious anaemia is an autoimmune absorption disorder that can cause B12 deficiency, not a synonym for every B12 deficiency. |
+| **Vitamin C** | Ascorbic Acid | **Water** | **Collagen synthesis** for connective tissues; antioxidant; white blood cell immunity; iron absorption | Amla (a rich source), lemon, orange, guava, green chili | **Scurvy (ஸ்கர்வி)**: Bleeding spongy gums, loose teeth, poor wound healing. |
 | **Vitamin D** | Calciferol (Cholecalciferol) | **Fat** | Stimulates intestinal absorption of **Calcium & Phosphorus** for bone density | Sunlight exposure, fortified milk, butter, egg yolk, cod liver oil | **Rickets (ரிக்கெட்ஸ்)** in children (soft, pliable, bent bones / bow-legs); Osteomalacia in adults. |
-| **Vitamin E** | Tocopherol | **Fat** | Primary cellular antioxidant; protects cell membranes from free radicals | Almonds, sunflower seeds, wheat germ oil, green leafy vegetables | Muscle weakness, hemolytic anemia, impaired reproductive fertility. |
+| **Vitamin E** | Tocopherol | **Fat** | Primary cellular antioxidant; protects cell membranes from free radicals | Almonds, sunflower seeds, wheat germ oil, green leafy vegetables | Neuromuscular problems and haemolytic anaemia; infertility is not the standard human deficiency diagnosis. |
 | **Vitamin K** | Phylloquinone | **Fat** | **Blood Coagulation (இரத்தம் உறைதல்)**; synthesis of Prothrombin in liver | Green leafy vegetables (spinach, cabbage, kale) | **Defective Blood Clotting**: Uncontrolled hemorrhage, prolonged bleeding time. |
 
 > [!TIP]
@@ -252,8 +268,8 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 
 | Mineral | Biological Function | Natural Dietary Sources | Deficiency Disease & Clinical Symptoms |
 | :--- | :--- | :--- | :--- |
-| **Calcium ($\text{Ca}$)** | Major structural component of bones and teeth; essential for blood clotting cascade and muscle contraction. | Milk, curd, cheese, eggs, sesame seeds, ragi, green leafy vegetables | **Bone and Tooth Decay (எலும்பு & பல் சிதைவு)**: Brittle bones, osteopenia, dental cavities. |
-| **Iron ($\text{Fe}$)** | Essential central component of **Hemoglobin** in red blood cells; binds and transports $\text{O}_2$ across tissues. | Red meat, spinach, beans, beetroot, jaggery, apples, liver | **Anaemia (இரத்த சோகை)**: General fatigue, breathlessness, pale skin, weakness. |
+| **Calcium ($\text{Ca}$)** | Major structural component of bones and teeth; essential for blood clotting cascade and muscle contraction. | Milk, curd, cheese, eggs, sesame seeds, ragi, green leafy vegetables | Poor bone mineralisation / weak bones. The PDF uses “bone and tooth decay”; dental cavities are not caused simply by calcium deficiency. |
+| **Iron ($\text{Fe}$)** | Essential central component of **Hemoglobin** in red blood cells; binds and transports $\text{O}_2$ across tissues. | Meat, liver, legumes, leafy greens and iron-fortified foods; plant iron is less readily absorbed than haem iron | **Anaemia (இரத்த சோகை)**: General fatigue, breathlessness, pale skin, weakness. |
 | **Iodine ($\text{I}$)** | Required by the thyroid gland to synthesize thyroxine hormones ($\text{T}_3, \text{T}_4$) regulating basal metabolic rate. | Iodized salt, marine fish, seaweed, seafood | **Goiter (முன் கழுத்துக் கழலை)**: Enlarged thyroid gland in neck; stunted physical growth and mental disability in children. |
 | **Potassium ($\text{K}$)** | **Manages blood pressure**, maintains intracellular fluid volume, electrical transmission in cardiac muscle. | Bananas, potatoes, tender coconut water, citrus fruits | Hypokalemia: Muscle cramps, irregular heart rhythm, hypertension. |
 | **Zinc ($\text{Zn}$)** | **Boosts immune defense**, speeds up **wound healing**, aids cellular division and taste sensation. | Meat, legumes, shellfish, pumpkin seeds, whole grains | Delayed wound healing, hair loss, impaired immune response, loss of taste. |
@@ -277,23 +293,18 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 #### A. Obesity (`உடல் பருமன்`)
 * **Clinical Benchmark:** Defined in adults when **Body Mass Index (BMI) $\ge 30$**.
   $$\text{BMI} = \frac{\text{Weight in Kilograms}}{(\text{Height in Meters})^2}$$
-* **Primary Cause:** Chronic excess consumption of energy-dense, fat-heavy, and refined sugar foods without matching caloric expenditure.
-* **Secondary Hazards:** Drastically raises the risk of **Type-2 Diabetes, Coronary Heart Disease, Hypertension, and Osteoarthritis**.
+* **Underlying pattern:** Long-term energy imbalance influenced by diet, activity, genetics, environment, medicines and other factors.
+* **Associated risks:** Increased risk of **Type-2 Diabetes, Coronary Heart Disease, Hypertension, and Osteoarthritis**.
 
 #### B. Protein-Energy Malnutrition (PEM): Kwashiorkor vs. Marasmus
 
-```
-                      PROTEIN-ENERGY MALNUTRITION (PEM)
-        ┌──────────────────────────────────┴──────────────────────────────────┐
-        ▼                                                                     ▼
-   KWASHIORKOR                                                            MARASMUS
-(Pure Protein Deficiency)                                    (Protein + Calorie/Carb Deficiency)
-• Age group: 1 to 3 years                                    • Age group: Under 1 year (infants)
-• Edema present: Swollen belly ("pot-belly")                 • No edema: Severe wasting of muscles
-  and puffy facial edema                                       and subcutaneous adipose tissue
-• Discolored, brittle, reddish hair                          • Skin and bones appearance ("old man face")
-• Stunted physical growth, fatty liver                       • Extreme weakness, completely unable to move
-```
+| Condition | Main distinction | Clarification |
+|---|---|---|
+| Kwashiorkor | Nutritional oedema, often with hair/skin changes and poor growth | Often taught as protein deficiency; causes are more complex than isolated protein shortage |
+| Marasmus | Severe wasting of muscle and fat without nutritional oedema | Severe undernutrition; not restricted to infants below one year |
+| Marasmic kwashiorkor | Wasting with nutritional oedema | Both features can occur together |
+
+This supplementary comparison expands the PDF's deficiency symptoms. Avoid fixed age cutoffs or assuming a swollen abdomen alone establishes a diagnosis.
 
 ---
 
@@ -310,13 +321,14 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
    * **9 Water-soluble:** $\text{Vitamin C}$ + $8\times \text{B-complex}$.
 8. **Kidney Synthesis:** **Vitamin D** is biologically activated into calcitriol by the **Kidneys**.
 9. **Blood Pressure Regulator:** **Potassium ($\text{K}$)** controls normal blood pressure and fluid balance (found in bananas and potatoes).
-10. **The Roughage Trap:** Roughage / Dietary Fibre is provided **ONLY by plant foods**. It provides **ZERO nutrients** and **ZERO energy**, but is essential to remove undigested waste.
+10. **The Roughage Trap:** Whole grains, pulses, fruit and vegetables provide roughage. Its school-level role is bulk and waste movement; some fibre yields energy after bacterial fermentation.
 
 ---
 
 ## 📝 MODULE 9: THE 40 PRACTICE QUESTIONS GAUNTLET (COMPLETE QUESTION BANK)
 
-> **Self-Testing Rule:** Try answering each question in under 15 seconds before checking the answer box!
+> **Source questions:** Q1-Q40 follow the PDF sequence (pages 82-121). Wording and some options are adapted, not verbatim transcriptions or verified previous-year questions. Q9 condenses the procedure; Q12 changes distractors; Q40 makes the intended “NOT correct” wording explicit.
+> Attempt questions before reading answers; accuracy comes before speed.
 
 ### Q1. Biology is derived from Greek word, then what is meant by *bios*?
 *உயிரியல் (Biology) என்ற சொல் கிரேக்க மொழியிலிருந்து உருவானது, அப்படியானால் 'bios' என்பதன் பொருள் என்ன?*
@@ -336,7 +348,7 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 * (C) Aristotle
 * (D) Theophrastus
 > **Answer:** **(C) Aristotle**  
-> **Explanation:** The Greek philosopher Aristotle (384–322 BCE) is universally recognized as the Father of Biology and Father of Zoology.
+> **Explanation:** The Greek philosopher Aristotle (384–322 BCE) is conventionally called the Father of Biology and Father of Zoology.
 
 ---
 
@@ -369,7 +381,7 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 * (C) Omnivores
 * (D) None of the above
 > **Answer:** **(B) Carnivores (ஊன் உண்ணிகள்)**  
-> **Explanation:** Carnivores prey strictly on animal flesh (e.g., Tiger, Lion, Crocodile, Eagle).
+> **Explanation:** Carnivores feed mainly on other animals (e.g., Tiger, Lion, Crocodile, Eagle).
 
 ---
 
@@ -428,7 +440,7 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 * (C) Vitamin K and Vitamin D
 * (D) Vitamin C and Vitamin A
 > **Answer:** **(B) Vitamin B and Vitamin C**  
-> **Explanation:** Fat-soluble vitamins are A, D, E, K (stored in liver). Water-soluble vitamins are B-Complex and C (excreted in urine).
+> **Explanation:** A, D, E and K are fat-soluble; B-complex and C are water-soluble. B12 is an exception to the simplified claim that water-soluble vitamins are not stored.
 
 ---
 
@@ -737,7 +749,7 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 * (C) Vitamin D
 * (D) Vitamin E
 > **Answer:** **(B) Vitamin C (Ascorbic Acid)**  
-> **Explanation:** Potent antioxidant that stimulates white blood cell production and protects phagocytes against oxidative damage.
+> **Explanation:** Vitamin C supports normal immune function. It is the source lesson's intended answer, not a claim that it prevents all infections or is the only vitamin involved in immunity.
 
 ---
 
@@ -759,4 +771,24 @@ Energy-Giving Foods   Body-Building Foods       Protective Foods          Non-Nu
 * (C) Roughage does not provide any nutrient to our body, but is an essential component of our food and adds to its bulk.
 * (D) This helps our body get rid of undigested food.
 > **Answer:** **(B) Roughage is mainly provided by plant and animal products in our foods.** *(INCORRECT STATEMENT)*  
-> **Explanation:** Dietary fibre / Roughage is provided **STRICTLY by plant products** (whole grains, pulses, fresh fruits, vegetables). Animal products (meat, milk, eggs) contain zero roughage!
+> **Explanation:** B is the intended wrong statement for ordinary food sources: plant foods supply roughage, whereas plain meat, milk and eggs do not. C reproduces the school-level simplification, not a universal claim that fibre yields zero energy.
+
+---
+
+## Source coverage and correction references
+
+| PDF pages | Coverage |
+|---|---|
+| 1-25 | Biology foundations, applications, branches and conventional “father” titles |
+| 26-44 | Food sources, ingredients and dietary classification |
+| 45-56 | Nutrients and starch/protein/fat tests |
+| 57-73 | Vitamins, minerals, functions, roughage and water |
+| 74-81 | Balanced diet, obesity and deficiency symptoms |
+| 82-121 | All 40 source practice questions, adapted and explained |
+| 122 | Closing slide |
+
+The expanded vitamin directory and PEM comparison are supplementary. The PDF's fox category and vitamin-storage generalisation require the corrections above.
+
+References: [NIH B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/), [NIH vitamin E](https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/), [FDA fibre definition](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber), [FDA fibre energy guidance](https://www.fda.gov/media/113663/download), [WHO wasting and nutritional oedema](https://www.who.int/publications/i/item/9789240082830), [NPS red fox diet](https://www.nps.gov/isro/learn/nature/red-fox.htm).
+
+[Next: Fibre to Fabric](02-Fibre-to-Fabric.md) | [Categories of Plants](03-Categories-of-Plants.md)

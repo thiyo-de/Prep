@@ -36,7 +36,7 @@
 | 2 | Seating Arrangement | F. Arrangement and Puzzles | Puzzle; Analytical Reasoning | Mapped |
 | 3 | Coding Decoding | C. Coding and Operations | Coding and Decoding | Direct |
 | 4 | Mathematical Operation | C. Coding and Operations | Mathematical Operations | Direct |
-| 5 | Fig Series | D. Relationships and Analytical Reasoning | Analytical Reasoning; figural series is not separately named | Supplementary |
+| 5 | Fig Series | B. Series | Figural series; not separately named — an extension of the Series category | Supplementary |
 | 6 | Venn Diagram | G. Diagrams, Maps and Data | Venn Diagrams | Direct |
 | 7 | Puzzle | F. Arrangement and Puzzles | Puzzle | Direct |
 | 8 | Direction & Dist | G. Diagrams, Maps and Data / D. Relationships and Analytical Reasoning | Maps; Analytical Reasoning | Mapped |
@@ -50,17 +50,20 @@
 | 16 | Dictionary | F. Arrangement and Puzzles / D. Relationships and Analytical Reasoning | Jumbling; Analytical Reasoning | Mapped |
 | 17 | Digit Manipulation | C. Coding and Operations | Mathematical Operations | Mapped |
 | 18 | Dice | D. Relationships and Analytical Reasoning | Analytical Reasoning; dice is not separately named | Supplementary |
-| 19 | Statement & Argument | E. Logical Reasoning / D. Relationships and Analytical Reasoning | Analytical Reasoning; arguments are not separately named | Mapped |
+| 19 | Statement & Argument | E. Logical Reasoning / D. Relationships and Analytical Reasoning | Analytical Reasoning; arguments are not separately named | Supplementary |
 | 20 | Embedded Fig | D. Relationships and Analytical Reasoning | Analytical Reasoning; embedded figures are not separately named | Supplementary |
-| 21 | Statement & Assumption | E. Logical Reasoning / D. Relationships and Analytical Reasoning | Analytical Reasoning; assumptions are not separately named | Mapped |
+| 21 | Statement & Assumption | E. Logical Reasoning / D. Relationships and Analytical Reasoning | Analytical Reasoning; assumptions are not separately named | Supplementary |
 | 22 | Mirror & Water Images | D. Relationships and Analytical Reasoning | Analytical Reasoning; image transformations are not separately named | Supplementary |
 | 23 | Statement & Conclusion | E. Logical Reasoning | Statement-Conclusion | Direct |
 | 24 | Fig Completion | D. Relationships and Analytical Reasoning | Analytical Reasoning; figure completion is not separately named | Supplementary |
 | 25 | Other Analytical Reasoning | D. Relationships and Analytical Reasoning | Analytical Reasoning | Direct |
 | 26 | Inequality | D. Relationships and Analytical Reasoning | Analytical Reasoning; inequality is not separately named | Mapped |
 | 27 | Calendar | D. Relationships and Analytical Reasoning | Analytical Reasoning; calendar is not separately named | Supplementary |
+| S1 | Statement-Courses of Action | E. Logical Reasoning | Statement-Courses of Action | Direct |
+| S2 | Decision Making | E. Logical Reasoning | Decision Making | Direct |
 
-**Source cleanup:** Page 4 repeats “Statement & Argument.” Page 26 presents the additional list without that duplicate. It is counted once here.
+**Source cleanup:**
+> ⚠️ S1 and S2 are directly named in the notification (category E) but have no timetable opening-table row or individually named day slot; add explicitly to study plan. Page 4 repeats “Statement & Argument.” Page 26 presents the additional list without that duplicate. It is counted once here.
 
 ---
 
@@ -82,7 +85,7 @@
 | 8 | Race | B. Arithmetic | Time and Distance | Mapped |
 | 9 | Ratio | B. Arithmetic | Ratio and Proportions | Direct |
 | 10 | Data Interpretation | F. Statistics; Reasoning G. Diagrams, Maps and Data | Elementary Statistics; Interpretation of Graphs (listed under Reasoning) | Mapped |
-| 11 | Average | F. Statistics | Elementary Statistics | Mapped |
+| 11 | Average | B. Arithmetic | Ratio and Proportions; average is not separately named in the notification | Mapped |
 | 12 | Mensuration | C. Mensuration | Mensuration | Direct |
 | 13 | Time & Work | B. Arithmetic | Time and Work | Direct |
 | 14 | Trigonometry | E. Geometry and Trigonometry | Trigonometry | Direct |
@@ -187,8 +190,8 @@ These are coverage checks, not claims that the unidentified coaching videos omit
 |---|---|---|
 | Maths | Decimals and Fractions | Named in the notification, but not separate day labels; inspect Number System / Simplification lessons. |
 | Maths | HCF | Present in the opening “LCM HCF” row; days 55–57 are labelled only LCM. |
-| Reasoning | Statement-Courses of Action | Explicit notification topic without its own opening-table row or named day slot. |
-| Reasoning | Decision Making | Explicit notification topic without its own opening-table row or named day slot. |
+| Reasoning | Statement-Courses of Action | Now row S1 in main table; verify lessons cover evaluating practical action options. |
+| Reasoning | Decision Making | Now row S2 in main table; verify lessons cover selecting actions based on given conditions. |
 | Reasoning | Maps | Direction/Distance may help, but verify actual map questions. |
 | Reasoning | Interpretation of Graphs | Maths DI may overlap, but the notification also names this under Reasoning. |
 | Reasoning | Remaining opening-table topics | Many, including Syllogism and Venn Diagrams, have no individually named day slot; identify what the generic videos cover. |
@@ -210,10 +213,10 @@ These are coverage checks, not claims that the unidentified coaching videos omit
 
 | Subject | Unique opening-list entries | Detailed-syllabus editorial groups |
 |---|---|---|
-| Reasoning & General Intelligence | 27: 17 important + 10 additional | 7 (A–G) |
+| Reasoning & General Intelligence | 27 timetable topics + 2 syllabus-only rows (S1, S2) | 7 (A–G) |
 | Mathematics | 20 | 6 (A–F) |
 | General Awareness | 11 | 10 (A–J) |
-| **Total** | **58 coaching topic entries** | **23 editorial groups** |
+| **Total** | **58 timetable topics + 2 syllabus-only rows = 60 rows** | **23 editorial groups** |
 
 The total counts timetable entries, not official microtopics or guaranteed question types. Combined labels such as “Mirror & Water Images” count as one entry. Daily-schedule subdivisions and the official coverage checks are separate from this total.
 
