@@ -1,6 +1,30 @@
 # RRB NTPC Graduate 2026
 
-Pay-first post priorities and examination dates from the supplied CEN 06/2026. Updated: 9 October 2026.
+Pay-first post priorities and examination dates from the supplied CEN 06/2026. Updated: 12 October 2026.
+
+## NTPC Graduate vs. Undergraduate recruitments
+
+RRB conducts NTPC recruitment under **two separate notifications** based on educational qualification and pay scale:
+
+| Parameter | NTPC Graduate Level (This Repository) | NTPC Undergraduate Level (12th Pass) |
+|---|---|---|
+| **Notification** | **CEN No. 06/2026** (supplied in `Notice/`) | Separate CEN notification |
+| **Minimum Qualification** | **Any Bachelor's Degree (Graduation)** | **12th Standard (+2 stage)** or equivalent |
+| **Pay Levels** | **Level 5 & Level 6** | **Level 2 & Level 3** |
+| **Starting Basic Pay** | Rs. 29,200 to Rs. 35,400 | Rs. 19,900 to Rs. 21,700 |
+| **Approx. Monthly In-Hand** | **Rs. 47,000 to Rs. 67,000+** | **Rs. 30,000 to Rs. 38,000** |
+| **Key Posts** | Chief Commercial Supervisor (L6), Goods Train Manager (L5), Senior Clerk (L5), JAA (L5) | Commercial cum Ticket Clerk (L3), Accounts Clerk (L2), Junior Clerk (L2), Trains Clerk (L2) |
+
+### Exam Stages for Both Tracks
+
+Both tracks use a two-stage computer-based examination structure:
+
+1. **CBT-1 (Screening Test):** 100 Qs | 100 marks | 90 minutes (Maths 30, Reasoning 30, General Awareness 40). Marks are used solely to shortlist candidates for CBT-2 (~1:15 ratio per vacancy).
+2. **CBT-2 (Final Merit Test):** 120 Qs | 120 marks | 90 minutes (Maths 35, Reasoning 35, General Awareness 50). 
+   - Graduate candidates write separate CBT-2 papers for Level 5 and Level 6.
+   - For CEN 06/2026, the typing skill test has been dispensed with for clerical posts; CBT-2 normalized score is 100% decisive for final merit.
+
+> **Candidate Dual-Eligibility:** Any candidate with a Bachelor's Degree is eligible to apply for **both** notifications. Because the syllabus (Mathematics, Reasoning, and General Awareness) is identical, preparing for the Graduate level automatically prepares you to clear the Undergraduate exam.
 
 ## Job priority and salary
 
