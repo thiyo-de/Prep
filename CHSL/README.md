@@ -28,6 +28,35 @@ Calculation references: [DA baseline](https://www.epfindia.gov.in/site_docs/PDFs
 
 Sources: [recruitment notification](Notice/Notice_of_adv_chsle_2026.pdf) and [SSC schedule dated 1 October 2026](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_01102026.pdf). Later official amendments take precedence.
 
+## Target scores and cutoff benchmarks
+
+Target scores for selection (OBC / UR baseline; OBC cutoffs in CHSL are typically within 2-5 marks of UR). Statutory minimum qualifying marks (30% / 60 marks in Tier-I) are regulatory thresholds, not selection cutoffs.
+
+### Tier-I: Screening target (out of 200)
+
+| Benchmark | Raw mock score target | Expected normalized cutoff | Strategy |
+|---|:---:|:---:|---|
+| Safe Qualifying | **145-155+** | 150-158 | Attempt 80-84 questions with >= 92% accuracy |
+
+### Tier-II: Final merit targets (out of 360)
+
+Merit ranking uses Section I (Maths 30 Q + Reasoning 30 Q = 180 marks) and Section II (English 40 Q + GA 20 Q = 180 marks). Computer Knowledge and Typing Test are qualifying only.
+
+| Post | Pay level | Approx. in-hand | Safe merit target (out of 360) | Target score % |
+|---|:---:|:---:|:---:|:---:|
+| **DEO - Level 5** | 5 | Rs. 47,000-56,000 | **315-325+** | ~88-90% (Strict quota / high competition) |
+| **DEO / Grade A - Level 4** | 4 | Rs. 42,000-50,000 | **295-305+** | ~82-85% |
+| **LDC / JSA** | 2 | Rs. 31,000-36,000 | **275-285+** | ~76-79% (Entry-level baseline) |
+
+### Tier-II Sectional Breakdown for 295+ (DEO Level 4 Target)
+
+- **Mathematics (30 Q):** 26-28 correct (~78-84 marks)
+- **Reasoning (30 Q):** 27-29 correct (~81-87 marks)
+- **English Language (40 Q):** 34-36 correct (~100-108 marks)
+- **General Awareness (20 Q):** 11-13 correct (~33-39 marks)
+- **Computer Knowledge (15 Q, 45 marks):** Target **24+/45** (statutory qualifying is ~11.25, but scoring higher prevents risk of disqualification).
+- **Typing / Skill Test:** Practice daily to consistently maintain **40 WPM** English at home to comfortably clear the 35 WPM / 15,000 KDPH test.
+
 ## Posting
 
 CHSL carries all-India posting liability. Trichy or Tamil Nadu is not guaranteed; the notification does not provide Trichy-specific vacancies.

@@ -32,6 +32,34 @@ Calculation references: [DA baseline](https://www.epfindia.gov.in/site_docs/PDFs
 
 Source: [supplied notification](Notice/Notification.pdf), page 4. A matching official-hosted CEN 06/2026 was not independently verified. Confirm this cycle and amendments on the [official RRB portal](https://rrb.indianrailways.gov.in/); dates from another NTPC cycle do not apply.
 
+## Target scores and cutoff benchmarks
+
+Target scores for selection (OBC / UR baseline; OBC cutoffs in NTPC are typically within 3-5 marks of UR). Typing skill tests for Senior Clerk and JAA have been dispensed with for CEN 06/2026, making CBT-2 scores 100% decisive for final merit.
+
+### CBT-1: Screening targets (out of 100)
+
+| Target post level | Safe raw score target | Expected normalized cutoff (RRB Chennai / SR) |
+|---|:---:|:---:|
+| **Level 6 (Commercial Supervisor)** | **75-80+** | 74-80 |
+| **Level 5 (Goods Guard / Clerks)** | **68-74+** | 68-74 |
+
+### CBT-2: Final merit targets (out of 120)
+
+Merit ranking uses Mathematics (35 Q) + Reasoning (35 Q) + General Awareness (50 Q) = 120 marks (+1 / -1/3).
+
+| Post | Pay level | Approx. in-hand | Safe merit target (out of 120) | Target score % |
+|---|:---:|:---:|:---:|:---:|
+| **Chief Commercial cum Ticket Supervisor** | 6 | Rs. 57,000-67,000 | **94-100+** | ~80% (Highest zone competition) |
+| **Goods Train Manager** | 5 | Rs. 50,000-65,000+ (with running allowances) | **86-92+** | ~73-76% |
+| **Senior Clerk / Junior Accounts Assistant** | 5 | Rs. 47,000-56,000 | **83-88+** | ~70-73% |
+
+### CBT-2 Sectional Breakdown for 90+ Target
+
+- **Reasoning (35 Q):** 31-33 correct (~31-33 marks)
+- **Mathematics (35 Q):** 30-32 correct (~30-32 marks)
+- **General Awareness (50 Q):** 30-34 correct (~30-34 marks)
+  - General Science (Physics, Chemistry, Life Science up to 10th CBSE) accounts for ~40% (~20 Qs) of GA and is the primary competitive differentiator.
+
 ## Posting
 
 RRB Chennai / Southern Railway does not guarantee Trichy. Southern Railway postings can be elsewhere in Tamil Nadu or Kerala; ICF is a Chennai option. Location and duty hours are secondary considerations after pay in the preference order above.
