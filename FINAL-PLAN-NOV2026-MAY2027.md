@@ -1,5 +1,9 @@
 # One Plan: CGL + RRB NTPC
 
+**[Open the chapter checklist and tick your progress](CHAPTER-CHECKLIST.md).**
+
+> **You have enough to begin.** Follow today's task, practise what you learn, and review your mistakes. Build consistency with this plan; adjust it when your results show a need.
+
 **1 November 2026–31 May 2027 | 39 hours/week of scheduled study + workday audio/lunch typing | CGL Tier-II first**
 
 ## 1. Target
@@ -25,9 +29,9 @@ Learn shared subjects once. Each topic follows **concept/examples → easy quest
 
 | Block | Time | Exact work |
 |---|---:|---|
-| Morning: Maths | 120 min | 40 min concept/examples, 60 min questions, 20 min error revision |
-| Evening: English | 90 min | 20 min vocabulary (10 new words + due reviews); 40 min topic/questions; 30 min reading/cloze and corrections |
-| Evening: Reasoning | 90 min | 20 min concept/examples; 50 min questions; 20 min corrections/revision |
+| Morning: Maths | 120 min | 40 min video/concept/examples + short notes; 60 min solving; 20 min error revision |
+| Evening: English | 90 min | 20 min vocabulary (10 new words + due reviews); 30 min lesson + short notes; 40 min grammar questions, reading/cloze and corrections |
+| Evening: Reasoning | 90 min | 25 min lesson/examples + short notes; 45 min solving; 20 min corrections/revision |
 | **Total** | **300 min** | **5 hours** |
 
 **During work:** GK/current-affairs and computer-theory audio, following the topic lists below. **Lunch break:** 20 minutes beginner typing practice, separate from the 5 study hours; keep time to eat. Audio listening is not counted as focused study or proof of learning. Check retention through weekend questions.
@@ -81,6 +85,51 @@ Finish the row during its week. Saturday's subject blocks include short tests, e
 **Statistics/probability stay in weeks 20–21:** SSC CGL 2026 paragraph 13.11.1.7 includes them in Paper-I; paragraph 13.9.2 makes Paper-I compulsory for all posts. They are not the specialist JSO paper. No hours are freed by removing them. The week-12 and week-14 buffers use existing subject time; their Sunday repair blocks take any spillover. Weeks 9 and 22 remain unchanged.
 
 ## 4. Daily practice rules
+
+### Use your video courses and PYQ books
+
+**Video = learn. PYQ book = practise. Test = check progress.** Use the course and books you already have; finish the current topic before switching resources.
+
+| Stage | What to do | Check before moving forward |
+|---|---|---|
+| 1. Understand | Watch a short lesson. Pause and attempt examples before the teacher solves them. | Explain the method in simple words without replaying it. |
+| 2. Build basics | Solve 10–15 easy questions without a timer. Write the steps. | At least 70% correct without help; repair the weak concept if below this. |
+| 3. Apply to PYQs | Start with straightforward questions, then harder CGL Tier-II/NTPC CBT-2 PYQs. Attempt before opening solutions. | Solve a mixed set independently; record assisted answers separately. |
+| 4. Build speed | Practise short timed sets and take the scheduled topic test. | Improve time without losing accuracy; review wrong, skipped and slow answers. |
+| 5. Retain | Re-solve mistakes after 7 and 21 days, without notes. | Both unaided re-solves correct; otherwise return the question to revision. |
+
+Spend the first few sessions on concepts and easy questions. These stages are not a five-day deadline. For Week 1, begin with whole numbers/basic operations, then move through the remaining topics one at a time.
+
+**Use the time allocations in Section 2.** Video time includes pauses, examples and notes—not continuous watching. If a lecture is longer than the block, continue next session. Once you understand the topic, replace its lesson time with solving and revision. Do not wait to finish the whole video course before starting PYQs.
+
+When stuck: make a genuine attempt → identify the step you cannot do → read/watch only that part of the solution → close it → solve again. Mark this attempt **assisted**, even if the final answer is correct. Revisit it unaided later.
+
+### How to take notes
+
+Use three sections in one notebook or digital folder:
+
+| Section | Write only this |
+|---|---|
+| Topic notes | Meaning, rule/formula and when it applies, one worked example, one common trap |
+| Error notebook | Book/page/question number; why you missed it; corrected method; 7-day and 21-day review dates/results |
+| Quick revision | Formulas, grammar rules, vocabulary and facts you repeatedly forget |
+
+Take notes **inside the lesson/revision blocks**, not in extra hours. Close the lesson and write the idea in your own words. Aim for a short page per small topic; add detail only when needed. Do not copy entire lectures or rewrite questions already in your book—record their page/question numbers.
+
+```text
+Topic: Percentage
+Meaning: A number out of 100.
+Rule: p% of a quantity = p/100 × quantity.
+Example: 15% of 200 = 15/100 × 200 = 30.
+Trap: Check which quantity is the base (the 100%).
+Error reference: [book/page/question]
+My mistake and correction: [...]
+Review dates/results: [7 days] / [21 days]
+```
+
+For English, add one correct sentence showing the rule or word. For GK/computer audio, write a short weekend recall summary **before** checking notes, then correct missing facts. Keep errors from quizzes in the same error notebook.
+
+### Question practice
 
 - **Maths:** aim for 15–25 carefully solved questions in the practice hour. Start easier, then attempt 10–15 relevant Tier-II/CBT-2 PYQs by the end of each topic. Hard questions count even when you solve fewer.
 - **Reasoning:** 20–30 questions per session; learn the method before speed tricks.
@@ -180,6 +229,24 @@ For each error: record the cause (concept, calculation, reading, time or guess),
 If a topic test is below 70%, use the next two practice blocks for repair and retest. Use Sunday catch-up for spillover. Do not stop every other subject. Week 9 and week 22 absorb delays. If the backlog exceeds two weeks, reduce new-question volume and use those buffers; do not add study hours or silently skip topics.
 
 Bad day: 20 minutes Maths, 15 English, 15 GA, 10 typing. Log actual work; it is a recovery day, not a completed 5-hour day.
+
+### When you feel demotivated
+
+| What you feel | Next small action |
+|---|---|
+| “There is too much to finish.” | Open today's topic only. Set a 10-minute timer and solve one easy question. |
+| “My mock score is low.” | Separate untaught topics from mistakes in taught topics. Repair one repeated mistake today. |
+| “I missed a day.” | Resume at the next block. Use existing catch-up time; do not double tomorrow's hours. |
+| “Others are ahead of me.” | Compare this week's accuracy and repeated errors with your own previous week. |
+| “Work has exhausted me.” | Use the bad-day routine, record it honestly and rest. Do not treat exhaustion as failure. |
+
+> Being a beginner is your starting point, not your limit.
+>
+> One mistake understood and corrected is useful progress.
+>
+> You do not have to finish the syllabus today. Complete the next clear task.
+
+End each day by writing tomorrow's exact first task, such as **“Fractions: lesson example, then questions 1–10.”** Consistency means returning after difficult days, not having perfect days. Selection is not guaranteed; focus on the practice and improvement you can control.
 
 Daily log: `Date | topic | minutes | attempted/correct/wrong/skipped | net test score | next error-review date`.
 

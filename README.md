@@ -8,6 +8,8 @@ One beginner-friendly study plan for **November 2026–May 2027**, built around 
 
 **[Open the final study plan](FINAL-PLAN-NOV2026-MAY2027.md)** — weekly topics, revision, tests, mocks and progress targets.
 
+**[Chapter checklist](CHAPTER-CHECKLIST.md)** — tick completed topics, tests and revision.
+
 The final plan is the source of truth for exam priorities and scheduling. Older CHSL-first notes or teaching rules do not override it.
 
 ## Exam focus
