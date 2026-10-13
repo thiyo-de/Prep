@@ -2,6 +2,8 @@
 
 One beginner-friendly study plan for **November 2026–May 2027**, built around an **8 AM–7 PM workday**.
 
+**Target: upcoming 2027 recruitment cycles only** — SSC CGL and RRB NTPC Graduate, with CHSL as a backup. Existing/ongoing recruitment cycles are outside this plan. May is the preparation deadline, not a confirmed exam date.
+
 ## Start here
 
 **[Open the final study plan](FINAL-PLAN-NOV2026-MAY2027.md)** — weekly topics, revision, tests, mocks and progress targets.

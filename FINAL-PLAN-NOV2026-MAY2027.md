@@ -4,6 +4,8 @@
 
 ## 1. Target
 
+**Upcoming 2027 recruitment cycles only:** SSC CGL, RRB NTPC Graduate and backup CHSL. Preparation starts in November 2026; that does not make existing/ongoing recruitment cycles part of this plan. No application or exam commitments from those cycles are assumed.
+
 | Exam | Selected posts | Preparation |
 |---|---|---|
 | SSC CGL | ASO, Income Tax Inspector, Auditor, Accountant, Tax Assistant | Tier-I + Tier-II Paper-I, computers and data entry |
@@ -89,7 +91,7 @@ Finish the row during its week. Saturday's subject blocks include short tests, e
 
 ## 5. Computer audio + beginner lunch typing
 
-**Post check:** under the CGL 2026 notice, computers and DEST apply to all selected CGL posts (subject to notified exemptions); some ASO cadres and Tax Assistant have higher qualifying standards. Under NTPC **06/2026**, the Railways' October 11 release says CBTST is dispensed with for Junior Accounts Assistant/Senior Clerk typist posts; proficiency is assessed after joining. The old 06/2025 typing-test rule is not used for this cycle. Keep typing for CGL DEST.
+**Planning baseline:** the older CGL notice includes computers and DEST for the selected posts, with some higher post-specific qualifying standards. Keep both in preparation. Confirm the actual requirements in the upcoming 2027 notices, including whether NTPC typist posts require a recruitment typing test. A previous cycle's exemption must not be assumed for 2027.
 
 **Computer theory:** audio during work, with weekend revision/questions and practical checks inside the existing repair block. **Typing:** 20 minutes each workday at lunch, starting at beginner level, even with prior developer/designer experience. No typing time is taken from the 90-minute English block.
 
@@ -183,25 +185,21 @@ Daily log: `Date | topic | minutes | attempted/correct/wrong/skipped | net test 
 
 ## 8. Exam-date rule and references
 
-**Live check: 13 October 2026. Not every exam date could be confirmed.**
+**2027 exams only. No target-cycle dates are confirmed in this plan.**
 
-| Exam/cycle | What was verified | Action |
+| Target | Date status in this plan | Action |
 |---|---|---|
-| CGL 2027 | No official 2027 exam date verified. The calendar labelled 2026–27 lists CGL 2026, not CGL 2027. | Keep May as the preparation deadline, not an assumed exam date. |
-| CHSL 2026 | SSC's October 1 notice proposes Tier-I **Nov 30–Dec 31, 2026**. | If already applied, bring CHSL mock practice forward: replace the Nov 8/22 Sunday topic tests with CHSL mocks and use the nearest pre-exam Sunday for CHSL. Keep fortnightly CGL tests unless the final-three-week priority rule applies. |
-| CHSL 2027 | No official date verified. | March–May monthly mocks remain backup practice. |
-| NTPC Graduate 06/2026 | Railways confirms applications **Oct 8–Nov 6, 2026, 11:59 PM**; fee deadline Nov 8. No CBT date verified in the sources opened. | Check eligibility and apply before the deadline if targeting this cycle; do not assume its exam is after May. |
+| CGL 2027 | Unconfirmed | Keep May as the preparation deadline; follow the 2027 notification when available. |
+| CHSL 2027 | Unconfirmed | March–May monthly mocks remain backup practice. |
+| Upcoming NTPC Graduate 2027 recruitment | Notification identifier and exam dates unconfirmed | Check the new notice for selected posts, eligibility, skills and application dates. Do not substitute an ongoing older cycle. |
 
-Before November 1, recheck the official portals for new dates and your application status. Use 10 minutes of the final Sunday planning block monthly for updates. This document is not an automatic reminder or monitoring service.
+Use 10 minutes of the final Sunday planning block monthly to check official portals for the target 2027 notices. Record their application deadlines and exam dates when announced. This document is not an automatic reminder or monitoring service.
 
-**Early-exam override:** once an exam you are taking is confirmed before May, move its mock phase to the final three weeks before that exam: use the existing Saturday 5-hour block plus Sunday 5-hour test block for that exam's mocks and analysis. This temporarily overrides the normal mock mix/frequency; the 39 hours and Sunday split stay fixed. Final seven days: covered material and errors, no new chapters. Resume the dated plan afterwards and put missed topics in the existing catch-up blocks. Early dates may prevent full coverage; do not claim readiness without scores.
+**Early-exam override:** only if a target 2027 exam is officially scheduled before May, move its mock phase to the final three weeks before that exam: use the existing Saturday 5-hour block plus Sunday 5-hour test block for that exam's mocks and analysis. This temporarily overrides the normal mock mix/frequency; the 39 hours and Sunday split stay fixed. Final seven days: covered material and errors, no new chapters. Resume the dated plan afterwards and put missed topics in the existing catch-up blocks. Early dates may prevent full coverage; do not claim readiness without scores.
 
-Evidence:
+Older syllabus references (reviewed 13 October 2026; not 2027 notification or date confirmation):
 
 - [SSC CGL 2026 notice](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf): retrieved directly from SSC and read, pages 27, 29 and 32; paragraphs 13.9.2, 13.9.9–10 and 13.11.1.7 confirm Paper-I, computers/DEST and statistics/probability. Browser retrieval timed out; direct PDF extraction succeeded. [Mirror corroboration](https://cdn-images.prepp.in/public/image/Notice_of_adv_cgl_2026_dd5fd6a14e2ca90a484d8cb2c295bd99.pdf). These are 2026 rules, pending the applicable 2027 notice.
-- [SSC October 1 schedule](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_01102026.pdf): opened and read; CHSL 2026 proposed dates above.
-- [SSC tentative 2026–27 calendar](https://ssc.gov.in/api/attachment/uploads/masterData/ExamCalendar/Tentative_Calendar2026_27_08012026.pdf): does not establish CGL/CHSL 2027 dates; later exam-specific notices override old tentative entries.
-- [Ministry of Railways release, October 11, 2026](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321873&lang=2&reg=48): opened and read; verifies NTPC 06/2026 selected posts, application dates and removal of recruitment CBTST for the two typist posts. The full newer CEN and CBT timetable were not independently retrieved.
 - [NTPC 06/2025 notice](https://rrbsecunderabad.gov.in/wp-content/uploads/2025/10/Final-CEN-06-2025-21-10-2025-Publish.pdf): **old-cycle syllabus reference only**, not current exam-date or typing-test evidence. Full PDF access previously timed out; indexed official syllabus text was available.
 
 Applicable notices override older baselines. Check selected-post eligibility. This plan covers NTPC Graduate, not technical RRB exams.
