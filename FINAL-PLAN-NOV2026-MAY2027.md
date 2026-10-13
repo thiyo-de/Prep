@@ -1,0 +1,209 @@
+# One Plan: CGL + RRB NTPC
+
+**1 November 2026–31 May 2027 | 39 hours/week of scheduled study + workday audio/lunch typing | CGL Tier-II first**
+
+## 1. Target
+
+| Exam | Selected posts | Preparation |
+|---|---|---|
+| SSC CGL | ASO, Income Tax Inspector, Auditor, Accountant, Tax Assistant | Tier-I + Tier-II Paper-I, computers and data entry |
+| RRB NTPC Graduate | Chief Commercial cum Ticket Supervisor, Goods Train Manager, Junior Accounts Assistant cum Typist, Senior Clerk cum Typist | CBT-1 + CBT-2; basic computer/typing proficiency |
+
+CHSL is a backup: one Tier-I mock monthly from March. This is not a separate CHSL course or a claim of complete CHSL Tier-II preparation.
+
+No JSO/Statistical Investigator, AAO specialist papers or Station Master aptitude test. Post availability and your eligibility must match the applicable notice.
+
+Learn shared subjects once. Each topic follows **concept/examples → easy questions for the first few sessions → untimed Tier-II/CBT-2 PYQs → timed practice and test**. Move to harder questions after explaining the method and reaching 70% on an easy set. PYQ = previous-year question. Keep the harder practice in every chapter; do not wait until March.
+
+## 2. Fixed routine: November–March
+
+### Monday–Saturday: 5 hours/day
+
+**Work: 8 AM–7 PM.** Use a 2-hour Maths block before work and the two 90-minute blocks outside work. Exact start times depend on meals, travel and sleep; lunch typing does not reduce English time.
+
+| Block | Time | Exact work |
+|---|---:|---|
+| Morning: Maths | 120 min | 40 min concept/examples, 60 min questions, 20 min error revision |
+| Evening: English | 90 min | 20 min vocabulary (10 new words + due reviews); 40 min topic/questions; 30 min reading/cloze and corrections |
+| Evening: Reasoning | 90 min | 20 min concept/examples; 50 min questions; 20 min corrections/revision |
+| **Total** | **300 min** | **5 hours** |
+
+**During work:** GK/current-affairs and computer-theory audio, following the topic lists below. **Lunch break:** 20 minutes beginner typing practice, separate from the 5 study hours; keep time to eat. Audio listening is not counted as focused study or proof of learning. Check retention through weekend questions.
+
+### Sunday: 9 hours
+
+| Time | Work |
+|---:|---|
+| 5 hours | Scheduled test(s) + full analysis; use spare time for corrections |
+| 2 hours | Weakest topics/catch-up; Maths gets first priority |
+| 1 hour | Re-solve errors due after 7 and 21 days |
+| 1 hour | 30-question GA quiz, review and next-week checklist |
+
+**30 + 9 = 39 scheduled hours**, plus workday audio and 20-minute lunch typing (2 extra hours across six workdays). Finish Sunday with a 2–3-hour study-free evening.
+
+Use Sunday's existing GA hour for **15 minutes audio-topic recall, 25 minutes on a 30-question quiz, and 20 minutes corrections/next-week planning**. Include current affairs. Use 30 minutes of the existing 2-hour repair block for computer-audio revision, a short quiz and practical checks such as files, Word or Excel. Do not add another weekend block.
+
+Inside Sunday's existing 2-hour repair block: **10 timed Maths questions in 6 minutes** (36 seconds/question average), then 14 minutes reviewing mistakes. Use covered topics. After this drill and the 30-minute computer check, **70 minutes remain for other weak topics/catch-up**. The Sunday split does not change.
+
+## 3. Weekly topic checklist
+
+Finish the row during its week. Saturday's subject blocks include short tests, except when replaced by the dated mock schedule. The GA column guides workday audio and weekend revision. Keep vocabulary, computer audio and lunch typing running from the start of this plan.
+
+| Week | Dates | Maths | Reasoning | English | GA |
+|---|---|---|---|---|---|
+| 1 | Nov 2–8 | Whole numbers, fractions, decimals, BODMAS, simplification/approximation | Analogy, similarities, classification | Sentence structure, parts of speech | Constitution, rights, duties |
+| 2 | Nov 9–15 | Divisibility, factors, HCF/LCM, roots, powers | Number/alphabet series, missing numbers | Nouns, pronouns, articles | Parliament, executive, judiciary |
+| 3 | Nov 16–22 | Percentages | Coding, word building, letter jumbling | Tenses, subject–verb agreement | States, local government, constitutional bodies |
+| 4 | Nov 23–29 | Ratio, proportion, averages | Numerical/symbolic operations | Adjectives, adverbs, comparison | Biology: cells, plants, human body, nutrition |
+| 5 | Nov 30–Dec 6 | Profit, loss, discount | Blood relations, directions, maps | Prepositions, conjunctions, modals | Biology: disease, reproduction, ecology |
+| 6 | Dec 7–13 | Simple/compound interest, instalments | Ranking, ordering, clocks, calendars | Active/passive voice | Ancient/medieval India, culture |
+| 7 | Dec 14–20 | Partnership, mixture/alligation, ages | Venn diagrams, syllogisms | Direct/indirect speech | Modern India, freedom struggle |
+| 8 | Dec 21–27 | Time/work, wages, pipes | Statements, conclusions, inferences | Conditionals, question tags | Art, literature, monuments, heritage |
+| 9 | Dec 28–Jan 3 | Repair arithmetic gaps; mixed PYQs | Revision of weeks 1–8 | Mixed grammar/error spotting | Revision of weeks 1–8 |
+| 10 | Jan 4–10 | Speed/distance, relative speed, trains | Assumptions, arguments, course of action, cause/effect | Sentence improvement, blanks | Physical/world geography, neighbours |
+| 11 | Jan 11–17 | Boats, races, mixed work/distance | Puzzles, seating, analytical reasoning | Synonyms/antonyms, homonyms, spelling | India: rivers, climate, soils, agriculture |
+| 12 | Jan 18–24 | Algebra identities, surds/indices, equations/graphs | Mon–Tue: seating/puzzle buffer; then data sufficiency, decision making, graphs | Idioms, phrasal verbs, one-word substitution | Resources, transport, industries, environment |
+| 13 | Jan 25–31 | Lines/angles, triangles, centres, congruence/similarity | Figural analogy, series, classification | Sentence-part and paragraph rearrangement | Physics: motion, force, work, energy |
+| 14 | Feb 1–7 | Mon: geometry buffer; then circles, chords, tangents, quadrilaterals/polygons | Mirror/water images, rotation, spatial reasoning | Cloze passages | Physics: heat, light, sound, electricity |
+| 15 | Feb 8–14 | 2D mensuration, composite areas | Paper cutting/folding, embedded figures | Reading: main idea, inference, vocabulary | Chemistry: matter, atoms, reactions |
+| 16 | Feb 15–21 | 3D: prism, cuboid, cone, cylinder, sphere, hemisphere, pyramid | Cubes/dice, figure counting/completion | Story/book comprehension + grammar repair | Chemistry: acids/bases, metals, everyday uses |
+| 17 | Feb 22–28 | Trig ratios, values, identities, complementary angles, degrees/radians | Indexing; address/date/city/code matching | Report/editorial comprehension | Economy: national income, sectors, inflation |
+| 18 | Mar 1–7 | Heights/distances; mixed geometry/trig | Input-output; critical thinking, observation, visual memory | Timed mixed Tier-II English | Banking, money, budget, taxation, reforms |
+| 19 | Mar 8–14 | Tables, bar/pie charts, histograms, frequency polygons | Emotional/social intelligence, problem solving | Timed mixed Tier-II English | Government schemes, institutions, UN/world bodies |
+| 20 | Mar 15–21 | Mean, median, mode, standard deviation | Mixed CGL/NTPC PYQs; weak patterns | Mixed PYQs; weak grammar/vocabulary | Scientific research, space/nuclear programmes, technology |
+| 21 | Mar 22–28 | Basic probability; mixed statistics/PYQs | Mixed timed sets | Mixed timed sets | Sports, awards, personalities, flora/fauna, remaining static GK |
+| 22 | Mar 29–Apr 4 | Catch-up and full syllabus test | Catch-up/test | Catch-up/test | Catch-up/test |
+
+**By April 4:** every listed topic has been studied, practised and tested once. Unfinished topics remain visibly marked; a date does not mean mastery.
+
+**Statistics/probability stay in weeks 20–21:** SSC CGL 2026 paragraph 13.11.1.7 includes them in Paper-I; paragraph 13.9.2 makes Paper-I compulsory for all posts. They are not the specialist JSO paper. No hours are freed by removing them. The week-12 and week-14 buffers use existing subject time; their Sunday repair blocks take any spillover. Weeks 9 and 22 remain unchanged.
+
+## 4. Daily practice rules
+
+- **Maths:** aim for 15–25 carefully solved questions in the practice hour. Start easier, then attempt 10–15 relevant Tier-II/CBT-2 PYQs by the end of each topic. Hard questions count even when you solve fewer.
+- **Reasoning:** 20–30 questions per session; learn the method before speed tricks.
+- **English:** 10–15 topic questions plus one short passage/cloze exercise. Learn **10 new words each day**, with reviews after 1, 3, 7 and 21 days inside the vocabulary slot. Sunday's words/reviews use 20 minutes of the test-analysis block; its total stays 5 hours.
+- **GA:** follow the weekly topic through workday audio, including current affairs. Study science at Class 10 level. Test recall in Sunday's quiz and retain one monthly summary. Replay weak topics; listening alone does not mark a chapter complete.
+- **Arithmetic recall:** tables to 20, squares to 30, cubes to 15; use 5 minutes of the Maths concept block until fluent.
+- Every Saturday: replace part of each subject's normal practice with a short topic test. Use one PYQ source per subject and one mock platform per exam; avoid resource collecting.
+
+## 5. Computer audio + beginner lunch typing
+
+**Post check:** under the CGL 2026 notice, computers and DEST apply to all selected CGL posts (subject to notified exemptions); some ASO cadres and Tax Assistant have higher qualifying standards. Under NTPC **06/2026**, the Railways' October 11 release says CBTST is dispensed with for Junior Accounts Assistant/Senior Clerk typist posts; proficiency is assessed after joining. The old 06/2025 typing-test rule is not used for this cycle. Keep typing for CGL DEST.
+
+**Computer theory:** audio during work, with weekend revision/questions and practical checks inside the existing repair block. **Typing:** 20 minutes each workday at lunch, starting at beginner level, even with prior developer/designer experience. No typing time is taken from the 90-minute English block.
+
+Beginner session: **10 minutes finger placement/key accuracy + 10 minutes simple passages**. Once accurate, progress to a 15-minute timed passage plus 5 minutes reviewing errors. Track speed and accuracy; increase speed gradually. On days without work, no separate lunch-typing session is required; any extra practice uses existing repair time.
+
+| Month | Computer Knowledge | Typing/data entry |
+|---|---|---|
+| Nov | Hardware, CPU, memory/storage, input/output, ports | Correct finger placement, key accuracy; record baseline |
+| Dec | Windows, files/folders, shortcuts, Word | Simple sentences and passages; accuracy before speed |
+| Jan | Excel basics/functions, PowerPoint | Longer passages; gradual speed improvement |
+| Feb | Internet, email, downloads, e-banking | Introduce timed passages; review recurring errors |
+| Mar | Networks, protocols, threats, security/backup | Timed CGL-style data-entry passages; record errors |
+| Apr | Mixed audio revision, MCQs and practical checks | Full 15-minute attempts; repair accuracy and speed |
+| May | Mixed tests and weak topics | Aim for 35–40 English WPM with high accuracy; follow notified DEST rules |
+
+Typing speed is a practice target, not an official qualifying guarantee. CGL 2026 specifies about 2,000 key depressions in 15 minutes; check the applicable cycle's error standards and rules. If three practice attempts show no improvement, use part of Sunday's existing repair time for skills.
+
+## 6. Test calendar
+
+**CGL Tier-I every two weeks from November 1:** Nov 1/15/29; Dec 13/27; Jan 10/24; Feb 7/21; Mar 7/21; Apr 4/18; May 2/16/30. The March 7 and April 4 mocks move **one day earlier** to avoid colliding with full Tier-II tests. No second copy of a listed mock is required.
+
+On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and sectional repairs. On other Nov–Jan Sundays, rotate Maths, Reasoning, English/GA tests; use Dec 6 and Jan 17 for NTPC CBT-1 instead. Include harder questions only from taught chapters.
+
+**Reduction rule:** after three consecutive comparable Tier-I mocks score at least **20 marks above the latest official cutoff for your category and relevant post group**, you may reduce to monthly. Record the cutoff's exam year and source. If no suitable official cutoff is verified, keep fortnightly tests. Return to fortnightly if a mock falls below that margin. This is a scheduling rule, not a pass guarantee. The calendar below is the default; freed slots become Tier-II sectional repair.
+
+**February:** Tier-II sectional tests only. **March 7:** first full Tier-II Paper-I mock. DI/statistics/probability are still unfinished then; record those gaps separately from errors in taught topics.
+
+| Date | Test |
+|---|---|
+| Feb 7 | CGL Tier-I + one short Tier-II sectional on covered topics |
+| Feb 14 | Tier-II Maths/Reasoning sectionals on covered topics |
+| Feb 21 | CGL Tier-I + Tier-II English/GA sectional |
+| Feb 28 | NTPC CBT-2 sectional set + computer quiz |
+| Mar 6 (Sat) | CGL Tier-I + analysis replace the 2-hour Maths block; evening routine stays |
+| Mar 7 | First full CGL Tier-II Paper-I + analysis |
+| Mar 14 | NTPC CBT-2 |
+| Mar 21 | CGL Tier-I |
+| Mar 28 | NTPC CBT-1 + monthly CHSL Tier-I; analyse within 5 hours |
+| Apr 3 (Sat) | CGL Tier-I + analysis replace the 2-hour Maths block; evening routine stays |
+| Apr 4 | CGL Tier-II Paper-I + syllabus-gap audit |
+
+### April 5–May 30: two mock sessions/week
+
+**Monday–Friday:** same 5-hour blocks, now used for mixed PYQs, spaced revision and mock weaknesses. No new resource/course.
+
+**Saturday:** replace the usual 5 hours with the listed test(s) and analysis. **Sunday:** use the unchanged 5-hour test block for the listed test and analysis; retain the other 4 hours exactly as before.
+
+Core mix across these eight weeks: **8 Tier-II Paper-I + 4 CGL Tier-I + 4 NTPC CBT-2 = 50% / 25% / 25%.** Monthly CHSL mocks are additional backup checks inside existing time; they are not counted in that three-exam ratio. No extra mock hours; workday audio/lunch typing remain separate as above.
+
+| Week | Dates | Saturday | Sunday | Revision focus |
+|---|---|---|---|---|
+| 23 | Apr 5–11 | NTPC CBT-2 + CHSL Tier-I | CGL Tier-II | Arithmetic; polity/biology |
+| 24 | Apr 12–18 | CGL Tier-II | CGL Tier-I | Algebra/geometry; history/grammar |
+| 25 | Apr 19–25 | NTPC CBT-2 | CGL Tier-II | Mensuration/trig; geography/reasoning |
+| 26 | Apr 26–May 2 | CGL Tier-II | CGL Tier-I | Statistics/probability; science/computers |
+| 27 | May 3–9 | NTPC CBT-2 + CHSL Tier-I | CGL Tier-II | Weak topics; economy |
+| 28 | May 10–16 | CGL Tier-II | CGL Tier-I | Repeated errors; current affairs/static GK |
+| 29 | May 17–23 | NTPC CBT-2 | CGL Tier-II | Speed; grammar/formulas |
+| 30 | May 24–30 | CGL Tier-II | CGL Tier-I | Final repairs; data-entry accuracy |
+
+Use the remaining Saturday time for analysis; do not add hours. If analysis needs longer, use Sunday's repair block before attempting more practice.
+
+**May 31:** review the last four mocks of each main exam, unresolved errors and typing records. If your exam is later, repeat the final weekly routine until it arrives.
+
+## 7. Progress rules: repair without restarting
+
+| Checkpoint | Working target |
+|---|---|
+| End November | 70% accuracy on taught-topic tests; daily routine established |
+| End December | 75% on taught-topic tests; visible reduction in repeated errors |
+| End January | 75% on mixed tests of covered chapters |
+| End February | Tier-II sectionals logged; identify three biggest weaknesses; skill baselines recorded |
+| End March | CGL Tier-I 110+/200; first full Tier-II section scores recorded and targets set |
+| April 4 | Every topic tested once; all syllabus gaps listed |
+| End April | CGL Tier-I 140+/200; meet individually recorded Tier-II section targets |
+| End May | CGL Tier-I 160+/200 in four consecutive mocks; meet Tier-II section targets in the final four mocks; no unresolved computer/DEST weakness |
+
+The four-mock May target can include preceding April results; if four results are unavailable after reducing frequency, the target remains unproven. Keep the default fortnightly schedule until this target is met if you want that evidence by May.
+
+After the **March 7** Tier-II baseline, record net scores separately for Maths, Reasoning, English, GA and computers; log DEST output/errors separately. Set numeric April/May targets within each section's maximum. Initial working rule: April = baseline + 10 percentage points of that section's maximum; May = baseline + 20 points (cap at maximum). Raise targets where needed against verified official minimums and competitive-score evidence. These improvement targets are not selection thresholds. Do not invent a baseline before the test.
+
+These are study targets, not official cutoffs. Record **net marks, attempted-question accuracy and completion rate** separately; high accuracy on a few attempts is insufficient. Compare scores only within the same exam/format. Use applicable official cutoff history as context once available, not as a selection promise.
+
+For each error: record the cause (concept, calculation, reading, time or guess), correct it, then re-solve after **7 and 21 days**. Count it retained only after both unaided re-solves.
+
+If a topic test is below 70%, use the next two practice blocks for repair and retest. Use Sunday catch-up for spillover. Do not stop every other subject. Week 9 and week 22 absorb delays. If the backlog exceeds two weeks, reduce new-question volume and use those buffers; do not add study hours or silently skip topics.
+
+Bad day: 20 minutes Maths, 15 English, 15 GA, 10 typing. Log actual work; it is a recovery day, not a completed 5-hour day.
+
+Daily log: `Date | topic | minutes | attempted/correct/wrong/skipped | net test score | next error-review date`.
+
+## 8. Exam-date rule and references
+
+**Live check: 13 October 2026. Not every exam date could be confirmed.**
+
+| Exam/cycle | What was verified | Action |
+|---|---|---|
+| CGL 2027 | No official 2027 exam date verified. The calendar labelled 2026–27 lists CGL 2026, not CGL 2027. | Keep May as the preparation deadline, not an assumed exam date. |
+| CHSL 2026 | SSC's October 1 notice proposes Tier-I **Nov 30–Dec 31, 2026**. | If already applied, bring CHSL mock practice forward: replace the Nov 8/22 Sunday topic tests with CHSL mocks and use the nearest pre-exam Sunday for CHSL. Keep fortnightly CGL tests unless the final-three-week priority rule applies. |
+| CHSL 2027 | No official date verified. | March–May monthly mocks remain backup practice. |
+| NTPC Graduate 06/2026 | Railways confirms applications **Oct 8–Nov 6, 2026, 11:59 PM**; fee deadline Nov 8. No CBT date verified in the sources opened. | Check eligibility and apply before the deadline if targeting this cycle; do not assume its exam is after May. |
+
+Before November 1, recheck the official portals for new dates and your application status. Use 10 minutes of the final Sunday planning block monthly for updates. This document is not an automatic reminder or monitoring service.
+
+**Early-exam override:** once an exam you are taking is confirmed before May, move its mock phase to the final three weeks before that exam: use the existing Saturday 5-hour block plus Sunday 5-hour test block for that exam's mocks and analysis. This temporarily overrides the normal mock mix/frequency; the 39 hours and Sunday split stay fixed. Final seven days: covered material and errors, no new chapters. Resume the dated plan afterwards and put missed topics in the existing catch-up blocks. Early dates may prevent full coverage; do not claim readiness without scores.
+
+Evidence:
+
+- [SSC CGL 2026 notice](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf): retrieved directly from SSC and read, pages 27, 29 and 32; paragraphs 13.9.2, 13.9.9–10 and 13.11.1.7 confirm Paper-I, computers/DEST and statistics/probability. Browser retrieval timed out; direct PDF extraction succeeded. [Mirror corroboration](https://cdn-images.prepp.in/public/image/Notice_of_adv_cgl_2026_dd5fd6a14e2ca90a484d8cb2c295bd99.pdf). These are 2026 rules, pending the applicable 2027 notice.
+- [SSC October 1 schedule](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_01102026.pdf): opened and read; CHSL 2026 proposed dates above.
+- [SSC tentative 2026–27 calendar](https://ssc.gov.in/api/attachment/uploads/masterData/ExamCalendar/Tentative_Calendar2026_27_08012026.pdf): does not establish CGL/CHSL 2027 dates; later exam-specific notices override old tentative entries.
+- [Ministry of Railways release, October 11, 2026](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321873&lang=2&reg=48): opened and read; verifies NTPC 06/2026 selected posts, application dates and removal of recruitment CBTST for the two typist posts. The full newer CEN and CBT timetable were not independently retrieved.
+- [NTPC 06/2025 notice](https://rrbsecunderabad.gov.in/wp-content/uploads/2025/10/Final-CEN-06-2025-21-10-2025-Publish.pdf): **old-cycle syllabus reference only**, not current exam-date or typing-test evidence. Full PDF access previously timed out; indexed official syllabus text was available.
+
+Applicable notices override older baselines. Check selected-post eligibility. This plan covers NTPC Graduate, not technical RRB exams.
+
+This file replaces the old CHSL-first schedule and preparation targets. Keep the existing beginner-friendly teaching approach; use this plan for exam priority, hours and topic order.
