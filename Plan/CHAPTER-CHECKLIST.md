@@ -79,7 +79,7 @@ M24 partnership/ages are introduced beside ratio/mixture; tick M24 only after it
 - [ ] R26 Deviation of Figure (non-verbal)
 - [ ] R18 Miscellaneous
 
-R18 includes the additional logical/NTPC and matching/cognitive practice listed in the plan. Verbal and non-verbal Series/Analogy/Classification are separate book chapters, not duplicates.
+R18 includes the additional logical/NTPC and matching/cognitive practice listed in the plan, including map-based reasoning and graph interpretation. Verbal and non-verbal Series/Analogy/Classification are separate book chapters, not duplicates.
 
 ## English
 
@@ -106,6 +106,8 @@ R18 includes the additional logical/NTPC and matching/cognitive practice listed 
 - [ ] E13 Comprehension Test
 
 The grammar foundation includes parts of speech and tenses. Apply those rules in E01-E05; no second grammar course is needed. Vocabulary practice continues daily.
+
+Start practice with simple sentences. Introduce short reading gradually and cloze after the necessary grammar; do not require exam-level passages during the first foundation lessons.
 
 ## GK
 
@@ -140,6 +142,8 @@ The grammar foundation includes parts of speech and tenses. Apply those rules in
 - [ ] G22 Miscellaneous
 
 G12 shares the computer route below. G20-G21 remain ongoing current-affairs work; ticking means the initial practice/revision pass is done, not that future updates stop.
+
+Before ticking G03, include monuments/important places; G16, Indian literature; G18, important government/public-sector organisations; G22, common abbreviations. These belong inside the existing chapters. Sunday's quiz includes older topics as specified in the plan.
 
 ## Computer skills supporting G12
 

@@ -10,6 +10,8 @@ One beginner-friendly study plan for **November 2026–May 2027**, built around 
 
 **[Chapter checklist](Plan/CHAPTER-CHECKLIST.md)** — tick completed topics, tests and revision.
 
+**[Posts and salary guide](Posts/POSTS-AND-SALARY-GUIDE.md)** — SSC/RRB comparison, starting basic pay, estimated gross and in-hand pay, and annual gross.
+
 The final plan is the source of truth for exam priorities and scheduling. Older CHSL-first notes or teaching rules do not override it.
 
 ## Exam focus

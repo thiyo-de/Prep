@@ -2,6 +2,8 @@
 
 **[Open the chapter checklist and tick your progress](CHAPTER-CHECKLIST.md).**
 
+**[Posts and salary guide](../Posts/POSTS-AND-SALARY-GUIDE.md)** — jobs, pay levels and illustrated gross/in-hand salaries for SSC and RRB.
+
 > **You have enough to begin.** Follow today's task, practise what you learn, and review your mistakes. Build consistency with this plan; adjust it when your results show a need.
 
 **1 November 2026–31 May 2027 | 39 hours/week of scheduled study + workday audio/lunch typing | CGL Tier-II first**
@@ -27,6 +29,8 @@ Learn shared subjects once. Each topic follows **concept/examples → easy quest
 
 **Work: 8 AM–7 PM.** Use a 2-hour Maths block before work and the two 90-minute blocks outside work. Exact start times depend on meals, travel and sleep; lunch typing does not reduce English time.
 
+Check this routine against your actual sleep, meals and travel during the first two weeks. An 11-hour workday plus 5 study hours leaves 8 hours for everything else. Do not repeatedly cut sleep to complete the checklist; log shortfalls and use the existing recovery/repair rules.
+
 | Block | Time | Exact work |
 |---|---:|---|
 | Morning: Maths | 120 min | 40 min video/concept/examples + short notes; 60 min solving; 20 min error revision |
@@ -48,6 +52,8 @@ Learn shared subjects once. Each topic follows **concept/examples → easy quest
 **30 + 9 = 39 scheduled hours**, plus workday audio and 20-minute lunch typing (2 extra hours across six workdays). Finish Sunday with a 2–3-hour study-free evening.
 
 Use Sunday's existing GA hour for **15 minutes audio-topic recall, 25 minutes on a 30-question quiz, and 20 minutes corrections/next-week planning**. Include current affairs. Use 30 minutes of the existing 2-hour repair block for computer-audio revision, a short quiz and practical checks such as files, Word or Excel. Do not add another weekend block.
+
+Split the GA quiz into **20 questions from this week's topics/current affairs + 10 from older topics**. In the first week, use all 30 from material already studied; start the older-topic rotation in week 2.
 
 Inside Sunday's existing 2-hour repair block: **10 timed Maths questions in 6 minutes** (36 seconds/question average), then 14 minutes reviewing mistakes. Use covered topics. After this drill and the 30-minute computer check, **70 minutes remain for other weak topics/catch-up**. The Sunday split does not change.
 
@@ -73,6 +79,8 @@ Foundations use the existing daily blocks. Do not try to memorise every table/sq
 ### Chapter schedule
 
 A chapter spanning two weeks is one chapter with more practice time, not duplicate work. Within each allocation: concepts -> easy questions -> PYQs -> timed test. Weeks 9 and 22 remain catch-up buffers. Saturdays include chapter tests unless replaced by scheduled mocks.
+
+**Dates are working targets, not permission to skip basics.** Week 1 foundations plus Number System and week 4 Ratio plus Percentage are demanding allocations for a beginner. Finish prerequisite lessons first. If an easy set/topic test is below 70%, use the next two practice blocks for repair and retest, then Sunday catch-up as needed. Continue other subjects. Tables/squares/cubes build gradually; do not require complete memorisation in week 1.
 
 | Week | Dates | Maths | Reasoning | English | GK audio + weekend revision |
 |---|---|---|---|---|---|
@@ -116,11 +124,12 @@ These are coverage reminders, not extra book chapter numbers. If a book chapter 
 | M18 / M20 / M21 | Equations/linear graphs / lines/angles, triangle centres, congruence/similarity, circles/chords/tangents / triangles, quadrilaterals, regular polygons, circles, composite areas, prisms, cuboids, cones, cylinders, spheres, hemispheres and pyramids |
 | M22-M23 | Tables/charts, histograms/frequency polygons; mean, median, mode, standard deviation and simple probability. Learn overlapping statistics once, then practise both chapters. |
 | M24 | Partnership and ages alongside ratio/mixture; remaining relevant miscellaneous questions in week 21 |
-| R18 supplements A | Assumptions/arguments, course of action, cause/effect, data sufficiency, decision making, graph interpretation and input-output |
+| R18 supplements A | Assumptions/arguments, course of action, cause/effect, data sufficiency, decision making, map-based reasoning, graph interpretation and input-output |
 | R18 supplements B | Indexing/address/date/city/code matching, critical thinking, observation/visual memory, emotional/social intelligence |
 | E01-E05 | Apply the foundation grammar; these are question-type chapters, not substitutes for grammar lessons |
 | E06-E10 / E11 / E13 | Homonyms and phrasal verbs alongside vocabulary / sentence-part and paragraph arrangement / stories, reports and editorials |
 | G04 / G06 / G11 / G14 / G22 | Government schemes / resources, transport and industry / ecology and flora-fauna / space and nuclear research / remaining static GK and personalities |
+| G03 / G16 / G18 / G22 | Monuments and important places / Indian literature / important government and public-sector organisations / common abbreviations |
 
 G20-G21 current affairs continue throughout preparation; their scheduled slot is consolidation. G12 is the same computer learning as Section 5, not a second course. Verbal and non-verbal Reasoning chapters are different practice types.
 
@@ -177,7 +186,7 @@ For English, add one correct sentence showing the rule or word. For GK/computer 
 
 - **Maths:** aim for 15–25 carefully solved questions in the practice hour. Start easier, then attempt 10–15 relevant Tier-II/CBT-2 PYQs by the end of each topic. Hard questions count even when you solve fewer.
 - **Reasoning:** 20–30 questions per session; learn the method before speed tricks.
-- **English:** 10–15 topic questions plus one short passage/cloze exercise. Learn **10 new words each day**, with reviews after 1, 3, 7 and 21 days inside the vocabulary slot. Sunday's words/reviews use 20 minutes of the test-analysis block; its total stays 5 hours.
+- **English:** during foundations, use 10–15 simple sentence/parts-of-speech exercises at your current level. Gradually introduce a short, easy reading passage after you can understand simple sentences. Add cloze exercises after the necessary grammar has been learned; the formal cloze chapter remains in its scheduled slot. Later, use 10–15 topic questions plus a short passage/cloze exercise within the same practice time. Learn **10 new words each day**, with reviews after 1, 3, 7 and 21 days inside the vocabulary slot. Sunday's words/reviews use 20 minutes of the test-analysis block; its total stays 5 hours.
 - **GA:** follow the weekly topic through workday audio, including current affairs. Study science at Class 10 level. Test recall in Sunday's quiz and retain one monthly summary. Replay weak topics; listening alone does not mark a chapter complete.
 - **Arithmetic recall:** tables to 20, squares to 30, cubes to 15; use 5 minutes of the Maths concept block until fluent.
 - Every Saturday: replace part of each subject's normal practice with a short topic test. Use one PYQ source per subject and one mock platform per exam; avoid resource collecting.
