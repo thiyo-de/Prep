@@ -38,15 +38,30 @@ Specialist CGL papers and Station Master aptitude preparation are outside this p
 
 Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysis, weak topics, revision and GK questions. Total: **39 scheduled hours/week**, plus workday audio and lunch typing. Dated mock sessions replace normal blocks as specified in the plan.
 
-## How to study
+## How to study and revise
 
-1. Learn the concept in simple English.
-2. Practise easy questions before harder ones.
-3. Work through relevant previous-year questions (PYQs), then timed tests.
-4. Log results and re-solve errors after **7 and 21 days**.
-5. Check GK/computer audio learning through weekend revision and questions.
+> **Active recall rule:** Revise in 4 layers: daily, weekly, monthly, and phase. Solve questions each time, don't reread notes. A topic isn't revised until you can solve its questions without looking at anything.
 
-Start with beginner foundations, then follow chapters in prerequisite order. The plan and checklist use your photographed book chapter names and numbers (for example, **M01 Number System** and **E01 Common Errors**) so you can find matching lessons and PYQs. Video-course lesson numbers are not yet verified.
+1. **Daily (inside blocks, no extra time):**
+   - **Maths:** last 20 min of morning block — re-solve due error questions.
+   - **English:** first 20 min — vocab reviews at Day 1, 3, 7 and 21.
+   - **Arithmetic recall:** 5 min tables to 20, squares to 30, cubes to 15 until fluent.
+   - **Lunch/commute:** 10 closed-book GA questions on your phone.
+2. **Weekly (Sunday 9-hour block):**
+   - **1 hr:** re-solve errors due 7 and 21 days after getting them wrong, with no notes.
+   - **GA quiz:** 30 questions (20 from this week, 10 older).
+   - **Maths:** 10 timed questions in 6 minutes (36 sec/question).
+   - **Mock analysis:** re-solve every "concept gap" mistake within 48 hours.
+3. **Monthly (last Sunday of each month):**
+   - Mixed test on that month's chapters.
+   - Write a one-page summary per chapter from memory first, then check against notes.
+   - Revise the month's current affairs with a 20-question quiz.
+4. **Phases & RAG revisit cycle:**
+   - **Week 9:** revise weeks 1–8 chapters; **Week 22:** full syllabus audit.
+   - **April–May:** timed topic drills + error re-solves; **Final 7 days:** formulas/vocab/errors only (1 light mock 3 days before, none in last 2 days).
+   - 🟢 **Green (80%+ & 2 clean re-solves):** revisit every **3 weeks**.
+   - 🟡 **Amber (70%–79%):** revisit every **10 days**.
+   - 🔴 **Red (under 70%):** revisit every **7 days** (must fix before starting next new chapter).
 
 ## Study files
 

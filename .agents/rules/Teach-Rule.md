@@ -168,8 +168,8 @@ Follow concept/examples -> easy questions -> untimed PYQs -> timed practice. Gui
 - Selected CGL posts: ASO, Income Tax Inspector, Auditor, Accountant, Tax Assistant.
 - Selected NTPC Graduate posts: Chief Commercial cum Ticket Supervisor, Goods Train Manager, Junior Accounts Assistant cum Typist, Senior Clerk cum Typist.
 - No JSO/Statistical Investigator/AAO specialist papers or Station Master aptitude preparation. CHSL is a backup with the mock scope defined in the plan.
-- Use dated score targets from the final plan, not old CHSL goals. Eligibility and post availability require the applicable notice.
-- Errors: unaided re-solves after 7 and 21 days. Below 70%: next two practice blocks for repair and retest; keep other subjects moving.
+- 4-layer revision rule: active recall only — solve questions each time, do not reread notes. Daily (Maths due errors 20m, English vocab reviews at Day 1, 3, 7, 21), Weekly (Sunday 7 & 21-day unaided re-solves, 30-Q GA quiz, 10 Maths Qs in 6m), Monthly (last Sunday mixed test + 1-page memory summary), Phased (Weeks 9, 22, April-May daily drills, Final 7 days).
+- Revisit frequency by RAG status: 🟢 Green (80%+ & 2 clean re-solves) = every 3 weeks; 🟡 Amber (70%–79%) = every 10 days; 🔴 Red (under 70%) = every 7 days (hard stop: repair in next two practice blocks before starting next chapter).
 - Protect sleep; use existing bad-day and catch-up rules rather than adding hours.
 
 ## 11. How to use this file

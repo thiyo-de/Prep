@@ -137,7 +137,31 @@ G20-G21 current affairs continue throughout preparation; their scheduled slot is
 
 Chapter labels were read from the user-provided photos in `Internal storage`: Maths `20261014_070348.jpg` / `20261014_070430.jpg`; Reasoning `20261014_065804.jpg` / `20261014_065836.jpg`; English `20261014_064517.jpg`; GK `20261014_070738.jpg`. The other photos show overlapping SSC/CHSL distribution tables. Their historical question counts are not forecasts of 2027 weightage.
 
-## 4. Daily practice rules
+## 4. Daily practice and 4-layer revision rules
+
+### Active recall rule
+
+> **Revise in 4 layers: daily, weekly, monthly, and phase. Solve questions each time, don't reread notes.**  
+> **One rule:** a topic isn't revised until you can solve its questions without looking at anything.
+
+### The 4-layer revision system
+
+| Layer | When & Where | Exact Actions |
+|---|---|---|
+| **1. Daily** | Inside existing daily blocks (no extra time) | • **Maths:** last 20 min of the morning block — re-solve old error questions that are due.<br>• **English:** first 20 min — vocab reviews at Day 1, 3, 7 and 21.<br>• **Arithmetic recall:** 5 min tables to 20, squares to 30, cubes to 15 until fluent.<br>• **Lunch/Commute:** 10 closed-book GA questions on your phone. |
+| **2. Weekly** | Sunday (inside 9-hour block) | • **1 hour:** re-solve errors due 7 days and 21 days after getting them wrong, with no notes.<br>• **GA quiz:** 30 questions (20 from this week's topics, 10 from older topics).<br>• **Maths speed drill:** 10 timed questions in 6 minutes (36 sec/question).<br>• **Mock analysis:** re-solve every "concept gap" mistake within 48 hours. |
+| **3. Monthly** | Last Sunday of each month | • **Mixed test** on that month's chapters.<br>• **One-page summary** per chapter written from memory first, then checked against notes.<br>• **Current affairs:** 20-question quiz on the month's events. |
+| **4. Phases** | Scheduled calendar checkpoints | • **Week 9 (Dec 28–Jan 3):** revise weeks 1–8 chapters.<br>• **Week 22 (Mar 29–Apr 4):** revise full syllabus and audit gaps.<br>• **April–May (Mon–Fri):** Maths: 60 min timed PYQs on focus topic + 40 min errors/formulas + 20 min weakest topic. Reasoning & English: 60 min mixed timed sets + 30 min corrections.<br>• **Final 7 days:** only formula sheets, vocab, error notebook and GA summaries. No new chapters. One light mock 3 days before exam; zero mocks in the last 2 days. |
+
+### How often to revisit a chapter (Red, Amber, Green)
+
+Track chapter status in your error notebook and checklist. Revisit frequency depends on proven test results:
+
+| Status | Test Criteria & Trigger | Revisit Frequency | Action Required |
+|:---:|---|:---:|---|
+| 🟢 **Green** | **80%+** on timed test AND **2 clean unaided re-solves** | Every **3 weeks** | Keep fresh with mixed test sets; quick formula/rule check |
+| 🟡 **Amber** | **70%–79%** on timed test | Every **10 days** | Re-solve 10 targeted PYQs; review specific error patterns |
+| 🔴 **Red** | **Under 70%** on timed test / repeated conceptual errors | Every **7 days** | **Hard stop:** Fix in next 2 practice blocks before starting next new chapter |
 
 ### Use your video courses and PYQ books
 
@@ -237,11 +261,19 @@ On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and se
 
 ### April 5–May 30: two mock sessions/week
 
-**Monday–Friday:** same 5-hour blocks, now used for mixed PYQs, spaced revision and mock weaknesses. No new resource/course.
+**Monday–Friday daily revision split (5 hours/day):**
+- **Maths (120 min):** 60 min timed PYQs on the focus topic + 40 min errors and formulas + 20 min on your weakest topic.
+- **Reasoning (90 min):** 60 min mixed timed sets + 30 min corrections.
+- **English (90 min):** 60 min mixed timed sets + 30 min corrections.
+- **Workday audio & lunch typing:** continue audio revision and 20 min typing passages. No new resource/course.
 
 **Saturday:** replace the usual 5 hours with the listed test(s) and analysis. **Sunday:** use the unchanged 5-hour test block for the listed test and analysis; retain the other 4 hours exactly as before.
 
 Core mix across these eight weeks: **8 Tier-II Paper-I + 4 CGL Tier-I + 4 NTPC CBT-2 = 50% / 25% / 25%.** Monthly CHSL mocks are additional backup checks inside existing time; they are not counted in that three-exam ratio. No extra mock hours; workday audio/lunch typing remain separate as above.
+
+**Final 7 days before exam:**
+- Only formula sheets, vocab, the error notebook and GA summaries. No new chapters.
+- Take **one light mock 3 days before the exam**, and **none in the last 2 days** to ensure physical and mental recovery.
 
 | Week | Dates | Saturday | Sunday | Revision focus |
 |---|---|---|---|---|
