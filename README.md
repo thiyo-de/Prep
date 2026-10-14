@@ -6,7 +6,7 @@ One beginner-friendly study plan for **November 2026–May 2027**, built around 
 
 ## Start here
 
-**[Open the final study plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md)** — weekly topics, revision, tests, mocks and progress targets.
+**[Open the final study plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md)** — beginner foundations, chapter allocations, revision, tests and mocks.
 
 **[Chapter checklist](Plan/CHAPTER-CHECKLIST.md)** — tick completed topics, tests and revision.
 
@@ -44,7 +44,7 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 4. Log results and re-solve errors after **7 and 21 days**.
 5. Check GK/computer audio learning through weekend revision and questions.
 
-Use specific topic names. For example, Week 1 lists **whole numbers, fractions, decimals, BODMAS, simplification and approximation**, rather than just a broad chapter heading.
+Start with beginner foundations, then follow chapters in prerequisite order. The plan and checklist use your photographed book chapter names and numbers (for example, **M01 Number System** and **E01 Common Errors**) so you can find matching lessons and PYQs. Video-course lesson numbers are not yet verified.
 
 ## Study files
 

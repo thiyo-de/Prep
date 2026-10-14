@@ -51,38 +51,82 @@ Use Sunday's existing GA hour for **15 minutes audio-topic recall, 25 minutes on
 
 Inside Sunday's existing 2-hour repair block: **10 timed Maths questions in 6 minutes** (36 seconds/question average), then 14 minutes reviewing mistakes. Use covered topics. After this drill and the 30-minute computer check, **70 minutes remain for other weak topics/catch-up**. The Sunday split does not change.
 
-## 3. Weekly topic checklist
+## 3. Beginner-to-advanced chapter route
 
-Finish the row during its week. Saturday's subject blocks include short tests, except when replaced by the dated mock schedule. The GA column guides workday audio and weekend revision. Keep vocabulary, computer audio and lunch typing running from the start of this plan.
+**Use the chapter names in your books.** M = Maths, R = Reasoning, E = English, G = GK. The number is the printed chapter-list number in your photos, not the study-order number. For example, M08 is Percentage. Full names and tick boxes are in [the chapter checklist](CHAPTER-CHECKLIST.md).
 
-| Week | Dates | Maths | Reasoning | English | GA |
+**Study in prerequisite order below, even when book numbers jump.** This follows your latest beginner-to-advanced instruction. Within a chapter, choose the matching course lessons, then the matching PYQ section. The photos show book chapter-distribution lists, not the video-course playlist; exact course lesson numbers and lengths are not verified.
+
+### Start with foundations
+
+| Subject | Learn first | Where it fits |
+|---|---|---|
+| Maths | **MF1**: Place value, whole numbers, zero, comparison; addition, subtraction, multiplication and division; **MF2**: Positive/negative numbers, odd/even numbers, factors/multiples; fractions, decimals, BODMAS and units; **MF3**: Tables to 20; squares to 30; cubes to 15; meaning of powers, square roots and cube roots | Weeks 1-2; recall continues inside Maths time |
+| English | **EF1**: Letters/vowels/consonants if needed; words, sentences, subject-verb-object, punctuation; introduction to all eight parts of speech; **EF2**: Nouns, pronouns, singular/plural, articles, adjectives/adverbs, prepositions, conjunctions and interjections; **EF3**: Verbs and verb forms, helping verbs/modals, simple tenses and subject-verb agreement; then remaining tenses, conditionals and question tags | Weeks 1-4, before E01 |
+| Reasoning | **RF1**: Alphabet positions, forward/backward order, odd/even numbers and basic number/letter patterns; **RF2**: Left/right and compass directions, family terms, comparisons and common question instructions | Week 1; revise before related chapters |
+| GK | **GF1**: Map basics: continents, countries, states, directions; timelines and dates; **GF2**: Plain meanings of government, economy and everyday science terms; introduce them as each chapter starts | Week 1 and introductions to audio chapters |
+| Computers | **CF1**: Hardware versus software, input/output, keyboard/mouse, files/folders and basic internet terms | November audio + weekend practical checks |
+| Typing | **TF1**: Finger placement and accurate keys, then words and simple sentences before speed | Lunch practice from the start |
+
+Foundations use the existing daily blocks. Do not try to memorise every table/square/cube in one day: learn a few at a time and revise for 5 minutes inside Maths time. Do not repeat foundations as a new course later; use them in the book chapters.
+
+### Chapter schedule
+
+A chapter spanning two weeks is one chapter with more practice time, not duplicate work. Within each allocation: concepts -> easy questions -> PYQs -> timed test. Weeks 9 and 22 remain catch-up buffers. Saturdays include chapter tests unless replaced by scheduled mocks.
+
+| Week | Dates | Maths | Reasoning | English | GK audio + weekend revision |
 |---|---|---|---|---|---|
-| 1 | Nov 2–8 | Whole numbers, fractions, decimals, BODMAS, simplification/approximation | Analogy, similarities, classification | Sentence structure, parts of speech | Constitution, rights, duties |
-| 2 | Nov 9–15 | Divisibility, factors, HCF/LCM, roots, powers | Number/alphabet series, missing numbers | Nouns, pronouns, articles | Parliament, executive, judiciary |
-| 3 | Nov 16–22 | Percentages | Coding, word building, letter jumbling | Tenses, subject–verb agreement | States, local government, constitutional bodies |
-| 4 | Nov 23–29 | Ratio, proportion, averages | Numerical/symbolic operations | Adjectives, adverbs, comparison | Biology: cells, plants, human body, nutrition |
-| 5 | Nov 30–Dec 6 | Profit, loss, discount | Blood relations, directions, maps | Prepositions, conjunctions, modals | Biology: disease, reproduction, ecology |
-| 6 | Dec 7–13 | Simple/compound interest, instalments | Ranking, ordering, clocks, calendars | Active/passive voice | Ancient/medieval India, culture |
-| 7 | Dec 14–20 | Partnership, mixture/alligation, ages | Venn diagrams, syllogisms | Direct/indirect speech | Modern India, freedom struggle |
-| 8 | Dec 21–27 | Time/work, wages, pipes | Statements, conclusions, inferences | Conditionals, question tags | Art, literature, monuments, heritage |
-| 9 | Dec 28–Jan 3 | Repair arithmetic gaps; mixed PYQs | Revision of weeks 1–8 | Mixed grammar/error spotting | Revision of weeks 1–8 |
-| 10 | Jan 4–10 | Speed/distance, relative speed, trains | Assumptions, arguments, course of action, cause/effect | Sentence improvement, blanks | Physical/world geography, neighbours |
-| 11 | Jan 11–17 | Boats, races, mixed work/distance | Puzzles, seating, analytical reasoning | Synonyms/antonyms, homonyms, spelling | India: rivers, climate, soils, agriculture |
-| 12 | Jan 18–24 | Algebra identities, surds/indices, equations/graphs | Mon–Tue: seating/puzzle buffer; then data sufficiency, decision making, graphs | Idioms, phrasal verbs, one-word substitution | Resources, transport, industries, environment |
-| 13 | Jan 25–31 | Lines/angles, triangles, centres, congruence/similarity | Figural analogy, series, classification | Sentence-part and paragraph rearrangement | Physics: motion, force, work, energy |
-| 14 | Feb 1–7 | Mon: geometry buffer; then circles, chords, tangents, quadrilaterals/polygons | Mirror/water images, rotation, spatial reasoning | Cloze passages | Physics: heat, light, sound, electricity |
-| 15 | Feb 8–14 | 2D mensuration, composite areas | Paper cutting/folding, embedded figures | Reading: main idea, inference, vocabulary | Chemistry: matter, atoms, reactions |
-| 16 | Feb 15–21 | 3D: prism, cuboid, cone, cylinder, sphere, hemisphere, pyramid | Cubes/dice, figure counting/completion | Story/book comprehension + grammar repair | Chemistry: acids/bases, metals, everyday uses |
-| 17 | Feb 22–28 | Trig ratios, values, identities, complementary angles, degrees/radians | Indexing; address/date/city/code matching | Report/editorial comprehension | Economy: national income, sectors, inflation |
-| 18 | Mar 1–7 | Heights/distances; mixed geometry/trig | Input-output; critical thinking, observation, visual memory | Timed mixed Tier-II English | Banking, money, budget, taxation, reforms |
-| 19 | Mar 8–14 | Tables, bar/pie charts, histograms, frequency polygons | Emotional/social intelligence, problem solving | Timed mixed Tier-II English | Government schemes, institutions, UN/world bodies |
-| 20 | Mar 15–21 | Mean, median, mode, standard deviation | Mixed CGL/NTPC PYQs; weak patterns | Mixed PYQs; weak grammar/vocabulary | Scientific research, space/nuclear programmes, technology |
-| 21 | Mar 22–28 | Basic probability; mixed statistics/PYQs | Mixed timed sets | Mixed timed sets | Sports, awards, personalities, flora/fauna, remaining static GK |
-| 22 | Mar 29–Apr 4 | Catch-up and full syllabus test | Catch-up/test | Catch-up/test | Catch-up/test |
+| 1 | Nov 2-8 | MF1-MF3 + M01 Number System | RF1-RF2 + R04 Classification (verbal), R01 Analogy or Similarity (verbal) | EF1 | GF1-GF2 + G05 Physical Geography |
+| 2 | Nov 9-15 | M02 LCM and HCF, M03 Simplification | R07 Series (verbal), R12 Finding the Missing Number | EF2 | G06 Geography of India |
+| 3 | Nov 16-22 | M04 Power, Indices and Surds, M05 Average | R08 Coding-Decoding, R09 Word Formation, R14 Arrangement of Words in a Logical Order (Alphabetical Order) | EF3: simple tenses/agreement | G07 World Geography |
+| 4 | Nov 23-29 | M06 Ratio and Proportion, M08 Percentage | R03 Symbols & Notations, R13 Arithmetical Problems | EF3: remaining grammar + foundation test | G04 Indian Polity & Constitution |
+| 5 | Nov 30-Dec 6 | M07 Alligation or Mixture + M24 Miscellaneous: partnership/ages | R02 Blood Relationship, R05 Direction & Distance Test | E01 Common Errors: chapter learning + easy questions | G04 Indian Polity & Constitution: complete + quiz |
+| 6 | Dec 7-13 | M09 Profit and Loss, M10 Discount | R06 Scheduled Day/Date/Time | E01 Common Errors: PYQs + test | G01 Indian History: ancient/medieval |
+| 7 | Dec 14-20 | M11 Simple Interest, M12 Compound Interest | R16 Logical Venn-Diagram, R10 Syllogism, Statement & Conclusions | E02 Improvement of Sentences | G01 Indian History: modern/freedom struggle |
+| 8 | Dec 21-27 | M13 Time and Work, M14 Pipe and Cistern | R11 Ranking/Arrangement/Problem Solving: ranking/seating/puzzles | E05 Fill in the Blanks | G02 World History, G03 Indian Art & Culture |
+| 9 | Dec 28-Jan 3 | Repair arithmetic gaps; mixed PYQs | Revision of weeks 1-8 | Mixed grammar/error spotting | Revision of weeks 1-8 |
+| 10 | Jan 4-10 | M15 Time and Distance | R11 Ranking/Arrangement/Problem Solving buffer; R18 Miscellaneous: logical arguments | E03 Transformation of Sentences (Active/Passive) | G08 Economics: basics |
+| 11 | Jan 11-17 | M16 Boat and Stream, M17 Sequence and Series | R15 Cubes and Dices, R17 Figure Counting | E04 Direct/Indirect Speech | G08 Economics: banking/budget/reforms |
+| 12 | Jan 18-24 | M18 Algebra | R19 Series (non-verbal), R20 Analogy (non-verbal), R21 Classification (non-verbal) | E06 Synonyms, E07 Antonyms | G09 Physics |
+| 13 | Jan 25-31 | M20 Geometry: learn + easy practice | R22 Mirror Image and Water Image (non-verbal), R23 Paper Cutting, Folding & Punching (non-verbal) | E08 One Word Substitution/Group of Words | G10 Chemistry |
+| 14 | Feb 1-7 | M20 Geometry: PYQs + test + repair | R24 Completion of Figural Pattern (non-verbal), R25 Embedded Figure (non-verbal) | E09 Idioms/Phrases, E10 Selection of misspelt word/correctly spelt word | G11 Biology (Zoology, Botany, Health), Environment & Agriculture: cells/plants/body/nutrition |
+| 15 | Feb 8-14 | M21 Mensuration: 2D | R26 Deviation of Figure (non-verbal); non-verbal revision | E11 Arrangement of Sentences | G11 Biology (Zoology, Botany, Health), Environment & Agriculture: health/environment/agriculture |
+| 16 | Feb 15-21 | M21 Mensuration: 3D + chapter test | R18 Miscellaneous: NTPC/logic supplements A | E12 Cloze Test | G12 Computer & IT: consolidate computer audio |
+| 17 | Feb 22-28 | M19 Trigonometry: ratios/identities | R18 Miscellaneous: matching/cognitive supplements B | E13 Comprehension Test: basics + stories | G13 Discoveries & Inventions (Branches of Science & Scientific Instruments), G14 Science & Technology |
+| 18 | Mar 1-7 | M19 Trigonometry: heights/distances + test | R18 Miscellaneous: finish + chapter test | E13 Comprehension Test: reports/editorials + test | G18 UNO, Other International & National Organisations |
+| 19 | Mar 8-14 | M22 Statistics & Data Interpretation | Mixed chapter PYQs + weak areas | Mixed chapter PYQs + weak grammar | G15 Honours & Awards, G16 Books & Authors, G17 Important Decades, Years & Days |
+| 20 | Mar 15-21 | M23 Statistics & Probability: statistics | Timed mixed chapter sets | Timed mixed chapter sets | G19 Sports, G20 National Events, G21 International Events |
+| 21 | Mar 22-28 | M23 Statistics & Probability: probability; M24 Miscellaneous complete/test | Mixed tests + chapter-gap repair | Mixed tests + chapter-gap repair | G22 Miscellaneous; current-affairs consolidation |
+| 22 | Mar 29-Apr 4 | Catch-up and full syllabus test | Catch-up/test | Catch-up/test | Catch-up/test |
 
-**By April 4:** every listed topic has been studied, practised and tested once. Unfinished topics remain visibly marked; a date does not mean mastery.
+**Catch-up within chapters:** R11 gets repair time at the start of week 10 after seating/puzzles; M20 gets repair time in week 14 before mensuration. Use the existing Sunday repair block for spillover. No new study hours.
 
-**Statistics/probability stay in weeks 20–21:** SSC CGL 2026 paragraph 13.11.1.7 includes them in Paper-I; paragraph 13.9.2 makes Paper-I compulsory for all posts. They are not the specialist JSO paper. No hours are freed by removing them. The week-12 and week-14 buffers use existing subject time; their Sunday repair blocks take any spillover. Weeks 9 and 22 remain unchanged.
+**April 4 target:** foundations and all listed book chapters studied, practised and tested once. Record unfinished work honestly. April-May stays for the existing revision/mock schedule.
+
+**Statistics/probability remain required preparation:** M22 is scheduled in week 19 and M23 in weeks 20-21. The older SSC Paper-I reference remains the baseline; these are not the specialist JSO paper.
+
+### Keep these inside the chapter route
+
+These are coverage reminders, not extra book chapter numbers. If a book chapter lacks the named material, use the matching course lesson/PYQs during that chapter allocation.
+
+| Chapter | Material to include |
+|---|---|
+| M01-M04 | Whole numbers, fractions, decimals, divisibility, BODMAS, approximation, powers and roots |
+| M12 / M15 / M19 | Instalments / relative speed, trains and races / degrees-radians, complementary angles and heights-distances |
+| M18 / M20 / M21 | Equations/linear graphs / lines/angles, triangle centres, congruence/similarity, circles/chords/tangents / triangles, quadrilaterals, regular polygons, circles, composite areas, prisms, cuboids, cones, cylinders, spheres, hemispheres and pyramids |
+| M22-M23 | Tables/charts, histograms/frequency polygons; mean, median, mode, standard deviation and simple probability. Learn overlapping statistics once, then practise both chapters. |
+| M24 | Partnership and ages alongside ratio/mixture; remaining relevant miscellaneous questions in week 21 |
+| R18 supplements A | Assumptions/arguments, course of action, cause/effect, data sufficiency, decision making, graph interpretation and input-output |
+| R18 supplements B | Indexing/address/date/city/code matching, critical thinking, observation/visual memory, emotional/social intelligence |
+| E01-E05 | Apply the foundation grammar; these are question-type chapters, not substitutes for grammar lessons |
+| E06-E10 / E11 / E13 | Homonyms and phrasal verbs alongside vocabulary / sentence-part and paragraph arrangement / stories, reports and editorials |
+| G04 / G06 / G11 / G14 / G22 | Government schemes / resources, transport and industry / ecology and flora-fauna / space and nuclear research / remaining static GK and personalities |
+
+G20-G21 current affairs continue throughout preparation; their scheduled slot is consolidation. G12 is the same computer learning as Section 5, not a second course. Verbal and non-verbal Reasoning chapters are different practice types.
+
+### Photo references
+
+Chapter labels were read from the user-provided photos in `Internal storage`: Maths `20261014_070348.jpg` / `20261014_070430.jpg`; Reasoning `20261014_065804.jpg` / `20261014_065836.jpg`; English `20261014_064517.jpg`; GK `20261014_070738.jpg`. The other photos show overlapping SSC/CHSL distribution tables. Their historical question counts are not forecasts of 2027 weightage.
 
 ## 4. Daily practice rules
 
@@ -98,7 +142,7 @@ Finish the row during its week. Saturday's subject blocks include short tests, e
 | 4. Build speed | Practise short timed sets and take the scheduled topic test. | Improve time without losing accuracy; review wrong, skipped and slow answers. |
 | 5. Retain | Re-solve mistakes after 7 and 21 days, without notes. | Both unaided re-solves correct; otherwise return the question to revision. |
 
-Spend the first few sessions on concepts and easy questions. These stages are not a five-day deadline. For Week 1, begin with whole numbers/basic operations, then move through the remaining topics one at a time.
+Spend the first few sessions on concepts and easy questions. These stages are not a five-day deadline. Start with the foundation codes in Section 3. For example, learn basic operations before Number System PYQs, and grammar basics before Common Errors.
 
 **Use the time allocations in Section 2.** Video time includes pauses, examples and notes—not continuous watching. If a lecture is longer than the block, continue next session. Once you understand the topic, replace its lesson time with solving and revision. Do not wait to finish the whole video course before starting PYQs.
 
@@ -166,7 +210,7 @@ On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and se
 
 **Reduction rule:** after three consecutive comparable Tier-I mocks score at least **20 marks above the latest official cutoff for your category and relevant post group**, you may reduce to monthly. Record the cutoff's exam year and source. If no suitable official cutoff is verified, keep fortnightly tests. Return to fortnightly if a mock falls below that margin. This is a scheduling rule, not a pass guarantee. The calendar below is the default; freed slots become Tier-II sectional repair.
 
-**February:** Tier-II sectional tests only. **March 7:** first full Tier-II Paper-I mock. DI/statistics/probability are still unfinished then; record those gaps separately from errors in taught topics.
+**February:** Tier-II sectional tests only. **March 7:** first full Tier-II Paper-I mock. DI/statistics/probability and some GK chapters are still unfinished then; record those gaps separately from errors in taught topics.
 
 | Date | Test |
 |---|---|
