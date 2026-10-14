@@ -1,6 +1,6 @@
 # SSC CGL + RRB NTPC Preparation
 
-One beginner-friendly study plan for **November 2026–May 2027**, built around an **8 AM–7 PM workday**.
+One beginner-friendly study plan for **November 2026–May 2027** (with an **October 15–31 head start** on basic foundations), built around an **8 AM–7 PM workday**.
 
 **Target: upcoming 2027 recruitment cycles only** — SSC CGL and RRB NTPC Graduate, with CHSL as a backup. Existing/ongoing recruitment cycles are outside this plan. May is the preparation deadline, not a confirmed exam date.
 
@@ -57,8 +57,10 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
    - Write a one-page summary per chapter from memory first, then check against notes.
    - Revise the month's current affairs with a 20-question quiz.
 4. **Phases & RAG revisit cycle:**
+   - **Oct 15–31:** head start on MF1–MF3 basics, 20 vocab words/day, typing baseline.
    - **Week 9:** revise weeks 1–8 chapters; **Week 22:** full syllabus audit.
    - **April–May:** timed topic drills + error re-solves; **Final 7 days:** formulas/vocab/errors only (1 light mock 3 days before, none in last 2 days).
+   - **Phase 5 (June onward):** 4 weeks on Red topics & Tier-II depth, then 2 alternating mocks/week until exam.
    - 🟢 **Green (80%+ & 2 clean re-solves):** revisit every **3 weeks**.
    - 🟡 **Amber (70%–79%):** revisit every **10 days**.
    - 🔴 **Red (under 70%):** revisit every **7 days** (must fix before starting next new chapter).

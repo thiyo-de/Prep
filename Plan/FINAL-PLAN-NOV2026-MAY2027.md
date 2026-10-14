@@ -47,11 +47,11 @@ Check this routine against your actual sleep, meals and travel during the first 
 | 5 hours | Scheduled test(s) + full analysis; use spare time for corrections |
 | 2 hours | Weakest topics/catch-up; Maths gets first priority |
 | 1 hour | Re-solve errors due after 7 and 21 days |
-| 1 hour | 30-question GA quiz, review and next-week checklist |
+| 1 hour | 30-question GA quiz, review, weekly scorecard and next-week checklist |
 
 **30 + 9 = 39 scheduled hours**, plus workday audio and 20-minute lunch typing (2 extra hours across six workdays). Finish Sunday with a 2–3-hour study-free evening.
 
-Use Sunday's existing GA hour for **15 minutes audio-topic recall, 25 minutes on a 30-question quiz, and 20 minutes corrections/next-week planning**. Include current affairs. Use 30 minutes of the existing 2-hour repair block for computer-audio revision, a short quiz and practical checks such as files, Word or Excel. Do not add another weekend block.
+Use Sunday's existing GA hour for **15 minutes audio-topic recall, 25 minutes on a 30-question quiz, 15 minutes corrections/next-week planning, and 5 minutes on the Weekly Scorecard (accuracy per subject, mock score, number of Red topics, hours missed)**. Include current affairs. Use 30 minutes of the existing 2-hour repair block for computer-audio revision, a short quiz and practical checks such as files, Word or Excel. Do not add another weekend block.
 
 Split the GA quiz into **20 questions from this week's topics/current affairs + 10 from older topics**. In the first week, use all 30 from material already studied; start the older-topic rotation in week 2.
 
@@ -80,11 +80,13 @@ Foundations use the existing daily blocks. Do not try to memorise every table/sq
 
 A chapter spanning two weeks is one chapter with more practice time, not duplicate work. Within each allocation: concepts -> easy questions -> PYQs -> timed test. Weeks 9 and 22 remain catch-up buffers. Saturdays include chapter tests unless replaced by scheduled mocks.
 
-**Dates are working targets, not permission to skip basics.** Week 1 foundations plus Number System and week 4 Ratio plus Percentage are demanding allocations for a beginner. Finish prerequisite lessons first. If an easy set/topic test is below 70%, use the next two practice blocks for repair and retest, then Sunday catch-up as needed. Continue other subjects. Tables/squares/cubes build gradually; do not require complete memorisation in week 1.
+**Oct 15–31:** finish MF1–MF3 (basic operations, fractions, tables to 20), 20 vocab words a day, and typing baseline.
+
+**Dates are working targets, not permission to skip basics.** Finish prerequisite lessons first. If an easy set/topic test is below 70%, use the next two practice blocks for repair and retest, then Sunday catch-up as needed. Continue other subjects. Tables/squares/cubes build gradually; do not require complete memorisation in week 1.
 
 | Week | Dates | Maths | Reasoning | English | GK audio + weekend revision |
 |---|---|---|---|---|---|
-| 1 | Nov 2-8 | MF1-MF3 + M01 Number System | RF1-RF2 + R04 Classification (verbal), R01 Analogy or Similarity (verbal) | EF1 | GF1-GF2 + G05 Physical Geography |
+| 1 | Nov 2-8 | M01 Number System | RF1-RF2 + R04 Classification (verbal), R01 Analogy or Similarity (verbal) | EF1 | GF1-GF2 + G05 Physical Geography |
 | 2 | Nov 9-15 | M02 LCM and HCF, M03 Simplification | R07 Series (verbal), R12 Finding the Missing Number | EF2 | G06 Geography of India |
 | 3 | Nov 16-22 | M04 Power, Indices and Surds, M05 Average | R08 Coding-Decoding, R09 Word Formation, R14 Arrangement of Words in a Logical Order (Alphabetical Order) | EF3: simple tenses/agreement | G07 World Geography |
 | 4 | Nov 23-29 | M06 Ratio and Proportion, M08 Percentage | R03 Symbols & Notations, R13 Arithmetical Problems | EF3: remaining grammar + foundation test | G04 Indian Polity & Constitution |
@@ -132,10 +134,6 @@ These are coverage reminders, not extra book chapter numbers. If a book chapter 
 | G03 / G16 / G18 / G22 | Monuments and important places / Indian literature / important government and public-sector organisations / common abbreviations |
 
 G20-G21 current affairs continue throughout preparation; their scheduled slot is consolidation. G12 is the same computer learning as Section 5, not a second course. Verbal and non-verbal Reasoning chapters are different practice types.
-
-### Photo references
-
-Chapter labels were read from the user-provided photos in `Internal storage`: Maths `20261014_070348.jpg` / `20261014_070430.jpg`; Reasoning `20261014_065804.jpg` / `20261014_065836.jpg`; English `20261014_064517.jpg`; GK `20261014_070738.jpg`. The other photos show overlapping SSC/CHSL distribution tables. Their historical question counts are not forecasts of 2027 weightage.
 
 ## 4. Daily practice and 4-layer revision rules
 
@@ -255,9 +253,11 @@ On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and se
 | Mar 7 | First full CGL Tier-II Paper-I + analysis |
 | Mar 14 | NTPC CBT-2 |
 | Mar 21 | CGL Tier-I |
-| Mar 28 | NTPC CBT-1 + monthly CHSL Tier-I; analyse within 5 hours |
+| Mar 28 | NTPC CBT-1 + analysis (5 hours)* |
 | Apr 3 (Sat) | CGL Tier-I + analysis replace the 2-hour Maths block; evening routine stays |
 | Apr 4 | CGL Tier-II Paper-I + syllabus-gap audit |
+
+*\*Unstacked CHSL backup rule: take the backup CHSL Tier-I mock on the following Wednesday evening in place of that day's 90-minute Reasoning practice block, and do it only in weeks with no other full mock.*
 
 ### April 5–May 30: two mock sessions/week
 
@@ -269,7 +269,7 @@ On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and se
 
 **Saturday:** replace the usual 5 hours with the listed test(s) and analysis. **Sunday:** use the unchanged 5-hour test block for the listed test and analysis; retain the other 4 hours exactly as before.
 
-Core mix across these eight weeks: **8 Tier-II Paper-I + 4 CGL Tier-I + 4 NTPC CBT-2 = 50% / 25% / 25%.** Monthly CHSL mocks are additional backup checks inside existing time; they are not counted in that three-exam ratio. No extra mock hours; workday audio/lunch typing remain separate as above.
+Core mix across these eight weeks: **8 Tier-II Paper-I + 4 CGL Tier-I + 4 NTPC CBT-2 = 50% / 25% / 25%.** Monthly backup CHSL mocks are strictly unstacked: take them on the following Wednesday evening in place of that day's 90-minute Reasoning block, and only in weeks with no other full mock. No extra mock hours; workday audio/lunch typing remain separate as above.
 
 **Final 7 days before exam:**
 - Only formula sheets, vocab, the error notebook and GA summaries. No new chapters.
@@ -277,18 +277,24 @@ Core mix across these eight weeks: **8 Tier-II Paper-I + 4 CGL Tier-I + 4 NTPC C
 
 | Week | Dates | Saturday | Sunday | Revision focus |
 |---|---|---|---|---|
-| 23 | Apr 5–11 | NTPC CBT-2 + CHSL Tier-I | CGL Tier-II | Arithmetic; polity/biology |
+| 23 | Apr 5–11 | NTPC CBT-2 | CGL Tier-II | Arithmetic; polity/biology |
 | 24 | Apr 12–18 | CGL Tier-II | CGL Tier-I | Algebra/geometry; history/grammar |
 | 25 | Apr 19–25 | NTPC CBT-2 | CGL Tier-II | Mensuration/trig; geography/reasoning |
 | 26 | Apr 26–May 2 | CGL Tier-II | CGL Tier-I | Statistics/probability; science/computers |
-| 27 | May 3–9 | NTPC CBT-2 + CHSL Tier-I | CGL Tier-II | Weak topics; economy |
+| 27 | May 3–9 | NTPC CBT-2 | CGL Tier-II | Weak topics; economy |
 | 28 | May 10–16 | CGL Tier-II | CGL Tier-I | Repeated errors; current affairs/static GK |
 | 29 | May 17–23 | NTPC CBT-2 | CGL Tier-II | Speed; grammar/formulas |
 | 30 | May 24–30 | CGL Tier-II | CGL Tier-I | Final repairs; data-entry accuracy |
 
 Use the remaining Saturday time for analysis; do not add hours. If analysis needs longer, use Sunday's repair block before attempting more practice.
 
-**May 31:** review the last four mocks of each main exam, unresolved errors and typing records. If your exam is later, repeat the final weekly routine until it arrives.
+**May 31:** review the last four mocks of each main exam, unresolved errors and typing records.
+
+### Phase 5: June onward (if exam is scheduled later than May)
+
+- **Weeks 1–4 of extra time:** dedicate exclusively to **Red topics** and Tier-II problem depth.
+- **Subsequent weeks until exam:** 2 mocks per week, alternating **Tier-I and Tier-II** until the exam.
+- **Final 7 days:** follow the final-week rule (only formula sheets, vocab, error notebook and GA summaries; 1 light mock 3 days before, none in the last 2 days).
 
 ## 7. Progress rules: repair without restarting
 
@@ -334,6 +340,8 @@ Bad day: 20 minutes Maths, 15 English, 15 GA, 10 typing. Log actual work; it is 
 End each day by writing tomorrow's exact first task, such as **“Fractions: lesson example, then questions 1–10.”** Consistency means returning after difficult days, not having perfect days. Selection is not guaranteed; focus on the practice and improvement you can control.
 
 Daily log: `Date | topic | minutes | attempted/correct/wrong/skipped | net test score | next error-review date`.
+
+Weekly scorecard (logged every Sunday): `Week # | Subject accuracy % (M / R / E / GA) | Mock score | Number of Red topics | Hours missed / catch-up needed`.
 
 ## 8. Exam-date rule and references
 

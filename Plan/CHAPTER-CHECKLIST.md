@@ -8,7 +8,7 @@ Change `- [ ]` to `- [x]` when complete. Dates stay in the plan; this file is ch
 
 ## Maths
 
-### Foundation first
+### Foundation first (Oct 15–31 head start)
 
 - [ ] MF1 Place value, whole numbers, zero, comparison; addition, subtraction, multiplication and division
 - [ ] MF2 Positive/negative numbers, odd/even numbers, factors/multiples; fractions, decimals, BODMAS and units
