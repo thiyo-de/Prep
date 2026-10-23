@@ -1,6 +1,6 @@
 # SSC and RRB: Posts and Salary Guide
 
-[Study plan](../Plan/FINAL-PLAN-NOV2026-MAY2027.md) | [Chapter checklist](../Plan/CHAPTER-CHECKLIST.md)
+[Study plan](../Plan/FINAL-PLAN-NOV2026-MAY2027.md) | [Chapter checklist](../Plan/Subject-Checklists/README.md)
 
 **For your upcoming 2027 targets.** Pay levels below come from older official notices; they do not confirm 2027 vacancies, eligibility or salary. Sources checked on 14 October 2026. Gross and in-hand figures are calculated examples, not official salary quotations.
 
@@ -15,41 +15,41 @@ This is a comparison of entry qualifications and overlapping preparation, not eq
 
 **Current plan:** CGL first, NTPC Graduate alongside it, CHSL backup mocks. NTPC Undergraduate is shown for comparison; it has not been added as a separate preparation commitment. Station Master and Traffic Assistant remain comparison options requiring additional aptitude preparation. Other railway recruitment routes below are not added to the timetable.
 
-## Read the salary and score columns correctly
+## Read the salary columns correctly
 
 - **Basic pay:** starting fixed pay before allowances.
 - **Gross/month:** basic + dearness allowance (DA) + house rent allowance (HRA) + transport allowance in the model below.
 - **In-hand/month estimate:** gross minus modelled employee pension contribution and a placeholder for other deductions, **before any income-tax deduction**. Actual bank credit can be lower.
 - **Gross/year:** 12 times monthly gross; excludes bonus, employer pension contributions and the value of benefits. It is not a CTC quotation.
-- **OBC target score:** realistic cutoff range to safe target score based on recent CGL 390-mark Tier-II Paper-I and NTPC 120-mark CBT-2 patterns. In both exams, OBC cutoffs sit within 2–6 marks of UR; always aim for the higher safe target to secure home state / South Zone allocation (e.g., Chennai/TN).
+- **Scores:** see the guidance below. No score here guarantees a post or home-state allocation.
 
 All salary amounts below are in rupees. Monthly estimates are rounded to the nearest 100; annual estimates are in lakh.
 
 ## SSC CGL: selected posts
 
-This first table is your original shortlist, not the complete CGL post list. Additional inspector/investigation options follow it. Merit is based solely on **Tier-II Paper-I (out of 390 marks)**.
+This first table is your original shortlist, not the complete CGL post list. Additional inspector/investigation options follow it. For these selected posts, written merit uses the scored sections of **Tier-II Paper-I (390 marks)**, subject to qualifying stages and other selection requirements.
 
-| Post | Pay level | Starting basic/month | Gross/month estimate | In-hand/month estimate, before tax | Gross/year estimate | OBC target score (Tier-II / 390) |
-|---|---:|---:|---:|---:|---:|:---:|
-| ASO: CSS, MEA, Railways and other Level-7 entries | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh | **322–328** *(Safe: 330+)* |
-| Income Tax Inspector | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh | **326–332** *(Safe: 335+ for Home Zone)* |
-| Assistant/ASO in departments advertising Level 6 | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh | **308–314** *(Safe: 318+)* |
-| Auditor | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh | **302–308** *(Safe: 312+)* |
-| Accountant/Junior Accountant | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh | **298–304** *(Safe: 308+)* |
-| Tax Assistant | 4 | 25,500 | 46,200–54,200 | 41,200–49,100 | 5.55–6.51 lakh | **292–298** *(Safe: 304+)* |
+| Post | Pay level | Starting basic/month | Gross/month estimate | In-hand/month estimate, before tax | Gross/year estimate |
+|---|---:|---:|---:|---:|---:|
+| ASO: CSS, MEA, Railways and other Level-7 entries | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh |
+| Income Tax Inspector | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh |
+| Assistant/ASO in departments advertising Level 6 | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh |
+| Auditor | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh |
+| Accountant/Junior Accountant | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh |
+| Tax Assistant | 4 | 25,500 | 46,200–54,200 | 41,200–49,100 | 5.55–6.51 lakh |
 
 ASO pay depends on the exact department/post code. These selected posts use Tier-I and Tier-II Paper-I, including qualifying computer/data-entry requirements under the baseline notice. Specialist JSO/AAO papers are outside this list. [Official CGL 2026 notice, post table and section 13](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf).
 
 ### Other CGL inspector and investigation options
 
-| Post | Pay level | Starting basic/month | Gross/month estimate | In-hand/month estimate, before tax | Gross/year estimate | OBC target score (Tier-II / 390) |
-|---|---:|---:|---:|---:|---:|:---:|
-| Inspector (Preventive Officer), CBIC | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh | **315–325** *(Safe: 328+)* |
-| Inspector (Examiner), CBIC | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh | **325–335** *(Safe: 335+)* |
-| Inspector (Central Excise / CGST), CBIC | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh | **312–318** *(Safe: 324+)* |
-| Assistant Enforcement Officer, Directorate of Enforcement | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh | **320–326** *(Safe: 330+)* |
-| Sub-Inspector, CBI | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh | **320–326** *(Safe: 330+)* |
-| Sub-Inspector, NIA | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh | **308–314** *(Safe: 318+)* |
+| Post | Pay level | Starting basic/month | Gross/month estimate | In-hand/month estimate, before tax | Gross/year estimate |
+|---|---:|---:|---:|---:|---:|
+| Inspector (Preventive Officer), CBIC | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh |
+| Inspector (Examiner), CBIC | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh |
+| Inspector (Central Excise / CGST), CBIC | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh |
+| Assistant Enforcement Officer, Directorate of Enforcement | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh |
+| Sub-Inspector, CBI | 7 | 44,900 | 79,200–91,100 | 71,000–82,900 | 9.51–10.93 lakh |
+| Sub-Inspector, NIA | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh |
 
 **Preventive Officer uses the same CGL Tier-I + Tier-II Paper-I preparation; it does not require a separate specialist written paper.** The same written-paper route applies to these additional options under the baseline notice.
 
@@ -63,16 +63,16 @@ These are comparison options, not a confirmed personal eligibility list. Physica
 
 ## RRB NTPC Graduate: main railway route
 
-Final merit is determined by **CBT-2 (out of 120 marks)**. CBT-1 (100 marks) is screening only (OBC target: 75+ raw / 80+ normalized).
+For Commercial Supervisor and Goods Train Manager, merit uses CBT-2; the two typist posts also require the qualifying typing test. Station Master and Traffic Assistant use **70% CBT-2 + 30% CBAT**, among candidates qualifying CBAT. CBT-1 is screening; do not compare its score directly with CBT-2.
 
-| Post | Pay level | Starting basic/month | Gross/month estimate | In-hand/month estimate, before tax | Gross/year estimate | OBC target score (CBT-2 / 120) |
-|---|---:|---:|---:|---:|---:|:---:|
-| Chief Commercial cum Ticket Supervisor | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh | **90–95** *(Safe: 94+)* |
-| Goods Train Manager* | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh | **84–90** *(Safe: 90+)* |
-| Junior Accounts Assistant cum Typist | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh | **80–86** *(Safe: 86+; needs 30 WPM typing)* |
-| Senior Clerk cum Typist | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh | **78–84** *(Safe: 85+; needs 30 WPM typing)* |
-| Station Master — comparison only | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh | **74–80** *(Screening for CBAT; 70:30 merit)* |
-| Traffic Assistant — comparison only | 4 | 25,500 | 46,200–54,200 | 41,200–49,100 | 5.55–6.51 lakh | **72–78** *(Screening for CBAT; 70:30 merit)* |
+| Post | Pay level | Starting basic/month | Gross/month estimate | In-hand/month estimate, before tax | Gross/year estimate |
+|---|---:|---:|---:|---:|---:|
+| Chief Commercial cum Ticket Supervisor | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh |
+| Goods Train Manager* | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh |
+| Junior Accounts Assistant cum Typist | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh |
+| Senior Clerk cum Typist | 5 | 29,200 | 52,500–61,200 | 46,800–55,600 | 6.30–7.35 lakh |
+| Station Master — comparison only | 6 | 35,400 | 63,100–73,000 | 56,400–66,400 | 7.57–8.76 lakh |
+| Traffic Assistant — comparison only | 4 | 25,500 | 46,200–54,200 | 41,200–49,100 | 5.55–6.51 lakh |
 
 *Goods Train Manager figures use only the common-pay model. Running/duty-related allowances and their payroll treatment are excluded; these figures are not a ceiling or a post-specific payslip prediction.
 
@@ -150,54 +150,39 @@ Allowance sources: [January 2026 DA order reproduced by EPFO](https://www.epfind
 
 For starting pay among your selected posts: **CGL Level-7 ASO/Income Tax Inspector**, then **NTPC Level-6 Commercial Supervisor**. Your Level-5 and Level-4 choices remain useful alternatives. Compare duties, medical suitability and posting preferences before final post selection; no location or appointment in 2027 is guaranteed by this preparation guide.
 
-## OBC scoring targets & elimination rules
+## OBC scores: targets, cutoffs and qualifying rules
 
-### 1. Master post-wise OBC target score table
+**No verified 2027 post-wise cutoff is available in this guide.** A qualifying minimum only keeps you eligible for consideration; the competitive cutoff depends on the cycle, category, post, vacancies and (for RRB) board. There is no fixed OBC-to-UR gap and no score guarantees a home-state posting.
 
-Merit marks: **SSC CGL is out of 390** (Tier-II Paper-I); **RRB NTPC Graduate is out of 120** (CBT-2). OBC cutoffs are within 2–6 marks of UR; aim for the **Safe Target** column to secure Home State / South Zone posting (e.g., Chennai/TN).
+Before using OBC cutoffs, confirm your **Central-list OBC-NCL eligibility and required certificate**, and the RRB you will apply through. These personal details remain unconfirmed here.
 
-| Exam | Target Post | Pay Level | Merit Exam | Minimum OBC Cutoff | Safe Target (Home Zone) | Critical Selection Barrier |
-|---|---|:---:|:---:|:---:|:---:|---|
-| **SSC CGL** | Income Tax Inspector (ITI) | 7 | Tier-II (390) | **326–332** | **335+** | High demand; South zone needs top rank |
-| **SSC CGL** | ASO: CSS / MEA / Railways | 7 | Tier-II (390) | **322–328** | **330+** | Mostly Delhi; high computer cutoff |
-| **SSC CGL** | Inspector (Examiner / PO), CBIC | 7 | Tier-II (390) | **315–335** | **330+** | Coastal customs; physical walking/cycling test |
-| **SSC CGL** | Inspector (Central Excise / CGST) | 7 | Tier-II (390) | **312–318** | **324+** | Large South zone vacancies; physical test |
-| **SSC CGL** | Sub-Inspector (CBI) / AEO (ED) | 7 | Tier-II (390) | **320–326** | **330+** | Strict physical & medical standards |
-| **SSC CGL** | Assistant / ASO in Other Ministries | 6 | Tier-II (390) | **308–314** | **318+** | Solid desk job across central ministries |
-| **SSC CGL** | Auditor (CAG / CGDA) | 5 | Tier-II (390) | **302–308** | **312+** | Desk job; zonal allotment strictly by rank |
-| **SSC CGL** | Accountant / Junior Accountant | 5 | Tier-II (390) | **298–304** | **308+** | Desk accounting; state vacancies vary |
-| **SSC CGL** | Tax Assistant (CBDT / CBIC) | 4 | Tier-II (390) | **292–298** | **304+** | **Baseline CGL safety net**; must pass DEST |
-| **RRB NTPC** | Chief Commercial cum Ticket Supervisor | 6 | CBT-2 (120) | **90–95** | **94+** | **100% CBT-2 score.** No typing/aptitude test |
-| **RRB NTPC** | Goods Train Manager | 5 | CBT-2 (120) | **84–90** | **90+** | 100% CBT-2 score; **A-2 medical (6/9 vision)** |
-| **RRB NTPC** | Junior Accounts Assistant cum Typist | 5 | CBT-2 (120) | **80–86** | **86+** | Merit among those passing **30 WPM typing** |
-| **RRB NTPC** | Senior Clerk cum Typist | 5 | CBT-2 (120) | **78–84** | **85+** | Merit among those passing **30 WPM typing** |
-| **RRB NTPC** | Station Master *(Comparison)* | 6 | CBT-2 (120) | **74–80** | **82+** | Screening for CBAT; final merit is 70:30 |
+### What to track
 
----
+| Exam/stage | Practice target or record | How to use it |
+|---|---|---|
+| CGL Tier-I / 200 | March 110+, April 140+, May 160+ in four comparable mocks | Existing study milestones, not official cutoffs |
+| CGL Tier-II scored sections / 390 | Record March baseline by section; set April/May numeric targets using the master plan | Compare net marks with the applicable official results when available |
+| NTPC CBT-1 / 100 and CBT-2 / 120 | Record separate baselines and the last four comparable mock scores | Obtain the relevant RRB/category/post-stage cutoff before setting a competitive target; raw and normalised scores are not interchangeable |
+| Post-wise cutoff evidence | Exam year __; board/post code __; category __; stage/scale __; cutoff __; official result link __ | Leave blank until verified; do not fill with an assumed range |
 
-### 2. Mandatory qualifying screening & skill gates
+### Qualifying stages are separate from merit
 
-Failing any gate below causes immediate elimination, even if your written merit score is at the top of the rank list.
+Under the **CGL 2026 baseline**, OBC/EWS minimum qualifying marks are 25% in the specified stages/sections. DEST's baseline maximum error percentage is 25% for OBC/EWS; SSC can set higher qualifying standards for specified posts. These are not competitive cutoffs or recommended practice error rates. Computers and DEST are qualifying components; follow the applicable notice and result-stage standards, including exemptions. [CGL notice, sections 13 and 16](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf).
 
-| Exam | Qualifying Gate | Official Qualifying Rule | Safe Target for OBC | Elimination Risk |
-|---|---|---|---|---|
-| **SSC CGL** | Tier-I Screening | Norm. cutoff (~145–153 / 200) | **155+ / 200** | Fails to qualify for Tier-II written exam |
-| **SSC CGL** | Computer Knowledge (60 marks) | 25% (15 marks); CPT cutoff ~24–27 | **30+ / 60** | Disqualified from all Level 7, ASO, Inspector & TA posts |
-| **SSC CGL** | DEST (Data Entry / Typing) | Standard 10% errors; CPT 5%–7% errors | **< 4% errors at 30+ WPM** | Disqualified from Tax Assistant, CBIC & Inspector posts |
-| **RRB NTPC** | CBT-1 Screening | Zonal cutoff (~70–76 / 100) | **75+ raw / 80+ normalized** | Fails to qualify for CBT-2 graduate post levels |
-| **RRB NTPC** | Typing Skill Test (TST) | 30 WPM English / 25 WPM Hindi | **35 WPM English (< 5% error)** | Disqualified from Junior Accounts Assistant & Senior Clerk |
-| **RRB NTPC** | Medical Fitness (A-2) | Distance vision: 6/9 without glasses | **Check eyesight beforehand** | Disqualified from Goods Train Manager & Station Master |
+Under **NTPC Graduate CEN 06/2025**, OBC-NCL's CBT minimum is 30%; actual shortlisting can require more. Typist posts require 30 WPM in English or 25 WPM in Hindi. CBAT posts require the notified battery-wise qualifying standard before the 70:30 merit calculation. Medical fitness is post-specific; a written score cannot replace it. [NTPC notice, sections 3 and 13](https://rrbsecunderabad.gov.in/wp-content/uploads/2025/10/Final-CEN-06-2025-21-10-2025-Publish.pdf).
 
----
+Use the plan's **35–40 English WPM practice goal**, record actual errors, and practise the exam's passage/key-depression format. Coding speed alone is not a DEST result. Recheck all rules against the applicable 2027 notice; the references above are older baselines.
 
-### 3. Subject-wise target distribution for 320+ in CGL Tier-II
+### Worked net-score example: CGL Tier-II
 
-| Section & Module | Questions & Max Marks | Target Correct | Target Accuracy | Net Marks Contribution | Strategy |
-|---|:---:|:---:|:---:|:---:|---|
-| **Module 1: Maths** | 30 Qs (90 marks) | 27–28 Qs | ≥ 92% | **81–84** | High accuracy; speed through arithmetic/algebra |
-| **Module 2: Reasoning** | 30 Qs (90 marks) | 28–29 Qs | ≥ 95% | **84–87** | Highest scoring section; avoid silly reading traps |
-| **Module 3: English** | 45 Qs (135 marks) | 41–43 Qs | ≥ 92% | **122–128** | Strong grammar base; daily vocabulary retention |
-| **Module 4: General Awareness** | 25 Qs (75 marks) | 12–15 Qs | ≥ 80% | **35–45** | Focus on science, polity & audio current affairs |
-| **TOTAL MERIT SCORE** | **130 Qs (390 marks)** | **~110 Net** | **~90%** | **322–344** | **Secures Level 7 Inspector / ASO with Home State** |
+For the scored Paper-I objective sections, use **3 × correct − wrong**; skipped answers score zero. Computer marks are recorded separately from the 390-mark merit total.
 
+| Module | Correct | Wrong | Skipped | Net marks |
+|---|---:|---:|---:|---:|
+| Maths: 30 questions | 27 | 2 | 1 | 79 / 90 |
+| Reasoning: 30 questions | 28 | 1 | 1 | 83 / 90 |
+| English: 45 questions | 41 | 3 | 1 | 120 / 135 |
+| GA: 25 questions | 14 | 6 | 5 | 36 / 75 |
+| Total: 130 questions | 110 | 12 | 8 | **318 / 390** |
 
+Attempted-question accuracy here is 110 ÷ 122 = **90.2%**; completion is 122 ÷ 130 = **93.8%**. This illustrates score calculation, not a promised post or a universal target. Marking reference: [CGL notice, section 13](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf).

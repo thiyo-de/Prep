@@ -153,7 +153,7 @@ After the 20-question Gauntlet, report:
 
 ## 8. Syllabus and exam-format reference
 
-Use `Plan/FINAL-PLAN-NOV2026-MAY2027.md` and `Plan/CHAPTER-CHECKLIST.md` from the repository root. They contain the chapter route, coverage reminders and official baseline links. Do not maintain a second exam-pattern table here. Confirm the applicable notice before treating any timing, marking, post or skill requirement as a 2027 rule.
+Use `Plan/FINAL-PLAN-NOV2026-MAY2027.md` and `Plan/Subject-Checklists/README.md` from the repository root. They contain the chapter route, coverage reminders and official baseline links. Do not maintain a second exam-pattern table here. Confirm the applicable notice before treating any timing, marking, post or skill requirement as a 2027 rule.
 
 ## 9. Practice and tests
 

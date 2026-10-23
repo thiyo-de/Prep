@@ -3,7 +3,7 @@
 > **Section:** General Awareness / General Science — Biology (Chapter 01: Food & Nutrition)  
 > **Target Exams:** RRB NTPC (CBT-1 & CBT-2) | SSC CHSL (Tier-I & Tier-II)  
 > **Exam scope:** General science preparation; no fixed chapter-wise question count is established.
-> **Source:** [Food.pdf](../../../Materials/General%20Awareness/Biology/1%20Food/Food.pdf), 122 pages. See the coverage map and correction references below.
+> **Source:** `Food.pdf` (original source; PDF currently unavailable locally), 122 pages. See the coverage map and correction references below.
 > **Purpose:** Personal reference notes — core concepts, laboratory tests, vitamin directory, and deficiency traps.
 
 ---
@@ -791,4 +791,4 @@ The expanded vitamin directory and PEM comparison are supplementary. The PDF's f
 
 References: [NIH B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/), [NIH vitamin E](https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/), [FDA fibre definition](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber), [FDA fibre energy guidance](https://www.fda.gov/media/113663/download), [WHO wasting and nutritional oedema](https://www.who.int/publications/i/item/9789240082830), [NPS red fox diet](https://www.nps.gov/isro/learn/nature/red-fox.htm).
 
-[Next: Fibre to Fabric](02-Fibre-to-Fabric.md) | [Categories of Plants](03-Categories-of-Plants.md)
+[Next: Fibre to Fabric](02-Fibre-to-Fabric.md) | Categories of Plants: notes not yet available

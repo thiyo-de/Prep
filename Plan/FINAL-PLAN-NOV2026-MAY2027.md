@@ -1,6 +1,6 @@
 # One Plan: CGL + RRB NTPC
 
-**[Open the chapter checklist and tick your progress](CHAPTER-CHECKLIST.md).**
+**[Open the subject checklists and tick your progress](Subject-Checklists/README.md).**
 
 **[Posts and salary guide](../Posts/POSTS-AND-SALARY-GUIDE.md)** — jobs, pay levels and illustrated gross/in-hand salaries for SSC and RRB.
 
@@ -59,7 +59,7 @@ Inside Sunday's existing 2-hour repair block: **10 timed Maths questions in 6 mi
 
 ## 3. Beginner-to-advanced chapter route
 
-**Use the chapter names in your books.** M = Maths, R = Reasoning, E = English, G = GK. The number is the printed chapter-list number in your photos, not the study-order number. For example, M08 is Percentage. Full names and tick boxes are in [the chapter checklist](CHAPTER-CHECKLIST.md).
+**Use the chapter names in your books.** M = Maths, R = Reasoning, E = English, G = GK. The number is the printed chapter-list number in your photos, not the study-order number. For example, M08 is Percentage. Full names and tick boxes are in [the subject checklists](Subject-Checklists/README.md).
 
 **Study in prerequisite order below, even when book numbers jump.** This follows your latest beginner-to-advanced instruction. Within a chapter, choose the matching course lessons, then the matching PYQ section. The photos show book chapter-distribution lists, not the video-course playlist; exact course lesson numbers and lengths are not verified.
 
@@ -80,7 +80,7 @@ Foundations use the existing daily blocks. Do not try to memorise every table/sq
 
 A chapter spanning two weeks is one chapter with more practice time, not duplicate work. Within each allocation: concepts -> easy questions -> PYQs -> timed test. Weeks 9 and 22 remain catch-up buffers. Saturdays include chapter tests unless replaced by scheduled mocks.
 
-**Oct 15–31:** finish MF1–MF3 (basic operations, fractions, tables to 20), 20 vocab words a day, and typing baseline.
+**Optional head start before November 1:** begin MF1–MF3, learn 10 new vocabulary words a day with reviews, and record a typing baseline. Unfinished foundations stay in weeks 1–2; do not rush to finish them before November.
 
 **Dates are working targets, not permission to skip basics.** Finish prerequisite lessons first. If an easy set/topic test is below 70%, use the next two practice blocks for repair and retest, then Sunday catch-up as needed. Continue other subjects. Tables/squares/cubes build gradually; do not require complete memorisation in week 1.
 
@@ -146,9 +146,9 @@ G20-G21 current affairs continue throughout preparation; their scheduled slot is
 
 | Layer | When & Where | Exact Actions |
 |---|---|---|
-| **1. Daily** | Inside existing daily blocks (no extra time) | • **Maths:** last 20 min of the morning block — re-solve old error questions that are due.<br>• **English:** first 20 min — vocab reviews at Day 1, 3, 7 and 21.<br>• **Arithmetic recall:** 5 min tables to 20, squares to 30, cubes to 15 until fluent.<br>• **Lunch/Commute:** 10 closed-book GA questions on your phone. |
-| **2. Weekly** | Sunday (inside 9-hour block) | • **1 hour:** re-solve errors due 7 days and 21 days after getting them wrong, with no notes.<br>• **GA quiz:** 30 questions (20 from this week's topics, 10 from older topics).<br>• **Maths speed drill:** 10 timed questions in 6 minutes (36 sec/question).<br>• **Mock analysis:** re-solve every "concept gap" mistake within 48 hours. |
-| **3. Monthly** | Last Sunday of each month | • **Mixed test** on that month's chapters.<br>• **One-page summary** per chapter written from memory first, then checked against notes.<br>• **Current affairs:** 20-question quiz on the month's events. |
+| **1. Daily** | Inside existing daily blocks (no extra time) | • **Maths:** last 20 min of the morning block — re-solve old error questions that are due.<br>• **English:** first 20 min — vocab reviews at Day 1, 3, 7 and 21.<br>• **Arithmetic recall:** use 5 min of the Maths concept block for tables/squares/cubes until fluent.<br>• **GA:** optional closed-book recall replaces part of workday audio when a suitable break is available; no extra daily question quota. Lunch stays for typing and eating. |
+| **2. Weekly** | Sunday (inside 9-hour block) | • **1 hour:** re-solve errors due 7 days and 21 days after getting them wrong, with no notes.<br>• **GA quiz:** 30 questions (20 from this week's topics, 10 from older topics).<br>• **Maths speed drill:** 10 timed questions in 6 minutes (36 sec/question).<br>• **Mock analysis:** begin re-solving concept-gap errors within 48 hours in the affected subject's existing correction block; queue overflow for repair time. |
+| **3. Monthly** | Last Sunday of each month | • **Mixed test:** use the last scheduled mixed mock/test of the month as the monthly assessment; no additional paper.<br>• **Summary:** use 15 min of the existing 70-min Sunday weak-topic allowance for one weak chapter, leaving 55 min for repair.<br>• **Current affairs:** replace the 20 current-topic questions in that Sunday's GA quiz with 20 monthly-current-affairs questions; retain the 10 older-topic questions. |
 | **4. Phases** | Scheduled calendar checkpoints | • **Week 9 (Dec 28–Jan 3):** revise weeks 1–8 chapters.<br>• **Week 22 (Mar 29–Apr 4):** revise full syllabus and audit gaps.<br>• **April–May (Mon–Fri):** Maths: 60 min timed PYQs on focus topic + 40 min errors/formulas + 20 min weakest topic. Reasoning & English: 60 min mixed timed sets + 30 min corrections.<br>• **Final 7 days:** only formula sheets, vocab, error notebook and GA summaries. No new chapters. One light mock 3 days before exam; zero mocks in the last 2 days. |
 
 ### How often to revisit a chapter (Red, Amber, Green)
@@ -253,11 +253,11 @@ On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and se
 | Mar 7 | First full CGL Tier-II Paper-I + analysis |
 | Mar 14 | NTPC CBT-2 |
 | Mar 21 | CGL Tier-I |
-| Mar 28 | NTPC CBT-1 + analysis (5 hours)* |
+| Mar 28 | NTPC CBT-1 + analysis (5 hours) |
 | Apr 3 (Sat) | CGL Tier-I + analysis replace the 2-hour Maths block; evening routine stays |
 | Apr 4 | CGL Tier-II Paper-I + syllabus-gap audit |
 
-*\*Unstacked CHSL backup rule: take the backup CHSL Tier-I mock on the following Wednesday evening in place of that day's 90-minute Reasoning practice block, and do it only in weeks with no other full mock.*
+**CHSL backup dates: Wednesday March 31, April 28 and May 26.** Each replaces that day's 90-minute Reasoning block: 60-minute Tier-I mock + 30-minute initial review. Use the next day's existing 30-minute English lesson/correction time for remaining analysis; queue unresolved subject errors for normal repair. This backup replaces practice even when the week also contains main-exam mocks; it adds no study hours. Recheck test duration against the applicable notice.
 
 ### April 5–May 30: two mock sessions/week
 
@@ -269,7 +269,7 @@ On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and se
 
 **Saturday:** replace the usual 5 hours with the listed test(s) and analysis. **Sunday:** use the unchanged 5-hour test block for the listed test and analysis; retain the other 4 hours exactly as before.
 
-Core mix across these eight weeks: **8 Tier-II Paper-I + 4 CGL Tier-I + 4 NTPC CBT-2 = 50% / 25% / 25%.** Monthly backup CHSL mocks are strictly unstacked: take them on the following Wednesday evening in place of that day's 90-minute Reasoning block, and only in weeks with no other full mock. No extra mock hours; workday audio/lunch typing remain separate as above.
+**Core mix across these eight weeks: 8 Tier-II Paper-I + 4 CGL Tier-I + 4 NTPC CBT-2 = 50% / 25% / 25%.** CHSL backup mocks on April 28 and May 26 use the weekday replacements above and are outside this 16-mock core mix. Workday audio/lunch typing continue separately.
 
 **Final 7 days before exam:**
 - Only formula sheets, vocab, the error notebook and GA summaries. No new chapters.

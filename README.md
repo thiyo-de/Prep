@@ -1,6 +1,6 @@
 # SSC CGL + RRB NTPC Preparation
 
-One beginner-friendly study plan for **November 2026–May 2027** (with an **October 15–31 head start** on basic foundations), built around an **8 AM–7 PM workday**.
+One beginner-friendly study plan for **November 2026–May 2027** (with an optional head start on basic foundations), built around an **8 AM–7 PM workday**.
 
 **Target: upcoming 2027 recruitment cycles only** — SSC CGL and RRB NTPC Graduate, with CHSL as a backup. Existing/ongoing recruitment cycles are outside this plan. May is the preparation deadline, not a confirmed exam date.
 
@@ -8,7 +8,7 @@ One beginner-friendly study plan for **November 2026–May 2027** (with an **Oct
 
 **[Open the final study plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md)** — beginner foundations, chapter allocations, revision, tests and mocks.
 
-**[Chapter checklist](Plan/CHAPTER-CHECKLIST.md)** — tick completed topics, tests and revision.
+**[Subject checklists](Plan/Subject-Checklists/README.md)** — six detailed checklists for Maths, English, Reasoning, GK/GA, Computers and Typing.
 
 **[Posts and salary guide](Posts/POSTS-AND-SALARY-GUIDE.md)** — SSC/RRB comparison, starting basic pay, estimated gross and in-hand pay, and annual gross.
 
@@ -45,19 +45,19 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 1. **Daily (inside blocks, no extra time):**
    - **Maths:** last 20 min of morning block — re-solve due error questions.
    - **English:** first 20 min — vocab reviews at Day 1, 3, 7 and 21.
-   - **Arithmetic recall:** 5 min tables to 20, squares to 30, cubes to 15 until fluent.
-   - **Lunch/commute:** 10 closed-book GA questions on your phone.
+   - **Arithmetic recall:** 5 min inside the Maths concept block for tables/squares/cubes until fluent.
+   - **GA:** optional recall replaces part of workday audio when a suitable break is available. Lunch remains for typing and eating.
 2. **Weekly (Sunday 9-hour block):**
    - **1 hr:** re-solve errors due 7 and 21 days after getting them wrong, with no notes.
    - **GA quiz:** 30 questions (20 from this week, 10 older).
    - **Maths:** 10 timed questions in 6 minutes (36 sec/question).
-   - **Mock analysis:** re-solve every "concept gap" mistake within 48 hours.
+   - **Mock analysis:** start concept-gap re-solves within 48 hours inside existing correction time; queue overflow for repair.
 3. **Monthly (last Sunday of each month):**
-   - Mixed test on that month's chapters.
-   - Write a one-page summary per chapter from memory first, then check against notes.
-   - Revise the month's current affairs with a 20-question quiz.
+   - Use the last scheduled mixed test/mock as the monthly assessment, without adding a paper.
+   - Summarise one weak chapter in 15 min of Sunday's existing 70-min weak-topic allowance; 55 min remain for repair.
+   - Replace the 20 current-topic GA questions with monthly-current-affairs questions; keep 10 older-topic questions.
 4. **Phases & RAG revisit cycle:**
-   - **Oct 15–31:** head start on MF1–MF3 basics, 20 vocab words/day, typing baseline.
+   - **Optional head start:** begin MF1–MF3 basics, 10 new words/day with reviews, and a typing baseline; finish foundations in the scheduled blocks.
    - **Week 9:** revise weeks 1–8 chapters; **Week 22:** full syllabus audit.
    - **April–May:** timed topic drills + error re-solves; **Final 7 days:** formulas/vocab/errors only (1 light mock 3 days before, none in last 2 days).
    - **Phase 5 (June onward):** 4 weeks on Red topics & Tier-II depth, then 2 alternating mocks/week until exam.
@@ -67,10 +67,12 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 
 ## Study files
 
-- [Reasoning notes](Guides/Notes/Reasoning/Reasoning-Notes.md)
-- [English: fundamentals and parts of speech](Guides/Notes/English/01-Fundamentals-and-Parts-of-Speech.md)
-- [Biology notes](Guides/Notes/General%20Awareness/Biology/)
-- [Biology source PDFs](Guides/Materials/General%20Awareness/Biology/)
-- [Notes template](Guides/Notes/Templates/Notes-Template-Prompt.md)
+- [Reasoning notes](Notes/Reasoning/Reasoning-Notes.md)
+- [English: Sentence Architecture & Parts of Speech (EF1)](Notes/English/01-EF1-Fundamentals-and-Parts-of-Speech.md)
+- [English: Nouns, Pronouns, Modifiers & Connectors (EF2)](Notes/English/02-EF2-Nouns-Pronouns-Modifiers-and-Conjunctions.md)
+- [English: Verbs, Tenses, SVA & Conditionals (EF3)](Notes/English/03-EF3-Verbs-Tenses-SVA-and-Conditionals.md)
+- [Biology notes](Notes/General%20Awareness/Biology/)
+- Biology source PDFs are currently unavailable locally; the notes retain their original source filenames and page references.
+- [Notes template](Notes/Templates/Notes-Template-Prompt.md)
 
 Keep one plan, follow the current week's topics, and use actual test results to guide revision.

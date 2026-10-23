@@ -3,7 +3,7 @@
 > **Section:** General Awareness / General Science — Biology (Chapter 02: Fibre to Fabric)  
 > **Target Exams:** RRB NTPC (CBT-1 & CBT-2) | SSC CHSL (Tier-I & Tier-II)  
 > **Exam scope:** General science preparation; no fixed chapter-wise question count is established.
-> **Source:** [Fibre to Fabric.pdf](../../../Materials/General%20Awareness/Biology/2%20Fibre%20to%20Fabric/Fibre%20to%20Fabric.pdf), 64 pages. Added explanations and practice are identified below.
+> **Source:** `Fibre to Fabric.pdf` (original source; PDF currently unavailable locally), 64 pages. Added explanations and practice are identified below.
 > **Purpose:** Personal reference notes — fibre taxonomy, industrial processing pipelines, sericulture, and exam traps.
 
 ---
@@ -548,4 +548,4 @@ Jute detail, expanded animal-breed tables, chemical names and Q11-Q20 are supple
 
 References: [official definition of rayon](https://www.govinfo.gov/content/pkg/CFR-2004-title16-vol1/pdf/CFR-2004-title16-vol1-part303.pdf), [government sericulture teaching material](https://bieap.apcfss.in/Uploads/Materials/II_SERICULTURE.pdf). The supplied PDF provides the classroom process descriptions; the qualifications above prevent its simplified wording from becoming universal rules.
 
-[Food and Nutrition](01-Food-and-Nutrition.md) | [Next: Categories of Plants](03-Categories-of-Plants.md)
+[Food and Nutrition](01-Food-and-Nutrition.md) | Categories of Plants: notes not yet available
