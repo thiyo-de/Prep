@@ -2,481 +2,264 @@
 
 [Index and completion rules](README.md) | [Master plan](../FINAL-PLAN-NOV2026-MAY2027.md)
 
-**Existing allocation:** 90 minutes: 25 lesson/examples/notes + 45 practice + 20 error revision.
+**November–March allocation:** 90 minutes: 25 lesson/examples/notes + 45 practice + 20 error revision. **April–May weekdays:** 60 mixed timed practice + 30 corrections. Scheduled mock replacements follow the master plan.
 
-Start with 10–15 easy questions while learning, then build toward the plan's 20–30 questions/session. Use diagrams where helpful. Track speed after learning the method; there is no universal time limit per puzzle. Verbal and non-verbal Series/Analogy/Classification are different chapters.
+Begin with instructions, letters, numbers and simple diagrams. Practise straightforward examples before combined conditions and timed sets. Use only the facts supplied in a question; there is no universal seconds-per-puzzle rule. Verbal and non-verbal chapters with similar names use different question formats.
 
-Tick a skill after independent practice without notes. The chapter-progress boxes track testing and retention separately. Book codes identify chapters, not study-order numbers. Follow the order below; dates remain in the master plan.
+## Common study rule — use for every topic
+
+1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
+2. Recognise the topic in a question, sentence or diagram and distinguish its main types.
+3. Learn the relevant rules, formulas and exceptions. Keep short notes: meaning, method, one example and a mistake to avoid.
+4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
+5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
+6. Log wrong, skipped and slow questions. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
+
+**Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
+
+**Order:** foundations → chapter basics → applications → harder PYQs and timed work within that chapter. The book codes stay unchanged; their numbers are not the learning order. Dates and time allocations remain in the master plan.
 
 ## RF1 — Reasoning basics: letters and numbers
 
-- [ ] Use alphabet positions forwards and backwards
-- [ ] Practise opposite letter pairs
-- [ ] Recognise odd/even and simple number/letter patterns
-- [ ] Use familiar prime numbers, squares and cubes from Maths practice
+- [ ] Alphabet positions: forward and reverse
+- [ ] Opposite letter pairs
+- [ ] Odd/even numbers and basic number patterns
+- [ ] Familiar primes, squares and cubes from Maths
+- [ ] Simple letter sequences and position changes
 
-**Foundation check**
-
-- [ ] Explain the basics without notes and complete easy exercises independently.
-- [ ] Record easy-set accuracy; reach at least 70% before harder application.
-- [ ] Log errors and revisit them after 7 and 21 days.
+**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
 
 ## RF2 — Reasoning basics: instructions and relationships
 
-- [ ] Distinguish left/right and compass directions
-- [ ] Understand family-relation terms
-- [ ] Interpret comparison words such as older/taller
-- [ ] Notice not, except, only and at least in instructions
+- [ ] Instructions: not, except, only, at least and at most
+- [ ] Left/right, compass directions and turns
+- [ ] Family terms, generations and gender clues
+- [ ] Comparisons: older/younger, taller/shorter and ranks
+- [ ] Simple tables, diagrams and condition checking
 
-**Foundation check**
-
-- [ ] Explain the basics without notes and complete easy exercises independently.
-- [ ] Record easy-set accuracy; reach at least 70% before harder application.
-- [ ] Log errors and revisit them after 7 and 21 days.
+**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
 
 ## R04 — Classification (verbal)
 
-- [ ] Find the shared property of a group
-- [ ] Identify the odd word, letter or number
-- [ ] Check that the rule fits every other option
+- [ ] Word/category classification
+- [ ] Letter and number classification
+- [ ] Similarities, differences and odd-one-out rules
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R01 — Analogy or Similarity (verbal)
 
-- [ ] Identify the exact relation in the given pair
-- [ ] Apply it consistently to the new pair
-- [ ] Practise word, letter and number analogies
+- [ ] Word and meaning-based analogies
+- [ ] Letter/alphabet analogies
+- [ ] Number and symbolic analogies
+- [ ] Consistent relationship rules
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R07 — Series (verbal)
 
-- [ ] Complete number and letter series
-- [ ] Check differences, ratios and alternating patterns
-- [ ] Solve mixed patterns without forcing a rule
+- [ ] Number-series differences, ratios, squares and cubes
+- [ ] Letter and alphanumeric series
+- [ ] Alternating and interleaved patterns
+- [ ] Missing/wrong terms and trends
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R12 — Finding the Missing Number
 
-- [ ] Compare rows, columns and groups
-- [ ] Test a rule against all given examples
-- [ ] Find missing values in number figures
+- [ ] Missing numbers in rows, columns and grids
+- [ ] Number figures and grouped relations
+- [ ] Arithmetic-rule consistency across examples
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R08 — Coding-Decoding
 
-- [ ] Use letter shifts and alphabet positions
-- [ ] Solve number and substitution codes
-- [ ] Check a code against the full example
+- [ ] Letter shifts, reversal and alphabet-position codes
+- [ ] Number and symbol codes
+- [ ] Word/substitution codes
+- [ ] Mixed-case letter and number matching
+- [ ] Multi-step code applications
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R09 — Word Formation
 
-- [ ] Check available letters and repetition limits
-- [ ] Form or identify valid words under the given conditions
+- [ ] Word building from given letters
+- [ ] Letter-frequency and repetition limits
+- [ ] Valid-word and jumbling questions
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R14 — Arrangement of Words in a Logical Order (Alphabetical Order)
 
-- [ ] Arrange words in dictionary order
-- [ ] Compare letter by letter
-- [ ] Arrange meaningful stages/events in logical sequence where asked
+- [ ] Dictionary/alphabetical order
+- [ ] First-different-letter comparison
+- [ ] Logical order of events and word groups
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R03 — Symbols & Notations
 
-- [ ] Replace symbols by the stated operations
-- [ ] Apply BODMAS after replacement
-- [ ] Check comparison/inequality statements
+- [ ] Symbol substitution for mathematical operations
+- [ ] Interchange of signs/numbers and equation checking
+- [ ] Comparison symbols and inequality chains
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R13 — Arithmetical Problems
 
-- [ ] Translate verbal conditions into calculations
-- [ ] Check quantities, units and relationships
-- [ ] Solve relevant mathematical reasoning questions
+- [ ] Quantities and relationships in word problems
+- [ ] Arithmetic reasoning with basic operations
+- [ ] Units, comparisons and condition-based calculations
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R02 — Blood Relationship
 
-- [ ] Translate relationship statements
-- [ ] Draw a family tree when useful
-- [ ] Handle gender and generation clues without assumptions
+- [ ] Direct relationships and generations
+- [ ] Family-tree diagrams
+- [ ] Coded and statement-based relationships
+- [ ] Gender clues and relationships that cannot be determined
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R05 — Direction & Distance Test
 
-- [ ] Track turns on a diagram
-- [ ] Determine final direction and displacement
-- [ ] Find shortest distance when enough information is given
+- [ ] Turns and compass directions
+- [ ] Final position and facing direction
+- [ ] Distance travelled versus displacement
+- [ ] Shortest-distance questions
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R06 — Scheduled Day/Date/Time
 
-- [ ] Use calendar and odd-day basics
-- [ ] Handle leap years
-- [ ] Solve clock-angle and time questions
+- [ ] Days, dates, weeks and calendar basics
+- [ ] Odd days and leap-year rules
+- [ ] Clock hands and angles
+- [ ] Time gain/loss and related course/PYQ questions
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R16 — Logical Venn-Diagram
 
-- [ ] Represent groups and overlaps
-- [ ] Distinguish subset, overlap and separate groups
-- [ ] Use given counts without double counting
+- [ ] Separate, overlapping and subset relationships
+- [ ] Two/three-set Venn diagrams
+- [ ] Counts, intersections and avoiding double counting
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R10 — Syllogism, Statement & Conclusions
 
-- [ ] Interpret all/some/no statements
-- [ ] Test conclusions with diagrams or counterexamples
-- [ ] Distinguish what must follow from what is merely possible
-- [ ] Judge statement-conclusion questions using only supplied information
+- [ ] All, some, no and some-not statements
+- [ ] Venn/counterexample methods
+- [ ] Definite conclusions versus possibilities
+- [ ] Statement-conclusion and drawing inferences
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R11 — Ranking/Arrangement/Problem Solving
 
-- [ ] Solve position/ranking questions
-- [ ] Build linear seating arrangements
-- [ ] Handle circular arrangements and facing direction
-- [ ] Organise puzzle conditions in a table/diagram
-- [ ] Recheck every condition before answering
+- [ ] Position, ranking and total-number questions
+- [ ] Linear and parallel-row seating
+- [ ] Circular seating and facing directions
+- [ ] Simple arrangements before multi-condition puzzles
+- [ ] Table-based grouping and scheduling puzzles
+- [ ] Condition consistency and elimination
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R15 — Cubes and Dices
 
-- [ ] Identify adjacent and opposite faces
-- [ ] Follow rotations and nets
-- [ ] Count painted/unpainted faces on cut cubes
+- [ ] Dice: adjacent and opposite faces
+- [ ] Rotations, cube nets and spatial visualisation
+- [ ] Painted cubes and cut-cube counting
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R17 — Figure Counting
 
-- [ ] Count triangles systematically
-- [ ] Count squares and other specified figures
-- [ ] Include composite figures without double counting
+- [ ] Triangles and composite triangles
+- [ ] Squares and rectangles
+- [ ] Other specified shapes in course/PYQ questions
+- [ ] Systematic counting and overlap rules
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R19 — Series (non-verbal)
 
-- [ ] Track rotation, position and number of elements
-- [ ] Find alternating visual changes
-- [ ] Complete the sequence
+- [ ] Position, rotation and element-count changes
+- [ ] Alternating visual patterns
+- [ ] Figural sequences and trends
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R20 — Analogy (non-verbal)
 
-- [ ] Identify the transformation between figures
-- [ ] Apply the same transformation to the new figure
+- [ ] Figure transformations
+- [ ] Rotation, reflection, addition and removal
+- [ ] Analogy-rule consistency
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R21 — Classification (non-verbal)
 
-- [ ] Identify a common visual rule
-- [ ] Find the figure that does not share it
+- [ ] Shape, position and element classification
+- [ ] Common visual properties and odd figures
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R22 — Mirror Image and Water Image (non-verbal)
 
-- [ ] Distinguish vertical and horizontal reflections
-- [ ] Track letters, numbers and asymmetrical shapes
-- [ ] Avoid confusing reflection with rotation
+- [ ] Mirror versus water reflections
+- [ ] Letters, numbers and asymmetric shapes
+- [ ] Reflection versus rotation
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R23 — Paper Cutting, Folding & Punching (non-verbal)
 
-- [ ] Track each fold
-- [ ] Unfold cuts/holes in reverse order
-- [ ] Use symmetry to check the final pattern
+- [ ] Single and multiple folds
+- [ ] Cuts and punched holes
+- [ ] Reverse unfolding and symmetry
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R24 — Completion of Figural Pattern (non-verbal)
 
-- [ ] Follow continuity of lines and shapes
-- [ ] Match rotation/orientation
-- [ ] Complete the missing portion
+- [ ] Line continuity and shape matching
+- [ ] Orientation and symmetry
+- [ ] Missing portions of patterns
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R25 — Embedded Figure (non-verbal)
 
-- [ ] Locate the target shape among extra lines
-- [ ] Match proportions and orientation as the question permits
+- [ ] Target shapes hidden within extra lines
+- [ ] Proportions and permitted orientations
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R26 — Deviation of Figure (non-verbal)
 
-- [ ] Identify the governing visual rule in the book's examples
-- [ ] Find the figure that deviates
-- [ ] Explain the specific mismatch
+- [ ] Visual-rule identification
+- [ ] Deviating figure and mismatch types
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## R18 — Miscellaneous
 
-- [ ] Distinguish assumptions, arguments and conclusions
-- [ ] Evaluate course-of-action and cause/effect questions
-- [ ] Solve data sufficiency without unnecessary calculation
-- [ ] Practise decision making, maps and graph interpretation
-- [ ] Track input-output steps
-- [ ] Match addresses, dates, cities, centre codes and roll numbers
-- [ ] Practise observation and visual-memory questions
-- [ ] Apply critical thinking to stated facts
-- [ ] Practise emotional/social-intelligence scenarios
+- [ ] Assumptions and arguments
+- [ ] Courses of action and cause/effect
+- [ ] Data sufficiency: one statement, combined statements and insufficient data
+- [ ] Decision making and analytical reasoning
+- [ ] Maps and graph interpretation
+- [ ] Input-output patterns from relevant course/PYQ sets
+- [ ] Indexing; address, date, city, centre-code and roll-number matching
+- [ ] Observation, discrimination and visual memory
+- [ ] Spatial orientation and visualisation: mixed applications after R05/R15/R19
+- [ ] Critical thinking and problem solving
+- [ ] Emotional and social intelligence
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __

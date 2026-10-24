@@ -2,420 +2,274 @@
 
 [Index and completion rules](README.md) | [Master plan](../FINAL-PLAN-NOV2026-MAY2027.md)
 
-**Existing allocation:** Audio during work; closed-book recall and quizzes inside existing revision blocks.
+**Existing allocation:** audio during work; recall, questions and corrections in the existing Sunday blocks.
 
-Use the existing Sunday quiz: 20 questions from current topics/current affairs + 10 older-topic questions. Initially use studied material only. On the last Sunday, replace the 20 current-topic questions with 20 monthly-current-affairs questions and retain the 10 older-topic questions. Optional workday recall replaces audio time; it is not an extra daily quota. G20/G21 and other changeable facts remain ongoing after the first pass. Listening alone is not completion.
+Sunday GA hour: 15 minutes recall + 25 minutes for 30 questions + 15 minutes corrections/planning + 5 minutes scorecard. Normally use **20 current-topic/current-affairs questions + 10 older-topic questions**. On the last Sunday, replace the first 20 with monthly-current-affairs questions. Optional workday recall replaces audio time; it adds no daily quota.
 
-Tick a skill after independent practice without notes. The chapter-progress boxes track testing and retention separately. Book codes identify chapters, not study-order numbers. Follow the order below; dates remain in the master plan.
+Learn meanings, timelines and maps before factual lists. The science headings below expand the broad school-level science scope into study topics; they are not an official chapter-wise weightage list. Current affairs continue throughout the plan. Date changeable facts and check them when revising. G12 delegates to the computer checklist.
+
+## Common study rule — use for every topic
+
+1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
+2. Recognise the topic in a question, sentence or diagram and distinguish its main types.
+3. Learn the relevant rules, formulas and exceptions. Keep short notes: meaning, method, one example and a mistake to avoid.
+4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
+5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
+6. Log wrong, skipped and slow questions. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
+
+**Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
+
+**Order:** foundations → chapter basics → applications → harder PYQs and timed work within that chapter. The book codes stay unchanged; their numbers are not the learning order. Dates and time allocations remain in the master plan.
 
 ## GF1 — GK basics: maps and timelines
 
-- [ ] Locate continents, countries and Indian states on maps
-- [ ] Recognise capitals and basic directions
-- [ ] Read timelines, centuries and eras
+- [ ] Continents, countries, Indian states and capitals: map basics
+- [ ] Compass directions and map symbols
+- [ ] Timelines, centuries, BCE/CE and chronological order
 
-**Foundation check**
-
-- [ ] Explain the basics without notes and complete easy exercises independently.
-- [ ] Record easy-set accuracy; reach at least 70% before harder application.
-- [ ] Log errors and revisit them after 7 and 21 days.
+**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
 
 ## GF2 — GK basics: everyday terms
 
-- [ ] Explain basic government and constitution terms
-- [ ] Explain everyday economy terms in simple language
-- [ ] Learn unfamiliar science terms before each audio chapter
+- [ ] Government, constitution, law and citizenship: basic meanings
+- [ ] Money, prices, income and production: basic meanings
+- [ ] Scientific units, observations and experiments: basic meanings
+- [ ] Unfamiliar terms introduced before each audio chapter
 
-**Foundation check**
-
-- [ ] Explain the basics without notes and complete easy exercises independently.
-- [ ] Record easy-set accuracy; reach at least 70% before harder application.
-- [ ] Log errors and revisit them after 7 and 21 days.
+**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
 
 ## G05 — Physical Geography
 
-- [ ] Understand Earth's motions and basic structure
-- [ ] Identify landforms and physical processes
-- [ ] Understand weather, climate and atmosphere basics
-- [ ] Understand water cycle, oceans and currents
+- [ ] Earth, solar system, latitude and longitude
+- [ ] Rotation, revolution, seasons and time
+- [ ] Earth's structure, rocks and landforms
+- [ ] Atmosphere, weather, climate and winds
+- [ ] Water cycle, oceans and currents
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G06 — Geography of India
 
-- [ ] Locate states, rivers, mountains and plains
-- [ ] Connect climate, soils and crops
-- [ ] Study resources and industries
-- [ ] Study transport and relevant social/economic geography
+- [ ] India's location, states, union territories and neighbouring countries
+- [ ] Mountains, plains, plateaus and rivers
+- [ ] Climate, soils, crops and natural vegetation
+- [ ] Mineral/energy resources and industries
+- [ ] Transport systems in India
+- [ ] Population and social/economic geography
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G07 — World Geography
 
-- [ ] Locate major rivers, mountains, deserts and seas
-- [ ] Compare physical regions and climates
-- [ ] Study relevant social/economic geography
-- [ ] Include India's neighbouring countries
+- [ ] Continents and major physical regions
+- [ ] Major rivers, mountains, deserts, seas and oceans
+- [ ] World climate and vegetation
+- [ ] Resources and relevant social/economic geography
+- [ ] Neighbouring countries: key geographical facts
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G04 — Indian Polity & Constitution
 
-- [ ] Understand Preamble and constitutional basics
-- [ ] Compare Fundamental Rights, Duties and DPSP
-- [ ] Understand Parliament, President and government institutions
-- [ ] Study judiciary, federal structure and local government
-- [ ] Recall important amendments
-- [ ] Understand major government schemes and their purposes
+- [ ] Constitution-making, features and Preamble
+- [ ] Fundamental Rights, Duties and Directive Principles
+- [ ] President, Vice-President, Prime Minister and Council of Ministers
+- [ ] Parliament and law-making
+- [ ] State executive and legislatures
+- [ ] Judiciary, federalism and Centre-state relations
+- [ ] Local government and elections
+- [ ] Constitutional bodies and important amendments
+- [ ] Governance and flagship government schemes
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G01 — Indian History
 
-- [ ] Build an ancient-history timeline
-- [ ] Study medieval kingdoms and developments
-- [ ] Study modern history and colonial rule
-- [ ] Connect freedom movements, leaders and major acts
+- [ ] Ancient India: civilisations, Vedic period and early states
+- [ ] Religious movements and major ancient empires
+- [ ] Medieval India: kingdoms, Sultanate and Mughal period
+- [ ] Bhakti/Sufi movements and regional developments
+- [ ] European arrival and colonial expansion
+- [ ] Revolt of 1857 and social/religious reform
+- [ ] Freedom struggle: movements, organisations, leaders and acts
+- [ ] Independence and major post-independence developments at course/PYQ level
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G02 — World History
 
-- [ ] Place major revolutions and wars in order
-- [ ] Understand causes and broad outcomes of relevant events
-- [ ] Use course/PYQ coverage to limit unnecessary detail
+- [ ] Basic world-history timeline
+- [ ] Major revolutions and industrialisation
+- [ ] World wars and broad outcomes
+- [ ] Relevant movements and events in the selected course/PYQs
 
-**Chapter progress**
+> Keep this existing book chapter concise; it is not a separate world-history specialist course.
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
 
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G03 — Indian Art & Culture
 
-- [ ] Identify monuments and important places
-- [ ] Study dances, music and festivals
-- [ ] Connect art traditions with regions
-- [ ] Study cultural/literary traditions without duplicating the G16 record
+- [ ] Indian monuments and important places
+- [ ] Architecture, sculpture and painting
+- [ ] Dance, music and theatre
+- [ ] Festivals, crafts and regional traditions
+- [ ] Literary/cultural traditions; book-author lists stay under G16
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G08 — Economics
 
-- [ ] Explain GDP, inflation and other basic measures
-- [ ] Understand sectors of the economy
-- [ ] Understand money, banking and RBI functions
-- [ ] Read budget/tax basics
-- [ ] Study economic reforms and major economic issues
+- [ ] Economy basics: needs, production, sectors and markets
+- [ ] National income and GDP: basic measures
+- [ ] Inflation and price changes
+- [ ] Money, banks, RBI and basic monetary policy
+- [ ] Budget, taxes and fiscal-policy basics
+- [ ] Agriculture, industry and services
+- [ ] Poverty, unemployment and development
+- [ ] Economic reforms and current economic developments
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G09 — Physics
 
-- [ ] Use measurement and common units
-- [ ] Understand motion and force
-- [ ] Understand work, energy and power
-- [ ] Understand heat
-- [ ] Understand light and sound
-- [ ] Understand electricity and magnetism at the planned level
+- [ ] Units and measurement
+- [ ] Motion, speed and acceleration
+- [ ] Force, Newton's laws and gravitation
+- [ ] Pressure, buoyancy and basic properties of fluids
+- [ ] Work, energy, power and simple machines
+- [ ] Heat, temperature and heat transfer
+- [ ] Light: reflection, refraction, mirrors, lenses and vision
+- [ ] Sound and wave basics
+- [ ] Electric current, circuits, resistance and electrical power
+- [ ] Magnetism and electromagnetic effects
+- [ ] Everyday applications and instruments
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G10 — Chemistry
 
-- [ ] Understand matter, atoms and molecules
-- [ ] Recognise elements, compounds and mixtures
-- [ ] Understand chemical reactions
-- [ ] Study acids, bases and salts
-- [ ] Study metals/non-metals and carbon compounds
-- [ ] Connect everyday substances with their uses
+- [ ] Matter, states and physical/chemical changes
+- [ ] Elements, compounds, mixtures and separation
+- [ ] Atoms, molecules, atomic structure and valency
+- [ ] Periodic classification and basic element properties
+- [ ] Chemical reactions and equations
+- [ ] Acids, bases, salts and pH
+- [ ] Metals, non-metals and corrosion
+- [ ] Carbon and its compounds
+- [ ] Fuels, combustion and common everyday chemicals
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G11 — Biology (Zoology, Botany, Health), Environment & Agriculture
 
-- [ ] Understand cells and basic life processes
-- [ ] Study plant structure and functions
-- [ ] Study human body systems and nutrition
-- [ ] Compare common diseases, causes and prevention
-- [ ] Understand ecology, food chains and biodiversity
-- [ ] Study pollution and conservation
-- [ ] Study flora/fauna and basic agriculture
+- [ ] Cells, tissues and basic classification
+- [ ] Plant parts, functions and reproduction
+- [ ] Nutrition, digestion and photosynthesis
+- [ ] Respiration, circulation, transport and excretion
+- [ ] Movement, control and coordination
+- [ ] Human reproduction and basic heredity
+- [ ] Food, nutrients, vitamins and deficiency diseases
+- [ ] Infectious/non-infectious diseases, prevention and immunity basics
+- [ ] Ecology, food chains and ecosystems
+- [ ] Biodiversity, Indian flora/fauna and conservation
+- [ ] Pollution and environmental issues in India and the world
+- [ ] Agriculture basics and crop production
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G12 — Computer & IT
 
-Use [Computers](COMPUTERS-CHECKLIST.md) for the detailed skills and assessment record. The boxes here are a summary, not a second test assignment.
+- [ ] Computer & IT subtopics in the [Computers checklist](COMPUTERS-CHECKLIST.md)
+- [ ] Closed-book questions and practical results recorded in that same checklist
 
-- [ ] Complete the linked Computers checklist
-- [ ] Answer closed-book computer questions
-- [ ] Record practical checks in that same checklist, not a second copy
-
-Record: computer-checklist reference __ | status __
+**Progress:** use the linked computer record; no second assessment here.
 
 ## G13 — Discoveries & Inventions (Branches of Science & Scientific Instruments)
 
-- [ ] Match major discoveries/inventions with the correct person
-- [ ] Match scientific branches with what they study
-- [ ] Match instruments with what they measure
+- [ ] Major discoveries and inventions
+- [ ] Scientists and their contributions
+- [ ] Branches of science
+- [ ] Scientific instruments and what they measure
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G14 — Science & Technology
 
-- [ ] Understand important space programmes
-- [ ] Study nuclear-research basics and major institutions
-- [ ] Connect scientific developments with applications
+- [ ] Indian space programmes and satellites
+- [ ] Nuclear research and applications
+- [ ] Major scientific institutions
+- [ ] Important scientific/technological developments and applications
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G18 — UNO, Other International & National Organisations
 
-- [ ] Understand major organisations and their functions
-- [ ] Recall relevant headquarters and founding facts
-- [ ] Study important government/public-sector organisations
-- [ ] Verify current officeholders when revising rather than treating them as permanent facts
+- [ ] UN and its principal organs/agencies
+- [ ] Other major international organisations
+- [ ] Important Indian government/public-sector organisations
+- [ ] Functions, headquarters and relevant founding facts
+- [ ] Current officeholders: dated and verified during revision
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G15 — Honours & Awards
 
-- [ ] Recognise major awards and their fields
-- [ ] Track relevant recipients and award years
-- [ ] Distinguish award year from announcement year
+- [ ] Major national and international awards
+- [ ] Award categories and fields
+- [ ] Relevant recipients and award years
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G16 — Books & Authors
 
-- [ ] Match important books and authors
-- [ ] Include Indian literature
-- [ ] Maintain one record for items also encountered in culture/current affairs
+- [ ] Indian literature, languages and major works
+- [ ] Important books and authors
+- [ ] Recent books/authors from current affairs
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G17 — Important Decades, Years & Days
 
-- [ ] Recall important observances and dates
-- [ ] Study relevant commemorative years/decades
-- [ ] Update annual themes where relevant
+- [ ] Important national and international days
+- [ ] Relevant years and decades
+- [ ] Annual themes, dated to the correct year
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G19 — Sports
 
-- [ ] Learn major sports, tournaments and basic terms
-- [ ] Track relevant winners, venues and records
-- [ ] Record the year for changeable facts
+- [ ] Sports terminology and basic rules
+- [ ] Major tournaments, trophies and venues
+- [ ] Relevant winners, records and sporting personalities
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G20 — National Events
 
-- [ ] Maintain a dated monthly current-affairs summary
-- [ ] Recall significant national developments from the chosen source
-- [ ] Practise questions and correct outdated facts
+- [ ] National current events with dates
+- [ ] Policies, programmes and significant appointments
+- [ ] National developments linked to existing subject chapters
+- [ ] Monthly consolidation and older-month revision
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G21 — International Events
 
-- [ ] Maintain dated international-current-affairs entries
-- [ ] Understand relevant events and participating countries/organisations
-- [ ] Practise questions and revisit older months
+- [ ] International current events with dates
+- [ ] Summits, agreements and participating countries
+- [ ] Major global developments and organisations involved
+- [ ] Monthly consolidation and older-month revision
 
-**Chapter progress**
-
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
 ## G22 — Miscellaneous
 
-- [ ] Learn common abbreviations
-- [ ] Study notable personalities
-- [ ] Complete remaining relevant static-GK course/PYQ topics
+- [ ] Common abbreviations
+- [ ] Famous personalities of India and the world
+- [ ] Remaining relevant static-GK course/PYQ facts
 
-**Chapter progress**
+> Record facts under their main chapter where possible; do not create duplicate lists for current affairs and static GK.
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
 
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __

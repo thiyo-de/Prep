@@ -6,7 +6,7 @@ One beginner-friendly study plan for **November 2026–May 2027** (with an optio
 
 ## Start here
 
-**[Open the final study plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md)** — beginner foundations, chapter allocations, revision, tests and mocks.
+**[Open the final study plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md)** — final study version aligned with the subject checklists on 24 October 2026. Follow the scheduled blocks and use results to repair specific topics within existing time.
 
 **[Subject checklists](Plan/Subject-Checklists/README.md)** — six detailed checklists for Maths, English, Reasoning, GK/GA, Computers and Typing.
 
@@ -61,6 +61,7 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
    - **Week 9:** revise weeks 1–8 chapters; **Week 22:** full syllabus audit.
    - **April–May:** timed topic drills + error re-solves; **Final 7 days:** formulas/vocab/errors only (1 light mock 3 days before, none in last 2 days).
    - **Phase 5 (June onward):** 4 weeks on Red topics & Tier-II depth, then 2 alternating mocks/week until exam.
+   - **Retention pending:** 80%+ with a review unfinished; complete both reviews before marking Green.
    - 🟢 **Green (80%+ & 2 clean re-solves):** revisit every **3 weeks**.
    - 🟡 **Amber (70%–79%):** revisit every **10 days**.
    - 🔴 **Red (under 70%):** revisit every **7 days** (must fix before starting next new chapter).

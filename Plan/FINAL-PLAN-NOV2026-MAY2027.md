@@ -1,5 +1,7 @@
 # One Plan: CGL + RRB NTPC
 
+**Final study version — 24 October 2026.** Use this plan with the subject checklists through May 2027. Start the first unfinished foundation and follow the scheduled blocks. Keep the structure stable; use test results to repair specific topics within existing time. Revisit the schedule only for an official requirement/date change or a persistent, logged problem with the workload.
+
 **[Open the subject checklists and tick your progress](Subject-Checklists/README.md).**
 
 **[Posts and salary guide](../Posts/POSTS-AND-SALARY-GUIDE.md)** — jobs, pay levels and illustrated gross/in-hand salaries for SSC and RRB.
@@ -68,7 +70,7 @@ Inside Sunday's existing 2-hour repair block: **10 timed Maths questions in 6 mi
 | Subject | Learn first | Where it fits |
 |---|---|---|
 | Maths | **MF1**: Place value, whole numbers, zero, comparison; addition, subtraction, multiplication and division; **MF2**: Positive/negative numbers, odd/even numbers, factors/multiples; fractions, decimals, BODMAS and units; **MF3**: Tables to 20; squares to 30; cubes to 15; meaning of powers, square roots and cube roots | Weeks 1-2; recall continues inside Maths time |
-| English | **EF1**: Letters/vowels/consonants if needed; words, sentences, subject-verb-object, punctuation; introduction to all eight parts of speech; **EF2**: Nouns, pronouns, singular/plural, articles, adjectives/adverbs, prepositions, conjunctions and interjections; **EF3**: Verbs and verb forms, helping verbs/modals, simple tenses and subject-verb agreement; then remaining tenses, conditionals and question tags | Weeks 1-4, before E01 |
+| English | **EF1**: Letters/vowels/consonants if needed; words, sentences, subject-verb-object, punctuation; introduction to all eight parts of speech; **EF2**: Nouns, pronouns, singular/plural, articles, adjectives/adverbs, prepositions, conjunctions and interjections; **EF3**: Verbs and verb forms, helping verbs/modals, simple tenses and subject-verb agreement; then remaining tenses, conditionals and question tags | Weeks 1-4: first pass; continued application in E01/E02/E05 |
 | Reasoning | **RF1**: Alphabet positions, forward/backward order, odd/even numbers and basic number/letter patterns; **RF2**: Left/right and compass directions, family terms, comparisons and common question instructions | Week 1; revise before related chapters |
 | GK | **GF1**: Map basics: continents, countries, states, directions; timelines and dates; **GF2**: Plain meanings of government, economy and everyday science terms; introduce them as each chapter starts | Week 1 and introductions to audio chapters |
 | Computers | **CF1**: Hardware versus software, input/output, keyboard/mouse, files/folders and basic internet terms | November audio + weekend practical checks |
@@ -82,14 +84,16 @@ A chapter spanning two weeks is one chapter with more practice time, not duplica
 
 **Optional head start before November 1:** begin MF1–MF3, learn 10 new vocabulary words a day with reviews, and record a typing baseline. Unfinished foundations stay in weeks 1–2; do not rush to finish them before November.
 
+**Foundation pacing:** weeks 1–4 are the first learning pass, not a deadline for mastering every grammar exception. EF2/EF3 rules continue through their matching E01/E02/E05 practice. Complete a missing prerequisite before attempting questions that depend on it; use existing lesson/correction blocks and buffers for unfinished work. MF3 recall continues alongside Maths chapters. The weekly chapter headings include all subtopics in the linked checklists, not extra lessons outside the stated hours.
+
 **Dates are working targets, not permission to skip basics.** Finish prerequisite lessons first. If an easy set/topic test is below 70%, use the next two practice blocks for repair and retest, then Sunday catch-up as needed. Continue other subjects. Tables/squares/cubes build gradually; do not require complete memorisation in week 1.
 
 | Week | Dates | Maths | Reasoning | English | GK audio + weekend revision |
 |---|---|---|---|---|---|
-| 1 | Nov 2-8 | M01 Number System | RF1-RF2 + R04 Classification (verbal), R01 Analogy or Similarity (verbal) | EF1 | GF1-GF2 + G05 Physical Geography |
-| 2 | Nov 9-15 | M02 LCM and HCF, M03 Simplification | R07 Series (verbal), R12 Finding the Missing Number | EF2 | G06 Geography of India |
+| 1 | Nov 2-8 | MF1-MF2 prerequisites, then M01 Number System; begin MF3 recall | RF1-RF2 + R04 Classification (verbal), R01 Analogy or Similarity (verbal) | EF1 | GF1-GF2 + G05 Physical Geography |
+| 2 | Nov 9-15 | Finish required MF1-MF2 basics, then M02 LCM and HCF, M03 Simplification; continue MF3 | R07 Series (verbal), R12 Finding the Missing Number | EF2: first pass | G06 Geography of India |
 | 3 | Nov 16-22 | M04 Power, Indices and Surds, M05 Average | R08 Coding-Decoding, R09 Word Formation, R14 Arrangement of Words in a Logical Order (Alphabetical Order) | EF3: simple tenses/agreement | G07 World Geography |
-| 4 | Nov 23-29 | M06 Ratio and Proportion, M08 Percentage | R03 Symbols & Notations, R13 Arithmetical Problems | EF3: remaining grammar + foundation test | G04 Indian Polity & Constitution |
+| 4 | Nov 23-29 | M06 Ratio and Proportion, M08 Percentage | R03 Symbols & Notations, R13 Arithmetical Problems | EF3: remaining grammar first pass + taught-topic foundation test | G04 Indian Polity & Constitution |
 | 5 | Nov 30-Dec 6 | M07 Alligation or Mixture + M24 Miscellaneous: partnership/ages | R02 Blood Relationship, R05 Direction & Distance Test | E01 Common Errors: chapter learning + easy questions | G04 Indian Polity & Constitution: complete + quiz |
 | 6 | Dec 7-13 | M09 Profit and Loss, M10 Discount | R06 Scheduled Day/Date/Time | E01 Common Errors: PYQs + test | G01 Indian History: ancient/medieval |
 | 7 | Dec 14-20 | M11 Simple Interest, M12 Compound Interest | R16 Logical Venn-Diagram, R10 Syllogism, Statement & Conclusions | E02 Improvement of Sentences | G01 Indian History: modern/freedom struggle |
@@ -149,7 +153,7 @@ G20-G21 current affairs continue throughout preparation; their scheduled slot is
 | **1. Daily** | Inside existing daily blocks (no extra time) | • **Maths:** last 20 min of the morning block — re-solve old error questions that are due.<br>• **English:** first 20 min — vocab reviews at Day 1, 3, 7 and 21.<br>• **Arithmetic recall:** use 5 min of the Maths concept block for tables/squares/cubes until fluent.<br>• **GA:** optional closed-book recall replaces part of workday audio when a suitable break is available; no extra daily question quota. Lunch stays for typing and eating. |
 | **2. Weekly** | Sunday (inside 9-hour block) | • **1 hour:** re-solve errors due 7 days and 21 days after getting them wrong, with no notes.<br>• **GA quiz:** 30 questions (20 from this week's topics, 10 from older topics).<br>• **Maths speed drill:** 10 timed questions in 6 minutes (36 sec/question).<br>• **Mock analysis:** begin re-solving concept-gap errors within 48 hours in the affected subject's existing correction block; queue overflow for repair time. |
 | **3. Monthly** | Last Sunday of each month | • **Mixed test:** use the last scheduled mixed mock/test of the month as the monthly assessment; no additional paper.<br>• **Summary:** use 15 min of the existing 70-min Sunday weak-topic allowance for one weak chapter, leaving 55 min for repair.<br>• **Current affairs:** replace the 20 current-topic questions in that Sunday's GA quiz with 20 monthly-current-affairs questions; retain the 10 older-topic questions. |
-| **4. Phases** | Scheduled calendar checkpoints | • **Week 9 (Dec 28–Jan 3):** revise weeks 1–8 chapters.<br>• **Week 22 (Mar 29–Apr 4):** revise full syllabus and audit gaps.<br>• **April–May (Mon–Fri):** Maths: 60 min timed PYQs on focus topic + 40 min errors/formulas + 20 min weakest topic. Reasoning & English: 60 min mixed timed sets + 30 min corrections.<br>• **Final 7 days:** only formula sheets, vocab, error notebook and GA summaries. No new chapters. One light mock 3 days before exam; zero mocks in the last 2 days. |
+| **4. Phases** | Scheduled calendar checkpoints | • **Week 9 (Dec 28–Jan 3):** revise weeks 1–8 chapters.<br>• **Week 22 (Mar 29–Apr 4):** revise full syllabus and audit gaps.<br>• **April–May (Mon–Fri):** Maths: 60 min timed PYQs on focus topic + 40 min errors/formulas + 20 min weakest topic. Reasoning: 60 min mixed timed sets + 30 min corrections. English: 20 min vocabulary/new words and due reviews + 40 min mixed timed sets + 30 min corrections.<br>• **Final 7 days:** only formula sheets, vocab, error notebook and GA summaries. No new chapters. One light mock 3 days before exam; zero mocks in the last 2 days. |
 
 ### How often to revisit a chapter (Red, Amber, Green)
 
@@ -160,6 +164,8 @@ Track chapter status in your error notebook and checklist. Revisit frequency dep
 | 🟢 **Green** | **80%+** on timed test AND **2 clean unaided re-solves** | Every **3 weeks** | Keep fresh with mixed test sets; quick formula/rule check |
 | 🟡 **Amber** | **70%–79%** on timed test | Every **10 days** | Re-solve 10 targeted PYQs; review specific error patterns |
 | 🔴 **Red** | **Under 70%** on timed test / repeated conceptual errors | Every **7 days** | **Hard stop:** Fix in next 2 practice blocks before starting next new chapter |
+
+**Retention pending:** a timed result of 80%+ with either review unfinished is not Green. Complete both unaided reviews first. If there were no errors, use fresh short question sets to check retention. A subtopic tick records learning and independent application; it does not establish timed mastery. Record review dates/results in the checklist and error notebook.
 
 ### Use your video courses and PYQ books
 
@@ -264,7 +270,7 @@ On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and se
 **Monday–Friday daily revision split (5 hours/day):**
 - **Maths (120 min):** 60 min timed PYQs on the focus topic + 40 min errors and formulas + 20 min on your weakest topic.
 - **Reasoning (90 min):** 60 min mixed timed sets + 30 min corrections.
-- **English (90 min):** 60 min mixed timed sets + 30 min corrections.
+- **English (90 min):** 20 min vocabulary/new words and due reviews + 40 min mixed timed sets + 30 min corrections.
 - **Workday audio & lunch typing:** continue audio revision and 20 min typing passages. No new resource/course.
 
 **Saturday:** replace the usual 5 hours with the listed test(s) and analysis. **Sunday:** use the unchanged 5-hour test block for the listed test and analysis; retain the other 4 hours exactly as before.
@@ -357,10 +363,11 @@ Use 10 minutes of the final Sunday planning block monthly to check official port
 
 **Early-exam override:** only if a target 2027 exam is officially scheduled before May, move its mock phase to the final three weeks before that exam: use the existing Saturday 5-hour block plus Sunday 5-hour test block for that exam's mocks and analysis. This temporarily overrides the normal mock mix/frequency; the 39 hours and Sunday split stay fixed. Final seven days: covered material and errors, no new chapters. Resume the dated plan afterwards and put missed topics in the existing catch-up blocks. Early dates may prevent full coverage; do not claim readiness without scores.
 
-Older syllabus references (reviewed 13 October 2026; not 2027 notification or date confirmation):
+Syllabus comparison completed **24 October 2026**, aligned with the subject checklists. These are preparation references, not confirmation of 2027 rules or dates:
 
-- [SSC CGL 2026 notice](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf): retrieved directly from SSC and read, pages 27, 29 and 32; paragraphs 13.9.2, 13.9.9–10 and 13.11.1.7 confirm Paper-I, computers/DEST and statistics/probability. Browser retrieval timed out; direct PDF extraction succeeded. [Mirror corroboration](https://cdn-images.prepp.in/public/image/Notice_of_adv_cgl_2026_dd5fd6a14e2ca90a484d8cb2c295bd99.pdf). These are 2026 rules, pending the applicable 2027 notice.
-- [NTPC 06/2025 notice](https://rrbsecunderabad.gov.in/wp-content/uploads/2025/10/Final-CEN-06-2025-21-10-2025-Publish.pdf): **old-cycle syllabus reference only**, not current exam-date or typing-test evidence. Full PDF access previously timed out; indexed official syllabus text was available.
+- [SSC CGL 2026 notice](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf): syllabus sections 13.10 and 13.11, with section 13.9 for the Paper-I/skill framework. Basic statistics and probability remain in Paper-I preparation; specialist papers remain outside the selected scope.
+- [SSC CHSL 2026 notice](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf): syllabus sections 13.10 and 13.11 used to compare shared academic content. CHSL remains backup preparation as stated in Section 1.
+- [Previously supplied NTPC CEN 06/2026 notice in repository history](https://github.com/thiyo-de/Prep/blob/b7c531f5a493d12e430a198e49cdb43987a4a3bd/NTPC/Notice/Notification.pdf): sections 13.1 and 13.2.1 were re-read for CBT-1/CBT-2 syllabus coverage. The live official PDF download failed during this comparison; later amendments were not verified through it. This archived notice is not evidence of the dates or skill requirements of a future 2027 recruitment cycle.
 
 Applicable notices override older baselines. Check selected-post eligibility. This plan covers NTPC Graduate, not technical RRB exams.
 

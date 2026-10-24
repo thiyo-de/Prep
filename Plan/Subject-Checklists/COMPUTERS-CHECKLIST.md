@@ -2,170 +2,126 @@
 
 [Index and completion rules](README.md) | [Master plan](../FINAL-PLAN-NOV2026-MAY2027.md)
 
-This is the detailed checklist for **G12 Computer & IT**, not an additional subject course. CF1 is the plan's foundation code; C01–C08 below are local checklist labels, not book chapter numbers.
+This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing foundation code; C01–C08 are checklist labels, not extra book chapters.
 
-Use workday audio and the existing 30-minute Sunday computer slot. Rotate quiz, corrections and practical checks across sessions. Do not add hours. Use disposable practice files and sample data for practical tasks.
+**Existing allocation:** workday audio and the existing 30-minute Sunday computer slot. Rotate recall, quiz/corrections and practical tasks across sessions. Use sample data and disposable practice files. Do not add another course or more hours.
+
+## Common study rule — use for every topic
+
+1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
+2. Recognise the topic in a question, sentence or diagram and distinguish its main types.
+3. Learn the relevant rules, formulas and exceptions. Keep short notes: meaning, method, one example and a mistake to avoid.
+4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
+5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
+6. Log wrong, skipped and slow questions. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
+
+**Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
+
+**Order:** foundations → chapter basics → applications → harder PYQs and timed work within that chapter. The book codes stay unchanged; their numbers are not the learning order. Dates and time allocations remain in the master plan.
+
+**Computer practice:** alternate closed-book questions with the matching practical task using sample files. For practical work, record whether you can complete the task unaided; the MCQ percentage alone does not prove practical skill.
 
 ## CF1 — Computer foundations
 
-- [ ] Distinguish hardware from software
-- [ ] Identify common input/output devices
-- [ ] Use keyboard/mouse and basic navigation
-- [ ] Create, locate and organise files/folders
-- [ ] Explain basic internet terms
+- [ ] Computer purpose, hardware and software
+- [ ] Input, processing, output and storage
+- [ ] Common input/output devices
+- [ ] Keyboard, mouse and screen navigation
+- [ ] Files, folders and basic internet terms
 
-**Foundation check**
+**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
 
-- [ ] Explain the basics without notes and complete easy exercises independently.
-- [ ] Record easy-set accuracy; reach at least 70% before harder application.
-- [ ] Log errors and revisit them after 7 and 21 days.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C01 — CPU, memory, storage and ports
 
-- [ ] Explain CPU functions and computer organisation
-- [ ] Distinguish RAM, ROM and storage
-- [ ] Compare common storage/backup devices
-- [ ] Identify common ports and their uses
+- [ ] CPU and basic computer organisation
+- [ ] RAM, ROM and memory organisation
+- [ ] Bits, bytes and common storage units
+- [ ] Storage media and backup devices
+- [ ] Common ports and connectors
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C02 — Windows and shortcuts
 
-- [ ] Use File Explorer and file extensions
-- [ ] Copy, move, rename and delete a practice file safely
-- [ ] Use common keyboard shortcuts
+- [ ] Windows desktop, windows and settings basics
+- [ ] File Explorer, paths and file extensions
+- [ ] Create, copy, move, rename and delete sample files/folders
+- [ ] Common keyboard shortcuts
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C03 — Word
 
-- [ ] Create, edit and save a practice document
-- [ ] Format text and paragraphs
-- [ ] Use basic tables, page layout and print settings
+- [ ] Word interface and document creation
+- [ ] Open, edit, save and common file formats
+- [ ] Text and paragraph formatting
+- [ ] Find/replace and spelling tools
+- [ ] Tables, page layout and print settings
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C04 — Excel
 
-- [ ] Understand cells, rows, columns and references
-- [ ] Enter simple formulas
-- [ ] Use basic SUM, AVERAGE, MIN, MAX and COUNT functions
-- [ ] Use sorting, filtering and simple charts
+- [ ] Workbooks, worksheets, cells, rows and columns
+- [ ] Data entry, formatting and cell references
+- [ ] Formula syntax and basic calculations
+- [ ] SUM, AVERAGE, MIN, MAX and COUNT
+- [ ] Sorting, filtering and simple charts
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C05 — PowerPoint
 
-- [ ] Create and arrange slides
-- [ ] Insert text and pictures
-- [ ] Use basic layouts and run a slide show
+- [ ] Slides, layouts and themes
+- [ ] Text, images and basic objects
+- [ ] Slide arrangement and presentation views
+- [ ] Slide-show controls
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C06 — Internet, email and e-banking
 
-- [ ] Use browsers and search terms
-- [ ] Distinguish upload from download
-- [ ] Understand email fields, attachments and account management
-- [ ] Recognise basic e-banking concepts and safe-use practices
+- [ ] Internet, websites, URLs and browsers
+- [ ] Web searching, downloading and uploading
+- [ ] Email accounts, To/Cc/Bcc, attachments and folders
+- [ ] Basic e-banking and safe transactions
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C07 — Networks and protocols
 
-- [ ] Explain common network terms and types
-- [ ] Identify network devices
-- [ ] Recognise common internet/network protocols and their purposes
+- [ ] Network types and basic terminology
+- [ ] Network devices and their functions
+- [ ] Common protocols and their purposes
+- [ ] Internet/network addressing basics
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
+**Practical record:** task __ | unaided result __ | next repair __
 
 ## C08 — Cybersecurity and backup
 
-- [ ] Distinguish viruses, worms, Trojans, phishing and hacking
-- [ ] Recognise preventive measures and account protection
-- [ ] Explain backup and recovery
-- [ ] Apply safe handling of unfamiliar links/files
+- [ ] Information and network security basics
+- [ ] Viruses, worms and Trojans
+- [ ] Phishing, hacking and other common threats
+- [ ] Passwords, account protection and preventive measures
+- [ ] Backup and recovery
+- [ ] Safe handling of unfamiliar links, attachments and files
 
-**Chapter progress**
+**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
 
-- [ ] Learn concepts and worked examples; write short notes.
-- [ ] Score at least 70% on an unaided easy set.
-- [ ] Practise relevant PYQs independently; label assisted attempts.
-- [ ] Take a timed topic test, record results and correct errors.
-- [ ] Re-solve logged errors unaided after 7 days.
-- [ ] Re-solve them again after 21 days; record retention.
-
-Record: easy __/__ | timed correct/wrong/skipped __/__/__ | time __ | net marks __ | status __ | error-book reference __
-- [ ] Demonstrate the applicable practical task, or explain a scenario without notes.
-
-Use relevant computer PYQs/MCQs; do not use the Maths speed-drill timer. Apply the master plan's test/retention status rules and check the applicable exam's qualifying requirements before judging readiness.
+**Practical record:** task __ | unaided result __ | next repair __
