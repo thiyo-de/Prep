@@ -1,7 +1,7 @@
-# 📘 EF1: Detailed Masterclass — Language Foundations & Parts of Speech (ஆங்கில மொழி அடிப்படை — விரிவான பாடம்)
+# 📘 EF1: Detailed Masterclass — English Basics: Sentences and Parts of Speech (ஆங்கில மொழி அடிப்படை — விரிவான பாடம்)
 
 > **Module Code:** EF1 (English Foundation 1)  
-> **Checklist Target:** Letters/vowels/consonants; words, sentences, subject-verb-object, punctuation; introduction to all eight parts of speech  
+> **Checklist Target:** English basics: sentences and parts of speech (Letters, vowels, consonants; words, phrases, clauses, sentences; S-V-O; 4 functional types; punctuation; 8 parts of speech)  
 > **Target Exams:** SSC CGL 2027 (Tier-I & Tier-II Paper-I) | RRB NTPC Graduate | SSC CHSL  
 > **Exam use:** Foundation for grammar, sentence correction and comprehension; no fixed chapter-wise question count is claimed.
 > **Medium:** Bilingual (English + Tamil Explanations, Tables, Formulas & Visual Breakdown)  
@@ -9,24 +9,45 @@
 
 ---
 
-## 🧭 MASTER CHAPTER ROADMAP
+## 🧭 EF1 MASTER CHAPTER ROADMAP
 
-```
-                         ENGLISH FOUNDATION ENGINE (EF1)
-                                        │
-    ┌───────────────────────────┬───────┴───────────────────┬───────────────────────────┐
-    ▼                           ▼                           ▼                           ▼
-PART 1: SOUNDS & LETTERS    PART 2: WORDS & STRUCTURE   PART 3: S-V-O & PATTERNS    PART 4: 8 PARTS OF SPEECH
-• 26 Letters, 44 Sounds     • Word Building (Affixes)   • S-V-O vs. Tamil S-O-V     • 1. Noun      5. Adverb
-• Vowels & Consonants       • Phrase vs Clause          • Direct vs Indirect Object • 2. Pronoun   6. Preposition
-• Vowel Sound Law (A / An)  • 4 Functional Sentence Types • Subject/Object Complements • 3. Verb   7. Conjunction
-• Tamil Shortcut Trick      • 3 Structural Sentence Types • Sentence Patterns (SVOCA)• 4. Adjective 8. Interjection
-    │                           │                           │                           │
-    └───────────────────────────┴─────────────┬─────────────┴───────────────────────────┘
-                                              ▼
-                             PART 5: PUNCTUATION & EXAM TRAPS
-                             PART 6: THE GOLDEN SENTENCE BREAKDOWN
-                             PART 7: 10-SECOND RECALL & PRACTICE
+```text
+┌────────────────────────────────────────────────────────┐
+│             ENGLISH FOUNDATION ENGINE (EF1)            │
+└───────────────────────────┬────────────────────────────┘
+                            │
+       ┌────────────────────┴────────────────────┐
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 1: SOUNDS & LETTERS│               │ PART 2: WORDS & SENTENCE│
+│ • 26 Letters, 44 Sounds │               │ • Word Building         │
+│ • Vowels & Consonants   │               │ • Phrase vs Clause      │
+│ • A vs An Sound Laws    │               │ • 4 Functional Types    │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+       ┌─────┴───────────────────────────────────┬─────┘
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 3: S-V-O PATTERNS  │               │ PART 4: PUNCTUATION     │
+│ • S-V-O vs Tamil S-O-V  │               │ • Capital Letters       │
+│ • Direct vs Indirect Obj│               │ • Its vs It's           │
+│ • Subject Complements   │               │ • Comma Splice Trap     │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+       ┌─────┴───────────────────────────────────┬─────┘
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 5: 8 PARTS SPEECH  │               │ PART 5B: TIER-II ROLES  │
+│ • Noun, Pronoun, Verb   │               │ • Shapeshifter Words    │
+│ • Adj, Adv, Prep, Conj  │               │ • Hyphenated Modifiers  │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+             └────────────────────┬────────────────────┘
+                                  ▼
+┌────────────────────────────────────────────────────────┐
+│ PART 6: Golden Sentence (All 8 Parts in 1 Sentence)    │
+│ PART 7: 10-Second Recall Rules & Practice Drills       │
+└────────────────────────────────────────────────────────┘
 ```
 
 ---

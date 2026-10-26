@@ -69,7 +69,7 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 ## Study files
 
 - [Reasoning notes](Notes/Reasoning/Reasoning-Notes.md)
-- [English: Sentence Architecture & Parts of Speech (EF1)](Notes/English/01-EF1-Fundamentals-and-Parts-of-Speech.md)
+- [English: English Basics: Sentences & Parts of Speech (EF1)](Notes/English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md)
 - [English: Nouns, Pronouns, Modifiers & Connectors (EF2)](Notes/English/02-EF2-Nouns-Pronouns-Modifiers-and-Conjunctions.md)
 - [English: Verbs, Tenses, SVA & Conditionals (EF3)](Notes/English/03-EF3-Verbs-Tenses-SVA-and-Conditionals.md)
 - [Biology notes](Notes/General%20Awareness/Biology/)
