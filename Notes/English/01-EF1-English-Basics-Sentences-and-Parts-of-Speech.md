@@ -344,6 +344,63 @@ $$\mathbf{Subject}\ \xrightarrow{\quad}\ \mathbf{Verb}\ \xrightarrow{\quad}\ \ma
 
 ---
 
+### 🔍 Deep Dive: Simple Subject vs. Complete Subject & The "Modifier" Engine
+
+> [!NOTE]
+> **What is a "Modifier" (விவரிக்கும் கூடுதல் தகவல்)?**  
+> To **modify** means to add extra details, description, or limits to a word. A modifier can be a single word (Adjective) or a group of words (Prepositional Phrase) that dresses up the core noun.
+
+#### 🚗 The "Car" Analogy (எளிமையான விளக்கம்):
+Imagine you start with a bare noun: **`car`** (கார்).
+```text
+        [ A car ]  ➔ Plain Core Noun (வெறும் பெயர்ச்சொல்)
+
+Now dress it up with Modifiers (கூடுதல் விவரிப்புகள்):
+   • A RED car                      ➔ "Red" modifies 'car' (tells colour)
+   • A FAST red car                 ➔ "Fast" modifies 'car' (tells speed)
+   • A fast red car WITH A SPOILER  ➔ "With a spoiler" modifies 'car' (tells feature)
+```
+The core word is still just **`car`**, but all the words attached to it are its **Modifiers**!
+
+#### 📍 Pre-Modifiers vs. Post-Modifiers (முன்னால் & பின்னால் வரும் விவரிப்புகள்):
+
+```text
+       [ Before the Noun ]  +  [ CORE NOUN ]  +  [ After the Noun ]
+               │                     │                    │
+        The experienced            DOCTOR       with 20 years of practice
+      (முன்னால் வரும் விவரிப்பு)     (முக்கிய நபர்)       (பின்னால் வரும் விவரிப்பு)
+```
+
+1. **Pre-modifiers (Before Noun):** Adjectives and articles (*the, experienced, tall, three*).
+2. **Post-modifiers (After Noun):** Prepositional phrases (*with 20 years of practice, in the room, on the table*).
+
+---
+
+#### ⚖️ Simple Subject vs. Complete Subject:
+
+$$\mathbf{Complete\ Subject} = \underbrace{\text{Pre-modifiers}}_{\text{The experienced}} + \mathbf{Simple\ Subject\ (Core\ Noun)} + \underbrace{\text{Post-modifiers}}_{\text{with 20 years of practice}}$$
+
+* **Simple Subject (ஒற்றைச் சொல்):** Just the single core noun/pronoun alone $\longrightarrow$ **doctor**.
+* **Complete Subject (முழு எழுவாய்):** The core noun + **ALL** its attached describing words and phrases $\longrightarrow$ ***The experienced doctor with twenty years of practice***.
+
+---
+
+#### ✂️ The "Verb Dividing Line" (வினைச்சொல் எல்லைக்கோடு):
+In SSC sentence breakdown, the line between **Complete Subject** and **Predicate** is drawn **the exact millisecond the main verb begins**:
+
+```text
+ The experienced doctor with twenty years of practice │ performed the surgery.
+ ────────────────────────────────────────────────────   ─────────────────────
+                  COMPLETE SUBJECT                            PREDICATE
+            (முழு எழுவாய் + விவரிப்புகள்)                    (வினை + செயப்படுபொருள்)
+```
+
+> [!TIP]
+> **Exam Shortcut:** Find the verb first (*performed*).  
+> **EVERYTHING in front of that verb** is your **Complete Subject**!
+
+---
+
 ### English (S-V-O) vs. Tamil (S-O-V) Breakdown
 
 | Language | Word Order | Anatomy & Word Sequence |
