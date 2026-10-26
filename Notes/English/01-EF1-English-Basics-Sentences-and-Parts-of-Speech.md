@@ -239,6 +239,54 @@ Now compare with a **true Dependent Clause**:
 
 ---
 
+### ⛓️ Deep Dive: The Subordinator Engine (Words that Create Dependent Clauses)
+
+> [!NOTE]
+> **The Subordinator Law:**  
+> Attaching any of these words to the front of a complete independent clause **handcuffs it**, stripping away its independence and turning it into a **Dependent Clause**!
+
+#### 1. The 4 Functional Camps of Subordinating Conjunctions
+
+| Category | Key Connectors | Meaning in Tamil | Real-Life Example |
+| :--- | :--- | :--- | :--- |
+| **1. Contrast** (முரண்பாடு) | **Although / Though / Even though** <br>*(எல்லாம் ஒரே அர்த்தம் தான்!)* <br>**Whereas / While** | இருந்தபோதிலும் / இருந்தும் கூட <br><br>அதே வேளையில் / மாறாக | • ***Although** he was sick, he wrote the exam.*<br>• ***Whereas** Suresh likes coffee, Priya prefers tea.* |
+| **2. Reason / Cause** (காரணம்) | **Because** <br>**Since** <br>**As** | ஏனெனில் / என்பதால் <br>காரணத்தினால் <br>என்பதால் | • ***Because** it rained heavily, we stayed indoors.*<br>• ***Since** you are here, please help us.*<br>• ***As** he was tired, he fell asleep quickly.* |
+| **3. Time** (காலம் / நேரம்) | **When** / **While** <br>**Before** / **After** <br>**Until** / **Till** <br>**As soon as** | போது <br>முன்னால் / பின்னால் <br>வரை <br>உடனே | • ***When** the siren sounded, the workers rushed out.*<br>• ***Before** the train left, we boarded safely.*<br>• ***Until** the teacher arrives, keep quiet.*<br>• ***As soon as** the thief saw the police, he fled.* |
+| **4. Condition** (நிபந்தனை) | **If** <br>**Unless** *(If not)* <br>**Provided that** | என்றால் / இருந்தால் <br>இல்லாவிட்டால் <br>ஒருவேளை... என்றால் | • ***If** you study daily, you will clear CGL.*<br>• ***Unless** you run fast, you cannot catch the bus.*<br>• *You can go **provided that** you finish your work.* |
+
+---
+
+#### 🧪 The Transformation Test: One Independent Sentence Transformed!
+
+Take one single independent sentence:  
+$$\mathbf{Ravi\ arrived\ at\ the\ station.}\quad \text{(👑 Free King — Independent Clause)}$$
+
+Watch what happens when you place a Subordinator in front of it:
+
+| Subordinator Added | The Transformed Clause | Does it hang in the air? | Clause Status |
+| :---: | :--- | :---: | :---: |
+| **When** | *"**When** Ravi arrived at the station..."* | ❌ YES! (ரவி வந்தபோது... அப்புறம் என்ன நடந்தது?) | **Dependent Clause** ⛓️ |
+| **Because** | *"**Because** Ravi arrived at the station..."* | ❌ YES! (ரவி வந்ததால்... அப்புறம் என்ன நடந்தது?) | **Dependent Clause** ⛓️ |
+| **Although** | *"**Although** Ravi arrived at the station..."* | ❌ YES! (ரவி வந்தபோதிலும்... என்ன நடந்தது?) | **Dependent Clause** ⛓️ |
+| **If** | *"**If** Ravi arrived at the station..."* | ❌ YES! (ரவி வந்திருந்தால்... என்ன ஆகியிருக்கும்?) | **Dependent Clause** ⛓️ |
+| **As soon as** | *"**As soon as** Ravi arrived at the station..."*| ❌ YES! (ரவி வந்தவுடனே... என்ன நடந்தது?) | **Dependent Clause** ⛓️ |
+
+---
+
+#### 🔴 The #1 SSC CGL Tier-II Exam Trap: "Although... But" Error
+In SSC CGL Tier-I and Tier-II error-spotting, examiners frequently give this illegal sentence:
+
+* ❌ **INCORRECT:** *Although he worked hard, **but** he failed the examination.*
+* ✅ **CORRECT:** *Although he worked hard, he failed the examination.*
+* ✅ **CORRECT:** *Although he worked hard, **yet** he failed the examination.*
+
+> [!WARNING]
+> **Why is "Although... but" an error?**  
+> `Although` already carries the meaning of contrast (*இருந்தபோதிலும்*). Adding `but` (*ஆனால்*) creates a **Double Conjunction Error** (இரட்டை இணைப்புச் சொல் பிழை).  
+> `Although` pairs ONLY with a **Comma (`,`)** or **`Yet`** — **NEVER with `But`**!
+
+---
+
 ### 🔥 5. Tricky Tier-II Sentence Structures (தேர்வுக்கான நுணுக்கமான வாக்கிய அமைப்புகள்)
 
 In SSC CGL Tier-II, questions often deviate from simple subject-first sentences to confuse candidates:
