@@ -70,8 +70,8 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 
 - [Reasoning notes](Notes/Reasoning/Reasoning-Notes.md)
 - [English: English Basics: Sentences & Parts of Speech (EF1)](Notes/English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md)
-- [English: Nouns, Pronouns, Modifiers & Connectors (EF2)](Notes/English/02-EF2-Nouns-Pronouns-Modifiers-and-Conjunctions.md)
-- [English: Verbs, Tenses, SVA & Conditionals (EF3)](Notes/English/03-EF3-Verbs-Tenses-SVA-and-Conditionals.md)
+- [English: Grammar Basics: Nouns, Pronouns & Modifiers (EF2)](Notes/English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md)
+- [English: Grammar Basics: Verbs, Tenses & Agreement (EF3)](Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md)
 - [Biology notes](Notes/General%20Awareness/Biology/)
 - Biology source PDFs are currently unavailable locally; the notes retain their original source filenames and page references.
 - [Notes template](Notes/Templates/Notes-Template-Prompt.md)

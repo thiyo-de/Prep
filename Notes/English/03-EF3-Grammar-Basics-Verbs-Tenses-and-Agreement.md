@@ -1,7 +1,7 @@
-# 📘 EF3: Masterclass — Action, Time Engine, SVA & Conditionals (வினைகள், காலங்கள் மற்றும் நிபந்தனை வாக்கியங்கள்)
+# 📘 EF3: Detailed Masterclass — Grammar Basics: Verbs, Tenses and Agreement (வினைகள், காலங்கள் மற்றும் நிபந்தனை வாக்கியங்கள்)
 
 > **Module Code:** EF3 (English Foundation 3)  
-> **Checklist Target:** Verbs and verb forms, helping verbs/modals, simple tenses and subject-verb agreement; then remaining tenses, conditionals and question tags  
+> **Checklist Target:** Grammar basics: verbs, tenses and agreement (Verbs, auxiliary, modals, tenses, consistency, subject-verb agreement, conditionals, subjunctive, question tags)  
 > **Target Exams:** SSC CGL 2027 (Tier-I & Tier-II Paper-I) | RRB NTPC Graduate | SSC CHSL  
 > **Exam use:** Foundation for grammar, sentence correction and comprehension; no fixed chapter-wise question count is claimed.
 > **Medium:** Bilingual (English + Tamil Explanations, Tables, Golden Formulas & SSC Traps)  
@@ -11,21 +11,37 @@
 
 ## 🧭 EF3 MASTER CHAPTER ROADMAP
 
-```
-                         EF3: THE ACTION & TIME ENGINE
-                                       │
-    ┌──────────────────────────┬───────┴───────────────────┬───────────────────────────┐
-    ▼                          ▼                           ▼                           ▼
-PART 1: VERBS & MODALS     PART 2: S-V-A (GOLDEN LAW)  PART 3: THE 12 TENSES       PART 4: CONDITIONALS
-• 4 Verb Forms (V1-V4)     • Singular vs Plural Verb   • Present, Past, Future     • Type 1 (Real / Future)
-• V3 Standing Law          • First Subject Rule        • Past Perfect Time Anchor  • Type 2 (Imaginary Present)
-• Modals + V1 Rule         • Nearest Subject Rule      • Since / For Timeline      • Type 3 (Past Regret: Had+V3)
-                           • Each / Every Singularity  • Universal Truth Trap      │
-    │                          │                           │                           │
-    └──────────────────────────┴─────────────┬─────────────┴───────────────────────────┘
-                                             ▼
-                             PART 5: QUESTION TAGS (RULES & TRAPS)
-                             PART 6: 10-SECOND RECALL & EXAM DRILLS
+```text
+┌────────────────────────────────────────────────────────┐
+│        EF3: GRAMMAR BASICS (ACTION, TIME & SVA)        │
+└───────────────────────────┬────────────────────────────┘
+                            │
+       ┌────────────────────┴────────────────────┐
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 1: VERBS & MODALS  │               │ PART 2: S-V-A LAWS      │
+│ • 4 Verb Forms (V1-V4)  │               │ • First vs Nearest Subj │
+│ • 7 Verb Classifications│               │ • Indefinite Pronoun SVA│
+│ • Causatives & Modals   │               │ • Collective Division   │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+       ┌─────┴───────────────────────────────────┬─────┘
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 3: THE 12 TENSES   │               │ PART 4: CONDITIONALS    │
+│ • Present, Past, Future │               │ • Zero, 1st, 2nd, 3rd   │
+│ • Since vs For Anchor   │               │ • Inverted Conditionals │
+│ • High-Time Subjunctive │               │ • "But for" Structure   │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+       ┌─────┴───────────────────────────────────┬─────┘
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 5: QUESTION TAGS   │               │ PART 6: RAPID RECALL    │
+│ • Negative Adverb Tags  │               │ • 16 Golden Flash Rules │
+│ • Indefinite Pron. Tags │               │ • Tier-II Exam Drills   │
+│ • Imperative SentenceTag│               │ • Complete Answer Keys  │
+└─────────────────────────┘               └─────────────────────────┘
 ```
 
 ---

@@ -1,7 +1,7 @@
-# 📘 EF2: Masterclass — Nouns, Pronouns, Modifiers & Connectors (பெயர், விவரிப்பு மற்றும் இணைப்புச் சொற்கள்)
+# 📘 EF2: Detailed Masterclass — Grammar Basics: Nouns, Pronouns and Modifiers (பெயர், விவரிப்பு மற்றும் இணைப்புச் சொற்கள்)
 
 > **Module Code:** EF2 (English Foundation 2)  
-> **Checklist Target:** Nouns, pronouns, singular/plural, articles, adjectives/adverbs, prepositions, conjunctions and interjections  
+> **Checklist Target:** Grammar basics: nouns, pronouns and modifiers (Nouns, pronouns, articles, determiners, adjectives, adverbs, prepositions, conjunctions, interjections)  
 > **Target Exams:** SSC CGL 2027 (Tier-I & Tier-II Paper-I) | RRB NTPC Graduate | SSC CHSL  
 > **Exam use:** Foundation for grammar, sentence correction and comprehension; no fixed chapter-wise question count is claimed.
 > **Medium:** Bilingual (English + Tamil Explanations, Tables, Formulas & Exam Traps)  
@@ -11,21 +11,43 @@
 
 ## 🧭 EF2 MASTER CHAPTER ROADMAP
 
-```
-                         EF2: THE CONTENT & CONNECTING WORDS
-                                        │
-    ┌───────────────────────────┬───────┴───────────────────┬───────────────────────────┐
-    ▼                           ▼                           ▼                           ▼
-PART 1: NOUNS & NUMBERS     PART 2: PRONOUNS            PART 3: ARTICLES IN DEPTH   PART 4: MODIFIERS
-• 5 Types of Nouns          • Personal Pronoun Cases    • A / An Sound Rules        • Adjective vs. Adverb
-• Top 10 Uncountable Traps  • 231 vs 123 Etiquette Rule • 6 Rules for "The"         • Degrees of Comparison
-• Deceptive Singular/Plural • Preposition + Object Case • Zero Article Omission     • The "-ly" & Fastly Trap
-    │                       • Who vs. Whom              • Primary Purpose Rule      │
-    └───────────────────────────┴─────────────┬─────────────┴───────────────────────────┘
-                                              ▼
-                             PART 5: PREPOSITIONS & REDUNDANCIES
-                             PART 6: CONJUNCTIONS & FIXED PAIRS
-                             PART 7: 10-SECOND RECALL & EXAM DRILLS
+```text
+┌────────────────────────────────────────────────────────┐
+│        EF2: GRAMMAR BASICS (CONTENT & CONNECTORS)      │
+└───────────────────────────┬────────────────────────────┘
+                            │
+       ┌────────────────────┴────────────────────┐
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 1: NOUNS & NUMBER  │               │ PART 2: PRONOUNS        │
+│ • 5 Noun Types & Cases  │               │ • Personal Cases (231)  │
+│ • Countable/Uncountable │               │ • Reflexive Traps       │
+│ • Singular/Plural Shifts│               │ • Antecedent & Relative │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+       ┌─────┴───────────────────────────────────┬─────┘
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 3: ARTICLES & DET. │               │ PART 4: MODIFIERS       │
+│ • A vs An Sound Laws    │               │ • Adjective vs Adverb   │
+│ • 6 Rules for "The"     │               │ • Degrees of Comparison │
+│ • Zero Article Omission │               │ • Latin Comparatives    │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+       ┌─────┴───────────────────────────────────┬─────┘
+       ▼                                         ▼
+┌─────────────────────────┐               ┌─────────────────────────┐
+│ PART 5: PREPOSITIONS    │               │ PART 6: CONJUNCTIONS    │
+│ • Time, Place, Direction│               │ • Coordinating FANBOYS  │
+│ • Fixed Preposition Sets│               │ • Correlative Pairs     │
+│ • Redundancy Traps      │               │ • Until vs Unless       │
+└────────────┬────────────┘               └────────────┬────────────┘
+             │                                         │
+             └────────────────────┬────────────────────┘
+                                  ▼
+┌────────────────────────────────────────────────────────┐
+│ PART 7: 10-Second Recall Rules & Tier-II Exam Drills   │
+└────────────────────────────────────────────────────────┘
 ```
 
 ---
