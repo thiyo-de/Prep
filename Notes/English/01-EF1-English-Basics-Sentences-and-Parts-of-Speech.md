@@ -467,6 +467,40 @@ Not every word following a verb is an Object! Linking verbs take **Complements**
 | **SVOC** | $\text{S} + \text{V} + \text{O} + \text{C}$ | *The judge declared him innocent.* | Judge (S) + declared (V) + him (O) + innocent (C). |
 | **SVOA** | $\text{S} + \text{V} + \text{O} + \text{A}$ | *He parked the car outside.* | He (S) + parked (V) + car (O) + outside (Adjunct/Adverbial). |
 
+#### 🔍 Deep Dive: What does "A" (Adjunct / Adverbial) Mean?
+
+$$\mathbf{A} = \mathbf{Adjunct}\ \text{or}\ \mathbf{Adverbial}\quad \text{(வினையடைக்கூறு / கூடுதல் விவரம்)}$$
+
+An **Adjunct (A)** is any word, phrase, or clause that tells you **WHERE, WHEN, HOW, or WHY** the action took place.
+
+##### ❓ The 4 Questions "A" Answers:
+
+| Question to Verb | Meaning in Tamil | Type of "A" | Example in Sentence |
+|---|---|:---:|---|
+| **WHERE?** | எங்கே? | Place (இடம்) | *He parked the car **outside**.* |
+| **WHEN?** | எப்போது? | Time (நேரம்) | *She met the manager **yesterday**.* |
+| **HOW?** | எப்படி? | Manner (முறை) | *The boy solved the puzzle **easily**.* |
+| **WHY?** | ஏன்? | Reason (காரணம்) | *He left early **due to illness**.* |
+
+##### ⚖️ The "Removal Test": Complement (C) vs. Adjunct (A)
+
+```text
+               THE "REMOVAL" TEST (நீக்கும் சோதனை)
+                              │
+     ┌────────────────────────┴────────────────────────┐
+     ▼                                                 ▼
+[ C = COMPLEMENT ]                             [ A = ADJUNCT ]
+• MANDATORY (நீக்க முடியாது)                   • OPTIONAL (நீக்கினாலும் பொருள் தரும்)
+• If removed, sentence COLLAPSES:              • If removed, sentence SURVIVES:
+  "He became a doctor."                          "He parked the car [outside]."
+  ❌ "He became..." (Incomplete!)                ✅ "He parked the car." (Still 100% complete!)
+```
+
+> [!TIP]
+> **Summary:**  
+> - **Complement (C):** Absolutely **mandatory** to finish the sentence ($S=C$ or $O=C$).  
+> - **Adjunct (A):** An **optional bonus detail** answering Where, When, How, or Why. You can remove it, and the sentence remains grammatically complete!
+
 ---
 
 # ✍️ PART 4: PUNCTUATION RULES & EXAM TRAPS
