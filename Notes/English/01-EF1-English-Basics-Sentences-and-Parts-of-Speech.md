@@ -23,6 +23,7 @@
 │ • 26 Letters, 44 Sounds │               │ • Word Building         │
 │ • Vowels & Consonants   │               │ • Phrase vs Clause      │
 │ • A vs An Sound Laws    │               │ • 4 Functional Types    │
+│ • Tamil Shortcut Trick  │               │ • FANBOYS & Compound    │
 └────────────┬────────────┘               └────────────┬────────────┘
              │                                         │
        ┌─────┴───────────────────────────────────┬─────┘
@@ -145,9 +146,96 @@ A word is a meaningful combination of letters:
 | 4 | **Exclamatory** | உணர்ச்சி வாக்கியம் | Expresses sudden joy, shock, or surprise | `!` | *How wonderful the sunset is!* |
 
 ### 4. Sentence Types by Structure (அமைப்பின் அடிப்படையில் 3 வகைகள்)
+
+```text
+Simple Sentence   = 1 Independent Clause
+Compound Sentence = 2 Independent Clauses + FANBOYS Conjunction
+Complex Sentence  = 1 Independent Clause + 1 or more Dependent Clauses
+```
+
 1. **Simple Sentence (எளிய வாக்கியம்):** Exactly **1 Independent Clause** (*Suresh passed the exam.*).
-2. **Compound Sentence (கூட்டு வாக்கியம்):** **2 Independent Clauses** connected by coordinating conjunctions (**FANBOYS**: For, And, Nor, But, Or, Yet, So) (*Suresh studied hard, **and** he passed the exam.*).
+2. **Compound Sentence (கூட்டு வாக்கியம்):** **2 Independent Clauses** connected by a coordinating conjunction (**FANBOYS**). Both clauses carry equal grammatical rank (*Suresh studied hard, **and** he passed the exam.*).
 3. **Complex Sentence (கலவை வாக்கியம்):** **1 Independent Clause + 1 or more Dependent Clauses** (*Although Suresh was ill, he passed the exam.*).
+
+---
+
+### 🌟 Deep Dive: The Master FANBOYS Engine (சமநிலை இணைப்புச் சொற்கள்)
+
+```text
+  F ➔ For       (ஏனெனில் — acts like 'because')
+  A ➔ And       (மற்றும் — adds information)
+  N ➔ Nor       (இதுவும் இல்லை — neither of the two)
+  B ➔ But       (ஆனால் — shows contrast)
+  O ➔ Or        (அல்லது — shows choice)
+  Y ➔ Yet       (இருந்தாலும் — shows unexpected contrast)
+  S ➔ So        (எனவே — shows result/consequence)
+```
+
+#### 🔥 The SSC CGL Tier-II Golden Punctuation Rule for FANBOYS
+Whenever you connect **two independent clauses** using a FANBOYS word, a **comma (`,`) MUST come before the FANBOYS word**:
+
+$$\mathbf{Independent\ Clause}\ ,+\ \mathbf{FANBOYS}\ +\ \mathbf{Independent\ Clause}$$
+
+#### Real Exam Examples Breakdown:
+
+| Letter | Conjunction | Sentence with 2 Independent Clauses | Notice Both Sides Stand Alone 100%! |
+|:---:|:---:|---|---|
+| **F** | **For** | *He drank water**, for** he was thirsty.* | 1. He drank water. <br>2. He was thirsty. |
+| **A** | **And** | *Ravi solved the puzzle**, and** Priya wrote the report.* | 1. Ravi solved the puzzle. <br>2. Priya wrote the report. |
+| **N** | **Nor** | *He does not smoke**, nor** does he drink.* *(⚠️ Triggers Inversion!)* | 1. He does not smoke. <br>2. He does not drink. |
+| **B** | **But** | *The train arrived on time**, but** the passengers were delayed.* | 1. The train arrived on time. <br>2. The passengers were delayed. |
+| **O** | **Or** | *You must study hard**, or** you will fail the test.* | 1. You must study hard. <br>2. You will fail the test. |
+| **Y** | **Yet** | *He is very wealthy**, yet** he lives a simple life.* | 1. He is very wealthy. <br>2. He lives a simple life. |
+| **S** | **So** | *It started raining**, so** we stayed inside.* | 1. It started raining. <br>2. We stayed inside. |
+
+---
+
+### 👑 The "Bridge between Two Kings" Analogy
+
+```text
+          COORDINATING CONJUNCTION (FANBOYS)
+          [For, And, Nor, But, Or, Yet, So]
+                          │
+     ┌────────────────────┴────────────────────┐
+     ▼                                         ▼
+[ KING 1 (Indep.) ]                       [ KING 2 (Indep.) ]
+"The train arrived"                       "We were delayed"
+        \                                       /
+         \________ [ BRIDGE: "but" ] __________/
+```
+
+* Words in **FANBOYS** act like a **bridge between two equal Kings**.
+* Neither King becomes a servant! Both sides **remain Independent Clauses**.
+* But subordinating conjunctions (`Because`, `Although`, `If`, `When`, `Since`) act like handcuffs—they turn a King into a **Dependent Servant Clause**.
+
+---
+
+### 🧪 The "Stand-Alone" Isolation Test (தனித்து நிற்கும் பரிசோதனை)
+
+> [!TIP]
+> **Why is *"The passengers were delayed"* an Independent Clause (not Dependent)?**  
+> Students often mistake *contextual connection* for grammatical dependence. Always apply the Isolation Test:
+
+Remove the connecting word (**`but`**) and examine each part separately:
+
+| Part | Isolated Sentence | Has S + V? | Complete Thought? | Verdict |
+|:---:|---|:---:|:---:|:---:|
+| **Part 1** | *"The train arrived on time."* | **S:** The train <br>**V:** arrived | ✅ YES (ரயில் சரியான நேரத்தில் வந்தது) | **Independent** |
+| **Part 2** | *"The passengers were delayed."* | **S:** The passengers <br>**V:** were delayed | ✅ **YES** (பயணிகள் தாமதிக்கப்பட்டார்கள்) | **Independent** |
+
+Now compare with a **true Dependent Clause**:
+
+| Sentence | Can it stand alone? | Type of Clause |
+|---|:---:|:---:|
+| *"The passengers were delayed."* | ✅ **YES** (முழு அர்த்தம் தருகிறது) | **Independent Clause** |
+| *"Because the passengers were delayed..."* | ❌ **NO** (பயணிகள் தாமதிக்கப்பட்டதால்... அப்புறம் என்ன? Incomplete!) | **Dependent Clause** |
+| *"Although the passengers were delayed..."* | ❌ **NO** (இருந்தாலும்... Incomplete!) | **Dependent Clause** |
+| *"When the passengers were delayed..."* | ❌ **NO** (தாமதிக்கப்பட்டபோது... Incomplete!) | **Dependent Clause** |
+
+> [!IMPORTANT]
+> **Golden Rule of Thumb:**  
+> - $\mathbf{Clause} + \mathbf{FANBOYS} + \mathbf{Clause} \longrightarrow$ **Both are Independent Clauses.**  
+> - $\mathbf{Clause\ starting\ with\ Because/Although/If/When/Since} \longrightarrow$ **Dependent Clause.**
 
 ---
 
