@@ -8,14 +8,65 @@ Sunday GA hour: 15 minutes recall + 25 minutes for 30 questions + 15 minutes cor
 
 Learn meanings, timelines and maps before factual lists. The science headings below expand the broad school-level science scope into study topics; they are not an official chapter-wise weightage list. Current affairs continue throughout the plan. Date changeable facts and check them when revising. G12 delegates to the computer checklist.
 
+## Four pillars — necessary foundations for answering questions
+
+These are core learning requirements, not optional extras. Build them alongside the scheduled chapters. Learn an unfamiliar term before memorising facts about it, then check what you can recall independently. You do not need to finish all GK before attempting easy questions, and no fact list guarantees every answer.
+
+| Pillar | What you need to know or demonstrate |
+|---|---|
+| Basic terms and concepts | Explain the meaning of terms such as constitution, inflation, latitude, cell and deficiency in simple words. Understand the relevant process or principle. |
+| Core factual knowledge | Recall names, places, dates, events, organisations, scientific facts and their relationships accurately. |
+| Context and connections | Locate facts on maps/timelines, compare similar terms and connect causes, events and outcomes. Link current affairs to the relevant static chapter. |
+| Active recall + PYQs/tests | Retrieve answers without notes, attempt easy questions and relevant PYQs, then timed quizzes. Review wrong, skipped, slow and guessed answers. |
+
+**Inside the existing routine:** use workday audio for meanings and chapter content. In Sunday's 15-minute recall slot, explain what you remember or recreate a short list, timeline or labelled diagram before opening notes. Use the existing quiz and correction slots to check it. Rotate these activities across weeks; do not add a new daily quota or another weekend block. Listening familiarity alone is not recall evidence.
+
+**One factual record in your existing notes:** term/question → meaning or answer → distinguishing detail or connection → source/page → date/year where relevant. For confusing facts, use a small comparison table; for locations/events, use a map or timeline. Add to the main chapter's notes rather than duplicating the same fact in several lists.
+
+Use the course/book for learning and PYQs for application. Check disputed or changeable facts against a suitable textbook or authoritative source, such as the responsible institution's official publication. Keep an old PYQ's exam-year answer distinct from today's answer when facts have changed. Revision covers all four pillars through the existing older-topic quiz rotation and 7/21-day reviews; use fresh short recall questions if there were no errors.
+
+### Required foundations for each chapter group
+
+| Chapter | Knowledge to build before harder questions |
+|---|---|
+| G01/G02: history | GF1 chronology, centuries and BCE/CE; historical terms, relevant map locations and the sequence of major events |
+| G03: art and culture | Names and meanings of art forms, regions, periods, traditions and features that distinguish similar forms |
+| G04: polity | Constitution, law, rights and citizenship; Union/state/local government, institutions and their functions |
+| G05–G07: geography | Directions, map symbols, latitude/longitude, physical features and basic weather/climate processes |
+| G08: economics | Money, prices, income, production, sectors and markets; meanings of economic indicators and basic percentage comparisons |
+| G09: physics | Physical quantities, units, measurement, basic calculations and diagrams; the meaning of each principle before its applications |
+| G10: chemistry | Matter, elements/compounds/mixtures, atoms/molecules, symbols and simple reactions before detailed classifications |
+| G11: biology/environment/agriculture | Cells, tissues, organs and functions; nutrients, disease terms, classification, food chains and crop basics |
+| G12: computers | CF1 terms and the linked computer checklist; keep its existing practical checks and single progress record |
+| G13/G14: discoveries and technology | Scientific fields, instrument functions and discovery/invention distinctions; purpose of the named mission, technology or institution |
+| G15/G16: awards and books | Award categories, fields and relevant years; distinguish book titles, authors, languages and literary forms |
+| G17: days and years | Calendar terms, dates and the distinction between a recurring observance and its year-specific theme |
+| G18: organisations | Full names, purposes, headquarters and national/international roles; date-check current officeholders |
+| G19: sports | Game terminology, equipment, rules and tournament/trophy distinctions; attach edition/year to winners and records |
+| G20/G21: current affairs | What happened, who/where/when, the institution involved and its connection to static GK; distinguish an announcement from implementation |
+| G22: miscellaneous | Meaning and context of abbreviations, people and remaining course/PYQ facts; place each fact in an existing category where possible |
+
+This table guides the existing GF1/GF2 and chapter work. It adds no chapters or separate completion records. Learn the needed basics as each topic begins; do not turn the prerequisites into another course.
+
+### Error labels — repair the specific gap
+
+| Label | What went wrong | Repair |
+|---|---|---|
+| Concept gap | I did not understand the term, process or principle. | Revisit a short explanation and explain it with a simple example. |
+| Fact gap | I did not know or could not recall the required fact. | Verify it, add a short question-answer note and recall it without looking. |
+| Confusion between facts | I mixed up similar names, dates, functions or categories. | Compare the items side by side, identify the distinguishing detail and retest both. |
+| Execution error | I misread, overlooked not/incorrect, rushed, ran out of time or guessed despite knowing the material. | Record the specific cause and retry; use short timed practice when needed. |
+
+Use the existing error notebook. Label the underlying gap behind a guess; a correct guess is not mastery. If the source is wrong or outdated, verify and correct the note before retesting. Repair within existing recall/correction time and keep the other subjects moving.
+
 ## Common study rule — use for every topic
 
 1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
 2. Recognise the topic in a question, sentence or diagram and distinguish its main types.
-3. Learn the relevant rules, formulas and exceptions. Keep short notes: meaning, method, one example and a mistake to avoid.
+3. Learn the relevant facts, concepts and distinctions; include formulas where the topic needs them. Keep short notes: meaning, key fact or process, one connection and a confusion to avoid.
 4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
 5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
-6. Log wrong, skipped and slow questions. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
+6. Log wrong, skipped, slow and guessed questions with the error labels above. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
 
 **Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
 
