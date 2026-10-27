@@ -45,6 +45,13 @@
   </div>
   <dialog id="connect-dialog"><form id="connect-form"><button type="button" class="dialog-close icon-button" aria-label="Close connection dialog">×</button><div class="eyebrow">YOUR REPOSITORY, YOUR PROGRESS</div><h2>Connect GitHub</h2><p>Save completed checklist items to <strong>thiyo-de / Prep</strong>. Reading and PDF downloads work without connecting.</p><label for="token">Fine-grained access token</label><input type="password" id="token" autocomplete="off" spellcheck="false" placeholder="github_pat_…" required /><p class="hint">Choose only the <strong>Prep</strong> repository and <strong>Contents: read and write</strong>. The token stays in page memory and is cleared on reload or disconnect. Never put it in a Markdown file.</p><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">Create a token on GitHub ↗</a><p id="auth-error" role="alert"></p><button class="button primary" id="auth-submit">Connect securely</button></form></dialog>
   <dialog id="confirm-dialog"><h2 id="confirm-title">Discard draft?</h2><p id="confirm-copy"></p><div class="dialog-actions"><button id="confirm-cancel" class="button secondary">Cancel</button><button id="confirm-ok" class="button primary">Discard & reload</button></div></dialog>
+  <div id="global-loader" class="global-loader active" aria-live="polite" aria-busy="true">
+    <div class="global-loader-card">
+      <div class="spinner" aria-hidden="true"></div>
+      <p class="global-loader-title" id="loader-title">Opening your study document…</p>
+      <span class="global-loader-sub" id="loader-sub">Fetching live syllabus from GitHub</span>
+    </div>
+  </div>
   <noscript>This reader needs JavaScript. Your original Markdown documents are still available on GitHub.</noscript>
   <script type="module" src="/src/app.js"></script>
 </body>

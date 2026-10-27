@@ -272,11 +272,26 @@ function showDamagedDraft(raw) {
   $('recovery').hidden = false;
   notice('Your stored draft could not be read. Download the original recovery data before discarding it. Checklist edits are locked to protect that data.', true);
 }
+function showLoader(title = 'Opening your study document…', sub = 'Fetching live syllabus from GitHub') {
+  const el = $('global-loader');
+  if (!el) return;
+  const t = $('loader-title'), s = $('loader-sub');
+  if (t && title) t.textContent = title;
+  if (s && sub) s.textContent = sub;
+  el.setAttribute('aria-busy', 'true');
+  el.classList.add('active');
+}
+function hideLoader() {
+  const el = $('global-loader');
+  if (!el) return;
+  el.setAttribute('aria-busy', 'false');
+  el.classList.remove('active');
+}
 async function loadDocument(id, { discard = false } = {}) {
   if (busy) return;
   const version = ++loadVersion;
-  const switching = Boolean(base) && !$('content').querySelector('.loading');
   current = documentById(id); base = null; text = ''; conflict = false; offline = false; damagedDraft = null;
+  showLoader(`Opening ${current.title}…`, 'Fetching live syllabus from GitHub');
   $('recovery').hidden = true; $('progress').hidden = true; $('percentage').textContent = ''; $('metric').textContent = 'Loading…';
   const doc = current;
   $('title').textContent = current.title; $('subtitle').textContent = current.subtitle;
@@ -286,20 +301,8 @@ async function loadDocument(id, { discard = false } = {}) {
   $('search').value = ''; $('remaining').checked = false; $('conflict').hidden = true;
   $('save').disabled = true; $('pdf').disabled = true; $('export').disabled = true;
   $('metric').textContent = 'Loading…'; $('percentage').textContent = ''; $('progress').value = 0;
-  $('save-status').textContent = 'Loading document…';
-  if (switching) {
-    let overlay = $('content').querySelector('.paper-overlay');
-    if (!overlay) {
-      overlay = document.createElement('div');
-      overlay.className = 'paper-overlay';
-      overlay.innerHTML = '<div class="paper-overlay-box"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Loading document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
-      $('content').append(overlay);
-    }
-  } else {
-    $('content').innerHTML = '<div class="loading"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Opening your study document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
-  }
+  $('save-status').textContent = 'Loading document…'; $('content').innerHTML = '<div class="loading"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Opening your study document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
   $('outline').replaceChildren(); notice();
-  window.scrollTo({ top: 0, behavior: 'instant' });
   document.querySelectorAll('[data-nav]').forEach(a => {
     const isCurrent = a.dataset.nav === current.id;
     a.classList.toggle('active', isCurrent);
@@ -339,6 +342,7 @@ async function loadDocument(id, { discard = false } = {}) {
     void $('content').offsetWidth;
     $('content').classList.add('fade-in');
     $('footer-mode').textContent = local ? 'Local preview · source files on this computer' : 'Live source · thiyo-de / Prep';
+    hideLoader();
   } catch (error) {
     if (version !== loadVersion) return;
     // A failed source request must never remove the only local copy.
@@ -350,11 +354,13 @@ async function loadDocument(id, { discard = false } = {}) {
         render(); updateNavDrafts();
         $('footer-mode').textContent = 'Local draft · source could not be checked';
         notice('Source unavailable. Your local draft is open; you can keep studying and export Markdown or PDF. Use Check connection when online. Saving stays blocked until the source is checked.', true);
+        hideLoader();
         return;
       } catch { showDamagedDraft(stored); }
     }
     $('content').innerHTML = '<div class="empty"><h2>Couldn’t open this document</h2><p>Use Refresh to try again, or open View source above. Any saved local draft remains on this device.</p></div>';
     $('save-status').textContent = 'Document unavailable'; if (damagedDraft === null) notice(error.message, true);
+    hideLoader();
   }
 }
 function download(blob, name) {
