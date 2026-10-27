@@ -69,18 +69,18 @@ Record these labels in the existing error notebook. Label the underlying gap beh
 
 ### Words and sentences
 
-- [ ] Letters, vowels and consonants, if needed
-- [ ] Words, phrases, clauses and complete sentences: basic distinction
-- [ ] Subject, predicate, verb and object in simple sentences
-- [ ] Statements, questions, commands and exclamations
-- [ ] Capital letters and basic punctuation
+- [x] Letters, vowels and consonants, if needed
+- [x] Words, phrases, clauses and complete sentences: basic distinction
+- [x] Subject, predicate, verb and object in simple sentences
+- [x] Statements, questions, commands and exclamations
+- [x] Capital letters and basic punctuation
 
 ### Sentence understanding — begin with easy text
 
-- [ ] Who/what the sentence is about, the action/state and basic time clues
-- [ ] Positive/negative meaning and question instructions: correct, incorrect, except and most appropriate
-- [ ] Simple pronoun references and links showing addition, contrast, reason and result
-- [ ] Restating a simple sentence in your own words without changing its meaning
+- [x] Who/what the sentence is about, the action/state and basic time clues
+- [x] Positive/negative meaning and question instructions: correct, incorrect, except and most appropriate
+- [x] Simple pronoun references and links showing addition, contrast, reason and result
+- [x] Restating a simple sentence in your own words without changing its meaning
 
 Apply these skills in short reading throughout preparation. Detailed connector/pronoun rules remain in EF2; paragraph-level exam applications remain in E11–E13.
 
