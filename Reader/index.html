@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="no-referrer" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://api.fontshare.com https://unpkg.com https://cdn.jsdelivr.net; img-src 'self' data: blob:; font-src 'self' data: https://cdn.fontshare.com https://unpkg.com https://cdn.jsdelivr.net; connect-src 'self' https://api.github.com ws://127.0.0.1:* ws://localhost:*; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src blob:;" />
+  <meta name="description" content="A quiet place to follow your SSC and RRB study plan. Read, practise, and track your progress." />
+  <title>Prep / Study reader</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+  <link rel="preconnect" href="https://cdn.fontshare.com" crossorigin />
+  <link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,600,700,900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/regular/style.css" />
+</head>
+<body>
+  <a class="skip" href="#content">Skip to document</a>
+  <div class="shell">
+    <aside class="sidebar" id="sidebar" aria-label="Study navigation">
+      <div class="sidebar-top">
+        <div class="sidebar-header-row">
+          <a class="brand" href="#plan"><span class="brand-symbol">p<span>·</span></span><span>prep<span class="brand-caption">YOUR DAILY PRACTICE</span></span></a>
+          <button id="sidebar-collapse" class="icon-button sidebar-toggle" aria-label="Collapse sidebar" title="Collapse sidebar (Ctrl+B or [)"></button>
+        </div>
+        <div class="season"><span class="status-dot"></span> THE 2027 CHAPTER <small>SSC CGL + RRB NTPC</small></div>
+      </div>
+      <nav id="navigation"></nav>
+      <div class="sidebar-bottom"><p>Small steps.<br><strong>Real progress.</strong></p><button id="connect" class="connect-button" type="button"></button><span id="connection-note">Read freely. Connect to save.</span></div>
+    </aside>
+    <button class="overlay" id="overlay" aria-label="Close navigation" hidden></button>
+    <main id="main">
+      <header class="topbar"><div class="crumb"><button class="icon-button mobile-only" id="menu" aria-label="Open navigation" aria-expanded="false"></button><button class="icon-button desktop-sidebar-toggle" id="sidebar-expand" aria-label="Expand sidebar" title="Expand sidebar (Ctrl+B or [)"></button><span>STUDY SPACE</span><span class="crumb-divider">/</span><span id="breadcrumb">Master plan</span></div><div class="top-actions"><button class="icon-button" id="focus" title="Focus mode" aria-label="Toggle focus mode" aria-pressed="false"></button><button class="icon-button" id="theme" title="Change theme" aria-label="Toggle dark theme"></button></div></header>
+      <div class="workspace">
+        <section class="hero"><div><div class="eyebrow" id="eyebrow">YOUR ROADMAP</div><h1 id="title">The study plan</h1><p id="subtitle">One plan. A little progress, every day.</p></div><div class="hero-marker" aria-hidden="true"><span>20</span><span>27<span class="marker-dot">.</span></span></div></section>
+        <section class="summary" aria-label="Document progress"><div><span class="metric-label" id="metric-label">PREPARATION WINDOW</span><strong id="metric">Nov ’26 — May ’27</strong><span id="metric-detail">Follow the plan. Keep showing up.</span></div><div class="progress-area"><div class="progress-caption"><span id="progress-label">Your study companion</span><span id="percentage"></span></div><progress id="progress" value="0" max="100" aria-label="Checklist completion"></progress><span class="muted" id="progress-note">The source stays in your repository.</span></div></section>
+        <section class="toolbar" aria-label="Reading tools"><div class="search-wrap"><span id="search-icon"></span><input id="search" type="search" placeholder="Find a chapter or topic…" aria-label="Find a chapter or topic" /><kbd>/</kbd></div><div class="tools"><label class="filter"><input type="checkbox" id="remaining" /> Unfinished only</label><button id="pdf" class="button secondary" disabled></button><button id="save" class="button primary" disabled></button></div></section>
+        <div class="document-meta"><span id="save-status" role="status">Loading document…</span><div><button id="refresh" class="text-button">Check connection / reload</button><button id="export" class="text-button" disabled>Export Markdown</button><a id="source" target="_blank" rel="noopener noreferrer">View source ↗</a></div></div>
+        <section id="notice" class="notice" hidden role="status"></section>
+        <section id="recovery" class="conflict" hidden><strong>Stored draft needs recovery</strong><p>Your original data is preserved. Download it before discarding. Editing is locked until this is resolved.</p><div><button id="recovery-export" class="button secondary">Download recovery data</button><button id="recovery-discard" class="button secondary">Discard draft &amp; load latest</button></div></section>
+        <section id="conflict" class="conflict" hidden><strong>Your draft needs review</strong><p>The source has changed since this draft was started. Export your draft before loading the latest version. Saving is blocked to protect the repository.</p><div><button id="conflict-export" class="button secondary">Export my draft</button><button id="discard" class="button secondary">Discard draft & load latest</button></div></section>
+        <div class="reading-layout"><article class="paper" id="content" tabindex="-1" aria-label="Study document"><div class="loading">Opening your study document…</div></article><aside class="outline"><span class="eyebrow">ON THIS PAGE</span><nav id="outline" aria-label="Document sections"></nav><div class="outline-note">Learn it.<br>Try it unaided.<br>Then tick it.</div></aside></div>
+        <footer class="footer"><span>Built around your practice.</span><span id="footer-mode">Markdown → your study space</span></footer>
+      </div>
+      <button id="back-to-top" class="icon-button back-to-top" aria-label="Back to top" title="Back to top" hidden></button>
+    </main>
+  </div>
+  <dialog id="connect-dialog"><form id="connect-form"><button type="button" class="dialog-close icon-button" aria-label="Close connection dialog">×</button><div class="eyebrow">YOUR REPOSITORY, YOUR PROGRESS</div><h2>Connect GitHub</h2><p>Save completed checklist items to <strong>thiyo-de / Prep</strong>. Reading and PDF downloads work without connecting.</p><label for="token">Fine-grained access token</label><input type="password" id="token" autocomplete="off" spellcheck="false" placeholder="github_pat_…" required /><p class="hint">Choose only the <strong>Prep</strong> repository and <strong>Contents: read and write</strong>. The token stays in page memory and is cleared on reload or disconnect. Never put it in a Markdown file.</p><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">Create a token on GitHub ↗</a><p id="auth-error" role="alert"></p><button class="button primary" id="auth-submit">Connect securely</button></form></dialog>
+  <dialog id="confirm-dialog"><h2 id="confirm-title">Discard draft?</h2><p id="confirm-copy"></p><div class="dialog-actions"><button id="confirm-cancel" class="button secondary">Cancel</button><button id="confirm-ok" class="button primary">Discard & reload</button></div></dialog>
+  <noscript>This reader needs JavaScript. Your original Markdown documents are still available on GitHub.</noscript>
+  <script type="module" src="/src/app.js"></script>
+</body>
+</html>
