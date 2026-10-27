@@ -3,3 +3,5 @@ test-results/
 playwright-report/
 .qa/
 src/generated/
+.token
+.env*
