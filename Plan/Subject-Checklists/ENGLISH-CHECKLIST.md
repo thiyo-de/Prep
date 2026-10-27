@@ -86,15 +86,15 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 
 ### Parts of speech — introductory recognition
 
-- [ ] Noun: names of people, places, things and ideas
-- [ ] Pronoun: reference to people and things
-- [ ] Verb: actions, states and being
-- [ ] Adjective: description of a noun or pronoun
-- [ ] Adverb: modification of a verb, adjective or another adverb
-- [ ] Preposition: relationships of place, time and other meanings
-- [ ] Conjunction: connections between words and clauses
-- [ ] Interjection: short expressions of feeling
-- [ ] Word function in context: the same word used in different roles
+- [x] Noun: names of people, places, things and ideas
+- [x] Pronoun: reference to people and things
+- [x] Verb: actions, states and being
+- [x] Adjective: description of a noun or pronoun
+- [x] Adverb: modification of a verb, adjective or another adverb
+- [x] Preposition: relationships of place, time and other meanings
+- [x] Conjunction: connections between words and clauses
+- [x] Interjection: short expressions of feeling
+- [x] Word function in context: the same word used in different roles
 
 **Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
 
