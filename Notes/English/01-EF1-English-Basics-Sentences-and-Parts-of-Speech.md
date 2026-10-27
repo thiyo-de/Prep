@@ -235,7 +235,7 @@ Now compare with a **true Dependent Clause**:
 > [!IMPORTANT]
 > **Golden Rule of Thumb:**  
 > - $\mathbf{Clause} + \mathbf{FANBOYS} + \mathbf{Clause} \longrightarrow$ **Both are Independent Clauses.**  
-> - $\mathbf{Clause\ starting\ with\ Because/Although/If/When/Since} \longrightarrow$ **Dependent Clause.**
+> - **Clause starting with `Because` / `Although` / `If` / `When` / `Since`** $\longrightarrow$ **Dependent Clause.**
 
 ---
 
