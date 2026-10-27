@@ -27,6 +27,7 @@
   --scrollbar-thumb: #cbd5ce;
   --scrollbar-thumb-hover: #98a79d;
   --scrollbar-track: transparent;
+  --panel-overlay: rgba(255, 255, 255, 0.76);
 
   background: var(--bg);
   color: var(--text);
@@ -54,6 +55,7 @@
   --scrollbar-thumb: #283730;
   --scrollbar-thumb-hover: #40554b;
   --scrollbar-track: transparent;
+  --panel-overlay: rgba(23, 33, 29, 0.82);
 }
 
 *, *::before, *::after {
@@ -826,6 +828,7 @@ input[type=checkbox] { accent-color: var(--accent); }
   align-items: start;
 }
 .paper {
+  position: relative;
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 12px;
@@ -835,6 +838,36 @@ input[type=checkbox] { accent-color: var(--accent); }
   min-width: 0;
   line-height: 1.85;
   font-size: 13.5px;
+}
+.paper-overlay {
+  position: absolute;
+  inset: 0;
+  background: var(--panel-overlay);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 10;
+  pointer-events: all;
+  animation: fadeInOverlay .15s ease-out;
+}
+.paper-overlay-box {
+  position: sticky;
+  top: 38vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 16px;
+  padding: 24px;
+}
+@keyframes fadeInOverlay {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 .paper:has(.loading) {
   display: flex;

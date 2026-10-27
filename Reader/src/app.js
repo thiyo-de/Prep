@@ -275,6 +275,7 @@ function showDamagedDraft(raw) {
 async function loadDocument(id, { discard = false } = {}) {
   if (busy) return;
   const version = ++loadVersion;
+  const switching = Boolean(base) && !$('content').querySelector('.loading');
   current = documentById(id); base = null; text = ''; conflict = false; offline = false; damagedDraft = null;
   $('recovery').hidden = true; $('progress').hidden = true; $('percentage').textContent = ''; $('metric').textContent = 'Loading…';
   const doc = current;
@@ -285,8 +286,20 @@ async function loadDocument(id, { discard = false } = {}) {
   $('search').value = ''; $('remaining').checked = false; $('conflict').hidden = true;
   $('save').disabled = true; $('pdf').disabled = true; $('export').disabled = true;
   $('metric').textContent = 'Loading…'; $('percentage').textContent = ''; $('progress').value = 0;
-  $('save-status').textContent = 'Loading document…'; $('content').innerHTML = '<div class="loading"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Opening your study document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
+  $('save-status').textContent = 'Loading document…';
+  if (switching) {
+    let overlay = $('content').querySelector('.paper-overlay');
+    if (!overlay) {
+      overlay = document.createElement('div');
+      overlay.className = 'paper-overlay';
+      overlay.innerHTML = '<div class="paper-overlay-box"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Loading document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
+      $('content').append(overlay);
+    }
+  } else {
+    $('content').innerHTML = '<div class="loading"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Opening your study document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
+  }
   $('outline').replaceChildren(); notice();
+  window.scrollTo({ top: 0, behavior: 'instant' });
   document.querySelectorAll('[data-nav]').forEach(a => {
     const isCurrent = a.dataset.nav === current.id;
     a.classList.toggle('active', isCurrent);

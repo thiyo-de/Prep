@@ -187,3 +187,24 @@ test('invalid tokens never connect and are cleared from the input', async () => 
     assert.ok(!JSON.stringify(w.localStorage).includes('bad-test-token'));
   } finally { close(); }
 });
+
+test('switching document renders frosted overlay spinner over existing content without blank flash', async () => {
+  const { w, $, close } = await setup();
+  try {
+    assert.ok($('content').querySelector('.doc-section'));
+    assert.equal($('content').querySelector('.loading'), null);
+
+    w.location.hash = '#reasoning';
+    w.dispatchEvent(new w.Event('hashchange'));
+
+    const overlay = $('content').querySelector('.paper-overlay');
+    assert.ok(overlay, 'Frosted overlay must be present during document switch');
+    assert.ok(overlay.querySelector('.spinner'), 'Spinner must be present in overlay');
+    assert.match(overlay.querySelector('.loading-title').textContent, /Loading document/);
+    assert.ok($('content').querySelector('.doc-section'), 'Existing content must not be blanked out during transition');
+
+    await waitFor(() => $('save-status').textContent !== 'Loading document…');
+    assert.equal($('content').querySelector('.paper-overlay'), null, 'Overlay must be removed once document is rendered');
+  } finally { close(); }
+});
+
