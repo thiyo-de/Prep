@@ -284,7 +284,8 @@ async function loadDocument(id, { discard = false } = {}) {
   $('source').href = githubUrl(current);
   $('search').value = ''; $('remaining').checked = false; $('conflict').hidden = true;
   $('save').disabled = true; $('pdf').disabled = true; $('export').disabled = true;
-  $('save-status').textContent = 'Loading document…'; $('content').innerHTML = '<div class="loading">Opening your study document…</div>';
+  $('metric').textContent = 'Loading…'; $('percentage').textContent = ''; $('progress').value = 0;
+  $('save-status').textContent = 'Loading document…'; $('content').innerHTML = '<div class="loading"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Opening your study document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
   $('outline').replaceChildren(); notice();
   document.querySelectorAll('[data-nav]').forEach(a => {
     const isCurrent = a.dataset.nav === current.id;
@@ -321,6 +322,9 @@ async function loadDocument(id, { discard = false } = {}) {
       } catch { showDamagedDraft(stored); }
     }
     render(); updateNavDrafts();
+    $('content').classList.remove('fade-in');
+    void $('content').offsetWidth;
+    $('content').classList.add('fade-in');
     $('footer-mode').textContent = local ? 'Local preview · source files on this computer' : 'Live source · thiyo-de / Prep';
   } catch (error) {
     if (version !== loadVersion) return;
