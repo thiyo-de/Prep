@@ -245,6 +245,18 @@ Typing speed is a practice target, not an official qualifying guarantee. CGL 202
 
 ## 6. Test calendar
 
+**Optional mock sources to check**
+
+These are additional sources from your notes about Essanth's interview, separate from Palanivel's resource list. Current free availability, access requirements and test schedules have not been verified; check the official platform before choosing a test. No fixed free-test counts are assumed.
+
+| Platform | What to check |
+|---|---|
+| SelectionWay / Gagan Pratap's Test RanKING | Currently available free SSC mocks matching your exam and stage. |
+| E1 Coaching | Available online tests and video mock sessions. Attempt questions independently before watching solutions; a walkthrough video alone is not a timed mock. |
+| Rojgar with Ankit (RWA) | Currently available free or weekly tests for your exam, including any login requirements. |
+
+**Start with one suitable mock platform per exam.** Use these alternatives only to fill a specific practice gap. They replace a test within the schedule below; they do not add sessions or study hours. Keep time for analysis and weak-area repair. Check the test's question count, marking and timing against the applicable official exam notice.
+
 **CGL Tier-I every two weeks from November 1:** Nov 1/15/29; Dec 13/27; Jan 10/24; Feb 7/21; Mar 7/21; Apr 4/18; May 2/16/30. The March 7 and April 4 mocks move **one day earlier** to avoid colliding with full Tier-II tests. No second copy of a listed mock is required.
 
 On these Sundays, use the 5-hour test block for the Tier-I mock, analysis and sectional repairs. On other Nov–Jan Sundays, rotate Maths, Reasoning, English/GA tests; use Dec 6 and Jan 17 for NTPC CBT-1 instead. Include harder questions only from taught chapters.
