@@ -171,6 +171,10 @@ Track chapter status in your error notebook and checklist. Revisit frequency dep
 
 **Video = learn. PYQ book = practise. Test = check progress.** Use the course and books you already have; finish the current topic before switching resources.
 
+**[Study resources and how to use them](STUDY-RESOURCES.md)** — your existing materials, resources reported from Palanivel's interview, and the rule for handling a real knowledge gap.
+
+**Tamil-medium learning rule:** use Tamil explanations to understand concepts, while gradually learning the English terms and question wording. Record unfamiliar English terms with a simple Tamil meaning and one example inside the existing notes/revision time.
+
 | Stage | What to do | Check before moving forward |
 |---|---|---|
 | 1. Understand | Watch a short lesson. Pause and attempt examples before the teacher solves them. | Explain the method in simple words without replaying it. |
@@ -328,6 +332,14 @@ If a topic test is below 70%, use the next two practice blocks for repair and re
 Bad day: 20 minutes Maths, 15 English, 15 GA, 10 typing. Log actual work; it is a recovery day, not a completed 5-hour day.
 
 ### When you feel demotivated
+
+**My reason to keep going**
+
+> I am a Tamil-medium student, and Palanivel's journey inspires me. My background is my starting point. I already have courses, PYQ books and a study plan. My responsibility now is to learn, practise, correct mistakes and return consistently. When I find a gap, I will solve that specific problem instead of restarting my preparation.
+
+Use his consistency, PYQ practice and error analysis as inspiration. Follow your own sustainable routine; his reported late-night/four-hour-sleep schedule is not a requirement to copy.
+
+**Before searching for another resource, name the exact topic or question your current material cannot explain.** If you cannot name a gap, return to the next unfinished task. If you can, resolve that gap and continue within the existing block. Review the plan only under its existing official-change or persistent, logged-workload rules.
 
 | What you feel | Next small action |
 |---|---|

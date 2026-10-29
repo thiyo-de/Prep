@@ -176,16 +176,16 @@ function updateStatus(saved = '') {
     $('percentage').textContent = `${Math.round(done / tasks.length * 100)}%`;
     $('progress').value = (done / tasks.length) * 100;
     $('progress-note').textContent = 'Coverage is a first step. Keep testing and revising.';
-  } else if (current?.group?.endsWith('notes') || current?.group === 'Study notes') {
+  } else if (current?.group?.endsWith('notes') || current?.group === 'Study notes' || current?.id === 'resources') {
     const words = text ? text.trim().split(/\s+/).filter(Boolean).length : 0;
     const readMinutes = Math.max(1, Math.ceil(words / 200));
-    $('metric-label').textContent = 'COMPREHENSIVE NOTES';
+    $('metric-label').textContent = current.id === 'resources' ? 'STUDY RESOURCES' : 'COMPREHENSIVE NOTES';
     $('metric').textContent = `~${readMinutes} min read`;
-    $('metric-detail').textContent = `${words.toLocaleString()} words · Active revision resource`;
+    $('metric-detail').textContent = `${words.toLocaleString()} words · ${current.id === 'resources' ? 'Your resource guide' : 'Active revision resource'}`;
     $('progress-label').textContent = 'Self-study reference';
     $('percentage').textContent = '';
     $('progress').value = 0;
-    $('progress-note').textContent = 'Revise in 4 layers. Test yourself without looking.';
+    $('progress-note').textContent = current.id === 'resources' ? 'Learn, practise, correct and continue.' : 'Revise in 4 layers. Test yourself without looking.';
   } else if (current?.id === 'posts') {
     $('metric-label').textContent = 'CAREER ROADMAP';
     $('metric').textContent = 'SSC & RRB Pay';

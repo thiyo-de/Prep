@@ -2,6 +2,8 @@
 
 [Master study plan](../FINAL-PLAN-NOV2026-MAY2027.md)
 
+[Study resources and how to use them](../STUDY-RESOURCES.md)
+
 The plan tells you **when** to study. These checklists tell you **what** to finish. Your error notebook records the questions, scores and review dates. No new timetable or study hours are added.
 
 | Subject | Open checklist |

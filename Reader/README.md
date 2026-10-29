@@ -2,6 +2,8 @@
 
 A browser reader for the existing study plan, checklists, notes and posts guide. Markdown remains the source; your syllabus and timetable are unchanged.
 
+Open **Reference → Study resources** (or `#resources`) for the [resource guide](../Plan/STUDY-RESOURCES.md). Links from the master plan and checklist index open it inside Reader. The Tamil-medium reminder remains in the master plan's motivation section. The guide preserves Testbook's **confirmation pending** label.
+
 ## Run locally
 
 Requires Node.js 22 or newer. From the repository root:

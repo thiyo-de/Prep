@@ -13,6 +13,7 @@ export const documents = [
   { id: 'notes-english-ef3', title: 'English: Verbs, tenses & agreement (EF3)', label: 'EF3: Verbs & tenses', icon: 'pencil-line', group: 'Study notes', subgroup: 'English Grammar', path: 'Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md', subtitle: 'Finite verbs, tense consistency, and subject-verb agreement.' },
   { id: 'notes-biology-01', title: 'Biology: Food & nutrition', label: 'Biology: Nutrition', icon: 'dna', group: 'Study notes', subgroup: 'Biology', path: 'Notes/General Awareness/Biology/01-Food-and-Nutrition.md', subtitle: 'Components of food, balanced diet, deficiencies, and tests.' },
   { id: 'notes-biology-02', title: 'Biology: Fibre to fabric', label: 'Biology: Fibre to fabric', icon: 'plant', group: 'Study notes', subgroup: 'Biology', path: 'Notes/General Awareness/Biology/02-Fibre-to-Fabric.md', subtitle: 'Plant and animal fibres, silk and wool processing cycles.' },
+  { id: 'resources', title: 'Study resources', icon: 'book', group: 'Reference', path: 'Plan/STUDY-RESOURCES.md', subtitle: 'Use what you have. Resolve the gap. Keep studying.' },
   { id: 'posts', title: 'Posts & salaries', icon: 'briefcase', group: 'Reference', path: 'Posts/POSTS-AND-SALARY-GUIDE.md', subtitle: 'Keep your target in sight.' },
   { id: 'guide', title: 'How to use the checklists', label: 'Completion rules', icon: 'help', group: 'Reference', path: 'Plan/Subject-Checklists/README.md', subtitle: 'A tick records learning. Evidence shows readiness.' }
 ];
