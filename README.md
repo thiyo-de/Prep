@@ -73,7 +73,7 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 - [English: Grammar Basics: Nouns, Pronouns & Modifiers (EF2)](Notes/English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md)
 - [English: Grammar Basics: Verbs, Tenses & Agreement (EF3)](Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md)
 - [Biology notes](Notes/General%20Awareness/Biology/)
-- Biology source PDFs are currently unavailable locally; the notes retain their original source filenames and page references.
+- [Biology: Food & Nutrition - English + Tamil](Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md)
 - [Notes template](Notes/Templates/Notes-Template-Prompt.md)
 
 Keep one plan, follow the current week's topics, and use actual test results to guide revision.
