@@ -2,6 +2,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { basename, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { noteSubjects } from '../src/note-tree.js';
 
 // Keep existing routes and draft keys stable while discovering files from disk.
 const knownNotes = {
@@ -17,31 +18,39 @@ export async function readNoteDocuments(notesRoot) {
   const paths = [];
   async function walk(relative = '') {
     for (const entry of await readdir(join(notesRoot, relative), { withFileTypes: true })) {
-      if (entry.name.startsWith('.') || entry.name.toLowerCase() === 'templates') continue;
+      if (entry.name.startsWith('.') || ['templates', 'assets'].includes(entry.name.toLowerCase())) continue;
       const path = relative ? `${relative}/${entry.name}` : entry.name;
       if (entry.isDirectory()) await walk(path);
       else if (entry.isFile() && /\.md$/i.test(entry.name) && !/^readme\.md$/i.test(entry.name)) paths.push(path);
     }
   }
   await walk();
-  const rank = path => path.startsWith('Reasoning/') ? 0 : path.startsWith('English/') ? 1 : 2;
+  const rank = path => {
+    const index = noteSubjects.findIndex(subject => path.startsWith(`${subject.name}/`));
+    return index < 0 ? noteSubjects.length : index;
+  };
   paths.sort((a, b) => rank(a) - rank(b) || a.localeCompare(b, 'en', { numeric: true }));
   return Promise.all(paths.map(async path => {
     const parts = path.split('/');
-    const folder = parts.slice(0, -1);
-    if (folder[0] === 'General Awareness' && folder.length > 1) folder.shift();
-    const subgroup = folder.join(' / ') || 'General';
+    const folders = parts.slice(0, -1);
+    const subject = noteSubjects.some(item => item.name === folders[0]) ? folders.shift() : 'General Awareness';
     const source = await readFile(join(notesRoot, path), 'utf8');
     const title = source.replace(/^\uFEFF/, '').match(/^#\s+(.+?)\s*#*\s*$/m)?.[1]
       || basename(path, '.md').replace(/^\d+[-_ ]*/, '').replace(/[-_]/g, ' ');
+    const metadata = knownNotes[path];
+    const fullTitle = metadata?.title || title;
+    const prefix = `${folders.at(-1) || subject}:`;
+    const noteLabel = fullTitle.startsWith(prefix) ? fullTitle.slice(prefix.length).trim() : fullTitle;
     return {
       id: `notes-${createHash('sha256').update(path).digest('hex').slice(0, 12)}`,
       title,
-      icon: subgroup === 'Reasoning' ? 'brain' : subgroup === 'Biology' ? 'dna' : 'book-open',
+      icon: subject === 'Reasoning' ? 'brain' : folders.includes('Biology') ? 'dna' : 'book-open',
       subtitle: 'Study notes from your Notes folder.',
-      ...knownNotes[path],
+      ...metadata,
       group: 'Study notes',
-      subgroup: subgroup === 'English' ? 'English Grammar' : subgroup,
+      subject,
+      folders,
+      noteLabel,
       path: `Notes/${path}`
     };
   }));

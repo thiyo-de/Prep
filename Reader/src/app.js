@@ -3,6 +3,7 @@ import { documents, documentById, githubUrl } from '../config.js';
 import { tasksIn, toggleTask, countChanges, onlyTaskChanges, decodeUtf8 } from './core.js';
 import { fetchDocument, saveDocument, validateToken, ConflictError } from './github.js';
 import { renderDocument, sectionsFrom } from './render.js';
+import { buildNoteTree } from './note-tree.js';
 
 const $ = id => document.getElementById(id);
 const defaultToken = () => String.fromCharCode(103,105,116,104,117,98,95,112,97,116,95,49,49,66,84,51,68,66,67,73,48,56,69,48,104,100,71,51,98,68,102,75,103,95,100,99,99,78,121,113,75,122,72,49,83,98,70,79,97,120,86,68,103,105,66,121,88,70,51,102,72,50,57,97,69,82,78,74,54,83,76,73,74,98,99,112,106,90,65,87,89,81,52,70,79,55,53,112,86,73,117,117,54);
@@ -74,14 +75,41 @@ function createNavLink(doc) {
   a.href = `#${doc.id}`;
   a.dataset.nav = doc.id;
   a.innerHTML = `${icon(doc.icon)}<span></span><span class="draft-dot" title="Local draft" aria-label="Local draft"></span>`;
-  a.querySelector('span').textContent = doc.label || doc.title;
+  a.querySelector('span').textContent = doc.noteLabel || doc.label || doc.title;
   return a;
+}
+
+function createNoteFolder(node, isSubject = false) {
+  const details = document.createElement('details');
+  details.className = `nav-subgroup${isSubject ? ' nav-subject' : ' nav-folder'}`;
+  details.dataset.folder = node.name;
+  const summary = document.createElement('summary');
+  summary.className = 'nav-sub-summary';
+  summary.innerHTML = `<div class="nav-summary-left"><i class="ph ph-caret-right nav-caret" aria-hidden="true"></i>${icon(node.icon)}<span class="nav-sub-label"></span></div><span class="nav-sub-count"></span>`;
+  summary.querySelector('.nav-sub-label').textContent = node.name;
+  summary.querySelector('.nav-sub-count').textContent = node.count;
+  details.append(summary);
+  const body = document.createElement('div');
+  body.className = 'nav-sub-body';
+  if (!node.count) {
+    const empty = document.createElement('p');
+    empty.className = 'nav-empty';
+    empty.textContent = 'No notes yet';
+    body.append(empty);
+    summary.querySelector('.nav-sub-count').textContent = 'No notes yet';
+    details.classList.add('nav-empty-subject');
+  }
+  for (const folder of node.folders.values()) body.append(createNoteFolder(folder));
+  for (const doc of node.documents) body.append(createNavLink(doc));
+  details.append(body);
+  return details;
 }
 
 function buildNav() {
   $('navigation').replaceChildren();
   const groups = new Map();
   for (const doc of documents) {
+    if (doc.group === 'Reference' && !groups.has('Study notes')) groups.set('Study notes', []);
     if (!groups.has(doc.group)) groups.set(doc.group, []);
     groups.get(doc.group).push(doc);
   }
@@ -113,41 +141,8 @@ function buildNav() {
     const body = document.createElement('div');
     body.className = 'nav-section-body';
 
-    const hasSubgroups = docs.some(d => d.subgroup);
-    if (hasSubgroups) {
-      const subgroups = new Map();
-      for (const doc of docs) {
-        const sub = doc.subgroup || 'General';
-        if (!subgroups.has(sub)) subgroups.set(sub, []);
-        subgroups.get(sub).push(doc);
-      }
-      for (const [subName, subDocs] of subgroups.entries()) {
-        const subDetails = document.createElement('details');
-        subDetails.className = 'nav-subgroup';
-        subDetails.open = false;
-
-        const subSummary = document.createElement('summary');
-        subSummary.className = 'nav-sub-summary';
-        const subIcon = subDocs[0].icon;
-        subSummary.innerHTML = `
-          <div class="nav-summary-left">
-            <i class="ph ph-caret-right nav-caret" aria-hidden="true"></i>
-            ${icon(subIcon)}
-            <span class="nav-sub-label"></span>
-          </div>
-          <span class="nav-sub-count">${subDocs.length}</span>
-        `;
-        subSummary.querySelector('.nav-sub-label').textContent = subName;
-        subDetails.append(subSummary);
-
-        const subBody = document.createElement('div');
-        subBody.className = 'nav-sub-body';
-        for (const doc of subDocs) {
-          subBody.append(createNavLink(doc));
-        }
-        subDetails.append(subBody);
-        body.append(subDetails);
-      }
+    if (groupName === 'Study notes') {
+      for (const subject of buildNoteTree(docs)) body.append(createNoteFolder(subject, true));
     } else {
       for (const doc of docs) {
         body.append(createNavLink(doc));
@@ -297,7 +292,10 @@ async function loadDocument(id, { discard = false } = {}) {
   $('recovery').hidden = true; $('progress').hidden = true; $('percentage').textContent = ''; $('metric').textContent = 'Loading…';
   const doc = current;
   $('title').textContent = current.title; $('subtitle').textContent = current.subtitle;
-  $('eyebrow').textContent = current.group.toUpperCase(); $('breadcrumb').textContent = current.label || current.title;
+  $('eyebrow').textContent = current.group.toUpperCase();
+  const breadcrumb = current.subject ? [current.subject, ...current.folders, current.noteLabel].join(' → ') : current.label || current.title;
+  $('breadcrumb').textContent = breadcrumb;
+  $('breadcrumb').title = breadcrumb;
   document.title = `${current.title} / Prep`;
   $('source').href = githubUrl(current);
   $('search').value = ''; $('remaining').checked = false; $('conflict').hidden = true;
@@ -305,10 +303,6 @@ async function loadDocument(id, { discard = false } = {}) {
   $('metric').textContent = 'Loading…'; $('percentage').textContent = ''; $('progress').value = 0;
   $('save-status').textContent = 'Loading document…'; $('content').innerHTML = '<div class="loading"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Opening your study document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
   $('outline').replaceChildren(); notice();
-  const activeSubgroup = document.querySelector(`[data-nav="${current.id}"]`)?.closest('.nav-subgroup') || null;
-  document.querySelectorAll('.nav-subgroup').forEach(subgroup => {
-    subgroup.open = subgroup === activeSubgroup;
-  });
   document.querySelectorAll('[data-nav]').forEach(a => {
     const isCurrent = a.dataset.nav === current.id;
     a.classList.toggle('active', isCurrent);

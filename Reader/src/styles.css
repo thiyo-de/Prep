@@ -432,6 +432,14 @@ details[open] > summary .nav-caret {
   padding-left: 8px;
 }
 
+.nav-folder > .nav-sub-summary { padding-left: 8px; }
+.nav-sub-summary .nav-summary-left { min-width: 0; }
+.nav-sub-label { overflow-wrap: anywhere; }
+.nav-sub-count { flex-shrink: 0; margin-left: 4px; }
+.nav-folder > .nav-sub-body { border-left: 1px solid var(--border); margin-left: 12px; }
+.nav-empty { color: var(--muted); font-size: 11px; padding: 4px 12px; }
+
+
 #navigation {
   flex: 1 1 auto;
   min-height: 0;
@@ -558,6 +566,8 @@ details[open] > summary .nav-caret {
 }
 .crumb {
   display: flex;
+  min-width: 0;
+  flex: 1;
   gap: 14px;
   align-items: center;
   font-size: 12px;
@@ -569,10 +579,11 @@ details[open] > summary .nav-caret {
   color: var(--muted);
 }
 .crumb-divider { color: var(--border); }
-#breadcrumb { font-weight: 600; color: var(--ink); }
+#breadcrumb { font-weight: 600; color: var(--ink); min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .top-actions {
   display: flex;
+  flex-shrink: 0;
   gap: 8px;
 }
 .icon-button {

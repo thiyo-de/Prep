@@ -174,33 +174,37 @@ test('reference notes show reading time without invented completion', async () =
   } finally { close(); }
 });
 
-test('subclass dropdowns default to collapsed and sync with the current notes folder', async () => {
-  const { w, close } = await setup({ id: 'plan' });
+test('notes hierarchy follows subjects and folders with collapsed defaults and breadcrumbs', async () => {
+  const { w, $, close } = await setup({ id: 'notes-biology-01' });
   try {
     const groups = [...w.document.querySelectorAll('.nav-subgroup')];
-    assert.ok(groups.length > 0);
-    assert.ok(groups.every(group => !group.open), 'All subgroups should be collapsed on default document');
-
+    const subjects = [...w.document.querySelectorAll('.nav-subject')];
+    assert.deepEqual(subjects.map(group => group.dataset.folder), ['Maths', 'English', 'Reasoning', 'General Awareness']);
+    assert.ok(groups.every(group => !group.open), 'Direct links must not open subject or folder dropdowns');
+    assert.match(subjects[0].textContent, /No notes yet/);
+    const biologyLink = w.document.querySelector('[data-nav="notes-biology-01"]');
+    const biology = biologyLink.closest('details');
+    const ga = biology.closest('.nav-subject');
+    assert.equal(biology.dataset.folder, 'Biology');
+    assert.equal(ga.dataset.folder, 'General Awareness');
+    assert.equal(biologyLink.querySelector('span').textContent, 'Food & nutrition');
+    assert.equal($('breadcrumb').textContent, 'General Awareness → Biology → Food & nutrition');
+    ga.querySelector('summary').click();
+    biology.querySelector('summary').click();
+    assert.equal(ga.open, true);
+    assert.equal(biology.open, true);
     w.location.hash = '#notes-english-ef1';
     await waitFor(() => w.document.querySelector('[data-nav="notes-english-ef1"]').getAttribute('aria-current') === 'page');
-    const english = w.document.querySelector('[data-nav="notes-english-ef1"]').closest('details');
-    assert.equal(english.open, true, 'English Grammar folder should expand for EF1');
-    assert.ok(groups.filter(g => g !== english).every(g => !g.open), 'Non-active subgroups should remain collapsed');
-
-    w.location.hash = '#notes-biology-01';
-    await waitFor(() => w.document.querySelector('[data-nav="notes-biology-01"]').getAttribute('aria-current') === 'page');
-    const biology = w.document.querySelector('[data-nav="notes-biology-01"]').closest('details');
-    assert.equal(biology.open, true, 'Biology folder should expand for biology note');
-    assert.equal(english.open, false, 'English Grammar folder should collapse when switching');
-
+    assert.equal(subjects[1].open, false, 'Navigation must not force closed subjects open');
+    assert.equal(biology.open, true, 'Manual folder state is preserved');
+    assert.equal($('breadcrumb').textContent, 'English → Sentences & parts of speech (EF1)');
     w.location.hash = '#maths';
     await waitFor(() => w.document.querySelector('[data-nav="maths"]').getAttribute('aria-current') === 'page');
-    assert.ok(groups.every(group => !group.open), 'All subgroups should collapse when returning to checklist');
-
-    for (const group of groups) {
+    assert.equal($('breadcrumb').textContent, 'Maths');
+    for (const group of groups.filter(group => !group.classList.contains('nav-empty-subject'))) {
       assert.equal(Number(group.querySelector('.nav-sub-count').textContent), group.querySelectorAll('[data-nav]').length);
     }
-    const notes = english.closest('.nav-section');
+    const notes = ga.closest('.nav-section');
     assert.equal(Number(notes.querySelector('.nav-count').textContent), notes.querySelectorAll('[data-nav]').length);
   } finally { close(); }
 });

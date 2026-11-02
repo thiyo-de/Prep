@@ -74,6 +74,8 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 - [English: Grammar Basics: Verbs, Tenses & Agreement (EF3)](Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md)
 - [Biology notes](Notes/General%20Awareness/Biology/)
 - [Biology: Food & Nutrition - English + Tamil](Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md)
+- [Biology: Fibre to Fabric - English + Tamil](Notes/General%20Awareness/Biology/02-Fibre-to-Fabric.md)
 - [Notes template](Notes/Templates/Notes-Template-Prompt.md)
+- [GA/GK notes template - SSC CGL + RRB NTPC, English + Tamil](Notes/Templates/GA-GK-Template.md)
 
 Keep one plan, follow the current week's topics, and use actual test results to guide revision.
