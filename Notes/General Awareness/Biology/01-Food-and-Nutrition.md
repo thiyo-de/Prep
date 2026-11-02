@@ -12,7 +12,9 @@
 
 Read one section at a time. First understand the English explanation. Use the Tamil explanation to confirm the meaning. Close the notes and explain the idea in your own words. Then try the worked example before reading its solution.
 
-**தமிழில்:** முதலில் கருத்தைப் புரிந்துகொள்ளுங்கள். பிறகு புத்தகத்தை மூடி, உங்கள் சொந்த வார்த்தைகளில் சொல்லிப் பாருங்கள். பெயர்களை மட்டும் மனப்பாடம் செய்ய வேண்டாம்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** முதலில் கருத்தைப் புரிந்துகொள்ளுங்கள். பிறகு புத்தகத்தை மூடி, உங்கள் சொந்த வார்த்தைகளில் சொல்லிப் பாருங்கள். பெயர்களை மட்டும் மனப்பாடம் செய்ய வேண்டாம்.
 
 Learning order: **Food → Sources → Nutrients → Food tests → Vitamins and minerals → Balanced diet → Deficiencies → Revision.**
 
@@ -29,13 +31,17 @@ Start at Stage 1. You do not need to memorise the whole chapter in one sitting. 
 
 **How to read each concept:** meaning → example → explanation → Tamil recap → distinction → practice. **Supplement** means an addition to the PDF; **recognition only** means learn the distinction without memorising a detailed laboratory recipe.
 
-**தமிழில்:** அடிப்படைப் பொருள் → துல்லியமான தகவல் → பயன்பாடு → குறிப்பைப் பார்க்காமல் பயிற்சி. புரியாத பகுதியை மீண்டும் படித்த பிறகே அடுத்த நிலைக்குச் செல்லுங்கள். படித்து முடித்தது மட்டும் தேர்ச்சிக்கான சான்று அல்ல.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** அடிப்படைப் பொருள் → துல்லியமான தகவல் → பயன்பாடு → குறிப்பைப் பார்க்காமல் பயிற்சி. புரியாத பகுதியை மீண்டும் படித்த பிறகே அடுத்த நிலைக்குச் செல்லுங்கள். படித்து முடித்தது மட்டும் தேர்ச்சிக்கான சான்று அல்ல.
 
 ### 🎯 How much should I study for SSC/RRB?
 
 **Start with the foundation, then learn exam connections.** RRB NTPC's CEN 05/2024 specifies General Science and Life Science up to Class 10 CBSE. SSC CGL's GA syllabus includes everyday science and scientific research; its Tier-I GA standard is described as commensurate with graduation. Do not treat SSC science as having a fixed Class 10 ceiling, or assume that a specialist biochemistry course is required. Use the concepts below and traceable questions to guide depth. [RRB NTPC baseline notice](https://rrbcdg.gov.in/uploads/202405/Detailed%20CEN%2005-2024%20NTPC.pdf), [SSC CGL notice, §§13.10–13.11](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2025.pdf)
 
-**தமிழில்:** பள்ளிப் பாடங்கள் அடித்தளம். அதனுடன் தேர்வில் கேட்கப்படும் தொடர்புகளையும் கற்க வேண்டும்: கல்லீரல் → பித்தநீர் → கொழுப்பு உறிஞ்சுதல் → A, D, E, K வைட்டமின்கள். வெறும் பெயர்களை மனப்பாடம் செய்வது மட்டும் போதாது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பள்ளிப் பாடங்கள் அடித்தளம். அதனுடன் தேர்வில் கேட்கப்படும் தொடர்புகளையும் கற்க வேண்டும்: கல்லீரல் → பித்தநீர் → கொழுப்பு உறிஞ்சுதல் → A, D, E, K வைட்டமின்கள். வெறும் பெயர்களை மனப்பாடம் செய்வது மட்டும் போதாது.
 
 | Study priority | Learn and practise | Why it is included |
 |---|---|---|
@@ -106,7 +112,9 @@ Botany and zoology are two major traditional branches. Biology also includes mic
 
 Food supplies substances needed for **energy, growth, repair and normal body functions**.
 
-**தமிழில்:** நடப்பது, வேலை செய்வது, மூச்சுவிடுவது போன்ற செயல்களுக்கு ஆற்றல் தேவை. உடல் வளரவும், சேதமடைந்த திசுக்கள் சரியாகவும், உடல் உறுப்புகள் இயங்கவும் உணவு தேவை.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** நடப்பது, வேலை செய்வது, மூச்சுவிடுவது போன்ற செயல்களுக்கு ஆற்றல் தேவை. உடல் வளரவும், சேதமடைந்த திசுக்கள் சரியாகவும், உடல் உறுப்புகள் இயங்கவும் உணவு தேவை.
 
 ### A simple analogy: the body as a house
 
@@ -127,9 +135,13 @@ This is a memory aid. Each nutrient can have more than one role.
 - **Ingredients:** rice, urad dal, water and salt.
 - **Nutrients:** carbohydrates from rice, protein from urad dal, and other components.
 
-**தமிழில்:** இட்லி என்பது உணவு. அரிசி, உளுந்து போன்றவை அதைத் தயாரிக்கும் பொருட்கள். அவற்றிலுள்ள மாவுச்சத்து, புரதம் போன்றவை ஊட்டச்சத்துகள்.
+<!-- separate learning boxes -->
 
-**Trap:** Rice is a food material; carbohydrate is a nutrient. They are not interchangeable words.
+> **தமிழில்:** இட்லி என்பது உணவு. அரிசி, உளுந்து போன்றவை அதைத் தயாரிக்கும் பொருட்கள். அவற்றிலுள்ள மாவுச்சத்து, புரதம் போன்றவை ஊட்டச்சத்துகள்.
+
+<!-- separate learning boxes -->
+
+> **Trap:** Rice is a food material; carbohydrate is a nutrient. They are not interchangeable words.
 
 ### Added foundation: what happens after eating?
 
@@ -160,7 +172,9 @@ Digestive enzymes help break down food. Most nutrient absorption happens in the 
 | Vegetable curry / காய்கறிக் குழம்பு | Vegetables, spices, vegetable oil: plants; salt and water: non-living sources |
 | Milk payasam / பால் பாயசம் | Milk: animal; rice and cane sugar: plants; added water: non-living source |
 
-**தமிழில்:** ஒரு உணவில் பல மூலங்களிலிருந்து கிடைக்கும் பொருட்கள் இருக்கலாம். பால் பாயசத்தில் பால் விலங்கிலிருந்தும், அரிசி தாவரத்திலிருந்தும் கிடைக்கிறது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** ஒரு உணவில் பல மூலங்களிலிருந்து கிடைக்கும் பொருட்கள் இருக்கலாம். பால் பாயசத்தில் பால் விலங்கிலிருந்தும், அரிசி தாவரத்திலிருந்தும் கிடைக்கிறது.
 
 ### Supplement: edible plant parts
 
@@ -173,7 +187,9 @@ Digestive enzymes help break down food. Most nutrient absorption happens in the 
 | Fruit | Mango, tomato, brinjal | கனி: மாம்பழம், தக்காளி, கத்திரிக்காய் |
 | Seed | Peas, beans, pulses | விதை: பட்டாணி, பயறு, பருப்பு |
 
-**Trap:** Growing underground does not automatically make something a root. Potato is a modified stem; sweet potato is a modified root. This is supporting botany knowledge, not a detailed topic taught in the supplied Food slides.
+<!-- separate learning boxes -->
+
+> **Trap:** Growing underground does not automatically make something a root. Potato is a modified stem; sweet potato is a modified root. This is supporting botany knowledge, not a detailed topic taught in the supplied Food slides.
 
 Reference: [NCERT: root and stem modifications](https://www.ncert.gov.in/pdf/school-kit/Manual_Sci_KitClass%20IX%20%26%20X.pdf).
 
@@ -185,13 +201,24 @@ Reference: [NCERT: root and stem modifications](https://www.ncert.gov.in/pdf/sch
 | **Carnivores - ஊன் உண்ணிகள்** | Feed mainly on other animals | Tiger, lion, leopard |
 | **Omnivores - அனைத்துண்ணிகள்** | Eat both plant and animal material | Humans, crows, pigs |
 
-**தமிழில்:** புல் உண்ணும் மாடு தாவர உண்ணி. பிற விலங்குகளை வேட்டையாடும் புலி ஊன் உண்ணி. தாவர மற்றும் விலங்கு உணவுகளை உண்ணக்கூடிய மனிதன் அனைத்துண்ணி.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** புல் உண்ணும் மாடு தாவர உண்ணி. பிற விலங்குகளை வேட்டையாடும் புலி ஊன் உண்ணி. தாவர மற்றும் விலங்கு உணவுகளை உண்ணக்கூடிய மனிதன் அனைத்துண்ணி.
 
 **Recognition rule:** Classify by the diet described, not by size, teeth alone or whether the animal looks dangerous.
 
 **Source corrections:** The PDF places a fox among carnivores on p.43; red foxes are dietary **omnivores**. It uses western gorilla as an omnivore example on pp.28 and 44; gorillas are **primarily herbivorous**, although some eat insects. Use the unambiguous examples above for first learning. [Woodland Trust: fox](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/mammals/fox/), [Smithsonian: western lowland gorilla](https://nationalzoo.si.edu/animals/western-lowland-gorilla)
 
 ## 6. 🧠 Components of food | உணவின் கூறுகள்
+
+> **🧠 Concept map: what does food do for the body?**
+>
+> - **Energy / ஆற்றல்** — carbohydrates and fats; protein can also provide energy.
+> - **Growth and repair / வளர்ச்சி, பழுதுபார்ப்பு** — proteins.
+> - **Essential functions / உடல் இயக்கங்கள்** — vitamins and minerals.
+> - **Support / துணைப் பணிகள்** — water for transport and temperature control; fibre for bowel movement.
+>
+> These are main roles, not exclusive jobs. A nutrient can have several functions.
 
 The PDF groups **carbohydrates, proteins, fats, vitamins and minerals** as the main nutrients. It discusses **water and dietary fibre** separately as essential food components. In broader nutrition terminology, water is also an essential nutrient.
 
@@ -215,21 +242,29 @@ The PDF groups **carbohydrates, proteins, fats, vitamins and minerals** as the m
 - Table sugar is a sugar; it is not starch.
 - “Carbohydrate-rich” means a food contains a substantial amount of carbohydrate. It does not mean the food contains only carbohydrate.
 
-**தமிழில்:** அரிசியில் மாவுச்சத்து அதிகம் உள்ளது. அதனால் அரிசியில் வேறு எந்தச் சத்தும் இல்லை என்று பொருள் கொள்ளக்கூடாது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** அரிசியில் மாவுச்சத்து அதிகம் உள்ளது. அதனால் அரிசியில் வேறு எந்தச் சத்தும் இல்லை என்று பொருள் கொள்ளக்கூடாது.
 
 ### 6.2 Proteins: body-building nutrients
 
 Proteins help the body grow and repair tissues. **Amino acids - அமினோ அமிலங்கள்** are their building units. Think of amino acids as beads joined into a chain.
 
-**தமிழில்:** உடல் வளர்ச்சிக்கும் திசுக்கள் புதுப்பிக்கப்படுவதற்கும் புரதம் தேவை. புரதம் இறைச்சியில் மட்டும் இல்லை; பருப்பு, பயறு, சோயாவிலும் உள்ளது.
+<!-- separate learning boxes -->
 
-**Trap:** Protein can supply energy too. “Body-building food” describes its major teaching role; it does not mean protein provides zero energy.
+> **தமிழில்:** உடல் வளர்ச்சிக்கும் திசுக்கள் புதுப்பிக்கப்படுவதற்கும் புரதம் தேவை. புரதம் இறைச்சியில் மட்டும் இல்லை; பருப்பு, பயறு, சோயாவிலும் உள்ளது.
+
+<!-- separate learning boxes -->
+
+> **Trap:** Protein can supply energy too. “Body-building food” describes its major teaching role; it does not mean protein provides zero energy.
 
 ### 6.3 Fats: more energy for the same mass
 
 Fats provide more energy per gram than carbohydrates or proteins. Dietary fat also helps absorption of vitamins **A, D, E and K**.
 
-**தமிழில்:** ஒரு கிராம் கொழுப்பு, ஒரு கிராம் மாவுச்சத்தைவிட அதிக ஆற்றலைத் தருகிறது. கொழுப்பிற்கும் உடலில் தேவையான பணிகள் உள்ளன.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** ஒரு கிராம் கொழுப்பு, ஒரு கிராம் மாவுச்சத்தைவிட அதிக ஆற்றலைத் தருகிறது. கொழுப்பிற்கும் உடலில் தேவையான பணிகள் உள்ளன.
 
 ### Supplement: energy values
 
@@ -264,15 +299,26 @@ Vitamins, minerals and water do not directly supply calories. B vitamins help th
 | Polysaccharide: glycogen | Many glucose units | Animal carbohydrate storage, especially liver and muscles |
 | Polysaccharide: cellulose | Many glucose units, linked differently | Structural material of plant cell walls |
 
-**Trap:** Starch and cellulose both contain glucose units, but their bonds differ. Human digestive enzymes break down starch; they do not break down cellulose. **Milk sugar = lactose; milk protein = mainly casein, with whey proteins also present.** Do not answer a sugar question with a protein name. [NCERT: Biomolecules](https://ncert.nic.in/textbook/pdf/lech205.pdf)
+<!-- separate learning boxes -->
 
-**தமிழில்:** பால் சர்க்கரை லாக்டோஸ். தாவரங்களில் சேமிப்புச் சத்து ஸ்டார்ச்; விலங்குகளில் கிளைக்கோஜன். செல்லுலோஸ் தாவரச் செல் சுவரின் கட்டமைப்புப் பொருள்.
+> **Trap:** Starch and cellulose both contain glucose units, but their bonds differ. Human digestive enzymes break down starch; they do not break down cellulose. **Milk sugar = lactose; milk protein = mainly casein, with whey proteins also present.** Do not answer a sugar question with a protein name. [NCERT: Biomolecules](https://ncert.nic.in/textbook/pdf/lech205.pdf)
+
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பால் சர்க்கரை லாக்டோஸ். தாவரங்களில் சேமிப்புச் சத்து ஸ்டார்ச்; விலங்குகளில் கிளைக்கோஜன். செல்லுலோஸ் தாவரச் செல் சுவரின் கட்டமைப்புப் பொருள்.
 
 ### 6.6 Supplement: Digestion, organs and absorption
 
-**Food pathway:** Mouth → oesophagus → stomach → small intestine → large intestine → rectum → anus.
-
-**தமிழில்:** வாய் → உணவுக்குழாய் → இரைப்பை → சிறுகுடல் → பெருங்குடல் → மலக்குடல் → மலவாய்.
+> **🔬 Process map: follow the food**
+>
+> 1. **Mouth / வாய்** — chewing; starch digestion begins.
+> 2. **Oesophagus / உணவுக்குழாய்** — carries food towards the stomach.
+> 3. **Stomach / இரைப்பை** — mixes food; helps protein digestion.
+> 4. **Small intestine / சிறுகுடல்** — most nutrient absorption.
+> 5. **Large intestine / பெருங்குடல்** — absorbs more water; stool forms.
+> 6. **Rectum → anus / மலக்குடல் → மலவாய்** — stool leaves the body.
+>
+> This is the simplified pathway used in these notes. The table below adds the organs that supply digestive secretions.
 
 | Organ | Main connection | Tamil explanation |
 |---|---|---|
@@ -294,9 +340,13 @@ Vitamins, minerals and water do not directly supply calories. B vitamins help th
 | Egestion / செரிக்காத கழிவை வெளியேற்றுதல் | Removal of undigested material as faeces | Excretion |
 | Excretion / வளர்சிதை மாற்றக் கழிவு நீக்கம் | Removal of metabolic wastes, such as urea | Undigested food leaving the gut |
 
-**தமிழில்:** உணவை உடைத்தல், சத்துகளை உறிஞ்சுதல், செல்கள் பயன்படுத்துதல் ஆகியவை தனித்தனி செயல்கள். செரிக்காத உணவுக் கழிவையும் செல்களின் வேதிவினையால் உருவான கழிவையும் ஒன்றாகக் கருத வேண்டாம்.
+<!-- separate learning boxes -->
 
-**Stage 1 self-check:** Explain the difference between rice and carbohydrate, then between digestion and absorption. If either pair is unclear, revisit Sections 3 and 6 before learning the tests.
+> **தமிழில்:** உணவை உடைத்தல், சத்துகளை உறிஞ்சுதல், செல்கள் பயன்படுத்துதல் ஆகியவை தனித்தனி செயல்கள். செரிக்காத உணவுக் கழிவையும் செல்களின் வேதிவினையால் உருவான கழிவையும் ஒன்றாகக் கருத வேண்டாம்.
+
+<!-- separate learning boxes -->
+
+> **Stage 1 self-check:** Explain the difference between rice and carbohydrate, then between digestion and absorption. If either pair is unclear, revisit Sections 3 and 6 before learning the tests.
 
 ## 7. 🔬 Food tests | உணவுச் சத்துகளுக்கான சோதனைகள்
 
@@ -321,17 +371,21 @@ Starch is a type of carbohydrate. Use the iodine test to check whether a food sa
 3. Observe whether the sample develops a **blue-black colour**.
 4. A blue-black colour indicates starch. If this colour does not appear, starch was not detected by this test.
 
-**தமிழில் - செய்முறை:**
-1. சிறிதளவு உணவு மாதிரியை எடுத்துக்கொள்ளுங்கள்; எடுத்துக்காட்டாக உருளைக்கிழங்குத் துண்டு அல்லது சமைத்த சாதம்.
-2. அதில் சில துளிகள் **நீர்த்த அயோடின் கரைசலை** விடுங்கள்.
-3. **நீலம் கலந்த கருப்பு நிறம்** தோன்றுகிறதா என்று கவனியுங்கள்.
-4. அந்த நிறம் தோன்றினால் ஸ்டார்ச் உள்ளது. நிறம் தோன்றாவிட்டால், இந்தச் சோதனையில் ஸ்டார்ச் கண்டறியப்படவில்லை.
+<!-- separate learning boxes -->
+
+> **தமிழில் - செய்முறை:**
+> 1. சிறிதளவு உணவு மாதிரியை எடுத்துக்கொள்ளுங்கள்; எடுத்துக்காட்டாக உருளைக்கிழங்குத் துண்டு அல்லது சமைத்த சாதம்.
+> 2. அதில் சில துளிகள் **நீர்த்த அயோடின் கரைசலை** விடுங்கள்.
+> 3. **நீலம் கலந்த கருப்பு நிறம்** தோன்றுகிறதா என்று கவனியுங்கள்.
+> 4. அந்த நிறம் தோன்றினால் ஸ்டார்ச் உள்ளது. நிறம் தோன்றாவிட்டால், இந்தச் சோதனையில் ஸ்டார்ச் கண்டறியப்படவில்லை.
 
 Iodine forms a coloured complex with starch. A blue-black result supports the presence of starch.
 
 **It is not a general test for every carbohydrate.** A sugar solution can contain carbohydrate and still fail the starch test.
 
-**தமிழில்:** அயோடின் சோதனை ஸ்டார்ச்சைக் கண்டறிகிறது. சர்க்கரையும் கார்போஹைட்ரேட்டுதான்; ஆனால் அதனால் கட்டாயம் நீலம்-கருப்பு நிறம் வராது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** அயோடின் சோதனை ஸ்டார்ச்சைக் கண்டறிகிறது. சர்க்கரையும் கார்போஹைட்ரேட்டுதான்; ஆனால் அதனால் கட்டாயம் நீலம்-கருப்பு நிறம் வராது.
 
 ### 7.2 Protein test: learn the sequence in this PDF
 
@@ -345,7 +399,9 @@ The PDF specifies **10 drops water, 2 drops copper sulphate solution and 10 drop
 
 **Added explanation:** This is the **Biuret test** principle. Copper ions react with peptide bonds in alkaline conditions to produce the violet colour. A peptide bond links amino acids in a protein.
 
-**தமிழில்:** புரதத்தின் அமினோ அமிலங்களை இணைக்கும் பிணைப்புகளுடன், காரத்தன்மையுள்ள சூழலில் செம்பு அயன்கள் வினைபுரிவதால் ஊதா நிறம் உருவாகிறது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** புரதத்தின் அமினோ அமிலங்களை இணைக்கும் பிணைப்புகளுடன், காரத்தன்மையுள்ள சூழலில் செம்பு அயன்கள் வினைபுரிவதால் ஊதா நிறம் உருவாகிறது.
 
 **செய்முறை நினைவுக்குறிப்பு:** உணவை அரைக்கவும் → நீர் சேர்த்துக் குலுக்கவும் → காப்பர் சல்பேட் சேர்க்கவும் → காஸ்டிக் சோடா சேர்க்கவும் → ஊதா நிறத்தைக் கவனிக்கவும்.
 
@@ -356,13 +412,19 @@ The PDF specifies **10 drops water, 2 drops copper sulphate solution and 10 drop
 3. Remove loose food and let the paper dry.
 4. Hold it against light. A lasting oily, translucent patch suggests fat.
 
-**தமிழில் — செய்முறை:** உணவை காகிதத்தில் நசுக்கித் தேய்க்கவும் → உலரவிடவும் → வெளிச்சத்திற்கு எதிராகப் பார்க்கவும் → நீடிக்கும் எண்ணெய்த் தழும்பு கொழுப்பைக் குறிக்கிறது.
+<!-- separate learning boxes -->
+
+> **தமிழில் — செய்முறை:** உணவை காகிதத்தில் நசுக்கித் தேய்க்கவும் → உலரவிடவும் → வெளிச்சத்திற்கு எதிராகப் பார்க்கவும் → நீடிக்கும் எண்ணெய்த் தழும்பு கொழுப்பைக் குறிக்கிறது.
 
 Water can temporarily make paper look translucent. Waiting lets the water evaporate. A lasting greasy patch suggests fat.
 
-**தமிழில்:** தண்ணீரால் ஏற்பட்ட ஈரம் உலர்ந்து மறையும். கொழுப்பால் ஏற்பட்ட எண்ணெய்த் தழும்பு நீடிக்கும்.
+<!-- separate learning boxes -->
 
-**Limit:** No visible patch means fat was not detected by this simple test. It does not prove that there is absolutely no fat in the sample.
+> **தமிழில்:** தண்ணீரால் ஏற்பட்ட ஈரம் உலர்ந்து மறையும். கொழுப்பால் ஏற்பட்ட எண்ணெய்த் தழும்பு நீடிக்கும்.
+
+<!-- separate learning boxes -->
+
+> **Limit:** No visible patch means fat was not detected by this simple test. It does not prove that there is absolutely no fat in the sample.
 
 For practical work, use teacher supervision: caustic soda is corrosive, and tested samples must not be eaten.
 
@@ -380,7 +442,9 @@ For practical work, use teacher supervision: caustic soda is corrosive, and test
 
 **Molisch's sequence to recognise:** sample + Molisch's reagent (α-naphthol) → carefully layer concentrated sulphuric acid → violet ring at the interface. This is a supervised laboratory test; learn the sequence, not a home experiment.
 
-**தமிழில்:** அயோடின் → ஸ்டார்ச்; பெனடிக்ட் → குளுக்கோஸ் போன்ற ஒடுக்கும் சர்க்கரைகள்; மோலிஷ் → பொதுவாக கார்போஹைட்ரேட்டுகள். ஒரே சோதனை எல்லா வகைகளையும் தனித்தனியாக அடையாளம் காணாது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** அயோடின் → ஸ்டார்ச்; பெனடிக்ட் → குளுக்கோஸ் போன்ற ஒடுக்கும் சர்க்கரைகள்; மோலிஷ் → பொதுவாக கார்போஹைட்ரேட்டுகள். ஒரே சோதனை எல்லா வகைகளையும் தனித்தனியாக அடையாளம் காணாது.
 
 **Exam limit:** these are supporting distinctions, not a claim that the supplied PDF or the dated PYQs ask all three tests. [AQA food-test practicals](https://filestore.aqa.org.uk/resources/science/AQA-8464-8465-PRACTICALS.PDF), [Virtual Labs: carbohydrate tests](https://biochem-dei.vlabs.ac.in/exp/sugar-estimation/procedure.html)
 
@@ -388,9 +452,18 @@ For practical work, use teacher supervision: caustic soda is corrosive, and test
 
 Vitamins are substances needed in small amounts for normal body functions. There are **13 essential vitamins**: A, C, D, E, K and eight B vitamins.
 
-**தமிழில்:** வைட்டமின்கள் சிறிய அளவில் தேவைப்பட்டாலும் அவற்றின் வேலை முக்கியமானது. “B” என்பது ஒரே வைட்டமின் அல்ல; எட்டு வைட்டமின்கள் கொண்ட குழு.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** வைட்டமின்கள் சிறிய அளவில் தேவைப்பட்டாலும் அவற்றின் வேலை முக்கியமானது. “B” என்பது ஒரே வைட்டமின் அல்ல; எட்டு வைட்டமின்கள் கொண்ட குழு.
 
 ### 8.1 Classification by solubility
+
+> **🧠 Concept map: two vitamin groups**
+>
+> - **Fat-soluble / கொழுப்பில் கரையும்** — **A, D, E, K**. Remember the set **ADEK**.
+> - **Water-soluble / நீரில் கரையும்** — **B-complex + C**. B-complex contains eight vitamins.
+>
+> **Storage exception:** B12 is water-soluble but can be stored for years. Solubility does not mean every vitamin has identical storage behaviour.
 
 | Type | Vitamins | What to remember |
 |---|---|---|
@@ -444,13 +517,19 @@ Vitamin A and C explanations: [NIH: vitamin A](https://ods.od.nih.gov/factsheets
 
 ### 8.4 Vitamin D: skin, liver and kidney have different roles
 
-1. **Skin:** sunlight's UVB helps the skin make vitamin D3. / UVB உதவியால் தோலில் D3 உருவாகிறது.
-2. **Liver:** converts it to 25-hydroxyvitamin D. / கல்லீரலில் அடுத்த வடிவமாக மாற்றப்படுகிறது.
-3. **Kidneys:** mainly perform the final step forming active calcitriol. / சிறுநீரகத்தில் செயல்படும் வடிவம் உருவாகிறது.
+> **🔬 Process map: vitamin D formation and activation**
+>
+> 1. **Skin / தோல்** — sunlight's UVB helps make vitamin D3.
+> 2. **Liver / கல்லீரல்** — converts it to 25-hydroxyvitamin D.
+> 3. **Kidneys / சிறுநீரகம்** — mainly perform the final step forming active calcitriol.
+>
+> **Remember:** sunlight helps the process; sunlight does not contain vitamin D.
 
 **Correct reading of PDF Q17, p.98:** The intended option is vitamin D, but “made in the kidneys” is imprecise. The kidneys primarily perform the final activation step. Sunlight does not contain vitamin D. [NIH: vitamin D formation and activation](https://ods.od.nih.gov/factsheets/Vitamind-HealthProfessional/)
 
-**தமிழில்:** வைட்டமின் D சூரிய ஒளியில் கலந்து வருவதில்லை. சூரிய ஒளியின் உதவியால் தோலில் உருவாகிறது; பின்னர் கல்லீரல் மற்றும் சிறுநீரகத்தில் மாற்றம் பெறுகிறது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** வைட்டமின் D சூரிய ஒளியில் கலந்து வருவதில்லை. சூரிய ஒளியின் உதவியால் தோலில் உருவாகிறது; பின்னர் கல்லீரல் மற்றும் சிறுநீரகத்தில் மாற்றம் பெறுகிறது.
 
 ## 9. Minerals | தாதுக்கள்
 
@@ -471,11 +550,15 @@ Minerals are inorganic nutrients. **Inorganic - கனிமத் தன்ம�
 
 **Why can iron deficiency cause tiredness?** Iron is needed for haemoglobin. Iron-deficiency anaemia reduces blood's oxygen-carrying capacity, which can cause weakness and tiredness. [NIH: iron](https://ods.od.nih.gov/factsheets/Iron-Consumer/)
 
-**தமிழில்:** இரத்த சிவப்பணுக்களில் உள்ள ஹீமோகுளோபின் ஆக்சிஜனைக் கடத்துகிறது. அதை உருவாக்க இரும்புச்சத்து தேவை.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** இரத்த சிவப்பணுக்களில் உள்ள ஹீமோகுளோபின் ஆக்சிஜனைக் கடத்துகிறது. அதை உருவாக்க இரும்புச்சத்து தேவை.
 
 **Why is iodine linked with goitre?** The thyroid needs iodine to make hormones. Iodine deficiency can cause thyroid enlargement, called **goitre - முன்கழுத்துக் கழலை**. [NIH: iodine](https://ods.od.nih.gov/factsheets/Iodine-Consumer/)
 
-**Trap:** Iodized salt is salt with added iodine compounds. It does not mean “eat more salt”. Not every sea salt or rock salt is iodized; the product label matters.
+<!-- separate learning boxes -->
+
+> **Trap:** Iodized salt is salt with added iodine compounds. It does not mean “eat more salt”. Not every sea salt or rock salt is iodized; the product label matters.
 
 ## 10. Fibre and water | நார்ச்சத்து மற்றும் நீர்
 
@@ -485,7 +568,9 @@ The PDF uses **dietary fibre** and **roughage** as equivalent introductory terms
 
 Fibre helps add bulk to stools and supports bowel movement. Human digestive enzymes do not break it down like starch.
 
-**தமிழில்:** நார்ச்சத்து மலத்தின் அளவையும் தன்மையையும் மேம்படுத்தி, அது எளிதாக வெளியேற உதவுகிறது. பால், முட்டை, இறைச்சி போன்றவை வழக்கமான நார்ச்சத்து மூலங்கள் அல்ல.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** நார்ச்சத்து மலத்தின் அளவையும் தன்மையையும் மேம்படுத்தி, அது எளிதாக வெளியேற உதவுகிறது. பால், முட்டை, இறைச்சி போன்றவை வழக்கமான நார்ச்சத்து மூலங்கள் அல்ல.
 
 **Clarification:** “Roughage provides no nutrient” is the PDF's simplified wording. Remember its main role in bowel health; do not interpret that statement as “fibre is useless” or “no fibre can ever contribute energy”. Gut microbes can ferment some fibre.
 
@@ -495,7 +580,9 @@ Reference: [FDA: dietary fibre and its functions](https://www.accessdata.fda.gov
 
 Water provides a medium for body reactions, helps transport substances and supports temperature regulation. The body loses water through urine, sweat and other routes. Water is obtained from drinks as well as foods.
 
-**தமிழில்:** நீர் வெறும் தாகத்தைத் தணிப்பதற்காக மட்டும் அல்ல. உடலில் பொருட்கள் கரையவும், கடத்தப்படவும், வெப்பநிலை கட்டுப்படவும் அது தேவை.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** நீர் வெறும் தாகத்தைத் தணிப்பதற்காக மட்டும் அல்ல. உடலில் பொருட்கள் கரையவும், கடத்தப்படவும், வெப்பநிலை கட்டுப்படவும் அது தேவை.
 
 **Compare:** Fibre helps the movement of undigested material; water has transport, solvent and temperature-control roles. Neither should be confused with a vitamin.
 
@@ -505,7 +592,9 @@ Water provides a medium for body reactions, helps transport substances and suppo
 
 A balanced diet supplies enough energy and the required nutrients in suitable proportions, together with fibre and water. “Balanced” does not mean equal weights of every nutrient.
 
-**தமிழில்:** ஒவ்வொரு சத்தையும் ஒரே அளவில் சாப்பிடுவது சரிவிகித உணவு அல்ல. உடலுக்குத் தேவையான சத்துகள் தேவையான அளவில் கிடைப்பதே சரிவிகித உணவு.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** ஒவ்வொரு சத்தையும் ஒரே அளவில் சாப்பிடுவது சரிவிகித உணவு அல்ல. உடலுக்குத் தேவையான சத்துகள் தேவையான அளவில் கிடைப்பதே சரிவிகித உணவு.
 
 **Illustrative meal:** rice or millet + dal or another protein food + vegetables + a suitable fruit or other complementary food. This illustrates variety, not a fixed meal prescription or guaranteed nutrient adequacy.
 
@@ -515,7 +604,9 @@ Age, activity, growth and health affect requirements. The PDF's 50:25:25 plate p
 
 A person eating mainly polished rice may obtain plenty of energy while receiving too little of some other nutrients. A full stomach does not prove a balanced diet.
 
-**தமிழில்:** வயிறு நிறைவது வேறு; தேவையான எல்லாச் சத்துகளும் கிடைப்பது வேறு.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** வயிறு நிறைவது வேறு; தேவையான எல்லாச் சத்துகளும் கிடைப்பது வேறு.
 
 **Malnutrition - ஊட்டச்சத்து சீர்கேடு** includes insufficient nutrition, vitamin/mineral deficiencies and excess nutrition such as overweight or obesity. [WHO: malnutrition](https://www.who.int/en/news-room/fact-sheets/detail/malnutrition)
 
@@ -529,7 +620,9 @@ Obesity involves excessive body-fat accumulation that can harm health. It has mu
 
 For the **WHO general adult classification**, obesity is BMI **30 or above**. Child classification depends on age and sex; BMI also does not directly measure body fat. Use the standard specified in a question. [WHO: obesity and overweight](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight)
 
-**தமிழில்:** BMI கணக்கில் உயரத்தை மீட்டரில் மாற்ற வேண்டும். குழந்தைகளுக்கு பெரியவர்களின் வரம்புகளை அப்படியே பயன்படுத்தக்கூடாது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** BMI கணக்கில் உயரத்தை மீட்டரில் மாற்ற வேண்டும். குழந்தைகளுக்கு பெரியவர்களின் வரம்புகளை அப்படியே பயன்படுத்தக்கூடாது.
 
 ### 11.4 Supplement: Short everyday-science extension: cooking and pasteurisation
 
@@ -537,7 +630,9 @@ Wash vegetables before cutting. Long soaking of cut vegetables can let water-sol
 
 **Pasteurisation** uses a controlled temperature and time to kill harmful microbes in milk. It does not make ordinary pasteurised milk permanently sterile; refrigeration is still needed. It does not remove lactose or convert milk into a lactose-free product. [FDA: milk pasteurisation](https://www.fda.gov/food/buy-store-serve-safe-food/raw-milk-questions-answers)
 
-**தமிழில்:** காய்கறிகளை வெட்டுவதற்கு முன்பு கழுவுவது நீரில் கரையும் சத்துகளின் இழப்பைக் குறைக்க உதவும். பாலைப் பதப்படுத்தும் pasteurisation தீங்கு விளைவிக்கும் நுண்ணுயிர்களைக் குறைக்கிறது; பால் சர்க்கரையை நீக்குவதில்லை.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** காய்கறிகளை வெட்டுவதற்கு முன்பு கழுவுவது நீரில் கரையும் சத்துகளின் இழப்பைக் குறைக்க உதவும். பாலைப் பதப்படுத்தும் pasteurisation தீங்கு விளைவிக்கும் நுண்ணுயிர்களைக் குறைக்கிறது; பால் சர்க்கரையை நீக்குவதில்லை.
 
 This is a short supporting extension for everyday-science questions, not a claim that a particular cooking question appeared in a verified SSC/RRB paper.
 
@@ -575,7 +670,9 @@ The PDF describes poor growth, swelling and severe thinness on pp.77-78. These a
 
 **Oedema / edema - நீர் தேக்கத்தால் வீக்கம். Wasting - உடல் தசை மற்றும் கொழுப்பு கடுமையாகக் குறைதல்.**
 
-**தமிழில்:** குவாஷியோர்கரில் வீக்கம் முக்கிய அடையாளம். மராஸ்மஸில் கடுமையான மெலிவு முக்கியம். இரண்டின் அம்சங்களும் கலந்து காணப்படலாம்; வீக்கம் உள்ளதால் நல்ல ஊட்டம் கிடைக்கிறது என்று எண்ணக்கூடாது. [WHO: food and nutrition, comparison of severe malnutrition forms](https://applications.emro.who.int/dsaf/EMROPUB_2014_EN_1822.pdf)
+<!-- separate learning boxes -->
+
+> **தமிழில்:** குவாஷியோர்கரில் வீக்கம் முக்கிய அடையாளம். மராஸ்மஸில் கடுமையான மெலிவு முக்கியம். இரண்டின் அம்சங்களும் கலந்து காணப்படலாம்; வீக்கம் உள்ளதால் நல்ல ஊட்டம் கிடைக்கிறது என்று எண்ணக்கூடாது. [WHO: food and nutrition, comparison of severe malnutrition forms](https://applications.emro.who.int/dsaf/EMROPUB_2014_EN_1822.pdf)
 
 ### 12.4 Similar symptoms do not mean the same deficiency
 
@@ -587,7 +684,9 @@ The PDF describes poor growth, swelling and severe thinness on pp.77-78. These a
 | Anaemia vs iron-deficiency anaemia | Iron deficiency is one cause of anaemia; not all anaemia is caused by iron deficiency |
 | Vitamin D production vs activation | Skin: production with UVB; kidney: main final activation site |
 
-**தமிழில்:** கேள்வியில் வரும் குறிப்பை முதலில் பாருங்கள்: “மங்கலான வெளிச்சம்” → A; “ஹீமோகுளோபின்” → இரும்பு; “தைராய்டு” → அயோடின்; “இரத்தம் உறைதல்” → K.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** கேள்வியில் வரும் குறிப்பை முதலில் பாருங்கள்: “மங்கலான வெளிச்சம்” → A; “ஹீமோகுளோபின்” → இரும்பு; “தைராய்டு” → அயோடின்; “இரத்தம் உறைதல்” → K.
 
 ### 12.5 Supplement: Extra deficiency distinctions
 
@@ -597,13 +696,17 @@ The PDF describes poor growth, swelling and severe thinness on pp.77-78. These a
 | B9 / folate | Megaloblastic anaemia | Anaemia can have causes other than iron deficiency |
 | B12 / cobalamin | Megaloblastic anaemia; nerve problems can occur | A water-soluble vitamin with substantial body stores |
 
-**தமிழில்:** இரத்தச்சோகை என்றால் எப்போதும் இரும்புச் சத்துக் குறைபாடு மட்டுமே அல்ல. B9/B12 குறைபாடும் இரத்த அணுக்களைப் பாதிக்கலாம். B12 குறைபாடு நரம்புகளையும் பாதிக்கலாம்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** இரத்தச்சோகை என்றால் எப்போதும் இரும்புச் சத்துக் குறைபாடு மட்டுமே அல்ல. B9/B12 குறைபாடும் இரத்த அணுக்களைப் பாதிக்கலாம். B12 குறைபாடு நரம்புகளையும் பாதிக்கலாம்.
 
 **Pernicious anaemia trap:** This is an autoimmune condition involving failure to produce enough intrinsic factor, which is needed for normal B12 absorption. It is a cause of B12 deficiency; it is not the name for every case of B12 deficiency. Learn the association without replacing the precise definition.
 
 References: [NIH: riboflavin](https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/), [NIH: folate](https://ods.od.nih.gov/factsheets/folate-consumer/), [NIH: vitamin B12](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/).
 
-**Stage 2 self-check:** Without looking, give the reagent and result for starch/protein, explain why the fat-test paper must dry, and recall four vitamin-deficiency pairs. Repair any missing link in Sections 7–12.
+<!-- separate learning boxes -->
+
+> **Stage 2 self-check:** Without looking, give the reagent and result for starch/protein, explain why the fat-test paper must dry, and recall four vitamin-deficiency pairs. Repair any missing link in Sections 7–12.
 
 ## 13. ⚠️ Corrections and limits in the PDF | திருத்தங்களும் விளக்கங்களும்
 
@@ -630,7 +733,9 @@ Use the corrected understanding below when revising. The original PDF has not be
 | Q22, p.103 | Only carbohydrates and fats treated as energy-giving | That grouping describes their main roles; protein also supplies energy |
 | Q38, p.119 | Vitamin C “fights many diseases” | C supports normal immunity; A, D and other nutrients also have immune roles. This is not a unique or precise function of C |
 
-**தமிழில்:** PDF-இல் விடை குறிக்கப்பட்டிருப்பது மட்டும் முழுமையான அறிவியல் விளக்கமாகாது. “எந்தச் சூழலில் இந்த விடை சரி?” என்பதையும் புரிந்துகொள்ளுங்கள்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** PDF-இல் விடை குறிக்கப்பட்டிருப்பது மட்டும் முழுமையான அறிவியல் விளக்கமாகாது. “எந்தச் சூழலில் இந்த விடை சரி?” என்பதையும் புரிந்துகொள்ளுங்கள்.
 
 Dental correction: bacteria can convert dietary sugars into acids that damage tooth enamel. Calcium deficiency is not a complete explanation of tooth decay. [NIDCR: the tooth decay process](https://www.nidcr.nih.gov/health-info/tooth-decay/more-info/tooth-decay-process)
 
@@ -657,7 +762,9 @@ These explain the introduction and its practice questions. They are not a comple
 
 **Grass → Grasshopper → Frog → Snake.**
 
-**தமிழில்:** புல் → வெட்டுக்கிளி → தவளை → பாம்பு.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** புல் → வெட்டுக்கிளி → தவளை → பாம்பு.
 
 The arrow goes **from food to eater**, showing the direction of energy transfer. Decomposers act on dead material from different levels; they are not restricted to the final animal.
 
@@ -672,7 +779,9 @@ The arrow goes **from food to eater**, showing the direction of energy transfer.
 | RRB NTPC CBT-I, 21 Mar 2021, Shift 2 | Organ secreting bile → **Liver** | Recognise the same fact with different wording. [Question reference](https://testbook.com/question-answer/which-of-the-following-organs-secretes-bile-juice--627cb2fee24d6632e1b17acf) |
 | RRB NTPC Graduate CBT-I, 6 Jun 2025, Shift 1 | Poor bile production affects absorption of → **Fat-soluble vitamins** | Connect bile, fats and ADEK. [Question reference](https://testbook.com/question-answer/a-patient-lacking-bile-production-would-suffer-fro--6867b19554985740919d7d05) |
 
-**தமிழில்:** பித்தநீரை உருவாக்கும் உறுப்பு எது என்ற நேரடி வினாவையும், பித்தநீர் குறைந்தால் எந்த வைட்டமின்களின் உறிஞ்சுதல் பாதிக்கும் என்ற தொடர்பு வினாவையும் ஒன்றாகப் புரிந்துகொள்ளுங்கள்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பித்தநீரை உருவாக்கும் உறுப்பு எது என்ற நேரடி வினாவையும், பித்தநீர் குறைந்தால் எந்த வைட்டமின்களின் உறிஞ்சுதல் பாதிக்கும் என்ற தொடர்பு வினாவையும் ஒன்றாகப் புரிந்துகொள்ளுங்கள்.
 
 ## 16. 📝 Worked model questions | விளக்கத்துடன் மாதிரி வினாக்கள்
 

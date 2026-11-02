@@ -11,7 +11,9 @@
 
 Learn **fibre → yarn → fabric** first. Then study plant fibres, wool and silk. Close the notes and explain each process in order before attempting questions.
 
-**தமிழில்:** முதலில் நார், நூல், துணி ஆகியவற்றின் வேறுபாட்டைப் புரிந்துகொள்ளுங்கள். பிறகு ஒவ்வொரு செயல்முறையையும் குறிப்பைப் பார்க்காமல் வரிசையாகச் சொல்லுங்கள்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** முதலில் நார், நூல், துணி ஆகியவற்றின் வேறுபாட்டைப் புரிந்துகொள்ளுங்கள். பிறகு ஒவ்வொரு செயல்முறையையும் குறிப்பைப் பார்க்காமல் வரிசையாகச் சொல்லுங்கள்.
 
 ### 🎯 Your learning route | படிப்படியான கற்றல்
 
@@ -26,7 +28,9 @@ No textile background is needed. Start with the vocabulary and a familiar cotton
 
 **Reading pattern:** meaning → familiar example → how/why → Tamil recap → common confusion → practice. **Supplement** marks an addition to the PDF; it does not automatically mean a harder fact or a verified PYQ.
 
-**தமிழில்:** பொருளைப் புரிந்துகொள் → செயல்முறையை விளக்கு → குழப்பங்களை வேறுபடுத்து → குறிப்பைப் பார்க்காமல் விடையளி. புரியாத சொல்லை மனப்பாடம் செய்வதைவிட அதன் வேலையை முதலில் அறிந்துகொள்ளுங்கள்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பொருளைப் புரிந்துகொள் → செயல்முறையை விளக்கு → குழப்பங்களை வேறுபடுத்து → குறிப்பைப் பார்க்காமல் விடையளி. புரியாத சொல்லை மனப்பாடம் செய்வதைவிட அதன் வேலையை முதலில் அறிந்துகொள்ளுங்கள்.
 
 ### What deserves priority for SSC/RRB?
 
@@ -58,7 +62,9 @@ All 64 scanned pages were visually reviewed. Page numbers below refer to the PDF
 
 **SSC/RRB additions:** Rayon versus natural silk; plant-part matching; wool/silk protein names; sericulture versus similar terms; silk types; and process distinctions. Dated question references support the priorities in Section 11. These references do not establish chapter weightage or guarantee a question in the next exam.
 
-**தமிழில்:** தேர்வில் பயன்படும் வகைப்பாடு, பொருத்துதல், செயல்முறை வரிசை மற்றும் குழப்பமான சொற்களுக்கு முன்னுரிமை. ஆலை இயந்திர வடிவமைப்பு போன்ற தொழில்நுட்ப விவரங்கள் தேவையில்லை.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** தேர்வில் பயன்படும் வகைப்பாடு, பொருத்துதல், செயல்முறை வரிசை மற்றும் குழப்பமான சொற்களுக்கு முன்னுரிமை. ஆலை இயந்திர வடிவமைப்பு போன்ற தொழில்நுட்ப விவரங்கள் தேவையில்லை.
 
 ## 2. Words to understand first | முக்கியச் சொற்கள்
 
@@ -88,18 +94,29 @@ All 64 scanned pages were visually reviewed. Page numbers below refer to the PDF
 
 Imagine a cotton shirt. The shirt is made of fabric. Pulling apart a small woven sample reveals yarns. Untwisting a cotton yarn reveals finer fibres.
 
-1. **Start with fibres / நார்கள்:** cotton provides fine strands.
-2. **Spin yarn / நூல் நூற்றல்:** draw out and twist the fibres into yarn.
-3. **Make fabric / துணி உருவாக்குதல்:** weave yarn sets or knit yarn loops.
-4. **Make a garment / ஆடை தயாரித்தல்:** cut and stitch the fabric into a shirt or another item.
+> **🔬 Process map: fibre → clothing**
+>
+> 1. **Fibres / நார்கள்** — start with cotton's fine strands.
+> 2. **Yarn / நூல்** — draw out and twist the fibres: **spinning**.
+> 3. **Fabric / துணி** — interlace yarn sets or form loops: **weaving / knitting**.
+> 4. **Garment / ஆடை** — cut and stitch the fabric into clothing.
 
-**தமிழில்:** பல சிறிய நார்கள் சேர்ந்து நூலாகின்றன. நூல்களை நெய்தோ பின்னியோ துணி உருவாக்கலாம். துணியை வெட்டித் தைத்தால் சட்டை போன்ற ஆடை கிடைக்கும்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பல சிறிய நார்கள் சேர்ந்து நூலாகின்றன. நூல்களை நெய்தோ பின்னியோ துணி உருவாக்கலாம். துணியை வெட்டித் தைத்தால் சட்டை போன்ற ஆடை கிடைக்கும்.
 
 **Analogy:** Fibres are like individual strands in a rope. Twisting them together helps make a usable continuous strand. Weaving then arranges strands into a sheet.
 
 **Supplement - limit of the rule:** This is the main route for the chapter, not a rule for every textile. Nonwoven materials can be made by bonding or entangling fibres into a sheet without first making woven yarns. Therefore, the PDF's statement that no fabric can exist without yarn spinning is too broad. [RISE: nonwoven materials](https://www.ri.se/en/materials-and-durability/textiles/expertise/development-of-nonwoven-materials)
 
 ## 4. Classification of fibres | நார்களின் வகைப்பாடு
+
+> **🧠 Concept map: where does the fibre come from?**
+>
+> - **Plant → natural** — cotton, jute, flax. / தாவர நார்கள்
+> - **Animal → natural** — wool, silk. / விலங்கு நார்கள்
+> - **Cellulose processed into fibre → regenerated** — rayon. / மீளுருவாக்க நார்
+> - **Synthetic polymers → fully synthetic** — nylon, polyester, acrylic. / செயற்கை நார்கள்
 
 | Group | Examples | Why? / தமிழில் |
 |---|---|---|
@@ -112,7 +129,9 @@ Imagine a cotton shirt. The shirt is made of fabric. Pulling apart a small woven
 
 **Rayon = regenerated cellulose; commonly called artificial silk.** Its raw material can be wood pulp, but the usable fibre is manufactured. Thus rayon is **man-made**, not a natural fibre like cotton. It is often called **semi-synthetic** in school explanations. Do not confuse it with fully synthetic nylon.
 
-**தமிழில்:** மரக்கூழ் இயற்கைப் பொருள் என்றாலும், அதை வேதிச் செயல்முறையில் மாற்றித் தயாரிப்பது ரேயான். எனவே ரேயான் இயற்கை நார் அல்ல. “செயற்கைப் பட்டு” என்ற பெயர் இருந்தாலும் அது பட்டுப்புழுவின் பட்டு அல்ல.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** மரக்கூழ் இயற்கைப் பொருள் என்றாலும், அதை வேதிச் செயல்முறையில் மாற்றித் தயாரிப்பது ரேயான். எனவே ரேயான் இயற்கை நார் அல்ல. “செயற்கைப் பட்டு” என்ற பெயர் இருந்தாலும் அது பட்டுப்புழுவின் பட்டு அல்ல.
 
 | Comparison | Natural silk | Rayon |
 |---|---|---|
@@ -129,7 +148,9 @@ Classification reference: [NCERT chapter hosted by IIT Kanpur SATHEE: Fabrics Ar
 
 Cotton fibres grow as hairs on the seeds inside the **cotton boll**, the fruit of the cotton plant. Mature bolls open and expose the cotton. Seeds must be separated before the fibres are prepared for yarn.
 
-**தமிழில்:** பருத்திக் காயினுள் விதைகளைச் சுற்றி நார்கள் வளர்கின்றன. காய் வெடித்ததும் பஞ்சு வெளியில் தெரியும். நூல் தயாரிப்பதற்கு முன்பு விதைகளைப் பிரிக்க வேண்டும்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பருத்திக் காயினுள் விதைகளைச் சுற்றி நார்கள் வளர்கின்றன. காய் வெடித்ததும் பஞ்சு வெளியில் தெரியும். நூல் தயாரிப்பதற்கு முன்பு விதைகளைப் பிரிக்க வேண்டும்.
 
 **Exam link:** Cotton → plant fibre → seed hairs → ginning.
 
@@ -146,21 +167,38 @@ Cotton fibres grow as hairs on the seeds inside the **cotton boll**, the fruit o
 
 **Jute retting:** Microbial action helps loosen the material binding the fibres within harvested stems, often during soaking. Fibres can then be separated, washed and dried. **Retting is not cotton ginning.**
 
-**தமிழில்:** சணல் தண்டை ஊறவைக்கும்போது நுண்ணுயிர்களின் செயலால் நார்களை இணைக்கும் பொருட்கள் தளர்கின்றன. அதன் பின் நார்களைப் பிரிக்கலாம். பருத்தியில் விதை பிரிப்பது வேறு செயல்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** சணல் தண்டை ஊறவைக்கும்போது நுண்ணுயிர்களின் செயலால் நார்களை இணைக்கும் பொருட்கள் தளர்கின்றன. அதன் பின் நார்களைப் பிரிக்கலாம். பருத்தியில் விதை பிரிப்பது வேறு செயல்.
 
 References: [ICAR: jute retting](https://epubs.icar.org.in/index.php/JAEM/article/view/89791), [Coir Board: coconut husk fibres](https://coirboard.gov.in/?page_id=4076). Linen is also a distractor in the dated rayon questions in Section 11.
 
-**Stage 1 self-check:** Explain fibre → yarn → fabric in your own words. Classify cotton, silk and rayon, giving a reason for each. If the words and groups are unclear, revisit Sections 2–5 before learning process sequences.
+<!-- separate learning boxes -->
+
+> **Stage 1 self-check:** Explain fibre → yarn → fabric in your own words. Classify cotton, silk and rayon, giving a reason for each. If the words and groups are unclear, revisit Sections 2–5 before learning process sequences.
 
 ## 6. 🔬 Cotton to yarn | பருத்தியிலிருந்து நூல்
 
 ### 6.1 Learn the short sequence first
 
-**Cotton picking → Ginning → Cleaning/carding → Spinning → Weaving/knitting → Fabric.**
+> **🔬 Process map: cotton → fabric**
+>
+> 1. **Pick cotton / பருத்தியைச் சேகரி** — collect the raw material.
+> 2. **Gin / விதைகளைப் பிரி** — separate fibres from seeds.
+> 3. **Clean and card / நார்களைச் சீராக்கு** — prepare the fibres.
+> 4. **Spin / நூலாக்கு** — draw out and twist fibres into yarn.
+> 5. **Weave or knit / நெய் அல்லது பின்னு** — arrange the yarns.
+> 6. **Fabric / துணி** — the resulting textile material.
 
-**Why this order?** First collect the raw cotton. Remove seeds before preparing the fibres; prepare fibres before making yarn; use yarn to make woven or knitted fabric. Each step prepares the material needed by the next step.
+> **💡 Why this order?**
+>
+> First remove seeds. Then prepare the fibres, make yarn and use that yarn to make fabric.
+>
+> Each step prepares the material needed by the next step.
 
-**தமிழில்:** பருத்தியைச் சேகரித்தல் → விதைகளைப் பிரித்தல் → நார்களைச் சீராக்குதல் → நூலாக்குதல் → துணியாக்குதல். பெயர்களை மட்டும் அல்லாமல், ஒவ்வொரு கட்டத்தில் பொருள் எப்படி மாறுகிறது என்பதையும் நினைவில் கொள்ளுங்கள்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பருத்தியைச் சேகரித்தல் → விதைகளைப் பிரித்தல் → நார்களைச் சீராக்குதல் → நூலாக்குதல் → துணியாக்குதல். பெயர்களை மட்டும் அல்லாமல், ஒவ்வொரு கட்டத்தில் பொருள் எப்படி மாறுகிறது என்பதையும் நினைவில் கொள்ளுங்கள்.
 
 | Process | What happens? | Tamil explanation | Common confusion |
 |---|---|---|---|
@@ -172,7 +210,9 @@ References: [ICAR: jute retting](https://epubs.icar.org.in/index.php/JAEM/articl
 
 **Takli** is a hand spindle. **Charkha** is a spinning wheel. Both are associated with yarn making. A **loom** is used for weaving.
 
-**தமிழில்:** தக்ளி/ராட்டை = நூல் நூற்றல். தறி = நெசவு. கருவியின் பெயரையும் அது செய்யும் வேலையையும் சேர்த்து நினைவில் கொள்ளுங்கள்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** தக்ளி/ராட்டை = நூல் நூற்றல். தறி = நெசவு. கருவியின் பெயரையும் அது செய்யும் வேலையையும் சேர்த்து நினைவில் கொள்ளுங்கள்.
 
 ### 6.2 Detail needed for source Q9
 
@@ -188,7 +228,9 @@ Start with **ginned cotton bales**, then follow **blow room → carding → draw
 | Roving | Makes a thinner strand with a small amount of twist |
 | Ring spinning | Draws further and adds twist to form the yarn |
 
-**தமிழில்:** Sliver என்பது தளர்வாகச் சேர்ந்த நார்த் தொகுப்பு. Roving அதைவிட மெலிதான, சிறிது முறுக்கப்பட்ட நிலை. இறுதியில் தேவையான நூல் உருவாகிறது.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** Sliver என்பது தளர்வாகச் சேர்ந்த நார்த் தொகுப்பு. Roving அதைவிட மெலிதான, சிறிது முறுக்கப்பட்ட நிலை. இறுதியில் தேவையான நூல் உருவாகிறது.
 
 This sequence explains the PDF's question. Other spinning systems can use different routes; do not learn it as compulsory for every fabric. [CottonWorks: fibre preparation](https://cottonworks.com/learning-hub/yarn-manufacturing/fiber-preparation-for-spinning/)
 
@@ -203,7 +245,9 @@ This sequence explains the PDF's question. Other spinning systems can use differ
 
 **Supplement:** **Warp** runs lengthwise; **weft** runs across the fabric. In basic weaving they cross approximately at right angles. “Knitting uses one yarn” describes an introductory example; some knitting systems use many yarns.
 
-**தமிழில்:** நெசவில் நீளவாக்கு நூல், குறுக்குவாக்கு நூல் இணைகின்றன. பின்னலில் வளையங்கள் ஒன்றுடன் ஒன்று இணைகின்றன. “ஒரு நூல்” என்பது எளிய பின்னலுக்கான விளக்கம்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** நெசவில் நீளவாக்கு நூல், குறுக்குவாக்கு நூல் இணைகின்றன. பின்னலில் வளையங்கள் ஒன்றுடன் ஒன்று இணைகின்றன. “ஒரு நூல்” என்பது எளிய பின்னலுக்கான விளக்கம்.
 
 **Material is not construction:** Cotton can be woven into a shirt or knitted into a T-shirt. Silk can also be woven or knitted. Therefore, “silk” alone does not tell you the construction method.
 
@@ -217,7 +261,9 @@ This sequence explains the PDF's question. Other spinning systems can use differ
 
 Wool comes mainly from sheep. The PDF also introduces fibres from goats, yaks, camels and alpacas. Many wool-bearing animals have coarse outer hair and a softer undercoat; the useful fibre differs by animal and breed.
 
-**தமிழில்:** செம்மறியாடு கம்பளியின் முக்கிய மூலம். சில விலங்குகளில் வெளிப்புறம் கரடுமுரடான ரோமமும் உள்ளே மென்மையான ரோமமும் இருக்கும்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** செம்மறியாடு கம்பளியின் முக்கிய மூலம். சில விலங்குகளில் வெளிப்புறம் கரடுமுரடான ரோமமும் உள்ளே மென்மையான ரோமமும் இருக்கும்.
 
 Woolly fibres and the fabric structure trap air. Trapped air slows heat loss from the body. **A woollen sweater helps retain body heat; it does not act like an electric heater.**
 
@@ -236,32 +282,40 @@ Cashmere clarification: [Cashmere and Camel Hair Manufacturers Institute](https:
 
 **Rearing** includes feeding and caring for animals. **Selective breeding** means choosing parents with desired inherited features, such as useful fleece characteristics, so those features can become more common over generations.
 
-**தமிழில்:** நல்ல கம்பளி தரும் பண்புகள் உள்ள விலங்குகளைத் தேர்ந்தெடுத்து இனப்பெருக்கம் செய்வது selective breeding. ஒரே ஆட்டின் ரோமத்தை வெட்டுவது selective breeding அல்ல.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** நல்ல கம்பளி தரும் பண்புகள் உள்ள விலங்குகளைத் தேர்ந்தெடுத்து இனப்பெருக்கம் செய்வது selective breeding. ஒரே ஆட்டின் ரோமத்தை வெட்டுவது selective breeding அல்ல.
 
 ### 8.3 Wool processing
 
 **Purpose:** turn collected fleece into clean, prepared fibres and then yarn. Keep collecting, cleaning, grading and yarn-making as separate jobs.
 
-| Step | Process | What to remember / தமிழில் |
-|---|---|---|
-| 1 | Shearing | Clipping fleece from the animal / ரோமத்தை வெட்டுதல் |
-| 2 | Scouring | Washing away grease, dirt and sweat residues / அழுக்கு, கொழுப்புப் பசை நீக்குதல் |
-| 3 | Sorting | Separating wool by quality/texture / தரம், தன்மைப்படிப் பிரித்தல் |
-| 4 | Removing burrs | Removing plant matter caught in fleece / ஒட்டிய தாவரக் கழிவுகளை அகற்றுதல் |
-| 5 | Dyeing | Adding desired colour / நிறமூட்டுதல் |
-| 6 | Preparing fibres and spinning | Straightening/combining and making yarn / சீராக்கி நூலாக்குதல் |
+> **🔬 Process map: fleece → wool yarn**
+>
+> 1. **Shearing** — clip fleece. / ரோமத்தை வெட்டுதல்
+> 2. **Scouring** — wash away grease, dirt and sweat residues. / அழுக்கு, கொழுப்புப் பசை நீக்குதல்
+> 3. **Sorting** — separate wool by quality/texture. / தரம், தன்மைப்படிப் பிரித்தல்
+> 4. **Remove burrs** — take out plant matter caught in fleece. / ஒட்டிய தாவரக் கழிவுகளை அகற்றுதல்
+> 5. **Dyeing** — add colour. / நிறமூட்டுதல்
+> 6. **Prepare and spin** — straighten/combine fibres and make yarn. / சீராக்கி நூலாக்குதல்
 
 Learn this as the PDF's simplified sequence. Industrial ordering can vary; dyeing is not compulsory for every wool product.
 
-**Correction - shearing:** The intended process clips wool above the skin; it does not deliberately remove a layer of skin. The exposed hair shaft is non-living, but the animal's skin is living and can be injured by poor handling. Do not learn “skin removal causes no pain” from pp.36-37.
+<!-- separate learning boxes -->
 
-**Correction - burrs:** Burrs are plant material such as seed structures caught in fleece. Balls forming on a worn sweater are **pills**, made of tangled fibres. They are not the same thing.
+> **Correction - shearing:** The intended process clips wool above the skin; it does not deliberately remove a layer of skin. The exposed hair shaft is non-living, but the animal's skin is living and can be injured by poor handling. Do not learn “skin removal causes no pain” from pp.36-37.
+
+<!-- separate learning boxes -->
+
+> **Correction - burrs:** Burrs are plant material such as seed structures caught in fleece. Balls forming on a worn sweater are **pills**, made of tangled fibres. They are not the same thing.
 
 ### 8.4 Sorter's disease / Anthrax
 
 The PDF associates wool sorting with anthrax. Learn the accurate link: **anthrax is an infectious disease caused by Bacillus anthracis**. Exposure to contaminated animal products, including wool, can transmit it. Inhalation anthrax was historically associated with wool sorting.
 
-**தமிழில்:** நோய்க்காரணம் பாக்டீரியா. பாதிக்கப்பட்ட விலங்குப் பொருட்களில் உள்ள கிருமி வித்துகளுடன் தொடர்பு ஏற்படுவது ஆபத்து. கம்பளியைப் பிரிக்கும் வேலை செய்வதாலேயே அனைவருக்கும் நோய் வரும் என்பது தவறு.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** நோய்க்காரணம் பாக்டீரியா. பாதிக்கப்பட்ட விலங்குப் பொருட்களில் உள்ள கிருமி வித்துகளுடன் தொடர்பு ஏற்படுவது ஆபத்து. கம்பளியைப் பிரிக்கும் வேலை செய்வதாலேயே அனைவருக்கும் நோய் வரும் என்பது தவறு.
 
 Do not reduce it to “a blood disease caused by sorting”. [CDC: anthrax in the workplace](https://www.cdc.gov/niosh/anthrax/about/)
 
@@ -271,22 +325,32 @@ Do not reduce it to “a blood disease caused by sorting”. [CDC: anthrax in th
 
 Silk is a **natural animal fibre** secreted by the silkworm larva while forming its cocoon. The silkworm is a moth's larva, not an earthworm. **Sericulture** means rearing silkworms for silk production.
 
-**தமிழில்:** பட்டுப்புழு என்பது பட்டுப்பூச்சியின் இளம்புழுப் பருவம். அது சுரக்கும் இழையால் பட்டுக்கூடு உருவாகிறது. பட்டுக்காக இவற்றை வளர்ப்பது பட்டு வளர்ப்பு - sericulture.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** பட்டுப்புழு என்பது பட்டுப்பூச்சியின் இளம்புழுப் பருவம். அது சுரக்கும் இழையால் பட்டுக்கூடு உருவாகிறது. பட்டுக்காக இவற்றை வளர்ப்பது பட்டு வளர்ப்பு - sericulture.
 
 **Supplement:** The common domesticated mulberry silkworm is **Bombyx mori**. Silk contains **fibroin**, the structural protein, and **sericin**, a gum-like protein coating. Wool and silk are both protein fibres, but wool's main protein is keratin. [NPTEL: textile fibre introduction](https://archive.nptel.ac.in/content/storage2/courses/116102016/introduction/introduction.htm)
 
 ### 9.2 Life cycle
 
-1. **Egg / முட்டை:** the larva hatches from it.
-2. **Larva or silkworm / பட்டுப்புழு:** feeds, grows and eventually forms its silk cocoon.
-3. **Pupa / கூட்டுப்புழு:** develops inside the cocoon.
-4. **Adult silk moth / முதிர்ந்த பட்டுப்பூச்சி:** emerges if development continues; adult females lay eggs after mating, starting the next generation.
+> **🔬 Process map: silkworm life cycle**
+>
+> 1. **Egg / முட்டை** — the larva hatches.
+> 2. **Larva / பட்டுப்புழு** — feeds, grows and forms a cocoon.
+> 3. **Pupa / கூட்டுப்புழு** — develops inside the cocoon.
+> 4. **Adult moth / முதிர்ந்த பட்டுப்பூச்சி** — emerges if development continues.
+>
+> **Cycle repeats:** adult females lay eggs after mating → the next generation begins.
 
 The larva feeds and grows. It then secretes silk and builds a cocoon, with head movements described as a figure of eight in the PDF. It becomes a pupa within the cocoon, and later an adult moth emerges if development continues.
 
-**Key trap:** **Pupa = the animal's developmental stage. Cocoon = its protective covering.** They are not synonyms.
+<!-- separate learning boxes -->
 
-**தமிழில்:** கூட்டுப்புழு என்பது உயிரியின் ஒரு பருவம். பட்டுக்கூடு என்பது அதனைச் சுற்றியுள்ள பட்டு உறை. இரண்டையும் ஒன்றாக நினைக்க வேண்டாம்.
+> **Key trap:** **Pupa = the animal's developmental stage. Cocoon = its protective covering.** They are not synonyms.
+
+<!-- separate learning boxes -->
+
+> **தமிழில்:** கூட்டுப்புழு என்பது உயிரியின் ஒரு பருவம். பட்டுக்கூடு என்பது அதனைச் சுற்றியுள்ள பட்டு உறை. இரண்டையும் ஒன்றாக நினைக்க வேண்டாம்.
 
 ### 9.3 Rearing
 
@@ -294,7 +358,9 @@ Eggs are kept under suitable hygienic conditions, temperature and humidity. Mulb
 
 The PDF mentions approximately 25-30 days of larval feeding. Treat this as a teaching example, not a fixed duration for every silk-producing species or environment. Egg number and complete life-cycle duration also vary.
 
-**தமிழில்:** மல்பெரி பட்டுப்புழுவுக்கு மல்பெரி இலைகள் உணவு. எல்லா வகைப் பட்டுப்புழுக்களுக்கும் இதே உணவு அல்லது இதே வளர்ச்சி நாட்கள் என்று பொதுமைப்படுத்த வேண்டாம்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** மல்பெரி பட்டுப்புழுவுக்கு மல்பெரி இலைகள் உணவு. எல்லா வகைப் பட்டுப்புழுக்களுக்கும் இதே உணவு அல்லது இதே வளர்ச்சி நாட்கள் என்று பொதுமைப்படுத்த வேண்டாம்.
 
 ### 9.4 Cocoon to silk thread
 
@@ -313,7 +379,9 @@ For the conventional reeled-silk route, read the steps as follows:
 
 **Supplement:** In conventional reeled-silk production, **stifling** stops the pupa developing into a moth, protecting the cocoon's continuous filament. Cocoon **cooking** softens the gum so unwinding is easier. These purposes should not be merged into “heat simply produces silk”.
 
-**தமிழில்:** கூடு உருவான பிறகுதான் அதிலுள்ள இழையை அவிழ்த்து எடுக்கிறோம். வெப்பம் புதிதாகப் பட்டு இழையை உருவாக்குவதில்லை. இழையை அவிழ்ப்பது reeling; குறுகிய நார்களை முறுக்கி நூலாக்குவது spinning.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** கூடு உருவான பிறகுதான் அதிலுள்ள இழையை அவிழ்த்து எடுக்கிறோம். வெப்பம் புதிதாகப் பட்டு இழையை உருவாக்குவதில்லை. இழையை அவிழ்ப்பது reeling; குறுகிய நார்களை முறுக்கி நூலாக்குவது spinning.
 
 **Exception for the exam trap:** Eri silk is commonly **spun**. Thus “all silk is always reeled” is too broad. [Central Silk Board: mulberry cocoon processing](https://silks.csb.gov.in/jorhat/processing-of-mulberry-cocoons/), [Central Silk Board: eri processing](https://silks.csb.gov.in/tamenglong/processing-of-eri-cocoons/)
 
@@ -337,13 +405,17 @@ There are **four broad commercial groups** in this table. Some official descript
 | Pisciculture | Fish farming | மீன் வளர்ப்பு |
 | Silviculture | Establishment and management of forest stands | வன மர வளர்ப்பு மற்றும் பராமரிப்பு |
 
-**Quick rule:** Read **seri** carefully; **silvi** is a different word. The PDF's final question uses this confusion.
+<!-- separate learning boxes -->
+
+> **Quick rule:** Read **seri** carefully; **silvi** is a different word. The PDF's final question uses this confusion.
 
 ### 9.7 Short history connection
 
 The PDF's story of a cocoon falling into a Chinese empress's tea is a **traditional discovery legend**, not proof of an exact inventor or discovery date. For the dated RRB question in Section 11, remember the historical association of early silk production with **China**. The Silk Route was a trade network, not one single road.
 
-**Stage 2 self-check:** Explain ginning versus spinning, shearing versus scouring, and cocoon versus pupa. Then say the silk life-cycle order. Return to the relevant process in Sections 6–9 if you can recall a name but cannot explain its job.
+<!-- separate learning boxes -->
+
+> **Stage 2 self-check:** Explain ginning versus spinning, shearing versus scouring, and cocoon versus pupa. Then say the silk life-cycle order. Return to the relevant process in Sections 6–9 if you can recall a name but cannot explain its job.
 
 ## 10. ⚠️ Comparisons and source corrections | குழப்பங்களைத் தவிர்ப்போம்
 
@@ -388,7 +460,9 @@ The PDF's story of a cocoon falling into a Chinese empress's tea is a **traditio
 
 **Priority rule:** First master classification, rayon/artificial silk and sericulture. Next learn the PDF's process sequences and wool/silk distinctions. Supplementary protein names, silk types and plant-part matches support related general-science questions; no specific PYQ occurrence is claimed for every added fact.
 
-**தமிழில்:** தேதி, தேர்வு, shift உள்ள மேற்கோள்கள் தனியாகக் கொடுக்கப்பட்டுள்ளன. அவற்றின் அடிப்படையில் படிப்புக்கு முன்னுரிமை அளிக்கலாம்; அதே வினா மீண்டும் வரும் என்று உறுதி இல்லை.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** தேதி, தேர்வு, shift உள்ள மேற்கோள்கள் தனியாகக் கொடுக்கப்பட்டுள்ளன. அவற்றின் அடிப்படையில் படிப்புக்கு முன்னுரிமை அளிக்கலாம்; அதே வினா மீண்டும் வரும் என்று உறுதி இல்லை.
 
 ## 12. 📝 Worked model questions | விளக்கத்துடன் மாதிரி வினாக்கள்
 
@@ -605,7 +679,9 @@ Score **one point per fully correct answer**. Q6 and Q9 need both sides of the d
 
 **Study gate:** Score at least **7/10 unaided** before harder PYQ practice. Below that, repair the specific confusion and try fresh questions. A guided answer does not count as independent evidence. Use the existing plan's 7-day and 21-day reviews; reading this chapter alone does not establish mastery.
 
-**தமிழில்:** உங்கள் விடையை முதலில் எழுதுங்கள்; பிறகு விடைக்குறிப்புடன் ஒப்பிடுங்கள். 7/10 கிடைத்தது ஆரம்ப நிலைப் பயிற்சிக்கான அளவுகோல் மட்டுமே. நேரக்கட்டுப்பாட்டிலும் சில நாட்களுக்குப் பிறகும் சரியாக விடையளிக்க முடியுமா என்பதையும் சோதிக்க வேண்டும்.
+<!-- separate learning boxes -->
+
+> **தமிழில்:** உங்கள் விடையை முதலில் எழுதுங்கள்; பிறகு விடைக்குறிப்புடன் ஒப்பிடுங்கள். 7/10 கிடைத்தது ஆரம்ப நிலைப் பயிற்சிக்கான அளவுகோல் மட்டுமே. நேரக்கட்டுப்பாட்டிலும் சில நாட்களுக்குப் பிறகும் சரியாக விடையளிக்க முடியுமா என்பதையும் சோதிக்க வேண்டும்.
 
 | Evidence | Your record |
 |---|---|

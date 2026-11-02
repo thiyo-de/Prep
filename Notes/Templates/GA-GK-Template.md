@@ -59,9 +59,18 @@ Use sensible defaults from the current plan instead of asking for information al
 
 **தமிழில்:** முதலில் பொருள், அடுத்து விளக்கம், அதன் பின் தேர்வுக்கான தகவல் மற்றும் பயன்பாடு. கடினமான சொல்லை விளக்காமல் பயன்படுத்த வேண்டாம். எளிய மொழியில் தேவையான ஆழத்துடன் கற்பிக்க வேண்டும்.
 
-### 3A. Text-only layout and learning flow
+### 3A. Colourful revision layout and learning flow
 
-**Do not add images to chapter notes. Do not search for, download, generate or create images, diagrams or image placeholders.** Spend the effort on accurate explanations and a clear learning sequence. Reading diagrams in a supplied PDF for source analysis is still allowed; explain the relevant information in words.
+**Do not search for, download or generate images.** Use **text-based process diagrams, concept maps, coloured learning boxes and generous spacing** instead. These notes will be reused for revision through the 2027 exam preparation period: make them welcoming and easy to scan, like a well-spaced school textbook, while retaining accurate SSC/RRB depth. Reading diagrams in a supplied PDF for source analysis is still allowed.
+
+**தமிழில்:** படங்கள் தேட வேண்டாம். எழுத்து வடிவச் செயல்முறை வரைபடங்கள், கருத்து வரைபடங்கள், நிற வேறுபாடுள்ள விளக்கப் பெட்டிகள் மற்றும் போதுமான இடைவெளியைப் பயன்படுத்துங்கள். ஒவ்வொரு மீள்பார்வையிலும் எளிதாகப் படிக்க முடியும் வகையில் அமைக்கவும்.
+
+- Restore useful process diagrams as **numbered steps inside a Markdown blockquote** labelled `**🔬 Process map: [topic]**`. The Reader displays these as linked step cards; plain Markdown still shows the ordered steps.
+- Use a blockquote labelled `**🧠 Concept map: [topic]**` with short bullets for classifications. Each branch should have a category, key fact and Tamil meaning; keep detailed explanations nearby.
+- Separate `**💡 Why…**`, `**தமிழில்:**`, `**⚠️ Exam trap:**` and `**📌 Remember:**` into short learning boxes. Blue means explanation/process, purple means classification, green means recap/recall, amber means caution. Always retain a text label so colour is not the only cue.
+- Keep each box focused. Use paragraphs of about 2–3 sentences, one operation per process step and clear gaps before a new concept. Avoid squeezing English, Tamil, a warning and a long process into one paragraph.
+- Use normal Markdown quotes, lists and tables so the content remains readable outside the Reader. Do not use raster images, SVG illustrations or wide ASCII-art diagrams.
+- Check both light/dark themes and a narrow mobile view when changing Reader styles. Keep text readable and tables horizontally scrollable; do not shrink content just to fit more on screen.
 
 - Open with a short learning route: prerequisites, core ideas, applications, worked practice, revision and independent practice. State which sections to read at each stage and what the learner should be able to do before continuing.
 - Teach each concept in the same order: **meaning -> familiar example -> how/why -> key fact -> Tamil recap -> common confusion -> short self-check**. Use only the parts that help; avoid repetitive labels for trivial facts.
@@ -70,7 +79,7 @@ Use sensible defaults from the current plan instead of asking for information al
 - Use short paragraphs and numbered steps for methods. Use small comparison tables, preferably 3-4 columns; keep long explanations outside tables.
 - Keep Tamil directly beside its English concept. Avoid splitting related explanations across distant sections.
 - Use consistent heading levels, sequential numbering and blank lines around headings, tables and lists. Do not align text using spaces, tabs or wide ASCII diagrams.
-- Use short written sequences for processes; retain the explanation of why each step follows the previous one.
+- Use process maps for sequences that are easier to follow step by step; explain why each step follows the previous one. A short inline arrow sequence is suitable only when it remains easy to read.
 - Give a clear stopping check after each learning stage. A learner who cannot explain the basics should repair that section before harder questions.
 - Separate questions from answers. Label worked examples, independent questions, PDF answer guides and publisher-reported PYQs distinctly.
 - Finish with a compact recall sheet and an honest progress log. Beginner-to-exam readiness requires successful unaided practice, not merely reading a long note.
@@ -267,7 +276,8 @@ Use **concepts → worked models → unaided easy practice → relevant PYQs →
 - [ ] The source has actually been inspected; coverage and unreadable parts are disclosed.
 - [ ] Necessary basics are explained before facts, applications and exceptions.
 - [ ] Tests/processes contain complete steps, observations and conclusions.
-- [ ] Notes are text-only: no images, image placeholders or image-search tasks.
+- [ ] No downloaded/generated images or image-search tasks; useful text process maps and concept maps are included.
+- [ ] Colour, readable type and breathing room support repeated revision; explanations, Tamil recaps and traps are clearly separated.
 - [ ] Headings, spacing and compact tables are readable; concepts progress from prerequisites to application without unexplained jumps.
 - [ ] Emojis provide consistent reading cues without clutter, answer hints or unsupported completion marks.
 - [ ] Added material has a specific preparation purpose; specialist tangents are omitted.

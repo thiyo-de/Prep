@@ -1043,6 +1043,72 @@ input[type=checkbox] { accent-color: var(--accent); }
 .paper table p { margin: 0; }
 .paper a { overflow-wrap: anywhere; word-break: break-word; }
 
+/* Spacious revision pages. Labels and list numbers carry meaning as well as colour. */
+:root {
+  --study-blue: #245b96; --study-blue-bg: #edf5ff;
+  --study-purple: #704499; --study-purple-bg: #f5effb;
+  --study-teal: #16675a; --study-teal-bg: #edf8f4;
+  --study-amber: #8b540a; --study-amber-bg: #fff7e8;
+}
+:root[data-theme="dark"] {
+  --study-blue: #a7ceff; --study-blue-bg: #1b2b3d;
+  --study-purple: #d7b9f6; --study-purple-bg: #2c2439;
+  --study-teal: #a0dfcc; --study-teal-bg: #1b322c;
+  --study-amber: #f3d09c; --study-amber-bg: #352c1e;
+}
+.paper:has(.study-note) { font-size: 16px; line-height: 1.95; }
+.paper .study-note { max-width: 78ch; margin-inline: auto; overflow-wrap: break-word; }
+.paper .study-note + .study-note { margin-top: 52px; padding-top: 40px; }
+.paper .study-note h2 {
+  color: var(--study-blue); font-size: 23px; line-height: 1.65;
+  padding: 16px 20px; margin-bottom: 28px;
+  border-left: 4px solid var(--study-blue); border-radius: 0 12px 12px 0;
+  background: var(--study-blue-bg);
+}
+.paper .study-note h3 { font-size: 18px; line-height: 1.75; margin: 38px 0 18px; color: var(--study-purple); }
+.paper .study-note h4 { font-size: 16px; margin: 28px 0 16px; }
+.paper .study-note p { margin-bottom: 22px; }
+.paper .study-note .model-question { margin-top: 38px; padding: 18px 20px; background: var(--study-purple-bg); border-radius: 10px; }
+.paper .study-note .model-question strong { color: var(--study-purple); }
+.paper .study-note li { margin-block: 14px; padding-left: 5px; }
+.paper .study-note li > p { margin-bottom: 12px; }
+.paper .study-note table { font-size: 14px; line-height: 1.9; }
+.paper .study-note th, .paper .study-note td { padding: 16px; }
+.paper .study-note th { background: var(--study-blue-bg); }
+.paper .study-note tbody tr:nth-child(even) { background: var(--row); }
+.paper .study-note .table-scroll { margin-block: 26px 34px; }
+.paper .learning-box {
+  --box-ink: var(--study-blue); --box-bg: var(--study-blue-bg);
+  border-left: 4px solid var(--box-ink); background: var(--box-bg);
+  padding: 20px 24px; margin: 26px 0; border-radius: 0 12px 12px 0;
+  font-size: inherit; line-height: 1.95; color: var(--text);
+}
+.paper .learning-box > p:first-child > strong:first-child { color: var(--box-ink); }
+.paper .learning-box > :last-child { margin-bottom: 0; }
+.paper .learning-tamil, .paper .learning-remember, .paper .learning-check {
+  --box-ink: var(--study-teal); --box-bg: var(--study-teal-bg);
+}
+.paper .learning-tamil { padding-block: 14px; }
+.paper .learning-trap { --box-ink: var(--study-amber); --box-bg: var(--study-amber-bg); }
+.paper .learning-map { --box-ink: var(--study-purple); --box-bg: var(--study-purple-bg); }
+.paper .learning-flow > ol { margin: 20px 0 0; padding-left: 28px; }
+.paper .learning-flow > ol > li { position: relative; padding: 12px 16px; background: var(--panel); border-radius: 10px; margin: 0 0 30px; }
+.paper .learning-flow > ol > li::marker { color: var(--box-ink); font-weight: 700; }
+.paper .learning-flow > ol > li:not(:last-child)::after {
+  content: '↓'; position: absolute; left: 18px; bottom: -30px; color: var(--box-ink); font-size: 20px; line-height: 30px;
+}
+.paper .learning-flow > ol > li:last-child { margin-bottom: 0; }
+.paper .learning-map > ul { list-style: none; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; padding: 0; margin: 20px 0 0; }
+.paper .learning-map > ul > li { margin: 0; padding: 16px; border-radius: 10px; background: var(--panel); }
+@media (max-width: 700px) {
+  .paper:has(.study-note) { font-size: 15px; }
+  .paper .study-note h2 { font-size: 20px; padding: 14px; }
+  .paper .study-note h3 { font-size: 17px; }
+  .paper .learning-box { padding: 16px; }
+  .paper .learning-map > ul { grid-template-columns: 1fr; }
+  .paper .study-note table { font-size: 13.5px; }
+}
+
 /* Sticky Outline (TOC) */
 .outline {
   position: sticky;

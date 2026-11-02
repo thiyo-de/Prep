@@ -103,6 +103,29 @@ test('Markdown rendering removes executable HTML and external resource loads', a
   } finally { close(); }
 });
 
+test('biology revision pages keep readable process maps, Tamil recaps and separate worked questions', async () => {
+  for (const [id, file, flows, maps, questions] of [
+    ['notes-biology-01', '01-Food-and-Nutrition.md', 2, 2, 25],
+    ['notes-biology-02', '02-Fibre-to-Fabric.md', 4, 1, 20]
+  ]) {
+    const source = await readFile(`../Notes/General Awareness/Biology/${file}`, 'utf8');
+    const { w, $, close } = await setup({ id, source });
+    try {
+      const content = $('content');
+      assert.equal(content.querySelectorAll('.learning-flow').length, flows);
+      assert.equal(content.querySelectorAll('.learning-map').length, maps);
+      assert.equal(content.querySelectorAll('.model-question').length, questions);
+      assert.ok(content.querySelector('.learning-tamil'));
+      assert.ok(content.querySelector('.learning-trap'));
+      assert.ok([...content.querySelectorAll('.learning-flow')].every(box => box.querySelector('ol > li')));
+      assert.ok([...content.querySelectorAll('.doc-section')].every(section => section.classList.contains('study-note')));
+      assert.equal(content.querySelectorAll('img, svg, iframe').length, 0);
+      $('search').value = 'Process map'; $('search').dispatchEvent(new w.Event('input'));
+      assert.ok(content.querySelector('.doc-section:not([hidden]) .learning-flow'));
+    } finally { close(); }
+  }
+});
+
 test('offline drafts remain editable and exportable, then reconnect without losing ticks', async () => {
   const draft = { version: 1, base: { text: fixture, sha: 'sha1' }, text: fixture.replace('[ ] Signs', '[x] Signs') };
   const { w, $, network, downloads, close } = await setup({ stored: draft, offline: true });

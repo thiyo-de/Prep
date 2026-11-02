@@ -161,6 +161,7 @@ export function renderDocument(text, doc, interactive = true, forPdf = false) {
     }
   });
   const container = document.createElement('div');
+  if (doc.path.startsWith('Notes/')) container.classList.add('study-note');
   container.innerHTML = DOMPurify.sanitize(md.render(text), {
     ALLOWED_TAGS: [
       'h1','h2','h3','h4','h5','h6','p','a','strong','em','b','i','s','del','sub','sup','mark','span','div',
@@ -170,6 +171,22 @@ export function renderDocument(text, doc, interactive = true, forPdf = false) {
     ALLOWED_ATTR: ['href','title','start','align','type','class','style','data-task-line','aria-label','aria-hidden','checked','xmlns','encoding'],
     ALLOW_DATA_ATTR: false
   });
+  // Ordinary Markdown quotes stay readable on GitHub and gain teaching colours here.
+  for (const quote of container.querySelectorAll('blockquote')) {
+    const label = quote.querySelector(':scope > p:first-child > strong:first-child')?.textContent
+      .replace(/^[^\p{L}\p{N}]+/u, '') || '';
+    const kind = /^Process map/i.test(label) ? 'flow'
+      : /^Concept map/i.test(label) ? 'map'
+      : /^(தமிழில்|செய்முறை)/u.test(label) ? 'tamil'
+      : /^(Why|Understand)/i.test(label) ? 'why'
+      : /^(Trap|Exam trap|Key trap|Correction|Limit)/i.test(label) ? 'trap'
+      : /^(Remember|Recall|Quick rule)/i.test(label) ? 'remember'
+      : /^Stage \d+ self-check/i.test(label) ? 'check' : null;
+    if (kind) quote.classList.add('learning-box', `learning-${kind}`);
+  }
+  for (const p of container.querySelectorAll(':scope > p')) {
+    if (/^[A-E]\d+\./.test(p.querySelector(':scope > strong:first-child')?.textContent || '')) p.classList.add('model-question');
+  }
   // Source-authored HTML inputs must never masquerade as editable tasks.
   for (const input of container.querySelectorAll('input')) {
     const task = taskMap.get(Number(input.dataset.taskLine));
@@ -213,6 +230,7 @@ export function sectionsFrom(container) {
   }
   if (current.children.length) sections.push(current);
   sections.forEach((section, i) => {
+    if (container.classList.contains('study-note')) section.classList.add('study-note');
     section.id = `section-${i}`;
     for (const table of section.querySelectorAll('table')) {
       const wrap = document.createElement('div');
