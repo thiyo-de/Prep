@@ -49,15 +49,5 @@ export const noteDocuments = [
     "group": "Study notes",
     "subgroup": "Biology",
     "path": "Notes/General Awareness/Biology/01-Food-and-Nutrition.md"
-  },
-  {
-    "id": "notes-biology-02",
-    "title": "Biology: Fibre to fabric",
-    "icon": "plant",
-    "subtitle": "Plant and animal fibres, silk and wool processing cycles.",
-    "label": "Biology: Fibre to fabric",
-    "group": "Study notes",
-    "subgroup": "Biology",
-    "path": "Notes/General Awareness/Biology/02-Fibre-to-Fabric.md"
   }
 ];
