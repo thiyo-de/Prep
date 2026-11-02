@@ -5,10 +5,12 @@ on:
     branches: [main]
     paths:
       - 'Reader/**'
+      - 'Notes/**'
       - '.github/workflows/reader-pages.yml'
   pull_request:
     paths:
       - 'Reader/**'
+      - 'Notes/**'
       - '.github/workflows/reader-pages.yml'
   workflow_dispatch:
 

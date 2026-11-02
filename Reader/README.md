@@ -49,7 +49,9 @@ The workflow is [reader-pages.yml](../.github/workflows/reader-pages.yml). It te
 3. Run **Reader checks and Pages deployment** from Actions, or push a Reader change to `main`.
 4. Use the URL reported by the successful deployment. With the default project domain it should be `https://thiyo-de.github.io/Prep/`; that URL is not evidence of deployment until the workflow succeeds.
 
-Markdown-only checklist saves appear on the next source load; they do not need a site rebuild. Add new document entries in `config.js` when you want them in the sidebar. This workflow publishes the repository's Pages site at its root, not `/Reader/`.
+Markdown-only checklist saves appear on the next source load; they do not need a site rebuild. Study notes are discovered from `Notes/` when starting development, testing or building. The generated menu excludes `Templates/`, hidden entries and folder `README.md` files. It groups notes by folder and keeps existing note routes and draft keys stable. Run `npm run notes` to refresh the index manually; restart development after adding or removing files. The Pages workflow also rebuilds for changes under `Notes/`, so deployed note lists and counts follow the repository. Other document entries remain in `config.js`. This workflow publishes the repository's Pages site at its root, not `/Reader/`.
+
+Study-note subgroups start collapsed on every page load, including direct links to individual notes. Open them manually when needed; selecting a note does not force a closed subgroup open.
 
 Official references: [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages), [authenticated-user API](https://docs.github.com/en/rest/users/users#get-the-authenticated-user), [file contents API](https://docs.github.com/en/rest/repos/contents#create-or-update-file-contents).
 

@@ -73,7 +73,8 @@ function createNavLink(doc) {
   const a = document.createElement('a');
   a.href = `#${doc.id}`;
   a.dataset.nav = doc.id;
-  a.innerHTML = `${icon(doc.icon)}<span>${doc.label || doc.title}</span><span class="draft-dot" title="Local draft" aria-label="Local draft"></span>`;
+  a.innerHTML = `${icon(doc.icon)}<span></span><span class="draft-dot" title="Local draft" aria-label="Local draft"></span>`;
+  a.querySelector('span').textContent = doc.label || doc.title;
   return a;
 }
 
@@ -123,19 +124,20 @@ function buildNav() {
       for (const [subName, subDocs] of subgroups.entries()) {
         const subDetails = document.createElement('details');
         subDetails.className = 'nav-subgroup';
-        subDetails.open = true;
+        subDetails.open = false;
 
         const subSummary = document.createElement('summary');
         subSummary.className = 'nav-sub-summary';
-        const subIcon = subName === 'Reasoning' ? 'brain' : subName === 'English Grammar' ? 'book-open' : 'dna';
+        const subIcon = subDocs[0].icon;
         subSummary.innerHTML = `
           <div class="nav-summary-left">
             <i class="ph ph-caret-right nav-caret" aria-hidden="true"></i>
             ${icon(subIcon)}
-            <span>${subName}</span>
+            <span class="nav-sub-label"></span>
           </div>
           <span class="nav-sub-count">${subDocs.length}</span>
         `;
+        subSummary.querySelector('.nav-sub-label').textContent = subName;
         subDetails.append(subSummary);
 
         const subBody = document.createElement('div');
@@ -303,12 +305,15 @@ async function loadDocument(id, { discard = false } = {}) {
   $('metric').textContent = 'Loading…'; $('percentage').textContent = ''; $('progress').value = 0;
   $('save-status').textContent = 'Loading document…'; $('content').innerHTML = '<div class="loading"><div class="spinner" aria-hidden="true"></div><p class="loading-title">Opening your study document…</p><p class="loading-sub">Fetching live syllabus from GitHub</p></div>';
   $('outline').replaceChildren(); notice();
+  const activeSubgroup = document.querySelector(`[data-nav="${current.id}"]`)?.closest('.nav-subgroup') || null;
+  document.querySelectorAll('.nav-subgroup').forEach(subgroup => {
+    subgroup.open = subgroup === activeSubgroup;
+  });
   document.querySelectorAll('[data-nav]').forEach(a => {
     const isCurrent = a.dataset.nav === current.id;
     a.classList.toggle('active', isCurrent);
     if (isCurrent) {
       a.setAttribute('aria-current', 'page');
-      a.closest('.nav-subgroup')?.setAttribute('open', '');
       a.closest('.nav-section')?.setAttribute('open', '');
     } else {
       a.removeAttribute('aria-current');
