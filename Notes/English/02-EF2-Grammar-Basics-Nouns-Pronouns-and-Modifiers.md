@@ -66,11 +66,17 @@ A **Noun** is a naming word (person, place, animal, thing, quality, or idea).
                  ▼                                       ▼
           COUNTABLE NOUNS                         UNCOUNTABLE NOUNS
         (எண்ணக்கூடிய பெயர்கள்)                   (எண்ண முடியாத பெயர்கள்)
-        • Proper, Common, Collective             • Abstract & Material Nouns
-        • Can take 'a/an' & plural '-s'          • NEVER take 'a/an' or '-s'
+        • Individual units, items, ideas         • Masses, liquids, substances, qualities
+        • Can take 'a/an' & plural '-s'          • Do NOT take 'a/an' or plural '-s'
         • Answers: "How many?"                   • Answers: "How much?"
-        • Uses: many, few, a few, several        • Uses: much, little, a little
+        • Quantifiers: many, few, several        • Quantifiers: much, little, a little
 ```
+
+> **💡 Understand: Meaning vs. Countability (Crucial Distinction)**  
+> Do not confuse the *semantic category* of a noun with its *grammatical countability*. 
+> - **Abstract nouns CAN be countable:** While some abstract qualities are uncountable (*honesty, patience, advice, information*), many abstract nouns are fully **countable**: *an idea / two ideas*, *a difficulty / several difficulties*, *a hope / many hopes*, *a suggestion / suggestions*, *a decision / decisions*.
+> - **Material nouns can be partitioned:** *water* is uncountable, but *two glasses of water* is countable.
+> - **Countability is a syntactic behavior**, not a rigid meaning box. [Cambridge: Countable and uncountable nouns](https://dictionary.cambridge.org/grammar/british-grammar/countable-and-uncountable-nouns)
 
 ---
 
@@ -105,13 +111,14 @@ In SSC CGL Tier-II, understanding the **Case** of a noun tells you whether it co
     Actor, Lion    Actress, Lioness            Doctor, Student  Ant, Infant
 ```
 
-#### 🔥 The 2 Critical SSC Gender Traps:
+#### ⚠️ Exam Traps in Noun Gender & Pronoun Reference:
 
-1. **Common Gender Default Pronoun Law:**
-   * When a common gender noun (*student, doctor, teacher, candidate, person, voter*) is used in the singular and the sex is not known, standard SSC formal grammar uses **`He / His / Him`** as the default pronoun:
-   * ❌ *Every student must submit their assignment.* (Spoken English error).
-   * ✅ *Every student must submit **his** assignment.*
-   * *(Note: If the context specifically indicates a female group, use 'her').*
+1. **Common Gender & Indefinite Pronoun Agreement (Singular "They" vs. Generic "His"):**
+   * **Modern Standard English (Widely Accepted):** In standard contemporary English (Oxford, Cambridge, Merriam-Webster), singular **`they / their / them`** is completely standard when referring to a singular person of unspecified sex:
+     * *Every student must submit **their** assignment.* (Standard, natural, gender-inclusive).
+   * **Traditional Prescriptive Exam Tradition:** Older British grammar books and certain traditional competitive exam keys historically preferred generic masculine **`his`** (or *his or her*):
+     * *Every student must submit **his** assignment.*
+   * **Exam Strategy:** Recognize both. If an older exam question offers *his* as an option alongside grammatical errors (like pronoun case mismatches), understand that the examiner may follow traditional prescriptive style. However, singular *they* is standard English—as seen in question tags where *Everyone* takes *they*: *"Everyone was satisfied, **weren't they?***" (See EF3 Part 5). Never mark singular *their* as an illiterate error. [Cambridge: All or every](https://dictionary.cambridge.org/grammar/british-grammar/all-or-every)
 
 2. **Neuter Gender for Lower Animals, Insects & Infants:**
    * Inanimate things, small creatures (*ants, flies*), and **human infants/babies whose sex is unknown or irrelevant** take the **Neuter Pronoun `It / Its`**, NEVER *he/she*:
@@ -274,16 +281,19 @@ Any pronoun placed **after a Preposition** must be in the **Object Form** (`me, 
 * ✅ *He **availed himself of** the golden opportunity.*
 * ❌ *She absented from the office yesterday.* $\longrightarrow$ ✅ *She **absented herself from** the office.*
 
-#### Group B: Verbs that can NEVER take a Reflexive Pronoun:
-> **⚠️ Exam trap: Verbs that NEVER take a Reflexive Pronoun**  
-> **keep, stop, turn, qualify, bathe, move, hide, rest**
+#### Group B: Verbs Commonly Used Without Reflexives in Standard English:
+> **⚠️ Exam trap: Unnecessary Reflexive Pronoun Usage**  
+> Verbs like **keep, stop, turn, qualify, bathe, move, rest** are typically used intransitively in standard English without a reflexive pronoun when the subject acts on themselves:
 
-* ❌ *He kept himself away from the bad company.* $\longrightarrow$ ✅ *He **kept away from** the bad company.*
-* ❌ *She hid herself behind the curtain.* $\longrightarrow$ ✅ *She **hid behind** the curtain.*
+* ❌ *He kept himself away from bad company.* $\longrightarrow$ ✅ *He **kept away from** bad company.*
+* ❌ *He qualified himself in the preliminary exam.* $\longrightarrow$ ✅ *He **qualified** in the preliminary exam.*
+
+> **💡 The Nuance of "Hide":**  
+> In school and exam notes, *hide* is often cited as an intransitive verb (*"She hid behind the curtain"*). However, *hide* can also take a reflexive object (*"She hid herself behind the curtain"*) when emphasizing deliberate physical concealment. Do not treat *hid herself* as an ungrammatical phrase. [Oxford Learner's Dictionary: hide](https://www.oxfordlearnersdictionaries.co.uk/definition/american_english/hide_1)
 
 ---
 
-### 🔥 Top SSC Exam Trap #7: The High-Yield Antecedent Trap (Tier-II #1 Question)
+### 🔥 High-Yield Relative Clause Antecedent Rule
 When a relative pronoun (*who, which, that*) connects clauses, the verb agrees with the **Antecedent (the noun right before it)**:
 
 $$\mathbf{One\ of\ the\ +\ Plural\ Noun\ +\ who\ /\ which} \quad \longrightarrow \quad \mathbf{PLURAL\ VERB}$$
@@ -296,7 +306,7 @@ $$\mathbf{The\ ONLY\ one\ of\ the\ +\ Plural\ Noun\ +\ who\ /\ which} \quad \lon
 
 ---
 
-### 🔥 Top SSC Exam Trap #8: The Mandatory "THAT" Rule (Replacing Who / Which)
+### 🔥 Top SSC Exam Trap: The Mandatory "THAT" Rule (Replacing Who / Which)
 In standard SSC grammar, you **must use "that"** instead of *who* or *which* after:
 > **📌 Quick rule: Words that strictly require "THAT" (replacing Who / Which)**  
 > **All, The same, The only, None, Nothing, Any, The little, The few, and Superlative Degrees**
@@ -307,11 +317,12 @@ In standard SSC grammar, you **must use "that"** instead of *who* or *which* aft
 
 ---
 
-### 🔥 Top SSC Exam Trap #9: Distributive Pronouns (Each other vs. One another)
-* **Each other:** Strictly for **exactly 2** people or things.
-  * ✅ *The two brothers helped **each other**.*
-* **One another:** Strictly for **more than 2** people or things.
-  * ❌ *The five partners accused each other.* $\longrightarrow$ ✅ *The five partners accused **one another**.*
+### 🔥 Reciprocal Pronouns: Each other vs. One another
+* **Classification:** *Each other* and *one another* are **Reciprocal Pronouns** (பரஸ்பர பிரதிப்பெயர்ச்சொற்கள்), showing mutual action or relationship. (True *Distributive Pronouns* are *each, either, neither*).
+* **Traditional Prescriptive Rule:**  
+  * **Each other:** Recommended for **two** persons or entities (*The two brothers helped **each other***).
+  * **One another:** Recommended for **more than two** persons or entities (*The five partners accused **one another***).
+* **Modern Standard Usage:** Both Cambridge and the British Council observe that in contemporary standard English, *each other* and *one another* are frequently used interchangeably for two or more. Learn the traditional 2 vs. >2 distinction for competitive test questions, but recognize both as valid in broader English. [British Council: Reciprocal pronouns](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/reciprocal-pronouns)
 
 ---
 
@@ -347,6 +358,36 @@ In standard SSC grammar, you **must use "that"** instead of *who* or *which* aft
   * When visiting *School, College, Hospital, Temple, Prison* for their **primary purpose**, do NOT use "the":
     * *Ravi went to **hospital**.* (அவன் நோயாளி — Patient).
     * *Ravi went to **the hospital** to visit a friend.* (பார்வையாளர் — Visitor).
+
+---
+
+### 4. Quantitative Determiners: Few vs. Little (எண்ணிக்கை vs. அளவு)
+
+Determiners of quantity depend strictly on whether the modified noun is **Countable** or **Uncountable**:
+
+| Determiner Group | Used With | Base Form (Negative Sense: Almost None) | "A" Form (Positive Sense: At least some) | "The" Form (Specific: All of the small quantity) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Countable Plural Nouns** | Friends, books, mistakes, students | **Few** (*அரிதாகவே சிலர் / கிட்டத்தட்ட இல்லை*) | **A few** (*சிலர் / குறைந்த எண்ணிக்கையில்*) | **The few** (*இருக்கின்ற அந்தச் சிலரும்*) |
+| **Uncountable Singular Nouns** | Milk, water, money, hope, knowledge | **Little** (*கிட்டத்தட்ட இல்லை / துளியளவு*) | **A little** (*சிறிதளவு / போதுமான அளவு*) | **The little** (*இருக்கின்ற அந்தச் சிறிதளவும்*) |
+
+#### Core Usage Examples & Exam Traps:
+1. **Few (Negative sense = almost none):**
+   * *He has **few** friends in the new city, so he feels lonely.* (நண்பர்களே இல்லை $\to$ negative).
+2. **A few (Positive sense = at least some):**
+   * *He has **a few** trustworthy colleagues who support him.* (சிலர் உள்ளனர் $\to$ positive).
+3. **The few (All of the limited number):**
+   * *He lost **the few** books he had borrowed from the library.* (இருந்த அந்தச் சில புத்தகங்களையும்).
+4. **Little (Negative sense = almost none):**
+   * *There is **little** hope of his recovery after the accident.* (நம்பிக்கையே இல்லை $\to$ negative).
+5. **A little (Positive sense = at least some):**
+   * *A little knowledge is a dangerous thing.* / *There is **a little** milk left for tea.* (சிறிதளவு உள்ளது).
+6. **The little (All of the limited quantity):**
+   * *He spent **the little** money he had earned.* (இருந்த அந்தச் சிறிதளவு பணத்தையும்).
+
+> **📌 Remember: Question Tag Interaction with Few & Little**  
+> Because **Few** and **Little** (without article *a*) carry a negative meaning, the sentence is grammatically negative $\to$ the Question Tag must be **POSITIVE**:
+> * *Few students attended the lecture, **did they?*** (NOT *didn't they*).
+> * *He showed little concern for his health, **did he?*** (NOT *didn't he*).
 
 ---
 
@@ -553,3 +594,31 @@ In SSC CGL Tier-II, *Not only ... but also* must connect **grammatically identic
    * *"He not only visited Delhi but also Mumbai."*
 5. **Resolve the Negative Trap:**  
    * *"Unless you do not run fast, you cannot catch the express train."*
+
+---
+
+#### 💡 Step-by-Step Solutions & Explanations (விடைகளும் விரிவான விளக்கங்களும்)
+
+1. **Compound Noun Pluralization:**
+   * ❌ *The commander-in-chiefs held a secret meeting...*
+   * ✅ *The **commanders-in-chief** held a secret meeting in the government quarters.*
+   * **Explanation:** In compound nouns formed with prepositions, pluralize the **principal/root noun** (*commander* $\to$ *commanders*), never the prepositional tail (*chiefs*). *Quarters* is correct for residential lodging.
+
+2. **Relative Pronoun Antecedent Agreement:**
+   * ❌ *Rahul is one of those players who does not surrender easily.*
+   * ✅ *Rahul is one of those players who **do not** surrender easily.*
+   * **Explanation:** The relative pronoun *who* refers back to its plural antecedent **players** (not Rahul). Since *players* is plural, the relative clause requires the plural verb **do not** (not *does not*). Contrast with *"Rahul is the ONLY one of those players who does..."*.
+
+3. **Latin Adjective Comparative:**
+   * ✅ *This brand is superior **to** that imported one.*
+   * **Explanation:** Latin comparatives ending in `-ior` (*superior, inferior, senior, junior, prior*) strictly govern the preposition **to**, never *than*, and never take *more*.
+
+4. **Parallelism with Correlative Conjunctions:**
+   * ❌ *He not only visited Delhi but also Mumbai.*
+   * ✅ *He visited **not only Delhi but also Mumbai**.*
+   * **Explanation:** *Not only ... but also* must balance identical grammatical parts of speech. Placing *visited* before *not only* balances the proper noun *Delhi* with the proper noun *Mumbai*.
+
+5. **Conditional Negative Redundancy (Unless):**
+   * ❌ *Unless you do not run fast, you cannot catch the express train.*
+   * ✅ *Unless you **run fast**, you cannot catch the express train.*
+   * **Explanation:** *Unless* inherently means "except if / if ... not". Adding *do not* within the *unless*-clause creates an erroneous double negative.

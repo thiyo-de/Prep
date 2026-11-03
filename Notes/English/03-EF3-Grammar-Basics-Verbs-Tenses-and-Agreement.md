@@ -414,16 +414,23 @@ There are 3 primary conditional patterns tested in SSC:
 
 ---
 
-### 🔥 Top SSC Exam Trap: Type 3 Conditional Pairing
+### 🔥 Type 3 Conditionals & The Mixed Conditional Nuance
 
-> **📌 Quick rule: Type 3 Conditional Rigid Pairing**  
-> The formula is rigid. If one side has `had + V3`, the other side **must** have `would have + V3`:
+> **📌 Quick rule: Standard Type 3 Conditional (Past Unreal Condition $\to$ Past Unreal Outcome)**  
+> In standard Type 3 conditionals where an unfulfilled past action leads to a past outcome:
 >
 > $$\mathbf{If\ +\ had\ +\ V3} \quad \longleftrightarrow \quad \mathbf{would\ have\ +\ V3}$$
+>
+> * ✅ *If he **had worked** hard, he **would have passed** the examination.* (Past condition $\to$ past result).
 
-* ❌ *If he had worked hard, he would pass.*
-* ❌ *If he worked hard, he would have passed.*
-* ✅ *If he **had worked** hard, he **would have passed**.*
+> **💡 The Mixed Conditional Exception (Past Condition $\to$ Present Result):**  
+> Do not treat the `had + V3` $\to$ `would have + V3` formula as an absolute barrier against valid English. When an unreal past event directly impacts the **present ongoing state**, English naturally uses a **Mixed Conditional**:
+> 
+> $$\mathbf{If\ +\ had\ +\ V3\ (Past\ Cause)} \quad \longrightarrow \quad \mathbf{would\ +\ V1\ (Present\ State)}$$
+> 
+> * ✅ *If I **had studied** medicine in college, I **would be** a doctor today.* (Past unfulfilled condition $\to$ present ongoing reality).
+> * ✅ *If they **had taken** the earlier flight, they **would be** here right now.*
+> * *Exam Rule:* If the main clause specifies a present time marker (*now, today, at present*), `would + V1` is completely grammatical and correct! [British Council: Conditionals 3 and mixed](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-third-mixed)
 
 ---
 
@@ -486,6 +493,7 @@ A mini-question attached to the end of a statement to seek confirmation or agree
    * ✅ *Everyone was satisfied, **weren't they?*** (*they* cannot take *was* $\to$ must use *were*!).
    * ❌ *Nobody turned up, didn't they?*
    * ✅ *Nobody turned up, **did they?*** (*Nobody* is already negative $\to$ tag must be positive!).
+   * *(Linguistic note: English systematically uses gender-neutral 'they' when referring back to indefinite singular persons, matching the singular 'they/their' usage explained in EF2 Part 1).*
 7. **Rule 7 (Inanimate Indefinite Pronouns $\longrightarrow$ Tag Pronoun "IT"):**
    * For **Everything, Something, Nothing, Anything**, the pronoun in the tag is strictly **`IT`**:
    * ✅ *Everything is fine, **isn't it?***
@@ -517,7 +525,7 @@ A mini-question attached to the end of a statement to seek confirmation or agree
 12. **Earlier Past Action:** **`had + V3`** looks back from a past reference point; simple past can work when the sequence is already clear.
 13. **Stative Verbs:** Verbs of perception/thought (*know, believe, belong, love*) never take Continuous (`-ing`).
 14. **High Time Rule:** *It is high time + Subject* takes **V2 (Past Simple)** (*It is high time we started*).
-15. **Conditional 3 Inversion:** `If + had + V3` inverts to **`Had + Subject + V3`**, pairing strictly with **`would have + V3`**.
+15. **Conditional 3 Inversion:** `If + had + V3` inverts to **`Had + Subject + V3`**, pairing with **`would have + V3`** (or **`would + V1`** in mixed conditionals with present consequences).
 16. **Question Tag Pronoun:** *Everyone was present, **weren't they?***
 
 ---
@@ -536,3 +544,40 @@ A mini-question attached to the end of a statement to seek confirmation or agree
    * *"Had the fire department reached earlier, the warehouse would be saved."*
 6. **Tag the Question:**  
    * *"Nobody knows the secret password, (____)?"*
+
+---
+
+#### 💡 Step-by-Step Solutions & Explanations (விடைகளும் விரிவான விளக்கங்களும்)
+
+1. **Confusable Verbs (Lie vs. Lay):**
+   * ❌ *...he laid down under the shade of a banyan tree.*
+   * ✅ *After a strenuous walk, he **lay down** under the shade of a banyan tree.*
+   * **Explanation:** The verb meaning "to recline / rest horizontally" is intransitive **lie** (Principal forms: *lie — lay — lain*). The past tense is **lay**. *Laid* is the past tense of transitive **lay** (*lay — laid — laid*), which strictly requires an object (*e.g., He laid his bag on the table*).
+
+2. **Prepositional Phrase Governing Gerund:**
+   * ❌ *...with a view to collect reference materials.*
+   * ✅ *We visited the national library with a view to **collecting** reference materials.*
+   * **Explanation:** In fixed prepositional phrases where *to* is a true preposition (such as *with a view to, look forward to, accustomed to, addicted to*), it must be followed by a **gerund (V4 / verb-ing)**, NOT a bare infinitive V1.
+
+3. **Subject-Verb Agreement (More than one):**
+   * ❌ *More than one candidate have been disqualified...*
+   * ✅ *More than one candidate **has been** disqualified for malpractice.*
+   * **Explanation:** The construction **More than one + singular countable noun** grammatically governs a **singular verb** (*has been*). Contrast with *"More candidates than one have been..."*.
+
+4. **Subjunctive Past with "It is high time":**
+   * ❌ *It is high time we take strict action...*
+   * ✅ *It is high time we **took** strict action against corrupt officials.*
+   * **Explanation:** The constructions *It is time / It is high time / It is about time + Subject* require a **Past Subjunctive (V2)** form to denote an action that is already overdue.
+
+5. **Inverted Conditional (Type 3):**
+   * ❌ *Had the fire department reached earlier, the warehouse would be saved.*
+   * ✅ *Had the fire department reached earlier, the warehouse **would have been saved**.*
+   * **Explanation:** *Had the fire department reached earlier* is an inverted Type 3 past counterfactual condition (`Had + Subject + V3`). Because the consequence describes an unfulfilled past event, the main clause requires `would have + V3` (passive: *would have been saved*).
+
+6. **Question Tag with Indefinite Person (Nobody):**
+   * ❌ *Nobody knows the secret password, doesn't he?*
+   * ✅ *Nobody knows the secret password, **do they?***
+   * **Explanation:** 
+     1. Indefinite person pronouns (*Nobody, Someone, Everyone*) convert to the pronoun **they** in question tags.
+     2. *They* requires the plural auxiliary **do** (present tense of *knows*).
+     3. *Nobody* is an inherently negative word, which strictly demands a **positive tag** (*do they?*).

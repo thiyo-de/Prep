@@ -107,10 +107,13 @@ A word is a meaningful combination of letters:
 
 | Feature | Phrase (சொற்றொடர்) | Clause (உட்பிரிவு) | Sentence (வாக்கியம்) |
 | :--- | :---: | :---: | :---: |
-| **Has a Subject?** | ❌ **NO** | ✅ **YES** | ✅ **YES** |
-| **Has a Verb?** | ❌ **NO** | ✅ **YES** | ✅ **YES** |
-| **Complete Sense?** | Incomplete | Dependent = Incomplete <br> Independent = Complete | Always 100% Complete |
-| **Example** | *in the morning* | *when Ravi arrived* (Dep) <br> *Ravi arrived* (Indep) | *Ravi arrived in the morning.* |
+| **Has a Subject-Predicate pair?** | ❌ **NO** (acts as single unit) | ✅ **YES** | ✅ **YES** |
+| **Can contain verbs?** | ✅ **YES** (Verb phrases: *has been studying*; non-finite: *to learn*) | ✅ **YES** (Finite verb with subject) | ✅ **YES** (Finite verb with subject) |
+| **Complete Sense?** | Incomplete by itself | Dependent = Incomplete <br> Independent = Complete | Always 100% Complete |
+| **Example** | *in the morning* (Prep phrase) <br> *has been studying* (Verb phrase) | *when Ravi arrived* (Dep) <br> *Ravi arrived* (Indep) | *Ravi has been studying in the morning.* |
+
+> **💡 Understand: What defines a phrase?**  
+> A phrase is a group of words functioning together as a single grammatical unit that **does not contain a finite subject-verb nexus**. Phrases *frequently contain verbs*—such as **verb phrases** (*has been studying*, *will have finished*), **participial phrases** (*walking in the park*), and **infinitive phrases** (*to win the exam*). Do not define a phrase simply as "having no verb". [Cambridge: Verb phrases](https://dictionary.cambridge.org/grammar/british-grammar/verb-phrases)
 
 ---
 
@@ -283,14 +286,23 @@ In SSC CGL Tier-II, questions often deviate from simple subject-first sentences 
   * ✅ *It **is** the players who deserve the credit.* (Even though *players* is plural, subject is *It*).
 
 #### C. Inverted Sentence Syntax (Inversion — வினைச்சொல் முன்வருதல்)
-In high-stakes Tier-II questions, when an adverb of place, negative adverb, or prepositional phrase opens a sentence, the **Verb comes BEFORE the Subject**:
+Inversion occurs when the verb (or auxiliary verb) comes **before the subject**. In competitive exams, you must distinguish **mandatory inversion** from **optional / stylistic inversion**:
 
-$$\mathbf{Negative\ Adverb\ /\ Place\ Phrase} + \mathbf{Helping\ Verb\ /\ Verb} + \mathbf{Subject}$$
+1. **Mandatory Negative / Restrictive Inversion:**  
+   When a negative or restrictive adverb opens a sentence (**Hardly, Scarcely, Seldom, Rarely, Barely, Little, Never, Under no circumstances**), subject-auxiliary inversion is **mandatory**:
 
-* *Standard Order:* *The hermit sat under the tree.*
-* *Inverted Order:* *Under the tree **sat the hermit**.* (NOT *the hermit sat*).
-* ❌ *Hardly he had entered the hall when the lights went out.*
-* ✅ *Hardly **had he entered** the hall when the lights went out.* (Negative adverb triggers inverted helping verb).
+   $$\mathbf{Negative\ Adverb} + \mathbf{Auxiliary\ Verb} + \mathbf{Subject} + \mathbf{Main\ Verb}$$
+
+   * ❌ *Hardly he had entered the hall when the lights went out.*
+   * ✅ *Hardly **had he entered** the hall when the lights went out.*
+   * ❌ *Seldom we have witnessed such dedication.*
+   * ✅ *Seldom **have we witnessed** such dedication.*
+
+2. **Optional Locative / Place Inversion (இடப்பெயர் முன்வருதல்):**  
+   When an adverb or prepositional phrase of place opens a descriptive sentence, full inversion (*Verb + Subject*) is **optional and stylistic** with intransitive verbs of position or movement (*sit, stand, lie, come, walk*):
+   * *Standard Order:* *Under the tree, the hermit sat.* (Fully grammatical standard English).
+   * *Stylistic Inverted Order:* *Under the tree **sat the hermit**.* (Literary / descriptive emphasis).
+   * *Note:* Both are grammatically valid. Standard subject-verb order after a place phrase is standard English and must not be marked wrong! [Cambridge: Inversion](https://dictionary.cambridge.org/us/grammar/british-grammar/inversion)
 
 ---
 
@@ -358,18 +370,21 @@ $$\mathbf{Complete\ Subject} = \underbrace{\text{Pre-modifiers}}_{\text{The expe
 
 ---
 
-#### ✂️ The "Verb Dividing Line" (வினைச்சொல் எல்லைக்கோடு):
-In SSC sentence breakdown, the line between **Complete Subject** and **Predicate** is drawn **the exact millisecond the main verb begins**:
+#### ✂️ Complete Subject vs. Sentence Adjuncts (முழு எழுவாய் vs. இணைப்பு விவரிப்புகள்):
+The **Complete Subject** consists of the core noun/pronoun plus its direct modifiers (articles, adjectives, prepositional phrases modifying the noun):
 
 ```text
- The experienced doctor with twenty years of practice │ performed the surgery.
- ────────────────────────────────────────────────────   ─────────────────────
-                  COMPLETE SUBJECT                            PREDICATE
-            (முழு எழுவாய் + விவரிப்புகள்)                    (வினை + செயப்படுபொருள்)
+ [The experienced doctor with twenty years of practice] │ performed the surgery.
+ ──────────────────────────────────────────────────────   ─────────────────────
+                   COMPLETE SUBJECT                            PREDICATE
+             (முழு எழுவாய் + விவரிப்புகள்)                    (வினை + செயப்படுபொருள்)
 ```
 
-> **📌 Quick rule: Complete Subject Shortcut**  
-> Find the verb first (*performed*). **EVERYTHING in front of that verb** is your **Complete Subject**!
+> **📌 Quick rule: How to Identify the True Subject**  
+> Do **not** mechanically assume that *every word* before the verb belongs to the subject:
+> - In *"Yesterday, Ravi arrived,"* the verb is *arrived*. *Yesterday* is an introductory adverbial of time (a sentence adjunct), NOT part of the subject. The Subject is solely **Ravi**.
+> - In *"In the forest, wild animals roam freely,"* the Subject is **wild animals**, not the opening place phrase *In the forest*.
+> - **The Reliable Test:** Always ask **"Who or what performs the action or is described by the verb?"** (e.g., *Who arrived?* $\to$ *Ravi*).
 
 ---
 
@@ -696,7 +711,7 @@ $$\mathbf{Hurrah!}\ \ \mathbf{The}\ \ \mathbf{young}\ \ \mathbf{boy}\ \ \mathbf{
 
 1. **Alphabet Count:** English has **1 alphabet**, composed of **26 letters**.
 2. **Vowel Sound Rule:** Use **`An`** before vowel sounds (*an hour, an honest man, an heir, an MLA, an FIR*); use **`A`** before consonant sounds (*a university, a European, a one-rupee coin, a union*).
-3. **Clause vs. Phrase:** A Clause has both **Subject + Verb**; a Phrase has **neither**.
+3. **Clause vs. Phrase:** A Clause contains a **finite Subject-Predicate nexus**; a Phrase is a single grammatical unit without a finite subject-predicate pair (though it can contain verb phrases like *has been studying*).
 4. **S-V-O Law:** English puts the Verb in the middle (**S-V-O**); Tamil puts the Verb at the end (**S-O-V**).
 5. **Subject Complement Equality:** In $\text{S} + \text{V} + \text{SC}$, the subject and complement are the **same entity** (*Ravi is a doctor* $\to$ *Ravi = doctor*).
 6. **Uncountable Plural Error:** *Furniture, information, advice, scenery, luggage* never take `-s` or article *a/an*.
@@ -707,7 +722,7 @@ $$\mathbf{Hurrah!}\ \ \mathbf{The}\ \ \mathbf{young}\ \ \mathbf{boy}\ \ \mathbf{
 11. **Dangling Modifier Law:** The subject doing the participle action must immediately follow the introductory comma (*While he was walking, a snake bit him*).
 12. **Number + Unit Modifier:** Use a singular unit in *a five-rupee note*; other noun modifiers can be plural (*sports car*, *clothes shop*).
 13. **Comma Splice Law:** Two independent clauses cannot be joined by a comma alone; use a semicolon (`;`) or conjunction.
-14. **Inversion Law:** Negative adverbs at the start invert the verb before the subject (*Hardly had he arrived...*).
+14. **Inversion Law:** Negative adverbs at the start invert the auxiliary verb before the subject (*Hardly had he arrived...*).
 
 ---
 
@@ -721,11 +736,43 @@ Try answering these 6 quick questions:
    * (____) FIR filed at the station.
 2. **Identify the Subject, Verb, and Object:**
    * *"The diligent student cleared the examination."*
-3. **Spot the error (Tier-II Punctuation / Indirect Question):**
+3. **Spot the error (Indirect Question Syntax & Punctuation):**
    * *"He asked the stranger where was the railway station?"*
 4. **Choose between `It's` and `Its`:**
    * *The dog wagged (____) tail.*
-5. **Tier-II Dangling Modifier Fix:**
+5. **Dangling Modifier Fix:**
    * *"Entering the room, the light was switched on."* (Is this correct? If not, why?)
-6. **Spot the Error (Hyphenated Noun):**
+6. **Spot the Error (Hyphenated Compound Modifier):**
    * *"The government sanctioned a five-crores project for rural roads."*
+
+---
+
+#### 💡 Step-by-Step Solutions & Explanations (விடைகளும் விரிவான விளக்கங்களும்)
+
+1. **Articles (`A` vs `An`):**
+   * **An** honest citizen: The initial *h* is silent; the word begins with a vowel sound `/ɒ/` (*ஆனஸ்ட்*).
+   * **A** European university: Both *European* and *university* begin with the consonant semi-vowel sound `/j/` (*யு*), demanding **a**.
+   * **An** FIR: The abbreviation *F* is pronounced with an opening vowel sound `/ef/` (*எஃப்*), requiring **an**.
+
+2. **Subject, Verb, Object Identification:**
+   * **Complete Subject:** *The diligent student* (determiner *The* + adjective *diligent* + core simple subject *student*).
+   * **Verb:** *cleared* (Simple Past action verb).
+   * **Direct Object:** *the examination* (noun phrase answering *Cleared what?*).
+
+3. **Indirect Question Error:**
+   * ❌ *He asked the stranger where was the railway station?*
+   * ✅ *He asked the stranger **where the railway station was**.*
+   * **Explanation:** In reported/indirect questions, interrogative word order (*verb before subject*) inverts back to affirmative statement order (*subject before verb*), and the sentence ends with a full stop, NOT a question mark.
+
+4. **`It's` vs `Its`:**
+   * ✅ *The dog wagged **its** tail.*
+   * **Explanation:** *Its* is the possessive determiner (meaning *belonging to it*). *It's* is a contraction of *It is* or *It has*. A dog cannot wag *"it is tail"*.
+
+5. **Dangling Modifier Fix:**
+   * ❌ Incorrect. The introductory participial phrase *Entering the room* attaches grammatically to the noun immediately following the comma (*the light*), creating the absurd meaning that the light itself entered the room.
+   * ✅ *Entering the room, **he** switched on the light.* (Or: *When he entered the room, the light was switched on.*)
+
+6. **Hyphenated Compound Modifier:**
+   * ❌ *five-crores project*
+   * ✅ *a **five-crore** project*
+   * **Explanation:** When a number and noun act together as a compound modifier before a head noun (*project*), the unit remains in its singular form (*five-crore*, *ten-rupee note*, *three-man committee*).
