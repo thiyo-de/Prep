@@ -69,32 +69,32 @@ Record these labels in the existing error notebook. Label the underlying gap beh
 
 ### Words and sentences
 
-- [x] Letters, vowels and consonants, if needed
-- [x] Words, phrases, clauses and complete sentences: basic distinction
-- [x] Subject, predicate, verb and object in simple sentences
-- [x] Statements, questions, commands and exclamations
-- [x] Capital letters and basic punctuation
+- [ ] Letters, vowels and consonants, if needed
+- [ ] Words, phrases, clauses and complete sentences: basic distinction
+- [ ] Subject, predicate, verb and object in simple sentences
+- [ ] Statements, questions, commands and exclamations
+- [ ] Capital letters and basic punctuation
 
 ### Sentence understanding — begin with easy text
 
-- [x] Who/what the sentence is about, the action/state and basic time clues
-- [x] Positive/negative meaning and question instructions: correct, incorrect, except and most appropriate
-- [x] Simple pronoun references and links showing addition, contrast, reason and result
-- [x] Restating a simple sentence in your own words without changing its meaning
+- [ ] Who/what the sentence is about, the action/state and basic time clues
+- [ ] Positive/negative meaning and question instructions: correct, incorrect, except and most appropriate
+- [ ] Simple pronoun references and links showing addition, contrast, reason and result
+- [ ] Restating a simple sentence in your own words without changing its meaning
 
 Apply these skills in short reading throughout preparation. Detailed connector/pronoun rules remain in EF2; paragraph-level exam applications remain in E11–E13.
 
 ### Parts of speech — introductory recognition
 
-- [x] Noun: names of people, places, things and ideas
-- [x] Pronoun: reference to people and things
-- [x] Verb: actions, states and being
-- [x] Adjective: description of a noun or pronoun
-- [x] Adverb: modification of a verb, adjective or another adverb
-- [x] Preposition: relationships of place, time and other meanings
-- [x] Conjunction: connections between words and clauses
-- [x] Interjection: short expressions of feeling
-- [x] Word function in context: the same word used in different roles
+- [ ] Noun: names of people, places, things and ideas
+- [ ] Pronoun: reference to people and things
+- [ ] Verb: actions, states and being
+- [ ] Adjective: description of a noun or pronoun
+- [ ] Adverb: modification of a verb, adjective or another adverb
+- [ ] Preposition: relationships of place, time and other meanings
+- [ ] Conjunction: connections between words and clauses
+- [ ] Interjection: short expressions of feeling
+- [ ] Word function in context: the same word used in different roles
 
 **Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
 
