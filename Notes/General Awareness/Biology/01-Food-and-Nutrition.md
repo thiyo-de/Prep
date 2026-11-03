@@ -158,7 +158,7 @@ Digestive enzymes help break down food. Most nutrient absorption happens in the 
 
 | Source | Examples | தமிழில் |
 |---|---|---|
-| Plants | Rice, wheat, pulses, fruits, vegetables, groundnut oil | அரிசி, கோதுமை, பருப்பு, பழங்கள், காய்கறிகள், கடலை எண்ணெய் |
+| Plants | Rice, wheat, pulses, fruits, vegetables, seeds, groundnut oil | அரிசி, கோதுமை, பருப்பு, பழங்கள், காய்கறிகள், கடலை எண்ணெய் |
 | Animals | Milk, eggs, fish, meat | பால், முட்டை, மீன், இறைச்சி |
 | Products made from animal foods | Curd, butter, ghee, cheese | தயிர், வெண்ணெய், நெய், பாலாடைக்கட்டி |
 
@@ -189,7 +189,7 @@ Digestive enzymes help break down food. Most nutrient absorption happens in the 
 
 <!-- separate learning boxes -->
 
-> **Trap:** Growing underground does not automatically make something a root. Potato is a modified stem; sweet potato is a modified root. This is supporting botany knowledge, not a detailed topic taught in the supplied Food slides.
+> **⚠️ Exam trap:** Growing underground does not automatically make something a root. Potato is a modified stem; sweet potato is a modified root. This is supporting botany knowledge, not a detailed topic taught in the supplied Food slides.
 
 Reference: [NCERT: root and stem modifications](https://www.ncert.gov.in/pdf/school-kit/Manual_Sci_KitClass%20IX%20%26%20X.pdf).
 

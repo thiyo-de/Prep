@@ -11,44 +11,22 @@
 
 ## 🧭 EF2 MASTER CHAPTER ROADMAP
 
-```text
-┌────────────────────────────────────────────────────────┐
-│        EF2: GRAMMAR BASICS (CONTENT & CONNECTORS)      │
-└───────────────────────────┬────────────────────────────┘
-                            │
-       ┌────────────────────┴────────────────────┐
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 1: NOUNS & NUMBER  │               │ PART 2: PRONOUNS        │
-│ • 5 Noun Types & Cases  │               │ • Personal Cases (231)  │
-│ • Countable/Uncountable │               │ • Reflexive Traps       │
-│ • Singular/Plural Shifts│               │ • Antecedent & Relative │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-       ┌─────┴───────────────────────────────────┬─────┘
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 3: ARTICLES & DET. │               │ PART 4: MODIFIERS       │
-│ • A vs An Sound Laws    │               │ • Adjective vs Adverb   │
-│ • 6 Rules for "The"     │               │ • Degrees of Comparison │
-│ • Zero Article Omission │               │ • Latin Comparatives    │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-       ┌─────┴───────────────────────────────────┬─────┘
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 5: PREPOSITIONS    │               │ PART 6: CONJUNCTIONS    │
-│ • Time, Place, Direction│               │ • Coordinating FANBOYS  │
-│ • Fixed Preposition Sets│               │ • Correlative Pairs     │
-│ • Redundancy Traps      │               │ • Until vs Unless       │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-             └────────────────────┬────────────────────┘
-                                  ▼
-┌────────────────────────────────────────────────────────┐
-│ PART 7: 10-Second Recall Rules & Tier-II Exam Drills   │
-└────────────────────────────────────────────────────────┘
-```
+> **🧠 Concept map: EF2 Grammar Engine (Content & Connectors)**
+>
+> * **Part 1: Nouns & Number (பெயர்ச்சொற்கள் & எண் வகைப்பாடு)**  
+>   5 noun types, countable vs uncountable rules, singular-plural shifts, compound noun plurals, apostrophe possession laws.
+> * **Part 2: Pronoun Mechanics & Traps (பிரதிப் பெயர்ச்சொற்கள்)**  
+>   Personal pronoun cases, 231 vs 123 etiquette, who vs whom, mandatory/forbidden reflexive verbs, antecedent relative clauses.
+> * **Part 3: Articles & Determiners (சுட்டுப்பெயர்கள்)**  
+>   A vs An phonetic sound laws, 6 strict rules for *The*, zero-article omissions, little/few quantifier distinctions.
+> * **Part 4: Modifiers — Adjectives & Adverbs (விவரிப்புச் சொற்கள்)**  
+>   Adjective vs adverb distinction, degrees of comparison, Latin comparatives (*senior to*), absolute non-comparables, *enough* placement.
+> * **Part 5: Preposition Dynamics (முன்னிடைச்சொற்கள்)**  
+>   Time, place, and direction rules (*in, at, on*), fixed preposition sets, redundancy errors (*enter into, discuss about*).
+> * **Part 6: Conjunction Architecture (இணைப்புச் சொற்கள்)**  
+>   Coordinating FANBOYS, correlative pairs (*neither...nor, hardly...when*), *until* vs *unless* conditional constraints.
+> * **Part 7: Rapid Recall Flash Rules & Tier-II Drills (பயிற்சி & தீர்வுகள்)**  
+>   16 golden flash rules for 10-second recall, 10 Tier-II exam-level practice drills with comprehensive step-by-step solutions.
 
 ---
 
@@ -145,8 +123,8 @@ In SSC CGL Tier-II, understanding the **Case** of a noun tells you whether it co
 
 ### 🔥 Top SSC Exam Trap #1: The Uncountable Noun Law
 
-> [!WARNING]
-> **Uncountable Nouns can NEVER take plural `-s` or `-es`, and can NEVER take `a` or `an`!**
+> **⚠️ Exam trap: The Uncountable Noun Law**  
+> Uncountable Nouns can **NEVER take plural `-s` or `-es`**, and can **NEVER take `a` or `an`**!
 
 SSC asks this in almost every shift:
 
@@ -288,6 +266,7 @@ Any pronoun placed **after a Preposition** must be in the **Object Form** (`me, 
 ### 🔥 Top SSC Exam Trap #6: Mandatory vs. Forbidden Reflexive Pronouns
 
 #### Group A: Verbs that MANDATORILY require a Reflexive Pronoun (when no direct object is present):
+> **📌 Remember: Verbs requiring Mandatory Reflexive Pronouns**  
 > **avail, adapt, exert, reconcile, acquit, amuse, resign, avenge, absent**
 
 * ❌ *He availed of the golden opportunity.*  
@@ -296,6 +275,7 @@ Any pronoun placed **after a Preposition** must be in the **Object Form** (`me, 
 * ❌ *She absented from the office yesterday.* $\longrightarrow$ ✅ *She **absented herself from** the office.*
 
 #### Group B: Verbs that can NEVER take a Reflexive Pronoun:
+> **⚠️ Exam trap: Verbs that NEVER take a Reflexive Pronoun**  
 > **keep, stop, turn, qualify, bathe, move, hide, rest**
 
 * ❌ *He kept himself away from the bad company.* $\longrightarrow$ ✅ *He **kept away from** the bad company.*
@@ -318,6 +298,7 @@ $$\mathbf{The\ ONLY\ one\ of\ the\ +\ Plural\ Noun\ +\ who\ /\ which} \quad \lon
 
 ### 🔥 Top SSC Exam Trap #8: The Mandatory "THAT" Rule (Replacing Who / Which)
 In standard SSC grammar, you **must use "that"** instead of *who* or *which* after:
+> **📌 Quick rule: Words that strictly require "THAT" (replacing Who / Which)**  
 > **All, The same, The only, None, Nothing, Any, The little, The few, and Superlative Degrees**
 
 * ❌ *All which glitters is not gold.* $\longrightarrow$ ✅ *All **that** glitters is not gold.*
@@ -403,6 +384,7 @@ Superlative Degree (அனைவரிலும்)    ──►  Tallest    Sma
 
 ### 🔥 Top SSC Exam Trap: Latin Comparative Adjectives (`-ior` முடிவுகள்)
 Certain adjectives borrowed from Latin end in **`-ior`**. They strictly take the preposition **`to`**, NEVER *than*, and **never take *more* or *most***:
+> **📌 Remember: Latin Comparatives strictly take "To" (Not "Than")**  
 > **Superior, Inferior, Senior, Junior, Prior, Anterior, Posterior** (also the verb **Prefer / Preferable**)
 
 * ❌ *He is more senior than me in service.* $\longrightarrow$ ✅ *He is **senior to** me in service.*
@@ -412,6 +394,7 @@ Certain adjectives borrowed from Latin end in **`-ior`**. They strictly take the
 
 ### 🔥 Top SSC Exam Trap: Non-Comparable Absolute Adjectives (முழுமையான பெயரடைகள்)
 Words that denote an absolute state **cannot be compared or qualified with *more*, *most*, *very*, or *less***:
+> **⚠️ Exam trap: Non-Comparable Absolute Adjectives (No Comparative/Superlative)**  
 > **Unique, Perfect, Complete, Ideal, Universal, Dead, Supreme, Round, Circular, Eternal, Extreme**
 
 * ❌ *This is the most unique architectural design.* $\longrightarrow$ ✅ *This is **a unique** architectural design.*
@@ -431,6 +414,7 @@ The word **`Enough`** changes its position depending on whether it modifies an a
 
 ### 🔥 Top SSC Exam Trap: Negative Adverb Inversion (Tier-II Sentence Structure)
 When a negative or restrictive adverb opens a sentence, it triggers **Subject-Verb Inversion** (Helping verb comes before the subject):
+> **📌 Remember: Negative Adverbs triggering Inversion**  
 > **Seldom, Rarely, Scarcely, Hardly, Barely, Neither, Nor, Little, Never**
 
 * ❌ *Seldom we have seen such dedication.*
@@ -490,7 +474,7 @@ In Tier-II, questions test whether you pick the correct preposition based on the
 
 ### Fixed Correlative Conjunction Pairs
 
-> [!IMPORTANT]
+> **📌 Remember: Fixed Correlative Conjunction Pairs**  
 > If any of these fixed pairs are mismatched in an exam question, it is an **instant error**:
 
 | Fixed Pair | Incorrect Exam Trick (❌) | Correct Exam Pattern (✅) |
@@ -526,6 +510,14 @@ In SSC CGL Tier-II, *Not only ... but also* must connect **grammatically identic
   * ❌ *Unless you do not work hard, you will fail.* $\longrightarrow$ ✅ *Unless you **work hard**, you will fail.*
 
 * A negative endpoint is valid: *Wait until there is no traffic.* Read the meaning rather than deleting every negative. [Cambridge: until](https://dictionary.cambridge.org/grammar/british-grammar/until).
+
+> **Stage 1 self-check:**
+>
+> 1. Spot the error: *"He is senior than me and more clever."*
+> 2. Spot the error: *"He entered into the room and ordered for two cups of tea."*
+> 3. Fill in: *"Hardly had the train arrived ______ the crowd surged forward."* (when / than)
+>
+> *Ready to proceed to drills when you can answer all 3 unaided in 30 seconds.*
 
 ---
 

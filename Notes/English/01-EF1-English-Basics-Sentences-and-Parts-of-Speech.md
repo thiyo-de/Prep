@@ -11,45 +11,22 @@
 
 ## 🧭 EF1 MASTER CHAPTER ROADMAP
 
-```text
-┌────────────────────────────────────────────────────────┐
-│             ENGLISH FOUNDATION ENGINE (EF1)            │
-└───────────────────────────┬────────────────────────────┘
-                            │
-       ┌────────────────────┴────────────────────┐
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 1: SOUNDS & LETTERS│               │ PART 2: WORDS & SENTENCE│
-│ • 26 Letters, 44 Sounds │               │ • Word Building         │
-│ • Vowels & Consonants   │               │ • Phrase vs Clause      │
-│ • A vs An Sound Laws    │               │ • 4 Functional Types    │
-│ • Tamil Shortcut Trick  │               │ • FANBOYS & Compound    │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-       ┌─────┴───────────────────────────────────┬─────┘
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 3: S-V-O PATTERNS  │               │ PART 4: PUNCTUATION     │
-│ • S-V-O vs Tamil S-O-V  │               │ • Capital Letters       │
-│ • Direct vs Indirect Obj│               │ • Its vs It's           │
-│ • Subject Complements   │               │ • Comma Splice Trap     │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-       ┌─────┴───────────────────────────────────┬─────┘
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 5: 8 PARTS SPEECH  │               │ PART 5B: TIER-II ROLES  │
-│ • Noun, Pronoun, Verb   │               │ • Shapeshifter Words    │
-│ • Adj, Adv, Prep, Conj  │               │ • Hyphenated Modifiers  │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-             └────────────────────┬────────────────────┘
-                                  ▼
-┌────────────────────────────────────────────────────────┐
-│ PART 6: Golden Sentence (All 8 Parts in 1 Sentence)    │
-│ PART 7: 10-Second Recall Rules & Practice Drills       │
-└────────────────────────────────────────────────────────┘
-```
+> **🧠 Concept map: English Foundation Engine (EF1)**
+>
+> * **Part 1: Sounds & Letters (ஒலிகளும் எழுத்துக்களும்)**  
+>   26 letters, 44 sounds, vowel vs consonant vocal laws, *A* vs *An* phonetic rules, Tamil shortcut trick.
+> * **Part 2: Words & Sentence Architecture (சொற்களும் வாக்கிய அமைப்பும்)**  
+>   Word building mechanics, phrase vs clause isolation test, 4 functional sentence types, FANBOYS compound laws.
+> * **Part 3: S-V-O Patterns & Sentence Anatomy (வாக்கியக் கூறுகள்)**  
+>   English S-V-O vs Tamil S-O-V, complete subject vs predicate, direct vs indirect object, complements vs adjuncts.
+> * **Part 4: Punctuation Rules & Exam Traps (நிறுத்தற்குறிகள்)**  
+>   Capital letter triggers, apostrophe laws (*its* vs *it's*), comma splice error, semicolon and colon mechanics.
+> * **Part 5: 8 Parts of Speech Core Engine (சொல் வகைகள்)**  
+>   Noun, pronoun, verb, adjective, adverb, preposition, conjunction, interjection definitions and functions.
+> * **Part 5B: Tier-II Word Roles & Modifiers (மேம்பட்ட பயன்பாடுகள்)**  
+>   Functional shapeshifter words, hyphenated compound modifiers, participle vs gerund identification.
+> * **Part 6 & 7: The Master Golden Sentence & Rapid Drills (மீள்பார்வை & பயிற்சி)**  
+>   All 8 parts of speech in 1 single sentence, 10-second rapid recall flash rules, 10 Tier-II practice drills.
 
 ---
 
@@ -57,9 +34,10 @@
 
 ### 1. Alphabet vs. Letters
 * **Alphabet (நெடுங்கணக்கு):** English has **only 1 alphabet**, which contains **26 letters**.
-  * ⚠️ *Exam Trap:* Never say *"English has 26 alphabets"* — that is a common SSC spot-the-error mistake!
 * **Letters (எழுத்துக்கள்):** The 26 written symbols from `A` to `Z`.
 * **Sounds (ஒலிகள் — Phonemes):** The 26 letters produce **44 unique sounds** (20 vowel sounds + 24 consonant sounds).
+
+> **⚠️ Exam trap:** Never say *"English has 26 alphabets"*. English has only **1 alphabet**, which contains **26 letters** — saying "26 alphabets" is a frequent SSC spot-the-error question!
 
 ### 2. Vowels vs. Consonants
 The 26 letters are divided into two functional groups based on **how your vocal cords produce the sound**:
@@ -91,8 +69,8 @@ Articles (`A` and `An`) do **NOT** depend on the written letter. They depend ent
 | **MLA / MP** | `M` (Consonant) | `எம்` (Vowel sound: *em*) | **An** MLA | Pronounced as *em-el-ay*. |
 | **FIR / NCC** | `F` / `N` | `எஃப்` / `என்` (Vowel sound) | **An** FIR / **An** NCC cadet | Starts with vowel sound 'எ'. |
 
-> [!TIP]
-> **Tamil Shortcut Trick (தமிழ் குறுக்குவழி விதி):**
+> **📌 Remember: Tamil Shortcut Trick (தமிழ் குறுக்குவழி விதி)**
+>
 > மனதுக்குள் அந்த வார்த்தையை தமிழில் உச்சரித்துப் பாருங்கள்:
 > * முதல் ஒலி **அ, ஆ, இ, ஈ, உ, ஊ, எ, ஏ, ஐ, ஒ, ஓ** என்று தொடங்கினால் $\longrightarrow$ **`An`** போடுங்கள்.
 > * முதல் ஒலி **க, ச, ட, த, ப, ய, வ** போன்ற மெய்யெழுத்து ஒலியில் தொடங்கினால் $\longrightarrow$ **`A`** போடுங்கள்.
@@ -212,8 +190,7 @@ $$\mathbf{Independent\ Clause}\ ,+\ \mathbf{FANBOYS}\ +\ \mathbf{Independent\ Cl
 
 ### 🧪 The "Stand-Alone" Isolation Test (தனித்து நிற்கும் பரிசோதனை)
 
-> [!TIP]
-> **Why is *"The passengers were delayed"* an Independent Clause (not Dependent)?**  
+> **💡 Why is "The passengers were delayed" an Independent Clause?**  
 > Students often mistake *contextual connection* for grammatical dependence. Always apply the Isolation Test:
 
 Remove the connecting word (**`but`**) and examine each part separately:
@@ -232,8 +209,7 @@ Now compare with a **true Dependent Clause**:
 | *"Although the passengers were delayed..."* | ❌ **NO** (இருந்தாலும்... Incomplete!) | **Dependent Clause** |
 | *"When the passengers were delayed..."* | ❌ **NO** (தாமதிக்கப்பட்டபோது... Incomplete!) | **Dependent Clause** |
 
-> [!IMPORTANT]
-> **Golden Rule of Thumb:**  
+> **📌 Remember: Golden Rule of Thumb for Clauses**  
 > - $\mathbf{Clause} + \mathbf{FANBOYS} + \mathbf{Clause} \longrightarrow$ **Both are Independent Clauses.**  
 > - **Clause starting with `Because` / `Although` / `If` / `When` / `Since`** $\longrightarrow$ **Dependent Clause.**
 
@@ -241,8 +217,7 @@ Now compare with a **true Dependent Clause**:
 
 ### ⛓️ Deep Dive: The Subordinator Engine (Words that Create Dependent Clauses)
 
-> [!NOTE]
-> **The Subordinator Law:**  
+> **📌 Quick rule: The Subordinator Law**  
 > Attaching any of these words to the front of a complete independent clause **handcuffs it**, stripping away its independence and turning it into a **Dependent Clause**!
 
 #### 1. The 4 Functional Camps of Subordinating Conjunctions
@@ -280,8 +255,7 @@ In SSC CGL Tier-I and Tier-II error-spotting, examiners frequently give this ill
 * ✅ **CORRECT:** *Although he worked hard, he failed the examination.*
 * ✅ **CORRECT:** *Although he worked hard, **yet** he failed the examination.*
 
-> [!WARNING]
-> **Why is "Although... but" an error?**  
+> **⚠️ Exam trap: Why is "Although... but" an error?**  
 > `Although` already carries the meaning of contrast (*இருந்தபோதிலும்*). Adding `but` (*ஆனால்*) creates a **Double Conjunction Error** (இரட்டை இணைப்புச் சொல் பிழை).  
 > `Although` pairs ONLY with a **Comma (`,`)** or **`Yet`** — **NEVER with `But`**!
 
@@ -346,8 +320,7 @@ $$\mathbf{Subject}\ \xrightarrow{\quad}\ \mathbf{Verb}\ \xrightarrow{\quad}\ \ma
 
 ### 🔍 Deep Dive: Simple Subject vs. Complete Subject & The "Modifier" Engine
 
-> [!NOTE]
-> **What is a "Modifier" (விவரிக்கும் கூடுதல் தகவல்)?**  
+> **💡 Understand: What is a "Modifier" (விவரிக்கும் கூடுதல் தகவல்)?**  
 > To **modify** means to add extra details, description, or limits to a word. A modifier can be a single word (Adjective) or a group of words (Prepositional Phrase) that dresses up the core noun.
 
 #### 🚗 The "Car" Analogy (எளிமையான விளக்கம்):
@@ -395,9 +368,8 @@ In SSC sentence breakdown, the line between **Complete Subject** and **Predicate
             (முழு எழுவாய் + விவரிப்புகள்)                    (வினை + செயப்படுபொருள்)
 ```
 
-> [!TIP]
-> **Exam Shortcut:** Find the verb first (*performed*).  
-> **EVERYTHING in front of that verb** is your **Complete Subject**!
+> **📌 Quick rule: Complete Subject Shortcut**  
+> Find the verb first (*performed*). **EVERYTHING in front of that verb** is your **Complete Subject**!
 
 ---
 
@@ -424,20 +396,14 @@ $$\text{Subject} + \text{Verb} + \mathbf{Indirect\ Object\ (யாருக்�
 
 #### 💡 The Golden Object Rule of Thumb (வாக்கியத்தில் செயப்படுபொருள் விதி):
 
-```
-                  THE OBJECT RULE OF THUMB
-                             │
-     ┌───────────────────────┴───────────────────────┐
-     ▼                                               ▼
-ONLY 1 OBJECT IN SENTENCE                       2 OBJECTS IN SENTENCE
-• It is ALWAYS the Direct Object (DO)           • Non-living item = Direct Object (DO)
-• (Whether living or non-living!)               • Living receiver = Indirect Object (IO)
-• e.g., "The police arrested the thief (DO)."   • e.g., "Ravi gave Suresh (IO) a pen (DO)."
-```
+> **🧠 Concept map: The Golden Object Rule of Thumb**
+>
+> * **Only 1 Object in Sentence (ஒரே ஒரு செயப்படுபொருள்)**  
+>   It is **ALWAYS the Direct Object (DO)**, whether living or non-living (*e.g., "The police arrested the thief (DO)"*).
+> * **2 Objects in Sentence (இரண்டு செயப்படுபொருள்கள்)**  
+>   Non-living item handed over = **Direct Object (DO)**; Living receiver = **Indirect Object (IO)** (*e.g., "Ravi gave Suresh (IO) a pen (DO)"*).
 
-> [!NOTE]
-> A sentence **can NEVER have an Indirect Object alone**. 
-> An Indirect Object only exists when there is a Direct Object being handed over to it!
+> **⚠️ Exam trap:** A sentence **can NEVER have an Indirect Object alone**. An Indirect Object only exists when there is a Direct Object being handed over to it!
 
 ---
 
@@ -496,10 +462,9 @@ An **Adjunct (A)** is any word, phrase, or clause that tells you **WHERE, WHEN, 
   ❌ "He became..." (Incomplete!)                ✅ "He parked the car." (Still 100% complete!)
 ```
 
-> [!TIP]
-> **Summary:**  
-> - **Complement (C):** Absolutely **mandatory** to finish the sentence ($S=C$ or $O=C$).  
-> - **Adjunct (A):** An **optional bonus detail** answering Where, When, How, or Why. You can remove it, and the sentence remains grammatically complete!
+> **📌 Remember: Complement vs. Adjunct**  
+> - **Complement (C):** Absolutely **mandatory** to finish the sentence ($S=C$ or $O=C$). If removed, the sentence collapses.  
+> - **Adjunct (A):** An **optional bonus detail** answering Where, When, How, or Why. If removed, the sentence remains grammatically complete!
 
 ---
 
@@ -521,10 +486,11 @@ An **Adjunct (A)** is any word, phrase, or clause that tells you **WHERE, WHEN, 
 ### 4. Question Mark (`?`) — The Golden SSC Trap
 * Use strictly for **Direct Questions**:
   * ✅ *Where did you buy this book?*
-* ⚠️ **Exam Trap (Indirect / Reported Questions):**
-  When a question is framed as a statement in reported speech, **never use a question mark**:
-  * ❌ *The policeman asked me where was I going?*
-  * ✅ *The policeman asked me where I was going.* (Ends with a full stop!).
+
+> **⚠️ Exam trap: Indirect / Reported Questions**  
+> When a question is framed as a statement in reported speech, **never use a question mark**:  
+> * ❌ *The policeman asked me where was I going?*  
+> * ✅ *The policeman asked me where I was going.* (Ends with a full stop!).
 
 ### 5. Apostrophe (`'`) — Possession vs. Contraction
 * **Possession (உரிமை):**
@@ -533,9 +499,10 @@ An **Adjunct (A)** is any word, phrase, or clause that tells you **WHERE, WHEN, 
   * Plural not ending in -s: *Children's park* (குழந்தைகளின் பூங்கா).
 * **Contraction (சுருக்கம்):**
   * `Don't` = *Do not* | `Won't` = *Will not* | `It's` = *It is*
-* ⚠️ **High-Frequency SSC Rule:**
-  * **`It's`** (with apostrophe) = **It is** (*It's raining heavily* = It is raining).
-  * **`Its`** (without apostrophe) = **Possessive pronoun** (*The cat licked its paw* — பூனையின் பாதம்).
+
+> **📌 Quick rule: It's vs. Its**  
+> * **`It's`** (with apostrophe) = **It is** (*It's raining heavily* = It is raining).  
+> * **`Its`** (without apostrophe) = **Possessive pronoun** (*The cat licked its paw* — பூனையின் பாதம்).
 
 ### 🔥 6. Semicolon (`;`) & The Comma Splice Trap (Tier-II வாக்கியத் திருத்தம்)
 * **The Comma Splice Error:** Two independent clauses **cannot** be glued together by a solitary comma:
@@ -544,6 +511,14 @@ An **Adjunct (A)** is any word, phrase, or clause that tells you **WHERE, WHEN, 
   1. *Use a Coordinating Conjunction:* *The storm was severe, **so** the flight was cancelled.*
   2. *Use a Semicolon (அரைப்புள்ளி):* *The storm was severe**;** the flight was cancelled.*
   3. *Use Conjunctive Adverb:* *The storm was severe**; therefore,** the flight was cancelled.*
+
+> **Stage 1 self-check:**
+>
+> 1. In *"The board appointed him CEO"*, identify S, V, O, and C. Is *CEO* an object or a complement?
+> 2. Spot the error: *"Although she was exhausted, but she finished the marathon."*
+> 3. Does *"European"* take *A* or *An*? Why?
+>
+> *Ready to proceed when you can answer all 3 unaided in 30 seconds.*
 
 ---
 
@@ -598,8 +573,10 @@ Every single word in the English language performs one of these **8 specific dut
   * *Main Action Verbs:* `run, speak, hit, celebrate`
   * *Helping / Auxiliary Verbs:* `Be (is, was), Do (did), Have (has, had)`
   * *Modals:* `can, could, will, would, shall, should, may, must`
-* ⚠️ **Golden Rule:** Modals are always followed directly by **V1 (Base form)**:
-  * ❌ *He can played.* $\to$ ✅ *He can **play**.*
+
+> **📌 Quick rule: Modals strictly take Base Form (V1)**  
+> * ❌ *He can played.* $\to$ ✅ *He can **play**.*  
+> * ❌ *She must goes.* $\to$ ✅ *She must **go**.*
 
 ---
 
@@ -607,8 +584,11 @@ Every single word in the English language performs one of these **8 specific dut
 * **What it is:** Adds detail, quality, number, or size to a **Noun** or **Pronoun**.
 * **Tamil:** பெயர்ச்சொல்லின் தன்மையை விவரிக்கும் சொல்.
 * **Examples:** *clever boy, blue shirt, three pencils, heavy bag, honest officer.*
-* ⚠️ **Exam Trap (Double Comparatives):**
-  * ❌ *He is more taller than his brother.* $\to$ ✅ *He is **taller** than his brother.*
+
+> **⚠️ Exam trap: Double Comparatives**  
+> Never use two comparative forms together:  
+> * ❌ *He is more taller than his brother.* $\to$ ✅ *He is **taller** than his brother.*  
+> * ❌ *It is more colder today.* $\to$ ✅ *It is **colder** today.*
 
 ---
 
@@ -616,8 +596,11 @@ Every single word in the English language performs one of these **8 specific dut
 * **What it is:** Modifies a **Verb**, an **Adjective**, or **another Adverb** (Answers: *How? When? Where? How much?*).
 * **Tamil:** வினைச்சொல்லை அல்லது பெயரடையை விவரிக்கும் சொல்.
 * **Examples:** *He ran **fast**.* / *She sang **sweetly**.* / *It is **very** hot.*
-* ⚠️ **Exam Trap:** Do not attach `-ly` to words that are already adverbs:
-  * ❌ *He drives fastly.* $\to$ ✅ *He drives **fast**.*
+
+> **⚠️ Exam trap: Words that are already Adverbs (No "-ly")**  
+> Do not attach `-ly` to words that are already adverbs:  
+> * ❌ *He drives fastly.* $\to$ ✅ *He drives **fast**.*  
+> * ❌ *She worked hardly.* $\to$ ✅ *She worked **hard**.* (*Hardly* means 'rarely/almost not', which changes the meaning!).
 
 ---
 
@@ -625,10 +608,11 @@ Every single word in the English language performs one of these **8 specific dut
 * **What it is:** Shows relationship of time, place, direction, or position between a noun and the rest of the sentence.
 * **Tamil:** இடம், நேரம் மற்றும் திசையைக் குறிக்கும் சொல்.
 * **Examples:** *in, on, at, by, under, between, among, through, into.*
-* ⚠️ **Exam Traps:**
-  * **Between:** Strictly for **2 people/things** (*Between Ram and Shyam*).
-  * **Among:** For **more than 2** (*Among the students*).
-  * **Redundancy:** Words like *enter, order, discuss* do not take extra prepositions (*He entered the hall*, NOT *entered into*).
+
+> **⚠️ Exam trap: Between vs. Among & Redundant Prepositions**  
+> * **Between:** Strictly for **2 people/things** (*Divide this between Ravi and Shyam*).  
+> * **Among:** For **more than 2** (*Divide this among the five students*).  
+> * **Redundancy:** Verbs like *enter, order, discuss, comprise, marry* never take a following preposition (*He entered the room*, NOT *entered into*; *We discussed the plan*, NOT *discussed about*).
 
 ---
 
@@ -636,12 +620,14 @@ Every single word in the English language performs one of these **8 specific dut
 * **What it is:** Connects words, phrases, or clauses together.
 * **Tamil:** சொற்களை அல்லது வாக்கியங்களை இணைக்கும் சொல்.
 * **Examples:** *and, but, because, although, or, if, while.*
-* ⚠️ **Exam Trap (Fixed Correlative Pairs):**
-  * `Neither` $\longleftrightarrow$ `nor`
-  * `Either` $\longleftrightarrow$ `or`
-  * `Not only` $\longleftrightarrow$ `but also`
-  * `No sooner` $\longleftrightarrow$ `than` (NOT *when*)
-  * `Hardly / Scarcely` $\longleftrightarrow$ `when` (NOT *than*)
+
+> **📌 Remember: Fixed Correlative Conjunction Pairs**  
+> * `Neither` $\longleftrightarrow$ `nor`  
+> * `Either` $\longleftrightarrow$ `or`  
+> * `Not only` $\longleftrightarrow$ `but also`  
+> * `No sooner` $\longleftrightarrow$ `than` *(NOT when)*  
+> * `Hardly / Scarcely` $\longleftrightarrow$ `when` *(NOT than)*  
+> * `Between` $\longleftrightarrow$ `and` *(NOT to)*
 
 ---
 

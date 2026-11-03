@@ -1,19 +1,23 @@
-# SSC CHSL 2026 — GENERAL INTELLIGENCE (REASONING) PERSONAL NOTES
+# General Intelligence & Reasoning (பொது நுண்ணறிவு & பகுத்தறிவு) — SSC CGL 2027 & RRB NTPC Graduate Level
 
-> **Section:** General Intelligence & Reasoning
-> **Tier-I:** 25 questions | 50 marks | 15 minutes sectional timer
-> **Target Speed:** ~36 seconds per question
-> **Purpose:** Personal reference notes — concepts, methods, traps, rules. No questions.
+> **Section:** General Intelligence & Reasoning (பொது நுண்ணறிவு மற்றும் பகுத்தறிவு)
+> **Target Exams:** SSC CGL, CHSL, CPO 2026–2027 & RRB NTPC Graduate Level
+> **Tier-I Pattern:** 25 Questions | 50 Marks | Negative: -0.50
+> **Purpose:** Structural concepts, algorithmic solving steps, speed shortcuts, and high-frequency traps.
 
 ---
 
 ## SECTION OVERVIEW
 
-General Intelligence tests two things at once:
-1. **Reasoning Logic** — finding the pattern, rule, or relationship
-2. **Background Knowledge** — GK facts, vocabulary, science terms
+General Intelligence tests two core capabilities simultaneously:
+1. **Reasoning Logic** — finding the pattern, rule, or structural relationship
+2. **Background Knowledge** — GK facts, vocabulary, scientific terms, and taxonomy
 
-Both must be practiced separately and then combined.
+> **🧠 Concept map: Reasoning Core Architecture (பகுத்தறிவு பாடப் பிரிவுகள்)**
+> - **அடிப்படை பிரிவுகள் (Foundations)**: Analogy (ஒப்புமை), Classification (வகைப்படுத்துதல்), Series (தொடர்கள்).
+> - **குறியீட்டு முறை (Encoding & Rules)**: Coding-Decoding (குறியீட்டு முறை), Direction Sense, Blood Relations.
+> - **தருக்க பகுப்பாய்வு (Logical Reasoning)**: Syllogism (நியாயவியல்), Venn Diagrams, Statement & Assumptions.
+> - **காட்சி பகுத்தறிவு (Non-Verbal / Visual)**: Pattern Completion, Paper Folding, Mirror & Water Images.
 
 ### Topic Priority for Exam Marks
 
@@ -23,34 +27,24 @@ Both must be practiced separately and then combined.
 | 🟡 Should Cover | Visual/Spatial, Logical/Cognitive | 6–9 out of 25 |
 | ⚪ Light Touch | Emotional/Social Intelligence | 0–1 out of 25 |
 
-### Universal Exam Rule
-> If a question takes more than 45 seconds → skip and return later. Never get stuck mid-paper.
+> **📌 Quick rule: The 45-Second Law**
+> If a question takes more than 45 seconds without an immediate path to solution, skip and return later. Never get stuck mid-paper.
 
 ### ⏱ When to Skip — Decision Rule (Exam Day)
 
-Use this flowchart mentally for every question:
+> **🔬 Process map: Exam-Day Time Decision Rule (தேர்வு நேர முடிவெடுக்கும் முறை)**
+> 1. **Scan question & identify pattern type** — Verbal, numerical series, or figural layout.
+> 2. **15-second pattern check** — Can you identify the core rule, difference, or formula within 15 seconds?
+> 3. **Branching execution**:
+>    - **Rule identified:** Solve and lock answer within target time (< 36s).
+>    - **Rule unclear:** Mark for review and SKIP immediately to preserve momentum.
+> 4. **Second pass review** — Return to skipped questions only after securing all easy marks.
 
-```
-Read the question
-      ↓
-Can you identify the pattern/rule within 15 seconds?
-      ↓               ↓
-    YES               NO
-      ↓               ↓
-  Solve it        Mark it and SKIP immediately
-      ↓               ↓
-Done in <36s?     Attempt remaining questions
-      ↓               ↓
-    YES               NO      Come back to skipped
-      ↓               ↓       questions at the end
-   Submit          Skip →
-```
-
-**Hard Rules for Skipping:**
-- Figural/Spatial questions where you cannot see the pattern in 15 seconds → **Skip first, return last.**
-- Number series where no pattern emerges after checking differences, ratios, and squares → **Skip.**
-- Never spend more than 60 seconds on any single question, ever.
-- A skipped question scores 0. A wrong guess scores −0.5. Skipping is always safer than blind guessing.
+> **⚠️ Exam trap: Sunk Cost Fallacy in Reasoning**
+> - Figural/Spatial questions where you cannot see the pattern in 15 seconds $\to$ **Skip first, return last.**
+> - Number series where no pattern emerges after checking differences, ratios, and squares $\to$ **Skip.**
+> - Never spend more than 60 seconds on any single question.
+> - A skipped question scores 0. A wrong guess scores $-0.5$. Skipping is always safer than blind guessing.
 
 ---
 
@@ -68,14 +62,14 @@ Two items share a specific connection. Your job: find that exact connection and 
 - Format: `First : Second :: Third : ?`
 - Read as: *"First is related to Second, in the same way Third is related to what?"*
 
-### The Golden Rule
-> The **exact relationship** connecting the first pair must connect the second pair **in the exact same direction**. Never flip the order.
+> **📌 Quick rule: The Direction Law of Analogy**
+> The **exact relationship** connecting the first pair must connect the second pair **in the exact same direction**. Never flip the order (e.g., if Pair 1 is `Tool : Worker`, Pair 2 cannot be `Worker : Tool`).
 
-### Universal 4-Step Solving Method (20–30 seconds)
-1. **Classify** — Is it Semantic (words), Symbolic/Number (letters/digits), or Figural (shapes)?
-2. **Form the Rule** — Write one strict sentence or formula. Do NOT look at options yet.
-3. **Eliminate** — Cross out 2 options that don't match your rule.
-4. **Direction Check** — Confirm the option's pair direction matches the first pair exactly.
+> **🔬 Process map: 4-Step Analogy Solving Method (ஒப்புமை கண்டறியும் 4 படிகள்)**
+> 1. **Classify the type** — Determine whether the question is Semantic (words), Symbolic/Number (letters/digits), or Figural (shapes).
+> 2. **Formulate the rule** — Build a single, unambiguous relationship sentence or mathematical formula before glancing at options.
+> 3. **Eliminate outliers** — Cross out options that violate the relationship sentence or rule.
+> 4. **Verify directionality** — Confirm that the selected option preserves the exact subject-to-object direction of the original pair.
 
 ---
 
@@ -84,8 +78,8 @@ Two items share a specific connection. Your job: find that exact connection and 
 ### Definition
 All terms are real English words. The relationship is factual or logical — based on meaning, category, science, or geography.
 
-### How to Identify in 3 Seconds
-All four terms are complete English words → Semantic Analogy.
+> **📌 Quick rule: Semantic Identification**
+> All four terms are complete English words $\to$ Semantic Analogy based on vocabulary, category, or real-world facts.
 
 ### High-Frequency SSC Relationship Types
 
@@ -103,12 +97,10 @@ All four terms are complete English words → Semantic Analogy.
 | Category : Member | Mammal : Dog | "A dog is a mammal" |
 | Action : Tool | Write : Pen | "A pen is used to write" |
 
-### Common SSC Traps in Semantic Analogy
-1. **Direction Reversal Trap:** The correct relationship exists but the option reverses it.
-   - If the question gives (Animal : Young One), a wrong option will give (Young One : Animal). Both words are connected but the direction is backwards — reject it.
-2. **Theme Trap:** The option shares the same general theme but a different specific relationship.
-   - e.g., If rule is (Tool : Worker), a wrong option offers (Workplace : Worker) — same theme, different relationship.
-3. **Famous City vs Capital Trap:** Sydney is famous but NOT Australia's capital (Canberra is). Toronto is famous but NOT Canada's capital (Ottawa is).
+> **⚠️ Exam trap: High-Frequency Semantic Traps**
+> 1. **Direction Reversal:** The option reverses subject and object (e.g., `Young One : Animal` when question asked `Animal : Young One`).
+> 2. **Theme Match vs Exact Relation:** Option shares the domain/field but fails the specific operational relation (e.g., `Workplace : Worker` instead of `Tool : Worker`).
+> 3. **Famous Metropolis vs National Capital:** Sydney is famous but NOT Australia's capital (Canberra is); Toronto is NOT Canada's capital (Ottawa is); Rio/São Paulo is NOT Brazil's capital (Brasília is).
 
 ---
 
@@ -117,8 +109,8 @@ All four terms are complete English words → Semantic Analogy.
 ### Definition
 Terms are digits (numbers) or letter clusters. The relationship is mathematical or positional.
 
-### How to Identify in 3 Seconds
-Terms are numbers or letter groups → Symbolic/Number Analogy.
+> **📌 Quick rule: Symbolic/Number Identification**
+> Terms are numbers or letter groups $\to$ Symbolic/Number Analogy governed by mathematical or positional relationships.
 
 ---
 
@@ -131,7 +123,8 @@ Terms are numbers or letter groups → Symbolic/Number Analogy.
 4. **Addition/Subtraction** (difference between numbers)
 5. **Digit operations** (sum of digits, product of digits — lowest priority)
 
-> If one option satisfies a square rule and another satisfies a simple addition rule, SSC marks the **square rule** as correct.
+> **📌 Remember: Hierarchy Precedence Rule**
+> If one option satisfies a square/cube rule and another satisfies a simple addition/difference rule, examiners mark the **higher-order power/prime rule** as correct!
 
 #### Key Number Patterns to Recognize Instantly
 
@@ -148,10 +141,10 @@ Terms are numbers or letter groups → Symbolic/Number Analogy.
 | **Digit Sum** | 2nd term is sum of digits of 1st term | 58:13 (5+8=13), 94:13 (9+4=13) |
 | **Digit Sum Power** | 2nd term is square/cube of digit sum | 15:216 ((1+5)³=6³=216) |
 
-#### ⚠️ The "Arbitrary Subtraction" Distractor Trap
-- **The Trap:** When the 2nd term is significantly smaller than a 2-digit 1st term (e.g., $43 : 12$), candidates instinctively subtract: $43 - 31 = 12$. Applying $72 - 31 = 41$, they find **41** prominently sitting as an option.
-- **The Rule:** Large arbitrary subtraction gaps (like $-31$) with no mathematical pattern are **deliberate SSC distractors**.
-- **Execution Clue:** If the 2nd number drops sharply, test **Digit Product** ($4 \times 3 = 12$) and **Digit Sum** ($4 + 3 = 7$) *before* attempting arbitrary subtraction.
+> **⚠️ Exam trap: The "Arbitrary Subtraction" Distractor**
+> - **The Trap:** When the 2nd term is significantly smaller than a 2-digit 1st term (e.g., $43 : 12$), candidates instinctively subtract: $43 - 31 = 12$. Applying $72 - 31 = 41$, they find **41** prominently sitting as an option.
+> - **The Rule:** Large arbitrary subtraction gaps (like $-31$) with no mathematical pattern are **deliberate SSC distractors**.
+> - **Execution Clue:** If the 2nd number drops sharply, test **Digit Product** ($4 \times 3 = 12$) and **Digit Sum** ($4 + 3 = 7$) *before* attempting arbitrary subtraction.
 
 #### Must-Know Squares (1–25)
 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36, 7²=49, 8²=64, 9²=81, 10²=100,
@@ -176,31 +169,30 @@ Terms are numbers or letter groups → Symbolic/Number Analogy.
 | **81 – 90** | 2 | **83, 89** |
 | **91 – 100** | 1 | **97** |
 
-> **⚡ 10-Digit Mnemonic Code:** `44 - 22 - 32 - 23 - 21` (Memorize like a phone number to count primes in each decade! Total = 25 primes).
+> **📌 Remember: 10-Digit Prime Mnemonic Code**
+> `44 - 22 - 32 - 23 - 21` (Memorize like a phone number to count primes in each decade from 1 to 100! Total = 25 primes).
 
-#### Critical SSC Prime Rules & "Fake Prime" Composite Traps
-1. **The Only Even Prime:** **2** is the smallest and ONLY even prime number. All other primes are odd.
-2. **1 is Neutral:** **1** is neither prime nor composite.
-3. **The "Fake Prime" Traps (Composite numbers that look prime in SSC papers):**
-   - **91** $= 7 \times 13$ *(Extremely high frequency SSC distractor!)*
-   - **119** $= 7 \times 17$
-   - **133** $= 7 \times 19$
-   - **143** $= 11 \times 13$
-   - **161** $= 7 \times 23$ *(Tests divisibility by 7)*
-   - **221** $= 13 \times 17$
-   - **323** $= 17 \times 19$
+> **⚠️ Exam trap: "Fake Prime" Composites in SSC & RRB**
+> Examiners exploit composite numbers whose factors are non-obvious 2-digit primes:
+> - **91** $= 7 \times 13$ *(Highest frequency SSC distractor!)*
+> - **119** $= 7 \times 17$
+> - **133** $= 7 \times 19$
+> - **143** $= 11 \times 13$
+> - **161** $= 7 \times 23$ *(Tests divisibility by 7)*
+> - **221** $= 13 \times 17$
+> - **323** $= 17 \times 19$
 
-#### ⚡ The 3-Second SSC Divisibility Rule for 7 ("Double & Subtract")
-Most SSC fake-prime composite traps ($91, 119, 133, 161$) are multiples of 7. To check any number in 3 seconds:
+> **💡 Understand: The 3-Second Divisibility Rule for 7 ("Double & Subtract")**
+> Most fake-prime composite traps ($91, 119, 133, 161$) are multiples of 7.
 > **Rule:** Take the last digit, **double it**, and **subtract** it from the remaining number. If the result is a multiple of 7 (or 0), the whole number is divisible by 7!
-- **Test 161:** Last digit $1 \times 2 = 2 \implies 16 - 2 = \mathbf{14}$ (Divisible by 7 $\implies 161 = 7 \times 23$).
-- **Test 91:** Last digit $1 \times 2 = 2 \implies 9 - 2 = \mathbf{7}$ (Divisible by 7 $\implies 91 = 7 \times 13$).
-- **Test 119:** Last digit $9 \times 2 = 18 \implies 18 - 11 = \mathbf{7}$ (Divisible by 7 $\implies 119 = 7 \times 17$).
+> - **Test 161:** Last digit $1 \times 2 = 2 \implies 16 - 2 = \mathbf{14}$ (Divisible by 7 $\implies 161 = 7 \times 23$).
+> - **Test 91:** Last digit $1 \times 2 = 2 \implies 9 - 2 = \mathbf{7}$ (Divisible by 7 $\implies 91 = 7 \times 13$).
+> - **Test 119:** Last digit $9 \times 2 = 18 \implies 18 - 11 = \mathbf{7}$ (Divisible by 7 $\implies 119 = 7 \times 17$).
 
-#### ⏱ The Universal $\sqrt{N}$ Prime Testing Method (Test any number in 15 seconds)
-1. Find the nearest perfect square just above the number: for $N = 161$, $13^2 = 169 \implies \sqrt{161} \approx 12.6$.
-2. **Only test prime numbers** less than or equal to that square root ($\mathbf{2, 3, 5, 7, 11}$). You never need to test numbers above $\sqrt{N}$!
-3. If it is not divisible by any of these primes, it is guaranteed **Prime** (e.g., $127, 137, 149$). If divisible by even one (e.g., $161 \div 7 = 23$), it is **Composite**.
+> **🔬 Process map: Universal $\sqrt{N}$ Prime Testing Method (15-Second Test)**
+> 1. **Find upper square root boundary** — Find the nearest perfect square just above the number: for $N = 161$, $13^2 = 169 \implies \sqrt{161} \approx 12.6$.
+> 2. **Test prime factors only** — Only test prime numbers $\le \sqrt{N}$ ($\mathbf{2, 3, 5, 7, 11}$). Never test composite numbers or numbers above $\sqrt{N}$.
+> 3. **Verify divisibility** — If divisible by any test prime ($161 \div 7 = 23$), it is **Composite**; if no prime divides it, it is guaranteed **Prime**.
 
 ---
 
@@ -217,17 +209,16 @@ In modern SSC CHSL & CGL exams, questions are frequently framed as number triads
 | **Sum-Multiplier Pattern** | $(\text{First} + \text{Second}) \times k = \text{Third}$ | $(13, 17, 150)$ <br> $(13+17) \times 5 = 150$ | 3rd number is a multiple of $(a+b)$. |
 | **Difference-Cube Pattern** | $(\text{Second} - \text{First})^3 = \text{Third}$ | $(9, 15, 216)$ <br> $(15-9)^3 = 6^3 = 216$ | 3rd number is a known cube ($64, 125, 216, 343$). |
 
-#### ⚡ 10-Second SSC Shortcut for Average-Square Triads
-When you spot a perfect square at the end ($100, 144, 169, 196...$):
-1. **Take the square root of the 3rd number:** $\sqrt{100} = 10$.
-2. **Double it:** $10 \times 2 = 20$.
-3. **Verify if the sum of the first two terms equals that doubled root:** $6 + 14 = 20$.
-4. **Scan options using the same shortcut:**
-   - For $(9, 17, 169)$: $\sqrt{169} = 13 \to 13 \times 2 = 26$. Does $9 + 17 = 26$? Yes $\to$ mark option in under 10 seconds!
+> **📌 Quick rule: Average-Square Triad Shortcut**
+> When you spot a perfect square at the end ($100, 144, 169, 196...$):
+> 1. Take the square root of the 3rd number: $\sqrt{100} = 10$.
+> 2. Double it: $10 \times 2 = 20$.
+> 3. Verify if the sum of the first two terms equals that doubled root: $6 + 14 = 20$.
+> 4. Scan options: For $(9, 17, 169)$: $\sqrt{169} = 13 \to 13 \times 2 = 26$. Since $9 + 17 = 26$, lock answer in seconds!
 
-#### Common Distractor Traps in Set Analogy
-1. **The Consecutive Square Trap:** If the expected square is $11^2 = 121$, an attractive trap option will give $12^2 = 144$ (e.g. $(7, 15, 144)$ where $\frac{7+15}{2}=11$, but option used $12^2$).
-2. **The Partial Match Trap:** A distractor where the sum is correct, but the multiplication factor is different from the question set. Always calculate the exact multiplier.
+> **⚠️ Exam trap: Triad Distractors**
+> 1. **The Consecutive Square Trap:** If the expected square is $11^2 = 121$, an attractive trap option will give $12^2 = 144$.
+> 2. **The Partial Match Trap:** A distractor where the sum is correct, but the multiplication factor is different from the question set. Always calculate the exact multiplier.
 
 ---
 
@@ -273,15 +264,15 @@ A high-yield hybrid where a word is mapped to a single integer (e.g., `CAT : 72`
 | **Opposite Positional Sum** | $\sum (27 - \text{Position})$ | `CAT : 57` <br> $(24+26+7) = 57$ | Target number exceeds forward sum substantially. |
 | **Sum $\pm$ Letter Count** | $(\sum \text{Positions}) \pm (\text{Length})$ | `CAT : 27` <br> $24 + 3 = 27$ | Target number is very close to raw sum. |
 
-#### ⚡ 5-Second Unit-Digit Exam Shortcut
-When the rule is $(\text{Sum}) \times (\text{Number of Letters})$:
-1. Find the sum of letter positions (e.g., `DOG` = $4 + 15 + 7 = 2\mathbf{6}$).
-2. Multiply **only the unit digit** by the number of letters: $\mathbf{6} \times 3 = 1\mathbf{8}$ (ends in **8**).
-3. Scan options immediately: in most SSC questions, **only one option ends in 8** (e.g., **78**). You can mark the correct key in under 5 seconds without multiplying two-digit numbers!
+> **📌 Quick rule: Unit-Digit Word-to-Number Shortcut**
+> When the rule is $(\text{Sum}) \times (\text{Number of Letters})$:
+> 1. Find the sum of letter positions (e.g., `DOG` = $4 + 15 + 7 = 2\mathbf{6}$).
+> 2. Multiply **only the unit digit** by the number of letters: $\mathbf{6} \times 3 = 1\mathbf{8}$ (ends in **8**).
+> 3. Scan options immediately: in most exam questions, only one option ends in 8 (e.g., **78**). Mark without full arithmetic!
 
-#### Common Distractor Traps in Word-to-Number Analogy
-1. **The Raw Sum Trap:** SSC will almost always include the unmultiplied raw sum as Option A (e.g., offering **26** for `DOG : ?`). It catches candidates who find the letter values but forget to apply the length multiplier.
-2. **The Wrong Multiplier Trap:** Using a constant multiplier (like $\times 2$) instead of counting the exact number of letters in the specific word.
+> **⚠️ Exam trap: Word-to-Number Distractors**
+> 1. **The Raw Sum Trap:** SSC often includes the unmultiplied raw sum as Option A, trapping candidates who forget the word length multiplier.
+> 2. **The Constant Multiplier Trap:** Applying a fixed multiplier (like $\times 2$) instead of checking the dynamic number of letters/vowels in the target word.
 
 ---
 
@@ -290,8 +281,8 @@ When the rule is $(\text{Sum}) \times (\text{Number of Letters})$:
 ### Definition
 Relationships between geometric shapes, symbols, and figures. A visual transformation from Figure A to Figure B is identified and applied to Figure C to find Figure D.
 
-### How to Identify in 3 Seconds
-The question shows boxes with shapes, arrows, or geometric figures → Figural Analogy.
+> **📌 Quick rule: Figural Identification**
+> The question displays boxes with geometric shapes, arrows, dots, or line segments $\to$ Figural Analogy.
 
 ### The 5 Core Figural Transformations (95% of SSC questions)
 
@@ -349,20 +340,17 @@ Step 1:    Step 2:    Step 3:    Step 4:
 Triangle Square Pentagon Hexagon
 ```
 
-### Solving Method: "One Element at a Time"
-**NEVER** look at the whole figure. Always isolate ONE element first.
+> **🔬 Process map: "One Element at a Time" Figural Method**
+> 1. **Isolate a single marker** — Pick only one element (e.g., arrow tip, dot position, or corner symbol). Never scan the full figure as a whole.
+> 2. **Trace the transformation** — Track whether it rotates (CW/CCW), reflects, shifts corners, or inverts shading.
+> 3. **Eliminate 2 options immediately** — Strike out options where this single marker did not obey the exact verified movement.
+> 4. **Check secondary attribute** — Inspect a second marker (e.g., side count or shading) to break ties between the remaining 2 options.
 
-1. **Pick ONE element** (e.g., only the arrow tip, or only the dot position, or only the shading).
-2. **Trace that single element** from Figure A to Figure B. What happened to it?
-3. **Look at the 4 answer options** — eliminate every option where that element didn't follow the same rule. (Usually kills 2 options immediately.)
-4. **Pick a second element** (e.g., the shading or number of sides) to decide between the remaining 2 options.
-5. Lock answer.
-
-### Common SSC Traps in Figural Analogy
-1. **Wrong rotation direction** — Option shows 90° CW but correct is 90° CCW.
-2. **Mirror vs Water image confusion** — One flips horizontally, the other vertically.
-3. **Decoy option** — Looks almost identical to correct answer but one small element (a dot, a line) is in the wrong position.
-4. **Shape change ignored** — Students focus on rotation and miss that the shape's number of sides also changed.
+> **⚠️ Exam trap: Figural Distractors**
+> 1. **Rotation Sign Flip:** Option mirrors a 90° CW turn with a 90° CCW turn.
+> 2. **Mirror vs Water Inversion:** Confusing horizontal flip (Left $\leftrightarrow$ Right) with vertical flip (Top $\leftrightarrow$ Bottom).
+> 3. **The Decoy Sub-Element:** An option looks 99% correct, but one tiny inner dot or hash line is displaced.
+> 4. **Overlooking Side Mutation:** Focusing entirely on orientation while missing an increment in polygon sides ($+1$ side).
 
 ---
 
@@ -373,13 +361,13 @@ Triangle Square Pentagon Hexagon
 ## What is Classification?
 You are given a group of 4 or 5 items. Three (or four) share a common property. One does NOT share that property. Find the odd one out.
 
-### The Golden Rule
-> Find the property shared by the **majority** of items. The one that does NOT have that property is the answer.
+> **📌 Quick rule: Classification Golden Law**
+> Find the specific biological, mathematical, or structural property shared by the **majority** (3 out of 4 items). The one item that violates that property is the odd one out.
 
-### Universal Solving Method
-1. Look for the most specific common category first (not the broadest theme).
-2. If one property doesn't work, try a second property.
-3. In Number Classification — always check: prime/composite, even/odd, perfect square/cube, digit sum, number of factors.
+> **🔬 Process map: Universal Classification Strategy (வகைப்படுத்துதல் முறைகள்)**
+> 1. **Determine the domain** — Is it semantic (words), numerical (values), or figural (symbols)?
+> 2. **Formulate common subset property** — Find the most specific category (e.g., "noble gases", "perfect cubes", "mammals") connecting 3 items.
+> 3. **Test exception rigorously** — Confirm that the 4th item strictly lacks that defining attribute.
 
 ---
 
@@ -400,12 +388,12 @@ Four words are given. Three belong to the same category or share a specific rela
 | **Fruits vs Vegetables** | Tomato, Cucumber, Pumpkin are botanically **Fruits** (contain seeds); Potato, Ginger, Carrot are root/tuber **Vegetables**. | Underground tubers (Potato, Ginger) vs above-ground fruits. |
 | **Planets** | Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune (8 total) | **Pluto** is a dwarf planet (demoted in 2006). |
 
-### Common SSC Traps in Semantic Classification
-1. **The Physical Dimension Trap (Units):** Comparing whether a unit is metric or imperial instead of checking the **underlying physical property** (e.g., Temperature vs. Pressure, Energy vs. Power).
-2. **The Aquatic Animal Trap:** Grouping animals by habitat (living in water) rather than biological class. A Whale lives in water but is a **Mammal** (breathes with lungs); a Shark is a **Fish** (breathes with gills).
-3. **The Flight Trap:** A Bat flies but is a **Mammal**; an Ostrich or Penguin cannot fly but is a **Bird**.
-4. **The Insect Trap:** A Spider has 8 legs and belongs to Arachnids — it is **NOT an insect** (insects have 6 legs).
-5. **The Limb vs. Taxonomic Class Trap (Reptiles vs. Amphibians):** Candidates pick *Snake* thinking it has zero legs while Lizard, Crocodile, and Frog have 4 legs. **Scientific biological class strictly trumps morphology (number of limbs)**: Snake, Lizard, Crocodile, Alligator, Chameleon = **Reptiles** (dry scaly skin, amniotic shelled eggs laid on land); Frog, Toad, Salamander, Newt = **Amphibians** (moist scaleless glandular skin, eggs laid in water, aquatic gill-breathing tadpole stage).
+> **⚠️ Exam trap: Semantic Classification Traps**
+> 1. **Physical Dimension Trap:** Grouping by unit systems (SI vs Imperial) instead of fundamental physical dimension (Energy vs Power, Temperature vs Pressure).
+> 2. **The Aquatic Habitat Trap:** Grouping by habitat rather than taxonomic class. Whale and Dolphin are **Mammals** (lungs); Shark is a **Fish** (gills).
+> 3. **The Flight Fallacy:** Bat flies but is a **Mammal**; Penguin and Ostrich cannot fly but are **Birds**.
+> 4. **Arachnid vs Insect:** Spider has 8 legs (Arachnid) $\to$ **NOT** an insect (6 legs).
+> 5. **Limb Count vs Taxonomic Class:** Scientific biological class strictly trumps superficial morphology: Snake, Lizard, Crocodile = **Reptiles** (dry scales, land eggs); Frog, Salamander = **Amphibians** (moist skin, water eggs).
 
 ---
 
@@ -560,25 +548,12 @@ Each term = sum of two previous terms.
 4. If ratios don't work, check if terms are near squares or cubes.
 5. If none of the above, check for two interleaved series.
 
-### ⚠️ Fallback Rule — When All 7 Types Fail
-If none of the standard patterns work, try these in order:
-
-```
-Step 1: Calculate 2nd-level differences (difference of differences).
-        If 2nd-level differences form a constant or simple series → the answer is there.
-
-Step 2: Check if each term = prime number, or product of two primes.
-        e.g., 6(2×3), 10(2×5), 15(3×5), 21(3×7)...
-
-Step 3: Check if terms relate to their position number.
-        Term at position n = f(n). Try: n², n²+n, n(n+1), n²-1...
-
-Step 4: Check if alternate terms form two separate series.
-        Split: T1, T3, T5... and T2, T4, T6... — check each sub-series separately.
-
-Step 5: If still stuck → SKIP the question. Come back at the end.
-        Never guess randomly on series questions — the penalty (−0.5) is not worth a blind guess.
-```
+> **🔬 Process map: Fallback Strategy for Tough Number Series**
+> 1. **Calculate 2nd-level differences** — If 1st differences are uneven, find difference of differences to reveal arithmetic or geometric increments.
+> 2. **Check prime products & factors** — Check if terms are consecutive prime products: $6 (2\times3), 10 (2\times5), 14 (2\times7), 15 (3\times5)...$
+> 3. **Evaluate position function $f(n)$** — Test formulas linked to term index: $n^2, n^3, n(n+1)$, or $n^2 \pm n$.
+> 4. **Split alternating interleaved series** — Separate into odd positions ($T_1, T_3, T_5...$) and even positions ($T_2, T_4, T_6...$) and analyze patterns independently.
+> 5. **Apply disciplined skip** — If pattern remains elusive after 30 seconds, mark and skip. Protect marks from the $-0.5$ penalty.
 
 ### First 20 Prime Numbers (Memorize)
 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71
@@ -1155,7 +1130,8 @@ A matrix (grid) of numbers or figures is given with one cell missing. Find the m
 | Saudi Arabia | Riyadh | Saudi Riyal |
 | UAE | Abu Dhabi | Dirham |
 
-> ⚠️ = Classic SSC trap. They always give the famous city (Sydney, Toronto, Rio) as the most attractive wrong option.
+> **⚠️ Exam trap: Famous Metropolis vs National Capital**
+> Exam papers systematically place prominent financial or cultural capitals (Sydney, Toronto, Rio de Janeiro, New York) as distractors for actual political capitals (Canberra, Ottawa, Brasília, Washington D.C.).
 
 ---
 
@@ -1217,5 +1193,5 @@ A matrix (grid) of numbers or figures is given with one cell missing. Find the m
 
 ---
 
-*End of Reasoning Notes — SSC CHSL 2026*
-*Last Updated: 20 Sep 2026*
+*End of Reasoning Notes — SSC CGL 2027 & RRB NTPC Graduate Level*
+*Aligned with Reader Color & Learning Box Engine*

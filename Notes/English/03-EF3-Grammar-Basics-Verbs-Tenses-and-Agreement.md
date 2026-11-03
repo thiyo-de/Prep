@@ -11,38 +11,20 @@
 
 ## 🧭 EF3 MASTER CHAPTER ROADMAP
 
-```text
-┌────────────────────────────────────────────────────────┐
-│        EF3: GRAMMAR BASICS (ACTION, TIME & SVA)        │
-└───────────────────────────┬────────────────────────────┘
-                            │
-       ┌────────────────────┴────────────────────┐
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 1: VERBS & MODALS  │               │ PART 2: S-V-A LAWS      │
-│ • 4 Verb Forms (V1-V4)  │               │ • First vs Nearest Subj │
-│ • 7 Verb Classifications│               │ • Indefinite Pronoun SVA│
-│ • Causatives & Modals   │               │ • Collective Division   │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-       ┌─────┴───────────────────────────────────┬─────┘
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 3: THE 12 TENSES   │               │ PART 4: CONDITIONALS    │
-│ • Present, Past, Future │               │ • Zero, 1st, 2nd, 3rd   │
-│ • Since vs For Anchor   │               │ • Inverted Conditionals │
-│ • High-Time Subjunctive │               │ • "But for" Structure   │
-└────────────┬────────────┘               └────────────┬────────────┘
-             │                                         │
-       ┌─────┴───────────────────────────────────┬─────┘
-       ▼                                         ▼
-┌─────────────────────────┐               ┌─────────────────────────┐
-│ PART 5: QUESTION TAGS   │               │ PART 6: RAPID RECALL    │
-│ • Negative Adverb Tags  │               │ • 16 Golden Flash Rules │
-│ • Indefinite Pron. Tags │               │ • Tier-II Exam Drills   │
-│ • Imperative SentenceTag│               │ • Complete Answer Keys  │
-└─────────────────────────┘               └─────────────────────────┘
-```
+> **🧠 Concept map: EF3 Verb, Tense & Agreement Engine**
+>
+> * **Part 1: Verbs, Verb Forms & Modals (வினைச்சொற்கள் & வடிவங்கள்)**  
+>   4 verb forms (V1–V4), transitive vs intransitive, finite vs non-finite, linking verbs, stative verbs, bare infinitives, causative verbs.
+> * **Part 2: Subject-Verb Agreement Laws (எழுவாய்-வினை உடன்பாடு)**  
+>   The fundamental agreement law, first-subject connectors (*as well as, along with*), nearest-subject correlatives, indefinite pronouns, collective nouns.
+> * **Part 3: The 12 English Tenses & Subjunctive (காலங்கள் & பயன்பாடுகள்)**  
+>   Present, past, and future frameworks, *since* vs *for* anchors, past perfect sequence (*had + V3*), *It is high time* subjunctive past tense.
+> * **Part 4: Conditional Clauses & Inversion (நிபந்தனை வாக்கியங்கள்)**  
+>   Zero, 1st, 2nd, and 3rd conditionals, inverted conditional syntax, *"but for"* structure, mixed conditional logic.
+> * **Part 5: Question Tag Mechanics (வினா இணைப்புகள்)**  
+>   Positive vs negative balance, auxiliary extraction, negative adverb inversion (*hardly, seldom*), indefinite pronoun pronoun-shifts.
+> * **Part 6: 16 Golden Flash Rules & Tier-II Drills (மீள்பார்வை & பயிற்சி)**  
+>   Rapid-fire revision cards for exam morning, 10 Tier-II questions with complete grammatical explanations.
 
 ---
 
@@ -62,11 +44,10 @@ Every English verb operates across 4 core forms that you must recognize on sight
 | **Eat** | **Ate** | **Eaten** | **Eating** | சாப்பிடு |
 | **Sing** | **Sang** | **Sung** | **Singing** | பாடு |
 
-> [!WARNING]
-> **The V3 Golden Law:**
-> **V3 can NEVER stand alone as the main verb of a sentence!** It strictly requires a helping verb (*has, have, had, is, was, been*):
-> * ❌ *He written a letter yesterday.*
-> * ✅ *He **wrote** a letter yesterday.* (Using V2 for simple past)
+> **⚠️ Exam trap: The V3 Golden Law**  
+> **V3 can NEVER stand alone as the main verb of a sentence!** It strictly requires a helping verb (*has, have, had, is, was, been*):  
+> * ❌ *He written a letter yesterday.*  
+> * ✅ *He **wrote** a letter yesterday.* (Using V2 for simple past)  
 > * ✅ *He **has written** a letter.* (Using Helping Verb + V3)
 
 ---
@@ -86,11 +67,10 @@ PRIMARY HELPING VERBS                               MODAL AUXILIARIES
                                                     • must, ought to (necessity/obligation)
 ```
 
-> [!IMPORTANT]
-> **The Modal Law:**
-> A Modal is **ALWAYS followed directly by V1 (Base Form)**. Never add `-s`, `-ed`, or `-ing`:
-> * ❌ *He can plays cricket.* $\longrightarrow$ ✅ *He can **play** cricket.*
-> * ❌ *You must to go.* $\longrightarrow$ ✅ *You must **go**.*
+> **📌 Quick rule: The Modal Law**  
+> A Modal is **ALWAYS followed directly by V1 (Base Form)**. Never add `-s`, `-ed`, or `-ing`:  
+> * ❌ *He can plays cricket.* $\longrightarrow$ ✅ *He can **play** cricket.*  
+> * ❌ *You must to go.* $\longrightarrow$ ✅ *You must **go**.*  
 > * ❌ *She should studied.* $\longrightarrow$ ✅ *She should **study**.*
 
 ---
@@ -139,17 +119,16 @@ In SSC CGL Tier-II, understanding verb taxonomy is essential for spotting errors
 
 #### C. Linking / Copular Verbs (இணைக்கும் வினைகள் — #1 SSC CGL Tier-II Trap)
 Verbs of state, appearance, and sensory perception do not show physical action; they link the subject to a subject complement:
+> **📌 Remember: Sensory & Linking Verbs**  
 > **be (is, am, are, was, were), seem, appear, look, taste, smell, sound, feel, become, turn, grow**
 
-> [!WARNING]
-> **The Golden Adjective Law for Linking Verbs:**
-> Because a Linking Verb connects back to the **Subject (Noun/Pronoun)**, it **MUST be modified by an ADJECTIVE**, NEVER an Adverb!
->
-> ❌ *The soup tastes deliciously.* $\longrightarrow$ ✅ *The soup tastes **delicious**.* (Adjective).  
-> ❌ *She looks charmingly in that traditional saree.* $\longrightarrow$ ✅ *She looks **charming**.*  
-> ❌ *The roses smell sweetly.* $\longrightarrow$ ✅ *The roses smell **sweet**.*  
-> ❌ *I feel badly about the misunderstanding.* $\longrightarrow$ ✅ *I feel **bad**.*  
-> ❌ *The trumpet sounded loudly.* $\longrightarrow$ ✅ *The trumpet sounded **loud**.*
+> **⚠️ Exam trap: The Golden Adjective Law for Linking Verbs**  
+> Because a Linking Verb connects back to the **Subject (Noun/Pronoun)**, it **MUST be modified by an ADJECTIVE**, NEVER an Adverb!  
+> * ❌ *The soup tastes deliciously.* $\longrightarrow$ ✅ *The soup tastes **delicious**.* (Adjective).  
+> * ❌ *She looks charmingly in that traditional saree.* $\longrightarrow$ ✅ *She looks **charming**.*  
+> * ❌ *The roses smell sweetly.* $\longrightarrow$ ✅ *The roses smell **sweet**.*  
+> * ❌ *I feel badly about the misunderstanding.* $\longrightarrow$ ✅ *I feel **bad**.*  
+> * ❌ *The trumpet sounded loudly.* $\longrightarrow$ ✅ *The trumpet sounded **loud**.*
 
 #### D. Causative Verbs (பிறவினைச் சொற்கள் — Tier-II Heavyweight)
 When the subject does not perform the action directly, but causes someone else or an agent to do it:
@@ -203,6 +182,7 @@ Tier-II examiners frequently set traps using verbs with similar pronunciation or
 
 ### 🔥 Top SSC Exam Trap: Prepositional Phrases Mandatory for Gerund (`V4 / -ing`), NOT V1!
 The standard rule says *to + V1 (Infinitive)*. However, in these fixed prepositional phrases, **`to` is a preposition**, so it strictly takes a **Gerund (`V4 / -ing`)**:
+> **📌 Remember: Fixed Preposition Phrases taking Gerund (V-ing)**  
 > **Looking forward to | Accustomed to | Used to | With a view to | Addicted to | Prone to | Averse to | In addition to**
 
 * ❌ *I am looking forward to meet you.* $\longrightarrow$ ✅ *I am looking forward to **meeting** you.*
@@ -213,6 +193,7 @@ The standard rule says *to + V1 (Infinitive)*. However, in these fixed prepositi
 
 ### 🔥 Top SSC Exam Trap: Bare Infinitive Rules (Active vs. Passive)
 Verbs of perception and causation take a **Bare Infinitive (V1 without *to*)** in Active Voice, but a **Full Infinitive (*to + V1*)** in Passive Voice:
+> **⚠️ Exam trap: Verbs taking Bare Infinitive**  
 > **Make, Bid, Watch, Hear, See**
 
 * **Active Voice (No 'to'):**
@@ -227,8 +208,8 @@ Verbs of perception and causation take a **Bare Infinitive (V1 without *to*)** i
 
 # 👑 PART 2: SUBJECT-VERB AGREEMENT (S-V-A) — #1 EXAM PRIORITY
 
-> **The Fundamental Law of English:**
-> * **Singular Subject $\longrightarrow$ Singular Verb**
+> **📌 Quick rule: The Fundamental S-V-A Law**  
+> * **Singular Subject $\longrightarrow$ Singular Verb**  
 > * **Plural Subject $\longrightarrow$ Plural Verb**
 
 ```
@@ -244,6 +225,7 @@ $$\mathbf{They\ /\ We\ /\ You\ /\ Boys} \quad \longrightarrow \quad \mathbf{are\
 
 ### 🔥 SVA Rule 1: The "First Subject" Conjunctions
 When two subjects are joined by:
+> **📌 Remember: Connectors that Agree with the FIRST Subject**  
 > **as well as, along with, together with, in addition to, accompanied by, with, like, unlike, rather than**
 
 The verb **strictly agrees with the FIRST SUBJECT**:
@@ -260,6 +242,7 @@ The verb **strictly agrees with the FIRST SUBJECT**:
 
 ### 🔥 SVA Rule 2: The "Nearest Subject" Conjunctions
 When two subjects are joined by:
+> **📌 Remember: Connectors that Agree with the NEAREST Subject**  
 > **Either ... or | Neither ... nor | Not only ... but also | Or**
 
 The verb **strictly agrees with the NEAREST SUBJECT** (the one right beside the verb):
@@ -276,6 +259,7 @@ The verb **strictly agrees with the NEAREST SUBJECT** (the one right beside the 
 ### 🔥 SVA Rule 3: The "Indefinite Singular" Words
 The following words look broad, but are grammatically **100% SINGULAR** and must take a **Singular Verb**:
 
+> **📌 Remember: Indefinite Pronouns that strictly take Singular Verbs**  
 > **Each, Every, Everyone, Someone, Anyone, No one, Somebody, Nobody, Anybody, Everything, Something, Nothing, Either, Neither, One of the**
 
 * ❌ *Everyone are attending the session.* $\longrightarrow$ ✅ *Everyone **is** attending the session.*
@@ -432,7 +416,7 @@ There are 3 primary conditional patterns tested in SSC:
 
 ### 🔥 Top SSC Exam Trap: Type 3 Conditional Pairing
 
-> [!IMPORTANT]
+> **📌 Quick rule: Type 3 Conditional Rigid Pairing**  
 > The formula is rigid. If one side has `had + V3`, the other side **must** have `would have + V3`:
 >
 > $$\mathbf{If\ +\ had\ +\ V3} \quad \longleftrightarrow \quad \mathbf{would\ have\ +\ V3}$$
@@ -506,6 +490,14 @@ A mini-question attached to the end of a statement to seek confirmation or agree
    * For **Everything, Something, Nothing, Anything**, the pronoun in the tag is strictly **`IT`**:
    * ✅ *Everything is fine, **isn't it?***
    * ✅ *Nothing was stolen, **was it?*** (*Nothing* is negative $\to$ tag is positive).
+
+> **Stage 1 self-check:**
+>
+> 1. In *"The captain, along with his team members, (has/have) arrived"*, which verb is correct?
+> 2. Spot the error: *"If she would have studied harder, she would have cleared the Tier-II exam."*
+> 3. Provide the question tag: *"Everyone was present at the conference, _______?"*
+>
+> *Ready to proceed to exam drills when you can answer all 3 unaided in 30 seconds.*
 
 ---
 

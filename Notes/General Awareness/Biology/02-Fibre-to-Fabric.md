@@ -127,6 +127,9 @@ Imagine a cotton shirt. The shirt is made of fabric. Pulling apart a small woven
 
 ### Supplement: the rayon trap
 
+> **⚠️ Exam trap: The Rayon / Artificial Silk Trap**  
+> Rayon is manufactured from natural cellulose (wood pulp), making it a **man-made regenerated fibre** (semi-synthetic), NOT a natural fibre and NOT fully synthetic like nylon.
+
 **Rayon = regenerated cellulose; commonly called artificial silk.** Its raw material can be wood pulp, but the usable fibre is manufactured. Thus rayon is **man-made**, not a natural fibre like cotton. It is often called **semi-synthetic** in school explanations. Do not confuse it with fully synthetic nylon.
 
 <!-- separate learning boxes -->
