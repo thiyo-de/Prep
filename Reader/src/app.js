@@ -86,7 +86,7 @@ function createNoteFolder(node, isSubject = false) {
   const summary = document.createElement('summary');
   summary.className = 'nav-sub-summary';
   summary.innerHTML = `<div class="nav-summary-left"><i class="ph ph-caret-right nav-caret" aria-hidden="true"></i>${icon(node.icon)}<span class="nav-sub-label"></span></div><span class="nav-sub-count"></span>`;
-  summary.querySelector('.nav-sub-label').textContent = node.name;
+  summary.querySelector('.nav-sub-label').textContent = node.label || node.name;
   summary.querySelector('.nav-sub-count').textContent = node.count;
   details.append(summary);
   const body = document.createElement('div');

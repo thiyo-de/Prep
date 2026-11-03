@@ -6,7 +6,6 @@ import { noteSubjects } from '../src/note-tree.js';
 
 // Keep existing routes and draft keys stable while discovering files from disk.
 const knownNotes = {
-  'Maths/01-M01-Number-System.md': { id: 'notes-maths-m01', title: 'Maths: Number System (M01)', label: 'M01: Number System', icon: 'calculator', subtitle: 'English + Tamil foundations, worked models, PDF diagrams and revision practice.' },
   'Reasoning/Reasoning-Notes.md': { id: 'notes-reasoning', title: 'Reasoning personal notes', label: 'Reasoning notes', icon: 'brain', subtitle: 'Concepts, patterns, traps, and exam-day decision rules.' },
   'English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md': { id: 'notes-english-ef1', title: 'English: Sentences & parts of speech (EF1)', label: 'EF1: Sentences & speech', icon: 'book-open', subtitle: 'Sentence foundations, phrases, clauses, and parts of speech.' },
   'English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md': { id: 'notes-english-ef2', title: 'English: Nouns & modifiers (EF2)', label: 'EF2: Nouns & modifiers', icon: 'text-aa', subtitle: 'Nouns, pronouns, adjectives, and adverbs.' },
@@ -19,22 +18,31 @@ export async function readNoteDocuments(notesRoot) {
   const paths = [];
   async function walk(relative = '') {
     for (const entry of await readdir(join(notesRoot, relative), { withFileTypes: true })) {
-      if (entry.name.startsWith('.') || ['templates', 'assets'].includes(entry.name.toLowerCase())) continue;
+      if (entry.name.startsWith('.') || ['templates', 'assets', 'materials - pdf'].includes(entry.name.toLowerCase())) continue;
       const path = relative ? `${relative}/${entry.name}` : entry.name;
       if (entry.isDirectory()) await walk(path);
-      else if (entry.isFile() && /\.md$/i.test(entry.name) && !/^readme\.md$/i.test(entry.name)) paths.push(path);
+      else if (entry.isFile() && /\.md$/i.test(entry.name) && !/^readme\.md$/i.test(entry.name)) {
+        const top = path.split('/')[0];
+        if (noteSubjects.some(s => s.name === top || s.aliases?.includes(top.toLowerCase()))) {
+          paths.push(path);
+        }
+      }
     }
   }
   await walk();
   const rank = path => {
-    const index = noteSubjects.findIndex(subject => path.startsWith(`${subject.name}/`));
+    const top = path.split('/')[0];
+    const index = noteSubjects.findIndex(subject => subject.name === top || subject.aliases?.includes(top.toLowerCase()));
     return index < 0 ? noteSubjects.length : index;
   };
   paths.sort((a, b) => rank(a) - rank(b) || a.localeCompare(b, 'en', { numeric: true }));
   return Promise.all(paths.map(async path => {
     const parts = path.split('/');
     const folders = parts.slice(0, -1);
-    const subject = noteSubjects.some(item => item.name === folders[0]) ? folders.shift() : 'General Awareness';
+    const topFolder = folders[0] || '';
+    const subjectDef = noteSubjects.find(item => item.name === topFolder || item.aliases?.includes(topFolder.toLowerCase())) || noteSubjects[0];
+    const subject = subjectDef.name;
+    folders.shift();
     const source = await readFile(join(notesRoot, path), 'utf8');
     const title = source.replace(/^\uFEFF/, '').match(/^#\s+(.+?)\s*#*\s*$/m)?.[1]
       || basename(path, '.md').replace(/^\d+[-_ ]*/, '').replace(/[-_]/g, ' ');

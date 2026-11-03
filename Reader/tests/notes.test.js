@@ -32,20 +32,21 @@ test('note discovery follows additions and deletions, excluding templates and in
     assert.equal(cells.title, 'Cells / செல்கள்');
     assert.equal(cells.subject, 'General Awareness');
     assert.deepEqual(cells.folders, ['Biology']);
-    assert.equal(notes[0].subject, 'English');
-    assert.deepEqual(notes[0].folders, []);
+    assert.equal(notes[0].subject, 'General Awareness');
+    assert.deepEqual(notes[0].folders, ['Biology']);
     const foodDoc = notes.find(note => note.path === `Notes/${food}`);
     assert.equal(foodDoc.noteLabel, 'Food & nutrition');
     const chemistry = 'General Awareness/Chemistry/Atoms/01-Structure.md';
     await writeFile(join(root, chemistry), '# Atomic structure');
     let tree = buildNoteTree(await readNoteDocuments(root));
-    assert.deepEqual(tree.map(node => node.name), ['Maths', 'English', 'Reasoning', 'General Awareness']);
-    assert.equal(tree[0].count, 0);
-    assert.equal(tree[3].count, 3);
-    assert.equal(tree[3].folders.get('Chemistry').folders.get('Atoms').documents[0].noteLabel, 'Atomic structure');
+    assert.deepEqual(tree.map(node => node.name), ['General Awareness', 'Reasoning', 'English']);
+    assert.equal(tree[0].count, 3);
+    assert.equal(tree[1].count, 0);
+    assert.equal(tree[2].count, 1);
+    assert.equal(tree[0].folders.get('Chemistry').folders.get('Atoms').documents[0].noteLabel, 'Atomic structure');
     await unlink(join(root, chemistry));
     tree = buildNoteTree(await readNoteDocuments(root));
-    assert.ok(!tree[3].folders.has('Chemistry'), 'Empty folders should disappear');
+    assert.ok(!tree[0].folders.has('Chemistry'), 'Empty folders should disappear');
     await unlink(join(root, food));
     await writeFile(join(root, newNote), '# Renamed title');
     notes = await readNoteDocuments(root);
@@ -60,9 +61,9 @@ test('note discovery follows additions and deletions, excluding templates and in
   }
 });
 
-test('four subjects remain available without notes', () => {
+test('three subjects remain available without notes', () => {
   const tree = buildNoteTree([]);
-  assert.equal(tree.length, 4);
+  assert.equal(tree.length, 3);
   assert.ok(tree.every(subject => subject.count === 0 && subject.folders.size === 0));
 });
 

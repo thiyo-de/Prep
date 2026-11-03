@@ -68,8 +68,6 @@ Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysi
 
 ## Study files
 
-- [Maths: Number System (M01) - English + Tamil](Notes/Maths/01-M01-Number-System.md)
-- [Reasoning notes](Notes/Reasoning/Reasoning-Notes.md)
 - [English: English Basics: Sentences & Parts of Speech (EF1)](Notes/English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md)
 - [English: Grammar Basics: Nouns, Pronouns & Modifiers (EF2)](Notes/English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md)
 - [English: Grammar Basics: Verbs, Tenses & Agreement (EF3)](Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md)

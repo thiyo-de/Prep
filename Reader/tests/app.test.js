@@ -70,18 +70,14 @@ test('study UI: tick, local draft, chapter filter, theme and exact authenticated
     $('connect').click(); assert.match($('connection-note').textContent, /Connect to save/);
   } finally { close(); }
 });
-test('number-system notes show local PDF crops and reject remote or raw HTML images', async () => {
-  const note = await readFile('../Notes/Maths/01-M01-Number-System.md', 'utf8');
-  const source = `${note}\n![remote](https://evil.invalid/track.png)\n![unknown](Assets/missing.png)\n<img src="https://evil.invalid/raw.png">`;
-  const { $, close } = await setup({ id: 'notes-maths-m01', source });
+test('study notes render learning blocks and reject remote or raw HTML images', async () => {
+  const note = await readFile('../Notes/English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md', 'utf8');
+  const source = `${note}\n![remote](https://evil.invalid/track.png)\n<img src="https://evil.invalid/raw.png">`;
+  const { $, close } = await setup({ id: 'notes-english-ef1', source });
   try {
     const content = $('content');
-    const images = [...content.querySelectorAll('img')];
-    assert.equal(images.length, 3);
-    assert.ok(images.every(img => img.src.startsWith('data:image/png;base64,') && img.alt.length > 30));
-    assert.equal(content.querySelectorAll('.model-question').length, 75);
-    assert.ok(content.querySelectorAll('.learning-tamil').length >= 15);
-    assert.equal(content.querySelectorAll('.katex-error').length, 0);
+    assert.equal(content.querySelectorAll('img').length, 0);
+    assert.ok(content.querySelectorAll('.learning-remember, .learning-why, .learning-trap').length >= 1);
     assert.ok(!content.querySelector('[data-note-image]'));
   } finally { close(); }
 });
@@ -218,9 +214,8 @@ test('notes hierarchy follows subjects and folders with collapsed defaults and b
   try {
     const groups = [...w.document.querySelectorAll('.nav-subgroup')];
     const subjects = [...w.document.querySelectorAll('.nav-subject')];
-    assert.deepEqual(subjects.map(group => group.dataset.folder), ['Maths', 'English', 'Reasoning', 'General Awareness']);
+    assert.deepEqual(subjects.map(group => group.dataset.folder), ['General Awareness', 'Reasoning', 'English']);
     assert.ok(groups.every(group => !group.open), 'Direct links must not open subject or folder dropdowns');
-    assert.match(subjects[0].textContent, /Number System/);
     const biologyLink = w.document.querySelector('[data-nav="notes-biology-01"]');
     const biology = biologyLink.closest('details');
     const ga = biology.closest('.nav-subject');
@@ -234,7 +229,7 @@ test('notes hierarchy follows subjects and folders with collapsed defaults and b
     assert.equal(biology.open, true);
     w.location.hash = '#notes-english-ef1';
     await waitFor(() => w.document.querySelector('[data-nav="notes-english-ef1"]').getAttribute('aria-current') === 'page');
-    assert.equal(subjects[1].open, false, 'Navigation must not force closed subjects open');
+    assert.equal(subjects[2].open, false, 'Navigation must not force closed subjects open');
     assert.equal(biology.open, true, 'Manual folder state is preserved');
     assert.equal($('breadcrumb').textContent, 'English → Sentences & parts of speech (EF1)');
     w.location.hash = '#maths';
