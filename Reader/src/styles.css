@@ -1,4 +1,3 @@
-@import url('./type.css');
 @import 'katex/dist/katex.min.css';
 :root {
   --font-satoshi: 'Satoshi', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
