@@ -70,6 +70,22 @@ test('study UI: tick, local draft, chapter filter, theme and exact authenticated
     $('connect').click(); assert.match($('connection-note').textContent, /Connect to save/);
   } finally { close(); }
 });
+test('number-system notes show local PDF crops and reject remote or raw HTML images', async () => {
+  const note = await readFile('../Notes/Maths/01-M01-Number-System.md', 'utf8');
+  const source = `${note}\n![remote](https://evil.invalid/track.png)\n![unknown](Assets/missing.png)\n<img src="https://evil.invalid/raw.png">`;
+  const { $, close } = await setup({ id: 'notes-maths-m01', source });
+  try {
+    const content = $('content');
+    const images = [...content.querySelectorAll('img')];
+    assert.equal(images.length, 3);
+    assert.ok(images.every(img => img.src.startsWith('data:image/png;base64,') && img.alt.length > 30));
+    assert.equal(content.querySelectorAll('.model-question').length, 75);
+    assert.ok(content.querySelectorAll('.learning-tamil').length >= 15);
+    assert.equal(content.querySelectorAll('.katex-error').length, 0);
+    assert.ok(!content.querySelector('[data-note-image]'));
+  } finally { close(); }
+});
+
 test('draft restoration and stale-source conflict preserve local changes', async () => {
   const draft = { version: 1, base: { text: fixture, sha: 'old' }, text: fixture.replace('[ ] Signs', '[x] Signs') };
   const { w, $, close } = await setup({ stored: draft });
@@ -204,7 +220,7 @@ test('notes hierarchy follows subjects and folders with collapsed defaults and b
     const subjects = [...w.document.querySelectorAll('.nav-subject')];
     assert.deepEqual(subjects.map(group => group.dataset.folder), ['Maths', 'English', 'Reasoning', 'General Awareness']);
     assert.ok(groups.every(group => !group.open), 'Direct links must not open subject or folder dropdowns');
-    assert.match(subjects[0].textContent, /No notes yet/);
+    assert.match(subjects[0].textContent, /Number System/);
     const biologyLink = w.document.querySelector('[data-nav="notes-biology-01"]');
     const biology = biologyLink.closest('details');
     const ga = biology.closest('.nav-subject');

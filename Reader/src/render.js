@@ -3,6 +3,7 @@ import MarkdownIt from 'markdown-it';
 import katex from 'katex';
 import { tasksIn } from './core.js';
 import { documents, githubUrl } from '../config.js';
+import { noteImages } from './generated/note-images.js';
 
 export function formatMathForPdf(tex) {
   let s = tex.trim();
@@ -49,6 +50,19 @@ export function formatMathForPdf(tex) {
 export function renderDocument(text, doc, interactive = true, forPdf = false) {
   const md = new MarkdownIt({ html: true, linkify: false });
   const taskMap = new Map(tasksIn(text).map(t => [t.line, t]));
+  const imageSlots = [];
+  md.renderer.rules.image = (tokens, idx) => {
+    const token = tokens[idx];
+    const alt = token.content || 'Study diagram';
+    let path;
+    try {
+      const url = new URL(token.attrGet('src'), `https://content.invalid/${doc.path}`);
+      if (url.origin === 'https://content.invalid' && !url.search && !url.hash) path = decodeURIComponent(url.pathname.slice(1));
+    } catch { /* Unsupported image paths remain readable as alternative text. */ }
+    if (!path || !Object.hasOwn(noteImages, path)) return md.utils.escapeHtml(alt);
+    const index = imageSlots.push({ src: noteImages[path], alt }) - 1;
+    return `<span data-note-image="${index}"></span>`;
+  };
 
   // Inline Math: $...$
   md.inline.ruler.before('escape', 'math_inline', (state, silent) => {
@@ -168,9 +182,20 @@ export function renderDocument(text, doc, interactive = true, forPdf = false) {
       'ul','ol','li','blockquote','pre','code','hr','br','table','thead','tbody','tr','th','td','input',
       'math','semantics','mrow','msup','mfrac','mn','mo','mi','mspace','annotation'
     ],
-    ALLOWED_ATTR: ['href','title','start','align','type','class','style','data-task-line','aria-label','aria-hidden','checked','xmlns','encoding'],
+    ALLOWED_ATTR: ['href','title','start','align','type','class','style','data-task-line','data-note-image','aria-label','aria-hidden','checked','xmlns','encoding'],
     ALLOW_DATA_ATTR: false
   });
+  // Raw HTML images remain forbidden; only resolved Markdown assets reach here.
+  for (const slot of container.querySelectorAll('[data-note-image]')) {
+    const asset = imageSlots[Number(slot.dataset.noteImage)];
+    if (!asset) { slot.remove(); continue; }
+    const img = document.createElement('img');
+    img.src = asset.src;
+    img.alt = asset.alt;
+    img.className = 'note-source-image';
+    if (forPdf) img.setAttribute('data-pdfmake', JSON.stringify({ fit: [480, 300] }));
+    slot.replaceWith(img);
+  }
   // Ordinary Markdown quotes stay readable on GitHub and gain teaching colours here.
   for (const quote of container.querySelectorAll('blockquote')) {
     const label = quote.querySelector(':scope > p:first-child > strong:first-child')?.textContent
@@ -185,7 +210,7 @@ export function renderDocument(text, doc, interactive = true, forPdf = false) {
     if (kind) quote.classList.add('learning-box', `learning-${kind}`);
   }
   for (const p of container.querySelectorAll(':scope > p')) {
-    if (/^[A-E]\d+\./.test(p.querySelector(':scope > strong:first-child')?.textContent || '')) p.classList.add('model-question');
+    if (/^[A-Z]\d+\./.test(p.querySelector(':scope > strong:first-child')?.textContent || '')) p.classList.add('model-question');
   }
   // Source-authored HTML inputs must never masquerade as editable tasks.
   for (const input of container.querySelectorAll('input')) {
