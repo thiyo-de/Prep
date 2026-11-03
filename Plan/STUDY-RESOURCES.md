@@ -1,41 +1,60 @@
-# Study resources: use what you have
+# 📚 Study Resources: Use What You Have
 
-[Master plan](FINAL-PLAN-NOV2026-MAY2027.md) · [Subject checklists](Subject-Checklists/README.md)
+> **Core Rule:** Stick to **one primary course** and **one PYQ source** per subject, plus **one test series platform**. Do not hoard materials or buy redundant courses.\
+> **Quick Links:** [📅 Master Plan](FINAL-PLAN-NOV2026-MAY2027.md) · [✅ Subject Checklists](Subject-Checklists/README.md)
 
-You already have video courses and PYQ books. Use one course and one PYQ source per subject, with one mock platform per exam. This guide supports the existing timetable; it is not another plan or a shopping list.
+---
 
-## Inspiration: Palanivel's preparation
+## 🔄 The Single Universal Study Cycle
 
-As a Tamil-medium student, you found [Palanivel's interview](https://www.youtube.com/watch?v=rzxdMpNz4pk) motivating. The resources below reflect your account of the interview, not an independently verified full transcript or a list of materials you have confirmed owning.
+```
+┌──────────────┐     ┌───────────────────────┐     ┌─────────────────────┐
+│ 1. LESSON    │ ──▶ │ 2. EASY UNTOUCHED SET │ ──▶ │ 3. CHAPTER PYQs     │
+│ Video/Theory │     │ Reach 70%+ Unaided    │     │ Untimed Tier-II/CBT │
+└──────────────┘     └───────────────────────┘     └──────────┬──────────┘
+                                                              │
+                     ┌───────────────────────┐                │
+                     │ 5. RE-SOLVE AT 7 & 21 │ ◀──────────────┘
+                     │ Log Error in Notebook │
+                     └───────────────────────┘
+```
 
-| Purpose | Resources reported in your interview notes | How to use the resources you have |
-|---|---|---|
-| Maths | Chandru Maths + PYQs | Learn concepts, solve easy questions independently, then attempt chapter PYQs. |
-| Reasoning | Chandru Maths + PYQs | Practise relationships and methods; learn unfamiliar words and facts encountered in questions. |
-| English | Chandru Maths + PYQs | Build grammar and vocabulary foundations, then apply them in questions. |
-| GK/GA foundations | Chandru Maths + PYQs | Follow the scheduled topics; test audio-lesson recall during weekend revision. |
-| Current affairs | Parmar Current Affairs | Use the current-affairs time already in the plan; revise and test recall. |
-| Previous GK questions | RBE's five-year GK compilation, reportedly accessed through Telegram | Use the creator's official release; check which years it covers. It does not replace the full GK checklist. |
-| Mocks | **Testbook — mentioned in your earlier summary; confirmation pending** | Use your chosen platform for the scheduled mocks and analysis. Do not switch just to match this interview. |
-| Improvement | Subject notes, error notes, mock analysis and weak-area practice | Keep notes short, repair repeated errors, and complete the existing 7/21-day reviews. |
+---
 
-Your exact course names and PYQ-book editions are not recorded here. Continue using what you own; another candidate's resource choice is not a purchase requirement.
+## 🎯 Resource Alignment by Subject
 
-## One study cycle
+| Subject | Primary Course / Video Source | Practice & PYQ Source | Study Method |
+|---|---|---|---|
+| 📐 **Maths** | Chandru Maths *(or chosen course)* | Chapter-wise PYQ Book | Understand the method first; solve easy models unaided before timed speed drills. |
+| 🧠 **Reasoning** | Chandru Maths *(or chosen course)* | Chapter-wise PYQ Book | Learn underlying relationships and pattern families; practice 4-step elimination. |
+| 📖 **English** | Foundation Course *(EF1–EF3)* | Chapter-wise PYQ Book | Learn 10 new words daily; master sentence grammar; read 1 daily editorial/passage. |
+| 🌍 **GK / GA** | Topic-wise Audio & Notes | 5-Year PYQ Compilation | Review audio during work hours; test active recall via weekend 30-question quizzes. |
+| 📰 **Current Affairs** | Monthly Compilation / Video | Monthly Quiz Sets | Reserve for Sunday monthly audit blocks; do not spend excessive daily hours. |
+| 💻 **Mock Tests** | Testbook / Chosen Platform | Full Mocks & Sectionals | Use exclusively for scheduled Sunday mocks and 48-hour deep error analysis. |
 
-**Lesson → easy independent questions → chapter PYQs → error notes → weak-area practice → revision → scheduled tests/mocks.**
+---
 
-Keep the master plan's 70% unaided easy-practice gate before harder questions. Use Tamil explanations to understand; gradually learn the English terms and question wording. Notes and extra explanations fit inside existing study blocks.
+## 💡 Troubleshooting: "When You Feel Something Is Missing"
 
-## When you think something is missing
+Before browsing YouTube or buying a new book, pause and diagnose the exact bottleneck:
 
-Before looking for a new resource, ask: **“What exact topic, word, fact or question stopped me today?”**
+```
+┌────────────────────────┬────────────────────────────────────────────────────────┐
+│ If the problem is...   │ The exact surgical fix:                                │
+├────────────────────────┼────────────────────────────────────────────────────────┤
+│ 1. Concept Gap         │ Re-watch only the 15-min subtopic, then solve 3 easy   │
+│                        │ models unaided. Do not re-watch the whole course.      │
+├────────────────────────┼────────────────────────────────────────────────────────┤
+│ 2. Vocabulary / Fact   │ Record the specific word/fact in your notebook. Quiz   │
+│                        │ yourself at 24 hours and 7 days.                       │
+├────────────────────────┼────────────────────────────────────────────────────────┤
+│ 3. Speed / Time Issue  │ You need practice under pressure, not more theory.     │
+│                        │ Run 6-minute / 10-question sprint drills.              │
+├────────────────────────┼────────────────────────────────────────────────────────┤
+│ 4. Repeated Mistakes   │ Add the question to your Error Log and re-solve it on  │
+│                        │ Day 7 and Day 21 with zero notes.                      │
+└────────────────────────┴────────────────────────────────────────────────────────┘
+```
 
-- **Concept gap:** revisit the relevant lesson/example, then solve a fresh easy question unaided.
-- **Vocabulary or factual gap:** record the unfamiliar word or pair. Learn a small related set, quiz yourself, then return to PYQs.
-- **Repeated mistakes:** use the error notebook and existing repair time; do not restart the whole course.
-- **No specific gap:** open the next unfinished task and begin.
+> **📌 Remember:** Progress comes from questions solved independently and errors corrected permanently—never from collecting new PDFs or rewriting the timetable.
 
-For example, an unfamiliar animal–young-one pair calls for a small knowledge set, not a new reasoning course. Ask AI for useful foundational pairs and a recall quiz; claims such as “most asked” need evidence from identified PYQs.
-
-**Progress means questions attempted independently, mistakes corrected and knowledge recalled later. Resource searching and rewriting the plan do not replace that work.**

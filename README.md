@@ -1,80 +1,109 @@
-# SSC CGL + RRB NTPC Preparation
+# 🎯 SSC CGL & RRB NTPC Preparation System
 
-One beginner-friendly study plan for **November 2026–May 2027** (with an optional head start on basic foundations), built around an **8 AM–7 PM workday**.
+> **Timeline:** November 2026 – May 2027 *(Foundation Head-Start)*\
+> **Schedule:** 39 Hours/Week Scheduled Study + Workday Audio & Lunch Typing\
+> **Workday:** Built around an 8:00 AM – 7:00 PM Work Schedule\
+> **Target Cycles:** Upcoming 2027 Recruitment Cycles *(SSC CGL Primary · RRB NTPC Graduate Secondary · CHSL Backup)*
 
-**Target: upcoming 2027 recruitment cycles only** — SSC CGL and RRB NTPC Graduate, with CHSL as a backup. Existing/ongoing recruitment cycles are outside this plan. May is the preparation deadline, not a confirmed exam date.
+---
 
-## Start here
+## 🚀 Quick Navigation
 
-**[Open the final study plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md)** — final study version aligned with the subject checklists on 24 October 2026. Follow the scheduled blocks and use results to repair specific topics within existing time.
+| Document | Purpose | Direct Link |
+|---|---|:---:|
+| 📅 **Master Study Plan** | Complete day-by-day roadmap, weekly milestones & test schedules | [Open Study Plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md) |
+| ✅ **Subject Checklists** | Syllabus tracking for Maths, English, Reasoning, GK, Computers & Typing | [Open Checklists](Plan/Subject-Checklists/README.md) |
+| 💼 **Posts & Salaries** | Pay levels, in-hand calculation models & exam benchmark targets | [Open Posts Guide](Posts/POSTS-AND-SALARY-GUIDE.md) |
+| 📚 **Study Resources** | Verified textbooks, courses, test platforms & correction logs | [Open Resources](Plan/STUDY-RESOURCES.md) |
 
-**[Subject checklists](Plan/Subject-Checklists/README.md)** — six detailed checklists for Maths, English, Reasoning, GK/GA, Computers and Typing.
+> **Source of Truth:** The [Master Plan](Plan/FINAL-PLAN-NOV2026-MAY2027.md) is the authoritative reference for exam priorities, timetables, and hours. Older CHSL-first rules or teaching notes do not override it.
 
-**[Posts and salary guide](Posts/POSTS-AND-SALARY-GUIDE.md)** — SSC/RRB comparison, starting basic pay, estimated gross and in-hand pay, and annual gross.
+---
 
-The final plan is the source of truth for exam priorities and scheduling. Older CHSL-first notes or teaching rules do not override it.
+## 🎯 Exam Focus & Target Roles
 
-## Exam focus
+```
+                      ┌──────────────────────────────────────┐
+                      │      CORE SHARED SYLLABUS            │
+                      │  Maths · Reasoning · English · GA    │
+                      └──────────────────┬───────────────────┘
+                                         │
+                 ┌───────────────────────┴───────────────────────┐
+                 ▼                                               ▼
+     ┌───────────────────────┐                       ┌───────────────────────┐
+     │     SSC CGL 2027      │                       │   RRB NTPC Graduate   │
+     │ Tier-I & Tier-II (P-I)│                       │      CBT-1 & CBT-2    │
+     └───────────────────────┘                       └───────────────────────┘
+```
 
-- **SSC CGL:** Tier-I and Tier-II Paper-I, with Tier-II depth as the main preparation target.
-- **RRB NTPC Graduate:** CBT-1 and CBT-2, using the shared Maths, Reasoning and GK syllabus.
-- **CHSL:** backup Tier-I mock practice from March.
+| Exam | Target Level | Primary Roles Targeted |
+|---|---|---|
+| **SSC CGL** | Tier-I + Tier-II Paper-I *(Primary)* | ASO (CSS, MEA, Railways), Income Tax Inspector, Auditor, Accountant, Tax Assistant |
+| **RRB NTPC** | CBT-1 + CBT-2 *(Graduate Level)* | Chief Commercial cum Ticket Supervisor, Goods Train Manager, Junior Accounts Assistant |
+| **SSC CHSL** | Tier-I *(Backup Practice from March)* | Benchmark practice only; no separate preparation workload added |
 
-Selected CGL posts: ASO, Income Tax Inspector, Auditor, Accountant and Tax Assistant.
+---
 
-Selected NTPC posts: Chief Commercial cum Ticket Supervisor, Goods Train Manager, Junior Accounts Assistant cum Typist and Senior Clerk cum Typist.
+## ⏰ Daily & Weekly Routine
 
-Specialist CGL papers and Station Master aptitude preparation are outside this plan. Check eligibility and current notices before applying; verified sources and date limitations are recorded in the plan.
+### 🗓️ Monday to Saturday (5 Study Hours / Day)
 
-## Daily routine
+| Time Block | Subject | Duration | Focus Area |
+|---|---|:---:|---|
+| **Morning Block** | 📐 **Maths** | 120 min | 40 min concept & short notes + 60 min solving + 20 min error revision |
+| **Evening Block 1** | 📖 **English** | 90 min | 20 min vocab (10 words + spaced reviews) + 30 min lesson + 40 min practice |
+| **Evening Block 2** | 🧠 **Reasoning** | 90 min | 25 min lesson/examples + 45 min solving + 20 min corrections |
+| **During Work** | 🎧 **GK & Computers** | Passive | Background audio review of current topics & theory |
+| **Lunch Break** | ⌨️ **Typing** | 20 min | Dedicated touch-typing practice *(separate from study hours)* |
 
-| Subject/activity | Time |
-|---|---:|
-| Maths | 2 hours |
-| English | 1½ hours |
-| Reasoning | 1½ hours |
-| GK and computer theory | Audio during work |
-| Beginner typing | 20 minutes during lunch, separate from study hours |
+### 🗓️ Sunday (9-Hour Mastery Block)
 
-Monday–Saturday: **5 study hours/day**. Sunday: **9 hours** for tests, analysis, weak topics, revision and GK questions. Total: **39 scheduled hours/week**, plus workday audio and lunch typing. Dated mock sessions replace normal blocks as specified in the plan.
+```
+┌─────────────────┬─────────────────┬─────────────────┬─────────────────┐
+│  5 Hours        │  2 Hours        │  1 Hour         │  1 Hour         │
+│  Mocks & Full   │  Weak Topic &   │  Error Re-solve │  30-Q GA Quiz & │
+│  Paper Analysis │  Catch-up       │  (7 & 21 Days)  │  Scorecard      │
+└─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+```
 
-## How to study and revise
+---
 
-> **Active recall rule:** Revise in 4 layers: daily, weekly, monthly, and phase. Solve questions each time, don't reread notes. A topic isn't revised until you can solve its questions without looking at anything.
+## 🔄 Active Recall & 4-Layer Revision System
 
-1. **Daily (inside blocks, no extra time):**
-   - **Maths:** last 20 min of morning block — re-solve due error questions.
-   - **English:** first 20 min — vocab reviews at Day 1, 3, 7 and 21.
-   - **Arithmetic recall:** 5 min inside the Maths concept block for tables/squares/cubes until fluent.
-   - **GA:** optional recall replaces part of workday audio when a suitable break is available. Lunch remains for typing and eating.
-2. **Weekly (Sunday 9-hour block):**
-   - **1 hr:** re-solve errors due 7 and 21 days after getting them wrong, with no notes.
-   - **GA quiz:** 30 questions (20 from this week, 10 older).
-   - **Maths:** 10 timed questions in 6 minutes (36 sec/question).
-   - **Mock analysis:** start concept-gap re-solves within 48 hours inside existing correction time; queue overflow for repair.
-3. **Monthly (last Sunday of each month):**
-   - Use the last scheduled mixed test/mock as the monthly assessment, without adding a paper.
-   - Summarise one weak chapter in 15 min of Sunday's existing 70-min weak-topic allowance; 55 min remain for repair.
-   - Replace the 20 current-topic GA questions with monthly-current-affairs questions; keep 10 older-topic questions.
-4. **Phases & RAG revisit cycle:**
-   - **Optional head start:** begin MF1–MF3 basics, 10 new words/day with reviews, and a typing baseline; finish foundations in the scheduled blocks.
-   - **Week 9:** revise weeks 1–8 chapters; **Week 22:** full syllabus audit.
-   - **April–May:** timed topic drills + error re-solves; **Final 7 days:** formulas/vocab/errors only (1 light mock 3 days before, none in last 2 days).
-   - **Phase 5 (June onward):** 4 weeks on Red topics & Tier-II depth, then 2 alternating mocks/week until exam.
-   - **Retention pending:** 80%+ with a review unfinished; complete both reviews before marking Green.
-   - 🟢 **Green (80%+ & 2 clean re-solves):** revisit every **3 weeks**.
-   - 🟡 **Amber (70%–79%):** revisit every **10 days**.
-   - 🔴 **Red (under 70%):** revisit every **7 days** (must fix before starting next new chapter).
+> **Active Recall Rule:** Revise by solving fresh questions under test conditions—never by passively re-reading notes. A topic is not revised until questions are solved without assistance.
 
-## Study files
+| Layer | Timing | Execution |
+|---|---|---|
+| **Layer 1: Daily** | Inside study blocks | • **Maths:** Final 20 min re-solving logged error questions<br>• **English:** First 20 min for Day 1, 3, 7, and 21 vocab recall<br>• **Arithmetic:** 5 min mental drill for tables, squares & cubes |
+| **Layer 2: Weekly** | Sunday 9h session | • Re-solve errors due at Day 7 and Day 21 (no notes)<br>• 30-question GA quiz (20 current-week + 10 older topics)<br>• Timed Maths speed drill (10 questions in 6 minutes) |
+| **Layer 3: Monthly** | Last Sunday | • Scheduled mixed mock test as monthly audit<br>• Re-solve weak chapters; replace 20 GA questions with monthly Current Affairs |
+| **Layer 4: Phase** | Milestone weeks | • **Week 9:** Full review of Weeks 1–8<br>• **Week 22:** Comprehensive pre-exam syllabus audit |
 
-- [English: English Basics: Sentences & Parts of Speech (EF1)](Notes/English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md)
-- [English: Grammar Basics: Nouns, Pronouns & Modifiers (EF2)](Notes/English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md)
-- [English: Grammar Basics: Verbs, Tenses & Agreement (EF3)](Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md)
-- [Biology notes](Notes/General%20Awareness/Biology/)
-- [Biology: Food & Nutrition - English + Tamil](Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md)
-- [Biology: Fibre to Fabric - English + Tamil](Notes/General%20Awareness/Biology/02-Fibre-to-Fabric.md)
-- [Notes template](Notes/Templates/Notes-Template-Prompt.md)
-- [GA/GK notes template - SSC CGL + RRB NTPC, English + Tamil](Notes/Templates/GA-GK-Template.md)
+---
 
-Keep one plan, follow the current week's topics, and use actual test results to guide revision.
+## 🚦 RAG Retention Tracking System
+
+Topics are tagged based on test accuracy and clean re-solves:
+
+| Status | Threshold | Revision Frequency | Action Rule |
+|:---:|---|---|---|
+| 🟢 **Green** | **80%+ accuracy** + 2 clean re-solves | Every **3 weeks** | Topic is retained; maintain via periodic mixed drills. |
+| 🟡 **Amber** | **70% – 79% accuracy** | Every **10 days** | Solid foundation; requires timed drill to build speed. |
+| 🔴 **Red** | **Below 70% accuracy** | Every **7 days** | **Stop and repair:** Must fix before advancing to next chapter. |
+
+---
+
+## 📖 Study Notes & Reference Guides
+
+### English Foundation Notes
+- [01-EF1: English Basics — Sentences & Parts of Speech](Notes/English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md)
+- [02-EF2: Grammar Basics — Nouns, Pronouns & Modifiers](Notes/English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md)
+- [03-EF3: Grammar Basics — Verbs, Tenses & Agreement](Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md)
+
+### General Awareness / Biology Notes
+- [01-Biology: Food & Nutrition *(English + Tamil)*](Notes/General%20Awareness/Biology/01-Food-and-Nutrition.md)
+- [02-Biology: Fibre to Fabric *(English + Tamil)*](Notes/General%20Awareness/Biology/02-Fibre-to-Fabric.md)
+
+### Authoring & Note Templates
+- [Standard Notes Prompt Template](Notes/Templates/Notes-Template-Prompt.md)
+- [GA/GK Notes Template *(SSC CGL + RRB NTPC)*](Notes/Templates/GA-GK-Template.md)
