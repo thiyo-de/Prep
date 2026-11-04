@@ -1,6 +1,6 @@
 # One Plan: CGL + RRB NTPC
 
-> **Final Study Blueprint — Updated 24 October 2026**  
+> **Hybrid Study Blueprint — Updated 4 November 2026**
 > Use this master plan alongside the subject checklists through **May 2027**. Start from your first unfinished foundation and follow the scheduled blocks. Keep the routine stable: use test results to repair specific topics within existing hours. Revisit the schedule only for official date/notice changes or logged workload adjustments.
 
 ---
@@ -17,7 +17,7 @@
 > **You have enough to begin.** Follow today's task, practise what you learn, and review your mistakes. Build consistency with this plan; adjust it only when verified test results demand a repair.
 
 **📅 Schedule: 1 November 2026 – 31 May 2027**  
-**⏱ Workload: 39 hours/week scheduled study + Workday audio & Lunch typing | Priority: CGL Tier-II First**
+**⏱ Requested allocation: up to 39 hours/week + Workday audio & Lunch typing | Priority: Maths depth + one morning subject at a time**
 
 ---
 
@@ -42,36 +42,57 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 
 ---
 
-## 2. Fixed Routine: November–March
+## 2. Hybrid Routine: Maths Daily, Reasoning First, English Next
 
-### ⏰ Monday–Saturday: 5 Hours / Day
+### ⏰ Monday–Saturday: Requested 5-Hour Allocation
 
 **Work Hours: 8:00 AM – 7:00 PM**  
-- **Morning (Pre-work):** 2-hour Maths deep work.
-- **Evening (Post-work):** Two 90-minute blocks (English & Reasoning).
+- **Morning, 5:00–7:00 AM:** Reasoning until its dedicated learning phase is complete; then English. One main learning subject per morning.
+- **Evening, 8:00–11:00 PM:** Maths throughout both phases. Give the weakest subject the largest daily block.
 - *Workday Audio:* Listen to GK/current affairs and computer theory during transit/work breaks.
 - *Lunch Break:* 20 minutes beginner typing practice (separate from the 5 study hours; preserve time to eat).
 
 | Study Block | Duration | Detailed Schedule & Action Plan |
 |:---|:---:|:---|
-| 🌅 **Morning: Maths** | **120 min** | • **40 min:** Video lesson / concept / examples + short formula notes<br>• **60 min:** Active question solving (15–25 Qs)<br>• **20 min:** Error notebook review & re-solves |
-| 🌆 **Evening: English** | **90 min** | • **20 min:** Vocabulary (10 new words + Day 1/3/7/21 reviews)<br>• **30 min:** Grammar lesson + rule notes<br>• **40 min:** Practice questions, reading/cloze & error correction |
-| 🌙 **Evening: Reasoning** | **90 min** | • **25 min:** Lesson concept / examples + pattern notes<br>• **45 min:** Active question solving (20–30 Qs)<br>• **20 min:** Corrections & error review |
-| **Daily Scheduled Total** | **300 min (5h)** | **Plus:** Workday audio + 20 min lunch typing |
+| 🌅 **Morning — Reasoning phase** | **120 min** | **15 min:** Recall earlier methods / due errors → **35 min:** Concepts and attempted examples → **55 min:** Independent questions / PYQs → **15 min:** Corrections. On practice days, transfer concept time to solving and the topic test. |
+| 🌅 **Morning — English phase** | **120 min** | Replaces the Reasoning morning: **20 min:** Vocabulary and due reviews → **30 min:** Current grammar / reading method → **55 min:** Independent practice / PYQs → **15 min:** Corrections. |
+| 🌙 **Evening — Maths in both phases** | **180 min** | **15 min:** Recall, including 5 min tables/squares/cubes → **40 min:** Concepts / attempted examples → **5 min:** Break → **90 min:** Independent practice / PYQs → **5 min:** Break → **25 min:** Error correction and due re-solves. On practice days, use concept time for solving. |
+| **Daily allocation** | **300 min (5h)** | One morning row + Maths; includes the two short breaks. Workday audio and 20 min lunch typing remain separate. |
 
 > [!IMPORTANT]
-> An 11-hour workday plus 5 study hours leaves 8 hours for sleep, meals, and transit. Check this routine against your actual energy levels in weeks 1–2. Never cut sleep below 7 hours to force checklist completion; use the built-in Sunday catch-up buffers instead.
+> **Timing conflict:** The requested 11 PM finish and 5 AM restart leave only six hours between sessions, before getting ready or falling asleep. These are the requested study windows, not a sleep-compatible daily timetable. Preserve at least seven hours of sleep; do not force the full allocation by cutting rest. See [CDC adult sleep guidance](https://www.cdc.gov/sleep/about/index.html).
+>
+> **Separate alternative if evening Maths stays fixed:** For example, sleep 11:30 PM–6:30 AM and use 6:45–7:15 AM for the current morning subject, only if getting ready and commuting still fit. This gives 3½ scheduled hours/day, or 30 hours/week with the existing Sunday allocation. A shorter morning means the two-/three-day topic target needs more calendar days; track actual study time and reforecast completion. Do not pretend the original five-hour target was met or overload Sunday to recover every lost hour.
+
+### 🧠 Reasoning: Two Days Normally, Three for Tough Topics
+
+| Session | Main work | Evidence before moving on |
+|:---|:---|:---|
+| **Day 1 — Understand** | Concepts, attempted worked examples, then independent basic questions. Start suitable PYQs as soon as ready. | Explain the method and solve at least 70% of a fresh basic set unaided. |
+| **Day 2 — Apply** | Different question patterns, representative PYQs, a short topic test, and corrections. | Record accuracy, assisted answers, slow patterns and remaining gaps. |
+| **Day 3 — Tough topics only** | Repair difficult parts, attempt fresh PYQs, and retest. | Record whether the remaining issue is understanding, accuracy or speed. |
+
+- **Two days is the normal initial allocation; three days is the maximum initial allocation for a tough topic or subtopic.** At two hours per morning this means four to six scheduled hours. Finish earlier when independent performance supports it.
+- Split genuinely different methods before starting: calendars / clocks; ranking / linear seating / circular seating / other puzzles; the separate R18 supplements. Do not repeatedly rename the same unfinished topic to extend its allocation.
+- After Day 3, occasional mistakes or slow solving go into the weekend repair queue. An unresolved basic concept stays **unfinished**: repair it before a dependent topic, while an unrelated topic can proceed.
+- The day limit applies to the first learning pass, not all future revision. Do not mark mastery merely because three days elapsed. Maths and English do not inherit an automatic two-/three-day limit.
+
+### 🔄 When to Switch the Morning Block to English
+
+Complete RF1–RF2, R01–R26 and the listed R18 supplements: concepts covered, representative PYQs attempted independently, and each topic tested. Repair unresolved basic-method gaps first. Record remaining speed/accuracy weaknesses for weekend maintenance; you need not wait for every topic to be Green or every retention review to fall due.
+
+The next morning starts the English queue at the first unfinished foundation. Already learned English material can be checked with fresh questions instead of restarting it. During the English phase, Reasoning moves to a **weekly mixed set plus corrections**, inside the existing Sunday test allocation. There is no separate daily Reasoning learning block.
 
 ---
 
 ### ☀️ Sunday: 9 Hours Dedicated Routine
 
-**Schedule Total:** 30h (Mon–Sat) + 9h (Sunday) = **39 scheduled study hours/week**.  
+**Requested allocation:** 30h (Mon–Sat) + 9h (Sunday) = **39 scheduled hours/week**, including short weekday breaks. Actual hours depend on a sleep-compatible routine; log them honestly.
 *Finish every Sunday with a 2–3 hour study-free evening for mental recovery.*
 
 | Time Allocation | Priority Area | Specific Breakdown |
 |:---:|:---|:---|
-| **5 Hours** | **Scheduled Test & Mock Analysis** | • Full-length Tier-I/Tier-II or sectional mock<br>• In-depth question-by-question analysis & error classification<br>• Spare time used for immediate corrections |
+| **5 Hours** | **Scheduled Test & Mock Analysis** | • Follow the mock calendar; on other Sundays test covered Maths and the current morning subject.<br>• During the English phase, reserve **45 min within these 5 hours** for a Reasoning mixed set and corrections. A scheduled mock's Reasoning section can supply the questions.<br>• Classify errors and re-solve them; record not-yet-studied chapters separately. |
 | **2 Hours** | **Weakest Topics & Catch-up** | • **20 min:** Maths Speed Drill (10 timed Qs in 6 min + 14 min review)<br>• **30 min:** Computer-audio review, short quiz & practical check (Word/Excel)<br>• **70 min:** Targeted repair on Red/Amber topics (Maths has 1st priority) |
 | **1 Hour** | **Spaced Error Re-solve** | • Re-solve mistakes due at **Day 7** and **Day 21** with zero notes |
 | **1 Hour** | **GA Quiz & Weekly Audit** | • **15 min:** Audio-topic recall review<br>• **25 min:** 30-Question GA Quiz (20 current week + 10 older topics)<br>• **15 min:** Corrections & next-week schedule planning<br>• **5 min:** **Weekly Scorecard** logging (Accuracy, Mock score, Red topics, Hours missed) |
@@ -87,7 +108,7 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 | Subject | Foundation Code & Scope | Timing & Integration |
 |:---|:---|:---|
 | **Maths** | **MF1:** Place value, basic operations (+, −, ×, ÷), comparison<br>**MF2:** Integers, factors/multiples, fractions, decimals, BODMAS, units<br>**MF3:** Tables to 20; squares to 30; cubes to 15; square/cube roots | Weeks 1–2;<br>Daily 5-min recall during Maths time |
-| **English** | **EF1:** Letters, words, S-V-O sentences, punctuation, 8 parts of speech<br>**EF2:** Nouns, pronouns, articles, adjectives/adverbs, prepositions, conjunctions<br>**EF3:** Verb forms, helping verbs/modals, tenses, subject-verb agreement | Weeks 1–4 (Pass 1);<br>Applied continuously in E01, E02, E05 |
+| **English** | **EF1:** Letters, words, S-V-O sentences, punctuation, 8 parts of speech<br>**EF2:** Nouns, pronouns, articles, adjectives/adverbs, prepositions, conjunctions<br>**EF3:** Verb forms, helping verbs/modals, tenses, subject-verb agreement | Start of the English phase;<br>Test prior learning, then apply continuously in E01, E02, E05 |
 | **Reasoning** | **RF1:** Alphabet positions (forward/backward), number/letter patterns<br>**RF2:** Left/right, compass directions, blood relation terms, comparisons | Week 1;<br>Revise before corresponding chapters |
 | **GK / GA** | **GF1:** Map basics: continents, states, directions, historical timelines<br>**GF2:** Everyday economic, constitutional, and science terms | Week 1 & introductions to audio topics |
 | **Computers** | **CF1:** Hardware vs. software, CPU, memory, I/O devices, files/folders | November audio + weekend practicals |
@@ -95,34 +116,67 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 
 ---
 
-### Weekly Chapter Schedule (Weeks 1 to 22)
+### Morning Subject Queues and Completion Forecast
 
-*Target: Complete foundations and all core book chapters tested once by **April 4**.*
+**Phase A — Reasoning first.** Work down this queue using two mornings normally and up to three for a tough topic/subtopic. The rows are groups of related topics, not two-day allocations for an entire row.
 
-| Wk | Dates | 📐 Maths | 🧠 Reasoning | 📖 English | 🌍 GK Audio + Weekend Audit |
-|:---:|:---|:---|:---|:---|:---|
-| **1** | Nov 2–8 | **MF1–MF2** Basics $\to$ **M01** Number System; start MF3 | **RF1–RF2** + **R04** Classification, **R01** Analogy | **EF1** Sentence & Parts of Speech | **GF1–GF2** + **G05** Physical Geography |
-| **2** | Nov 9–15 | Finish MF1–MF2 $\to$ **M02** LCM/HCF, **M03** Simplification | **R07** Series, **R12** Missing Numbers | **EF2** Parts of Speech deep dive | **G06** Geography of India |
-| **3** | Nov 16–22 | **M04** Surds & Indices, **M05** Average | **R08** Coding-Decoding, **R09** Word Formation, **R14** Logical Order | **EF3** Verbs, Tenses & Agreement | **G07** World Geography |
-| **4** | Nov 23–29 | **M06** Ratio & Proportion, **M08** Percentage | **R03** Symbols & Notations, **R13** Arithmetical Problems | **EF3** Advanced Grammar + Foundation Test | **G04** Indian Polity & Constitution |
-| **5** | Nov 30–Dec 6 | **M07** Mixture/Alligation + **M24** Partnership/Ages | **R02** Blood Relations, **R05** Direction & Distance | **E01** Common Errors: Concepts + Easy Qs | **G04** Indian Polity & Constitution (cont.) |
-| **6** | Dec 7–13 | **M09** Profit & Loss, **M10** Discount | **R06** Calendar / Clock / Date & Time | **E01** Common Errors: PYQs + Chapter Test | **G01** Indian History: Ancient & Medieval |
-| **7** | Dec 14–20 | **M11** Simple Interest, **M12** Compound Interest | **R16** Venn Diagrams, **R10** Syllogism & Conclusions | **E02** Sentence Improvement | **G01** Indian History: Modern & Freedom Struggle |
-| **8** | Dec 21–27 | **M13** Time & Work, **M14** Pipe & Cistern | **R11** Ranking, Seating Arrangement & Puzzles | **E05** Fill in the Blanks | **G02** World History, **G03** Art & Culture |
-| **9** | **Dec 28–Jan 3** | 🛡️ **BUFFER 1: Arithmetic Gap Repair & Mixed PYQs** | 🛡️ **BUFFER 1: Weeks 1–8 Revision** | 🛡️ **BUFFER 1: Mixed Grammar Spotting** | 🛡️ **BUFFER 1: Weeks 1–8 GA Review** |
-| **10** | Jan 4–10 | **M15** Time, Speed & Distance | **R11** Buffer + **R18** Logical Arguments | **E03** Active & Passive Voice | **G08** Economics: Fundamentals |
-| **11** | Jan 11–17 | **M16** Boats & Streams, **M17** Sequence & Series | **R15** Cubes & Dice, **R17** Figure Counting | **E04** Direct & Indirect Speech | **G08** Economics: Banking, Budget & Reforms |
-| **12** | Jan 18–24 | **M18** Algebra | **R19** Series, **R20** Analogy, **R21** Classification (Non-Verbal) | **E06** Synonyms, **E07** Antonyms | **G09** Physics |
-| **13** | Jan 25–31 | **M20** Geometry: Concepts & Easy Practice | **R22** Mirror/Water Image, **R23** Paper Cutting & Folding | **E08** One Word Substitution | **G10** Chemistry |
-| **14** | Feb 1–7 | **M20** Geometry: PYQs + Test + Repair | **R24** Figural Pattern, **R25** Embedded Figures | **E09** Idioms & Phrases, **E10** Spelling Check | **G11** Biology: Cell, Plants, Human Physiology |
-| **15** | Feb 8–14 | **M21** Mensuration 2D | **R26** Deviation of Figures + Non-Verbal Revision | **E11** Sentence Arrangement (Para Jumbles) | **G11** Biology: Nutrition, Health & Environment |
-| **16** | Feb 15–21 | **M21** Mensuration 3D + Chapter Test | **R18** NTPC & Critical Logic Supplements A | **E12** Cloze Test | **G12** Computer & IT Audio Consolidation |
-| **17** | Feb 22–28 | **M19** Trigonometry: Ratios & Identities | **R18** Matching & Cognitive Supplements B | **E13** Reading Comprehension: Stories & Basics | **G13** Inventions/Instruments, **G14** Science & Tech |
-| **18** | Mar 1–7 | **M19** Trigonometry: Heights & Distances | **R18** Complete Supplements + Test | **E13** Reading Comprehension: Editorials & Reports | **G18** International & National Organisations |
-| **19** | Mar 8–14 | **M22** Statistics & Data Interpretation (DI) | Mixed Chapter PYQs & Weak Areas | Mixed Chapter PYQs & Weak Grammar | **G15** Awards, **G16** Books, **G17** Important Days |
-| **20** | Mar 15–21 | **M23** Statistics & Probability: Part 1 | Timed Mixed Chapter Sets | Timed Mixed Chapter Sets | **G19** Sports, **G20** National, **G21** International |
-| **21** | Mar 22–28 | **M23** Probability (Part 2) + **M24** Misc. Test | Mixed Tests & Sectional Gap Repair | Mixed Tests & Sectional Gap Repair | **G22** Static GK Consolidation & Current Affairs |
-| **22** | **Mar 29–Apr 4** | 🎯 **FINAL AUDIT: Catch-up & Full Syllabus Test** | 🎯 **Full Syllabus Test & Review** | 🎯 **Full Syllabus Test & Review** | 🎯 **Full Syllabus Audit & Consolidation** |
+| Order | Topic queue | How to divide the work |
+|:---:|:---|:---|
+| 1 | **RF1–RF2** foundations → **R04** Classification → **R01** Analogy | Establish alphabet positions, relationships and comparisons before applying them. |
+| 2 | **R07** Series → **R12** Missing Numbers → **R08** Coding-Decoding | Check different pattern types independently. |
+| 3 | **R09** Word Formation → **R14** Logical Order → **R03** Symbols & Notations → **R13** Arithmetical Problems | Smaller topics may finish early; use saved time for harder ones. |
+| 4 | **R02** Blood Relations → **R05** Direction & Distance → **R06** Calendar / Clock / Date & Time | Calendars and clocks are separate learning units. |
+| 5 | **R16** Venn Diagrams → **R10** Syllogism & Conclusions → **R11** Ranking, Seating Arrangement & Puzzles | Split R11 into ranking, linear seating, circular seating and remaining puzzle types. |
+| 6 | **R15** Cubes & Dice → **R17** Figure Counting | Separate cube and dice methods if the checklist requires it. |
+| 7 | **R19** Series → **R20** Analogy → **R21** Classification — all non-verbal | Keep verbal and non-verbal coverage separately checked. |
+| 8 | **R22** Mirror/Water Image → **R23** Paper Cutting & Folding → **R24** Figural Pattern → **R25** Embedded Figures → **R26** Deviation of Figures | Split mirror/water and cutting/folding when they need separate instruction. |
+| 9 | **R18** Logical Arguments and supplements A/B | Cover assumptions, conclusions, cause/effect, course of action, data sufficiency, input-output, address/date matching, visual memory and critical decision making. Allocate each distinct method separately. |
+| 10 | Coverage audit + mixed Reasoning test | Repair basic-method gaps, record remaining weaknesses, then switch to English. |
+
+**Phase B — English next.** Use the full morning block for this queue. Concepts, independent basics, PYQs and tests remain part of every topic. Keep vocabulary review inside the morning allocation and retain Reasoning through Sunday maintenance.
+
+| Order | Topic queue | What must be included |
+|:---:|:---|:---|
+| 1 | **EF1 → EF2 → EF3** | Sentence structure and word functions → nouns/pronouns/modifiers → verbs, tenses and agreement. Test already completed foundations before deciding what needs relearning. |
+| 2 | **E01** Common Errors → **E02** Sentence Improvement → **E05** Fill in the Blanks | Apply grammar to fresh questions; explain why alternatives are wrong. |
+| 3 | **E03** Active/Passive Voice → **E04** Direct/Indirect Speech | Learn transformations, attempt PYQs and test exceptions. |
+| 4 | **E06** Synonyms → **E07** Antonyms → **E08** One Word Substitution → **E09** Idioms/Phrases → **E10** Spelling | Add homonyms and phrasal verbs. Vocabulary starts with the English phase and continues through these units. |
+| 5 | **E11** Sentence Arrangement → **E12** Cloze → **E13** Reading Comprehension | Include basic passages, then editorials/reports; practise reading in earlier English sessions too. |
+| 6 | Coverage audit + mixed English test | Record grammar, vocabulary and comprehension gaps separately. |
+
+> [!IMPORTANT]
+> **Forecast, not a promise:** Aim to use November–January for the Reasoning phase and February–March for the English phase. Switch earlier if the completion gate is met. The 26 Reasoning codes alone would take 52 mornings at two per code (about nine six-morning weeks), before foundations, split topics, third days, supplements and repairs. Count these explicitly; a January finish is not guaranteed.
+>
+> Each Sunday, list the remaining learning units, assign one/two/three mornings based on actual need, and add known repair sessions. Divide remaining sessions by the number of full morning sessions realistically available per week to estimate the switch date. For shorter mornings, calculate remaining hours instead. Also estimate the time left for the English queue. If coverage extends into April, keep the unfinished subject in the morning block and use selected mock slots for learning/repair; do not omit chapters or claim full coverage to match a date. **April 4 is a coverage audit; May 31 remains the preparation target.**
+
+### Weekly Maths and GK Route (Weeks 1 to 22)
+
+These retain the existing chapter order and GK topics. Maths now uses the evening block. Dates are targets: continue from the first unfinished chapter and use buffers for repair. The morning subject follows the completion queues above, rather than learning Reasoning and English simultaneously.
+
+| Wk | Dates | 📐 Evening Maths | 🌍 GK Audio + Weekend Audit |
+|:---:|:---|:---|:---|
+| **1** | Nov 2–8 | **MF1–MF2** Basics $\to$ **M01** Number System; start MF3 | **GF1–GF2** + **G05** Physical Geography |
+| **2** | Nov 9–15 | Finish MF1–MF2 $\to$ **M02** LCM/HCF, **M03** Simplification | **G06** Geography of India |
+| **3** | Nov 16–22 | **M04** Surds & Indices, **M05** Average | **G07** World Geography |
+| **4** | Nov 23–29 | **M06** Ratio & Proportion, **M08** Percentage | **G04** Indian Polity & Constitution |
+| **5** | Nov 30–Dec 6 | **M07** Mixture/Alligation + **M24** Partnership/Ages | **G04** Indian Polity & Constitution (cont.) |
+| **6** | Dec 7–13 | **M09** Profit & Loss, **M10** Discount | **G01** Indian History: Ancient & Medieval |
+| **7** | Dec 14–20 | **M11** Simple Interest, **M12** Compound Interest | **G01** Indian History: Modern & Freedom Struggle |
+| **8** | Dec 21–27 | **M13** Time & Work, **M14** Pipe & Cistern | **G02** World History, **G03** Art & Culture |
+| **9** | **Dec 28–Jan 3** | 🛡️ **BUFFER 1: Arithmetic Gap Repair & Mixed PYQs** | 🛡️ **BUFFER 1: Weeks 1–8 GA Review** |
+| **10** | Jan 4–10 | **M15** Time, Speed & Distance | **G08** Economics: Fundamentals |
+| **11** | Jan 11–17 | **M16** Boats & Streams, **M17** Sequence & Series | **G08** Economics: Banking, Budget & Reforms |
+| **12** | Jan 18–24 | **M18** Algebra | **G09** Physics |
+| **13** | Jan 25–31 | **M20** Geometry: Concepts & Easy Practice | **G10** Chemistry |
+| **14** | Feb 1–7 | **M20** Geometry: PYQs + Test + Repair | **G11** Biology: Cell, Plants, Human Physiology |
+| **15** | Feb 8–14 | **M21** Mensuration 2D | **G11** Biology: Nutrition, Health & Environment |
+| **16** | Feb 15–21 | **M21** Mensuration 3D + Chapter Test | **G12** Computer & IT Audio Consolidation |
+| **17** | Feb 22–28 | **M19** Trigonometry: Ratios & Identities | **G13** Inventions/Instruments, **G14** Science & Tech |
+| **18** | Mar 1–7 | **M19** Trigonometry: Heights & Distances | **G18** International & National Organisations |
+| **19** | Mar 8–14 | **M22** Statistics & Data Interpretation (DI) | **G15** Awards, **G16** Books, **G17** Important Days |
+| **20** | Mar 15–21 | **M23** Statistics & Probability: Part 1 | **G19** Sports, **G20** National, **G21** International |
+| **21** | Mar 22–28 | **M23** Probability (Part 2) + **M24** Misc. Test | **G22** Static GK Consolidation & Current Affairs |
+| **22** | **Mar 29–Apr 4** | 🎯 **FINAL AUDIT: Catch-up & Full Syllabus Test** | 🎯 **Full Syllabus Audit & Consolidation** |
 
 ---
 
@@ -152,10 +206,10 @@ These subtopics are vital for Tier-II/CBT-2 coverage and must be integrated insi
 
 | Layer | Schedule & Location | Concrete Actionable Routine |
 |:---|:---|:---|
-| 🔁 **1. Daily** | Inside existing daily study blocks *(Zero extra hours)* | • **Maths:** Final 20 min of morning block $\to$ Re-solve error questions due for review.<br>• **English:** First 20 min of evening block $\to$ Vocab reviews at Day 1, 3, 7, and 21.<br>• **Arithmetic Recall:** 5 min inside Maths concept block for multiplication tables, squares, and cubes.<br>• **GA:** Optional closed-book active recall during transit/breaks in place of passive audio. |
-| 📅 **2. Weekly** | Every Sunday *(Inside 9-hour block)* | • **1 Hour:** Re-solve errors due at **7 days** and **21 days** post-mistake (100% unaided).<br>• **GA Quiz:** 30 questions (20 from current week + 10 from previous weeks).<br>• **Maths Speed Drill:** 10 timed questions in 6 minutes (36 sec/question).<br>• **Mock Analysis:** Re-solve concept-gap errors within 48h in affected subject's correction block. |
+| 🔁 **1. Daily** | Inside existing daily study blocks *(Zero extra hours)* | • **Maths:** Final 25 min of the evening block for correction and due re-solves.<br>• **Current morning subject:** Recall and corrections inside its block. In the English phase, use the first 20 min for vocabulary and Day 1/3/7/21 reviews.<br>• **Arithmetic Recall:** 5 min inside Maths recall time.<br>• **GA:** Closed-book recall during suitable breaks; listening alone does not demonstrate recall. |
+| 📅 **2. Weekly** | Every Sunday *(Inside 9-hour block)* | • **1 Hour:** Unaided error re-solves around Day 7 and Day 21; use the next Sunday for a due Reasoning review during the English phase and record the actual date.<br>• **Reasoning maintenance:** 45 min for a mixed set and corrections inside the 5-hour test block during the English phase.<br>• **GA Quiz:** 30 questions (20 current week + 10 older).<br>• **Maths Speed Drill:** 10 familiar short questions in 6 min + 14 min review; do not impose this speed on every question type.<br>• **Mock analysis:** Repair current-subject errors in its next correction block; other Reasoning errors enter the weekend repair queue. |
 | 🗓️ **3. Monthly** | Last Sunday of each month | • **Mixed Test:** Scheduled mixed mock functions as the monthly benchmark (no extra test).<br>• **Weak Topic Surgery:** 15 min of the 70-min repair block dedicated to one persistent weak chapter.<br>• **Current Affairs:** 20 questions in Sunday's GA quiz replaced with monthly CA questions. |
-| 🏆 **4. Phase** | Major milestone checkpoints | • **Week 9 (Dec 28–Jan 3):** Buffer 1 — Consolidate weeks 1–8 chapters.<br>• **Week 22 (Mar 29–Apr 4):** Full syllabus test and gap audit.<br>• **April–May (Mon–Fri):** Intensive Tier-II sectional drills and speed refinement.<br>• **Final 7 Days:** High-yield formula sheets, vocabulary, error notebook, and GA summaries only. |
+| 🏆 **4. Phase** | Major milestone checkpoints | • **Week 9 (Dec 28–Jan 3):** Consolidate covered chapters; check the Reasoning-to-English forecast.<br>• **Reasoning completion:** Mixed test, basic-gap repair, then morning switch to English.<br>• **Week 22 (Mar 29–Apr 4):** Coverage audit separating unfinished chapters from tested weaknesses.<br>• **April–May:** Mixed practice after coverage; preserve learning time for any unfinished English topics.<br>• **Final 7 Days:** High-yield formulas, vocabulary, errors and GA summaries. |
 
 ---
 
@@ -167,7 +221,7 @@ Track chapter health in your checklist and error notebook. Revisit intervals are
 |:---:|:---|:---:|:---|
 | 🟢 **Green** | **$\ge$ 80%** on timed test **AND** 2 clean unaided re-solves | **Every 3 Weeks** | Maintain with mixed sectional tests; periodic formula check |
 | 🟡 **Amber** | **70% – 79%** on timed test | **Every 10 Days** | Re-solve 10 targeted PYQs; patch specific trap patterns |
-| 🔴 **Red** | **< 70%** on timed test / repeated conceptual errors | **Every 7 Days** | **HARD STOP:** Fix in next 2 practice blocks before starting next chapter |
+| 🔴 **Red** | **< 70%** on timed test / repeated conceptual errors | **Every 7 Days** | Identify understanding vs speed/accuracy. Block a dependent topic if basics are missing; schedule two targeted repair sessions within existing correction/weekend time. Unrelated topics can proceed. |
 
 > [!WARNING]
 > **Retention Pending:** Scoring 80%+ on a test with either review (Day 7 or Day 21) unfinished is **not Green**. Complete both unaided re-solves first. If no errors occurred, test yourself with a fresh 5-question sample to confirm retention.
@@ -228,8 +282,8 @@ Review Schedule: [Day 7: Passed clean] | [Day 21: Due Nov 24]
 ### Daily Practice Benchmarks
 
 - **Maths:** 15–25 carefully solved questions per 60-min practice block (prioritize Tier-II depth over raw volume).
-- **Reasoning:** 20–30 questions per 45-min block; prioritize sound analytical deduction over speed tricks.
-- **English:** 10–15 grammar/cloze questions + **10 new vocabulary words/day** (reviews at Days 1, 3, 7, and 21).
+- **Reasoning phase:** Choose enough fresh questions to cover the methods studied; a multi-question puzzle set takes longer than a simple analogy. Record independent accuracy, not just volume. During the English phase, use the weekly mixed set for maintenance.
+- **English phase:** 10–15 grammar/cloze questions as a starting benchmark, plus reading practice and up to **10 new vocabulary words/day** with reviews at Days 1, 3, 7 and 21. Reduce new words when reviews do not fit the 20-min vocabulary slot. No separate daily English quota during the Reasoning phase.
 - **General Awareness:** Weekly topic via audio during transit/work; Class 10 NCERT science depth; Sunday 30-question quiz.
 - **Arithmetic Recall:** 5 minutes daily for tables to 20, squares to 30, and cubes to 15 until instantaneous.
 
@@ -275,8 +329,10 @@ Review Schedule: [Day 7: Passed clean] | [Day 21: Due Nov 24]
 
 ### Phase-by-Phase Mock Schedule
 
-#### 1. Fortnightly CGL Tier-I Mocks (Nov 1 – Mar 21)
-- **Schedule:** Nov 1, 15, 29 | Dec 13, 27 | Jan 10, 24 | Feb 7, 21 | Mar 7, 21 | Apr 4, 18 | May 2, 16, 30.
+Full mocks are diagnostics even when coverage is incomplete. Log **not yet studied**, **concept gap in a studied topic**, and **speed/accuracy error** separately. On Sundays without a full mock, prioritise covered-topic tests and repair. Testing an untouched English topic does not create a new daily English block during the Reasoning phase.
+
+#### 1. Fortnightly CGL Tier-I Mocks (November–March; April–May in the Core Calendar)
+- **Schedule:** Nov 1, 15, 29 | Dec 13, 27 | Jan 10, 24 | Feb 7, 21 | Mar 7, 21 | Apr 4. From April 5, use the core calendar below without adding another fortnightly series.
 - *Collision Adjustment:* The Mar 7 and Apr 4 Tier-I mocks shift 1 day earlier (to Saturday) to avoid colliding with Tier-II full tests.
 - **Reduction Rule:** After **three consecutive mocks** score $\ge$ 20 marks above the verified official cutoff for your category/post group, you may reduce Tier-I frequency to monthly. Freed time becomes Tier-II sectional repair.
 
@@ -284,30 +340,31 @@ Review Schedule: [Day 7: Passed clean] | [Day 21: Due Nov 24]
 
 | Date | Scheduled Mock | Focus & Analysis Allocation |
 |:---|:---|:---|
-| **Feb 7** | CGL Tier-I + Short Tier-II Sectional | Tested on covered syllabus topics only |
+| **Feb 7** | CGL Tier-I + Short Tier-II Sectional | Full Tier-I diagnostic; select covered topics for the short sectional. |
 | **Feb 14** | Tier-II Maths & Reasoning Sectionals | Deep analysis of advanced problem-solving speed |
 | **Feb 21** | CGL Tier-I + Tier-II English & GA Sectional | Grammar accuracy & reading speed audit |
 | **Feb 28** | NTPC CBT-2 Sectional Set + Computer Quiz | CBT-2 style arithmetic and reasoning questions |
-| **Mar 6 (Sat)** | CGL Tier-I Mock + Analysis | Replaces morning 2-hour Maths block; evening stays fixed |
-| **Mar 7 (Sun)** | 🏁 **First Full CGL Tier-II Paper-I Mock** | **Baseline Audit:** Record section-wise net marks separately |
+| **Mar 6 (Sat)** | CGL Tier-I Mock + Analysis | Replaces the current morning subject block; evening Maths stays fixed. If a shorter morning is in use, move this session into Sunday's allocation. |
+| **Mar 7 (Sun)** | 🏁 **First Full CGL Tier-II Paper-I Mock** | **Baseline Audit:** Record section-wise net marks separately. If the moved Tier-I diagnostic and analysis do not fit, prioritise this milestone and omit that diagnostic. |
 | **Mar 14** | RRB NTPC CBT-2 Full Mock | 120 questions / 90 minutes full simulation |
 | **Mar 21** | CGL Tier-I Mock + Analysis | Fortnightly Tier-I benchmark |
 | **Mar 28** | RRB NTPC CBT-1 Full Mock + Analysis | 100 questions / 90 minutes speed & accuracy check |
-| **Apr 3 (Sat)** | CGL Tier-I Mock + Analysis | Replaces morning 2-hour Maths block |
-| **Apr 4 (Sun)** | 🎯 **Full CGL Tier-II Paper-I Mock** | Comprehensive syllabus-gap audit before Phase 4 |
+| **Apr 3 (Sat)** | CGL Tier-I Mock + Analysis | Replaces the current morning subject block; if too short, include it within Sunday's allocation. |
+| **Apr 4 (Sun)** | 🎯 **Full CGL Tier-II Paper-I Mock** | Coverage audit: record unfinished topics separately; use remaining test time for repairs. If both mocks do not fit with analysis, prioritise this milestone and omit the moved Tier-I diagnostic. |
 
 > [!NOTE]
-> **CHSL Backup Mocks (Wed Mar 31, Apr 28, May 26):**  
-> Each CHSL mock replaces that Wednesday's 90-minute Reasoning block (60 min test + 30 min review). Unresolved errors are analyzed during Thursday's 30-min English correction block. Zero extra study hours are added.
+> **CHSL Backup Mocks (Sun Mar 28, Apr 25, May 30):**
+> Reserve 60 min test + 30 min initial review inside Sunday's existing 5-hour test allocation, alongside the scheduled main mock. Reduce optional drills, not essential analysis. If both tests and adequate review will not fit, move the backup mock to the next available weekend test slot. Never add a weekday subject block or extra hours to force it in.
 
 ---
 
 ### Phase 4: Peak Mock & Revision Phase (April 5 – May 30)
 
-**Workload: 2 full mock sessions per week | Mon–Fri Daily 5-Hour Revision Split:**
-- 📐 **Maths (120 min):** 60 min timed PYQs on focus topic + 40 min errors/formulas + 20 min on weakest topic.
-- 🧠 **Reasoning (90 min):** 60 min mixed timed sets + 30 min correction and trap analysis.
-- 📖 **English (90 min):** 20 min vocabulary reviews + 40 min mixed timed sets + 30 min corrections.
+**Target after coverage: 2 full mock sessions per week. Keep Maths in the evening and one subject per morning; do not return to the old daily three-subject split.** The sleep adjustment in Section 2 still applies.
+- 📐 **Evening Maths (180 min allocation):** 15 min recall + 90 min mixed timed PYQs + 40 min weakest-topic repair + 25 min error re-solves + two 5-min breaks.
+- 📖 **While English coverage is unfinished:** Continue the English morning queue and Sunday Reasoning maintenance. Replace a Saturday full mock with focused learning/repair when needed; retain a Sunday diagnostic. Record deferred mocks instead of doubling up later.
+- 🔄 **Once both morning subjects are covered:** Use full morning blocks for the weaker subject on four weekdays and the other on one weekday, decided from the weekly tests. Inside a 120-min block, use 20 min recall + 70 min mixed questions + 30 min corrections. Keep due English vocabulary reviews inside the scheduled study/review allocation; these are recall, not another daily learning block.
+- 📅 **Saturday/Sunday:** The mock sessions below replace those days' normal study blocks. Sunday GA, Computers and error-review allocations remain within the existing nine-hour total. Since Saturday is a workday, keep the full test continuous in a sufficiently long available block and split analysis across the other block. If the full exam simulation will not fit, prioritise Sunday's full simulation and use Saturday for sectionals/analysis; do not assume daytime leave or cut sleep. The 16-mock calendar is a target subject to this capacity check.
 - 🎧 **Workday Audio & Lunch Typing:** Daily audio revision + 20 min exam-format typing passages.
 
 #### The 16-Mock Core Strategy (April–May)
@@ -347,12 +404,12 @@ $$\text{8 Tier-II Paper-I (50\%)} \quad+\quad \text{4 CGL Tier-I (25\%)} \quad+\
 
 | Checkpoint | Target Milestone & Accuracy Benchmarks |
 |:---|:---|
-| **End November** | $\ge$ 70% accuracy on taught topics; consistent daily 5-hour routine established. |
-| **End December** | $\ge$ 75% accuracy on taught topics; noticeable reduction in repeated calculation errors. |
-| **End January** | $\ge$ 75% accuracy on mixed tests across all covered chapters. |
-| **End February** | Tier-II sectional baseline logged; top 3 weaknesses identified; typing baseline recorded. |
+| **End November** | $\ge$ 70% unaided accuracy on taught basics; record actual sustainable study hours and initial Reasoning completion forecast. |
+| **End December** | $\ge$ 75% accuracy on taught topics; fewer repeated calculation errors; audit remaining Reasoning units and forecast English start. |
+| **End January** | Target Reasoning coverage gate and morning switch to English. If not ready, list unfinished units and a revised switch forecast; do not tick them complete. |
+| **End February** | English phase progress against its queue (or explicit revised forecast); Tier-II baseline on covered topics, top 3 weaknesses and typing baseline logged. |
 | **End March** | **CGL Tier-I: 110+ / 200**; first full Tier-II section scores recorded with target improvement goals. |
-| **April 4** | Every single chapter tested once; comprehensive list of all syllabus gaps recorded. |
+| **April 4** | Target every chapter covered and tested once. Audit actual coverage; list unfinished topics with learning sessions allocated before assuming revision-only mode. |
 | **End April** | **CGL Tier-I: 140+ / 200**; meet section-wise Tier-II targets (Baseline + 10% of max). |
 | **End May** | **CGL Tier-I: 160+ / 200** across 4 consecutive mocks; Tier-II section targets met; zero DEST weaknesses. |
 
@@ -369,10 +426,10 @@ $$\text{8 Tier-II Paper-I (50\%)} \quad+\quad \text{4 CGL Tier-I (25\%)} \quad+\
 
 1. **Error Categorization:** For every wrong or skipped question, categorize the root cause:
    - 🧠 *Concept Gap* | 🧮 *Calculation Slip* | 👓 *Misread Question* | ⏱ *Time Pressure* | 🎲 *Wild Guess*
-2. **Double Spaced Re-Solve:** Re-solve the error independently at **Day 7** and **Day 21**. A question is only removed from the error list after **both** re-solves are 100% correct without hints.
-3. **Sub-70% Score Protocol:** If a topic test falls below 70%, dedicate the next 2 practice blocks to concept repair and re-testing. Use Sunday catch-up for spillover. **Never halt other subjects.**
+2. **Double Spaced Re-Solve:** Re-solve independently around **Day 7** and **Day 21**. For Reasoning during the English phase, use the next Sunday review slot and record the actual date. Remove the question only after both re-solves are correct without hints.
+3. **Sub-70% Score Protocol:** Identify the cause first. Allocate two targeted repair sessions inside the subject's correction time or Sunday repair allocation. After the Reasoning two-/three-day first pass, move speed/occasional-error work to weekends; unresolved basic methods remain unfinished and block dependent topics. Preserve evening Maths and the current morning phase; do not add daily blocks for every subject.
 4. **Bad Day Routine:** When exhausted or disrupted, execute the emergency maintenance routine:  
-   `20 min Maths` + `15 min English` + `15 min GA` + `10 min Typing` = **60 min total**.  
+   `20 min Maths` + `15 min current morning subject (Reasoning or English)` + `15 min GA` + `10 min Typing` = **60 min total**.
    Log it honestly as a recovery day; resume normal routine tomorrow without doubling hours.
 
 ---
@@ -395,10 +452,10 @@ $$\text{8 Tier-II Paper-I (50\%)} \quad+\quad \text{4 CGL Tier-I (25\%)} \quad+\
 
 ```text
 Daily Log Format:
-Date | Topic | Minutes | Attempted / Correct / Wrong / Skipped | Net Score | Next Error Review Date
+Date | Phase | Topic/subtopic | Actual Minutes | Independent Correct / Attempted | Assisted / Wrong / Skipped | Gap Type | Next Review Date
 
 Weekly Scorecard (Every Sunday):
-Week # | Subject Accuracy % (M / R / E / GA) | Mock Score | Number of Red Topics | Hours Missed / Catch-up Log
+Week # | Current Morning Phase | Covered / Unfinished Units | Accuracy on Covered Topics | Full Mock Score | Not-Yet-Studied Topics | Red Topics | Actual Hours | Forecast Switch / Coverage Date
 ```
 
 ---
