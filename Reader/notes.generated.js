@@ -65,6 +65,18 @@ export const noteDocuments = [
     "path": "Notes/Reasoning/01-R01-Analogy.md"
   },
   {
+    "id": "notes-reasoning-r04",
+    "title": "Reasoning: Classification (R04)",
+    "icon": "brain",
+    "subtitle": "Category boundaries, odd-one-out rules, word/number/letter methods, and explained practice.",
+    "label": "R04: Classification",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Classification (R04)",
+    "path": "Notes/Reasoning/02-R04-Classification.md"
+  },
+  {
     "id": "notes-english-ef1",
     "title": "English: Sentences & parts of speech (EF1)",
     "icon": "book-open",
