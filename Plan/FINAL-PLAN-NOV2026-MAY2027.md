@@ -205,42 +205,51 @@ The next morning starts the English queue at the first unfinished foundation. Al
 
 ---
 
-### 📅 The Unified 22-Week Master Schedule (Weeks 1 to 22)
+### 📅 The Unified 30-Week Master Schedule (Weeks 1 to 30: Nov 2026 – May 2027)
 
-Maths runs continuously every evening (**8:00–11:00 PM**). Morning study (**5:00–7:00 AM**) runs **Reasoning first (Weeks 1–13)**, then switches cleanly to **English (Weeks 14–21)**. GK audio accompanies your daily commute and workdays, consolidated during Sunday audits.
+Maths runs continuously every evening (**8:00–11:00 PM**) with **each syllabus topic allocated a separate 1 full week (18 hours)**. Morning study (**5:00–7:00 AM**) runs **Reasoning first (Weeks 1–14)**, followed by an audit buffer, then switches cleanly to **English (Weeks 16–28)**. GK audio accompanies daily commutes and workdays, consolidated during Sunday audits.
 
-| Wk | Date Range | 🌅 Morning (5:00 – 7:00 AM)<br>**Reasoning (W1–13) $\to$ English (W14–21)** | 🌙 Evening (8:00 – 11:00 PM)<br>**Maths Anchor (Daily)** | 🌍 Commute & Sunday<br>**GK Audio + Sunday Audit** |
+| Wk | Date Range | 🌅 Morning (5:00 – 7:00 AM)<br>**Reasoning (W1–14) $\to$ English (W16–28)** | 🌙 Evening (8:00 – 11:00 PM)<br>**Maths Anchor (1 Topic / Week = 18h)** | 🌍 Commute & Sunday<br>**GK Audio + Sunday Audit** |
 | :---: | :--- | :--- | :--- | :--- |
-| **1** | Nov 2–8 | **RF1–RF2** Foundations $\to$ **R04** Classification $\to$ **R01** Analogy (Part 1) | **MF1–MF2** Basics $\to$ **M01** Number System; start MF3 | **GF1–GF2** + **G05** Physical Geography |
-| **2** | Nov 9–15 | Finish **R01** Analogy $\to$ **R07** Series $\to$ **R12** Missing Numbers | Finish MF1–MF2 $\to$ **M02** LCM/HCF, **M03** Simplification | **G06** Geography of India |
-| **3** | Nov 16–22 | **R08** Coding-Decoding $\to$ **R09** Word Formation $\to$ **R14** Logical Order | **M04** Surds & Indices, **M05** Average | **G07** World Geography |
-| **4** | Nov 23–29 | **R03** Symbols & Notations $\to$ **R13** Arithmetical Problems $\to$ **R02** Blood Relations (Direct) | **M06** Ratio & Proportion, **M08** Percentage | **G04** Indian Polity & Constitution |
-| **5** | Nov 30–Dec 6 | **R02** Coded Blood Relations *(Tough: 3 days)* $\to$ **R05** Direction & Distance $\to$ **R06** Clocks | **M07** Mixture/Alligation + **M24** Partnership/Ages | **G04** Indian Polity & Constitution (cont.) |
-| **6** | Dec 7–13 | **R06** Calendars $\to$ **R16** Venn Diagrams $\to$ **R10** Syllogisms (Basic Rules) | **M09** Profit & Loss, **M10** Discount | **G01** Indian History: Ancient & Medieval |
-| **7** | Dec 14–20 | **R10** Syllogisms: Either-Or & Possibility *(Tough: 3 days)* $\to$ **R11** Order & Ranking | **M11** Simple Interest, **M12** Compound Interest | **G01** Indian History: Modern & Freedom Struggle |
-| **8** | Dec 21–27 | **R11** Seating Arrangements & Puzzles *(Tough: 3 days)* $\to$ **R15** Cubes/Dice $\to$ **R17** Figure Counting | **M13** Time & Work, **M14** Pipe & Cistern | **G02** World History, **G03** Art & Culture |
-| **9** | **Dec 28–Jan 3** | 🛡️ **BUFFER 1: Reasoning Tough Topic Surgery & Gap Repair** | 🛡️ **BUFFER 1: Arithmetic Gap Repair & Mixed PYQs** | 🛡️ **BUFFER 1: Weeks 1–8 GA Review** |
-| **10** | Jan 4–10 | *Non-Verbal Start:* **R19** Series $\to$ **R20** Analogy $\to$ **R21** Classification $\to$ **R22** Mirror/Water Images | **M15** Time, Speed & Distance | **G08** Economics: Fundamentals |
-| **11** | Jan 11–17 | *Non-Verbal Finish:* **R23** Paper Cutting/Folding $\to$ **R24** Figural Pattern $\to$ **R25** Embedded Figures $\to$ **R26** Deviation | **M16** Boats & Streams, **M17** Sequence & Series | **G08** Economics: Banking, Budget & Reforms |
-| **12** | Jan 18–24 | **R18** Logical Arguments *(Statement-Assumptions, Conclusions, Cause & Effect, Course of Action)* | **M18** Algebra | **G09** Physics |
-| **13** | Jan 25–31 | **R18** Supplements *(Data Sufficiency, Input-Output, Decision Making)* $\to$ **Reasoning Audit & Exit Test** | **M20** Geometry: Concepts & Easy Practice | **G10** Chemistry |
-| **14** | Feb 1–7 | 🚀 **SWITCH TO ENGLISH:**<br>**EF1–EF2** Grammar Foundations $\to$ Start 10 words/day vocab (**E06/E07** Synonyms/Antonyms)<br>*(Reasoning moves to Sunday 45-min mixed test)* | **M20** Geometry: PYQs + Test + Repair | **G11** Biology: Cell, Plants, Human Physiology |
-| **15** | Feb 8–14 | **EF3** Verbs, Tenses & Subject-Verb Agreement $\to$ **E01** Common Errors (Grammar rule application) | **M21** Mensuration 2D | **G11** Biology: Nutrition, Health & Environment |
-| **16** | Feb 15–21 | **E02** Sentence Improvement $\to$ **E05** Fill in the Blanks $\to$ **E08** One Word Substitution (OWS) | **M21** Mensuration 3D + Chapter Test | **G12** Computer & IT Audio Consolidation |
-| **17** | Feb 22–28 | **E03** Active/Passive Voice $\to$ **E04** Direct/Indirect Speech (Narration) $\to$ **E09** Idioms & Phrases | **M19** Trigonometry: Ratios & Identities | **G13** Inventions/Instruments, **G14** Science & Tech |
-| **18** | Mar 1–7 | **E10** Spelling Rules & Homonyms $\to$ Phrasal Verbs $\to$ Daily Editorial Reading & Skimming | **M19** Trigonometry: Heights & Distances | **G18** International & National Organisations |
-| **19** | Mar 8–14 | **E11** Sentence Arrangement (Para Jumbles / PQRS: Connector & Pronoun tracking) | **M22** Statistics & Data Interpretation (DI) | **G15** Awards, **G16** Books, **G17** Important Days |
-| **20** | Mar 15–21 | **E12** Cloze Test (Contextual reading, vocabulary in context & prepositions) | **M23** Statistics & Probability: Part 1 | **G19** Sports, **G20** National, **G21** International |
-| **21** | Mar 22–28 | **E13** Reading Comprehension (Direct facts, central theme, tone) $\to$ **English Full Diagnostic** | **M23** Probability (Part 2) + **M24** Misc. Test | **G22** Static GK Consolidation & Current Affairs |
-| **22** | **Mar 29–Apr 4** | 🎯 **FINAL AUDIT: Catch-up, English Gap Repair & Full 4-Subject Readiness Audit** | 🎯 **FINAL AUDIT: Catch-up & Full Syllabus Test** | 🎯 **Full Syllabus Audit & Consolidation** |
+| **1** | Nov 2–8 | **RF1–RF2** Foundations $\to$ **R04** Classification $\to$ **R01** Analogy (Part 1) | **MF1–MF3** Basics $\to$ **M01** Number System (Divisibility, units, remainder theorem, primes) | **GF1–GF2** + **G05** Physical Geography |
+| **2** | Nov 9–15 | Finish **R01** Analogy $\to$ **R07** Series $\to$ **R12** Missing Numbers | **M02** LCM and HCF (Factorization, fractional LCM/HCF, word problems) | **G06** Geography of India |
+| **3** | Nov 16–22 | **R08** Coding-Decoding $\to$ **R09** Word Formation $\to$ **R14** Logical Order | **M03** Simplification & BODMAS (Hierarchy, bar brackets, identities) | **G07** World Geography |
+| **4** | Nov 23–29 | **R03** Symbols & Notations $\to$ **R13** Arithmetical Problems $\to$ **R02** Blood Relations (Direct) | **M04** Power, Indices and Surds (Comparison, rationalisation, index laws) | **G04** Indian Polity: Preamble, Articles, Parts |
+| **5** | Nov 30–Dec 6 | **R02** Coded Blood Relations *(Tough: 3 days)* $\to$ **R05** Direction & Distance | **M05** Average (Weighted average, inclusions/exclusions, batting/bowling) | **G04** Indian Polity: Parliament, Judiciary, Amendments |
+| **6** | Dec 7–13 | **R06** Clocks & Calendars *(Split units)* $\to$ **R16** Venn Diagrams | **M06** Ratio and Proportion (Mean/third/fourth proportional, coins, income) | **G01** Indian History: Ancient India (Indus, Vedic, Mauryas) |
+| **7** | Dec 14–20 | **R10** Syllogisms: Basic Rules, Either-Or & Possibility *(Tough: 3 days)* | **M07** Mixture and Alligation (Replacements, concentration, 2-vessel mixing) | **G01** Indian History: Medieval India (Delhi Sultanate, Mughals) |
+| **8** | Dec 21–27 | **R11** Order & Ranking $\to$ Linear Seating Arrangements | **M08** Percentage (Successive %, elections, consumption/expenditure) | **G01** Indian History: Modern & Freedom Struggle |
+| **9** | Dec 28–Jan 3 | **R11** Circular Seating Arrangements & Complex Puzzles *(Tough: 3 days)* | **M09** Profit and Loss (CP vs SP, dishonest dealer, false weights) | **G02** World History & **G03** Indian Art & Culture |
+| **10** | Jan 4–10 | **R15** Cubes & Dice $\to$ **R17** Figure Counting | **M10** Discount (Marked price, successive discounts, buy-X-get-Y free) | **G08** Economics: Fundamentals (GDP, Inflation, Micro/Macro) |
+| **11** | Jan 11–17 | *Non-Verbal Part 1:* **R19** Series $\to$ **R20** Analogy $\to$ **R21** Classification $\to$ **R22** Mirror/Water | **M11** Simple Interest ($SI = \frac{PRT}{100}$, rate changes, simple installments) | **G08** Economics: Banking, Budget, Policy & Reforms |
+| **12** | Jan 18–24 | *Non-Verbal Part 2:* **R23** Paper Cutting $\to$ **R24** Figural Pattern $\to$ **R25** Embedded $\to$ **R26** Deviation | **M12** Compound Interest (Compounding cycles, CI-SI differences, installments) | **G09** Physics: Mechanics, Optics, Sound, Electricity & Heat |
+| **13** | Jan 25–31 | **R18** Logical Arguments Set A *(Assumptions, Conclusions, Cause & Effect, Course of Action)* | **M13** Time and Work (Efficiency ratios, wages, alternate days, man-days) | **G10** Chemistry: Periodic Table, Reactions, Everyday Chemistry |
+| **14** | Feb 1–7 | **R18** Supplements Set B *(Data Sufficiency, Input-Output, Decision Making)* $\to$ **Reasoning Exit Test** | **M14** Pipe and Cistern (Filling/emptying rates, leaks, alternating taps) | **G11** Biology: Cell Biology, Plant Physiology & Kingdom |
+| **15** | **Feb 8–14** | 🛡️ **BUFFER 1: Reasoning Gap Repair & Switch Gate Audit** | 🛡️ **BUFFER 1: Arithmetic Gap Repair & Mixed PYQs (Weeks 1–14 Review)** | 🛡️ **BUFFER 1: Weeks 1–14 GA Review & Science Consolidation** |
+| **16** | Feb 15–21 | 🚀 **SWITCH TO ENGLISH:**<br>**EF1–EF2** Grammar Foundations $\to$ Start 10 words/day vocab (**E06/E07**)<br>*(Reasoning moves to Sunday 45-min mixed test)* | **M15** Time, Speed and Distance (Relative speed, train collisions, races & circular tracks) | **G11** Biology: Human Physiology, Nutrition, Health & Diseases |
+| **17** | Feb 22–28 | **EF3** Verbs, Helping Verbs/Modals, Tenses & Subject-Verb Agreement | **M16** Boats and Streams (Upstream, downstream, river currents, round trips) | **G11** Ecology, Environment, Biodiversity & Agriculture |
+| **18** | Mar 1–7 | **E01** Common Errors: Grammar Rule Application & Spotting Practice | **M17** Sequence and Series (AP, GP, sum of natural numbers, squares, cubes) | **G12** Computer & IT Theory Audio Consolidation |
+| **19** | Mar 8–14 | **E02** Sentence Improvement & **E05** Fill in the Blanks | **M24** Miscellaneous (Partnership, capital-time products & Linear Ages) | **G13** Inventions, Instruments, **G14** Science & Tech |
+| **20** | Mar 15–21 | **E03** Active/Passive Voice (Rules, structural shifts, exceptions & PYQs) | **M18** Algebra: Part 1 (Linear/quadratic equations, identities, factorisation) | **G18** International Organisations (UN, IMF, WTO) & Bodies |
+| **21** | Mar 22–28 | **E04** Direct/Indirect Speech (Narration rules, tense/pronoun shifts, PYQs) | **M18** Algebra: Part 2 (Coordinate graphs, polynomials, maxima/minima & PYQs) | **G15** Honours & Awards, National & International |
+| **22** | Mar 29–Apr 4 | **E08** One Word Substitution (OWS) & **E09** Idioms & Phrases | **M20** Geometry: Part 1 (Lines, angles, triangles & centers: incenter/centroid) | **G16** Books & Authors (Classic & Recent) |
+| **23** | Apr 5–11 | **E10** Spelling Rules, Homonyms, Confusing Words & Phrasal Verbs | **M20** Geometry: Part 2 (Circles, chords, secants, cyclic quads & tangents) | **G17** Important Decades, Years & Days |
+| **24** | Apr 12–18 | **E11** Sentence Arrangement (Para Jumbles / PQRS: Pronoun & Connector tracking) | **M21** Mensuration 2D (Perimeter & area: triangles, polygons, circles) | **G19** Sports: Tournaments, Trophies, Terms & Records |
+| **25** | Apr 19–25 | **E12** Cloze Test (Contextual reading, prepositional usage & collocations) | **M21** Mensuration 3D (Surface area & volume: prisms, pyramids, frustums, spheres) | **G20** National Events & Major Government Schemes |
+| **26** | Apr 26–May 2 | **E13** Reading Comprehension (Direct facts, tone, main theme & inference) | **M19** Trigonometry: Part 1 (Ratios, identities, radian-degree conversion) | **G21** International Events & Global Summits |
+| **27** | May 3–9 | **E13** Advanced Editorial & Report Comprehension + Mixed English Drills | **M19** Trigonometry: Part 2 (Two-point heights & distances, complementary angles) | **G22** Static GK Consolidation: Dance forms, Festivals, Temples |
+| **28** | May 10–16 | **English Full Diagnostic Test & Gap Repair** *(Grammar, Vocab, RC)* | **M22** Statistics & Data Interpretation (Histograms, pie charts, tables, bar graphs) | Current Affairs 6-Month Marathon Consolidation (Nov–Apr) |
+| **29** | May 17–23 | **Mixed Morning Sectionals:** Weaker morning subject 4 days, other 1 day | **M23** Statistics & Probability (Mean/median/mode, SD, variance & probability) | Static GK Final Revision & High-Yield Summary Review |
+| **30** | **May 24–30** | 🎯 **FINAL AUDIT: Comprehensive 4-Subject Review & Mock Milestone** | 🎯 **FINAL AUDIT: Full Syllabus Timed Test & Formula Consolidation** | 🎯 **Full Syllabus GA Consolidation & Final Static GK Audit** |
 
 > [!TIP]
-> **Key Operational Principles of the 22-Week Master Calendar:**
-> 1. **Reasoning Morning Sprint (Weeks 1–13):** 78 morning sessions (156 hours). With 2 days normally and up to 3 days for tough topics (*Coded Blood Relations, Syllogisms, Seating Arrangement*), all verbal, non-verbal, and logical chapters finish before January 31.
-> 2. **Week 9 Mid-Way Buffer (Dec 28–Jan 3):** Dedicated gap repair across Arithmetic, Reasoning tough topics, and Weeks 1–8 General Awareness. No new topics introduced.
-> 3. **English Morning Sprint (Weeks 14–21):** 48 morning sessions (96 hours). Grammar foundations and error spotting lock down first, followed by voice/narration, vocab retention, and reading comprehension.
-> 4. **Sunday Reasoning Maintenance (Weeks 14–21):** While English commands the weekday morning block, Reasoning is maintained via a **45-minute mixed test + error review** inside the Sunday test allocation.
-> 5. **Week 22 Final Audit (Mar 29–Apr 4):** Full syllabus diagnostic and catch-up buffer across all 4 subjects before transitioning into Phase 4 peak mocks.
+> **Key Operational Principles of the 30-Week Master Calendar:**
+> 1. **One Topic Per Week in Maths (Weeks 1–30):** Every Maths chapter receives a dedicated 6-evening block (18 hours). Complex advanced topics (`Algebra`, `Geometry`, `Mensuration`, `Trigonometry`) each receive **2 full weeks (36 hours)** to guarantee Tier-II / CBT-2 depth without rushing.
+> 2. **Reasoning Morning Sprint (Weeks 1–14):** 14 full weeks (84 mornings = 168 hours). With 2 mornings normally and up to 3 mornings for tough topics (*Coded Blood Relations, Syllogisms, Seating Arrangement*), all 26 verbal, non-verbal, and logical chapters finish cleanly before mid-February.
+> 3. **Week 15 Mid-Way Buffer (Feb 8–14):** Mid-point diagnostic and gap repair across Arithmetic (`M01`–`M14`), Reasoning exit tests, and General Science. No new topics introduced.
+> 4. **English Morning Sprint (Weeks 16–28):** 13 full weeks (78 mornings = 156 hours). Grammar foundations and error spotting lock down first, followed by voice/narration, vocab retention, and reading comprehension.
+> 5. **Sunday Reasoning Maintenance (Weeks 16–30):** While English commands weekday mornings, Reasoning is actively maintained via a **45-minute mixed test + error review** inside the Sunday test allocation.
+> 6. **Weeks 29–30 Final Consolidation (May 17–31):** Full-syllabus diagnostics, error notebook cleanup, peak mock analysis, and typing benchmarks leading directly up to the May 31 readiness milestone.
 
 ---
 
