@@ -1,68 +1,69 @@
 # English: Detailed Subject Checklist
 
-[Index and completion rules](README.md) | [Master plan](../FINAL-PLAN-NOV2026-MAY2027.md)
+> **Grammar Foundations & Examination Question Types Tracker**  
+> Use this checklist alongside the [Master Study Plan](../FINAL-PLAN-NOV2026-MAY2027.md) and [Study Resources Guide](../STUDY-RESOURCES.md).  
+> Review rules & status codes: [Index & Completion Guide](README.md).
 
-**November–March allocation:** 90 minutes: 20 vocabulary + 30 lesson/notes + 40 practice/corrections. **April–May weekdays:** 20 vocabulary + 40 timed practice + 30 corrections. Scheduled mock replacements follow the master plan.
+---
 
-English serves your SSC preparation. Learn **10 new words daily**, review after 1, 3, 7 and 21 days, and use them in sentences within the existing vocabulary block. Start short reading alongside foundations; increase difficulty gradually.
+### ⏱ Time Allocations & Priorities
 
-**Foundation route:** EF1 introduces sentence structure and all eight parts of speech. EF2 teaches detailed noun/pronoun/modifier/connector rules; EF3 teaches detailed verb and tense rules. Recognition in EF1 is an introduction, not a second copy of the later lessons. Exam chapters E01–E13 apply these foundations.
+- 🌆 **November–March (Daily 90 min):** 20 min vocabulary (10 new words + reviews) + 30 min grammar lesson/notes + 40 min practice/corrections.
+- 🎯 **April–May Revision (Daily 90 min):** 20 min vocabulary reviews + 40 min mixed timed sets + 30 min corrections.
+- 📖 **Vocabulary Target:** Learn **10 new words daily**, review after **1, 3, 7, and 21 days**, and use each word in an active sentence. Start short reading alongside foundations.
 
-## Four pillars — necessary skills for solving questions
+---
 
-These are core learning requirements, not optional extras. Build the relevant skills alongside each chapter. You do not need to memorise every rule or word before starting easy questions; repair the specific missing prerequisite before harder practice. These foundations support question solving, but do not guarantee every answer.
+### 🏛️ The Four Pillars of English Mastery
 
-| Pillar | What you need to know or demonstrate |
-|---|---|
-| Grammar foundations | Identify sentence structure and word functions; apply parts of speech, verb forms, tenses, agreement and usage rules. Explain why a construction is correct. |
-| Vocabulary | Know word meanings in context, spelling, word forms, synonyms/antonyms, collocations, idioms, phrasal verbs and one-word substitutions. |
-| Reading and sentence understanding | Understand who does what, references, negatives and connections between ideas; identify main ideas, tone and supported inferences. |
-| Practice: PYQs + tests | Apply the first three pillars independently: easy exercises → untimed PYQs → timed sets. Explain the answer and why alternatives fail; review wrong, skipped, slow and guessed answers. |
+| Pillar | Core Skill & Demonstration Requirement |
+|:---|:---|
+| 📝 **1. Grammar Foundations** | Identify sentence structure, parts of speech, verb forms, tenses, subject-verb agreement, and syntax rules. Explain *why* a construction is correct. |
+| 📚 **2. Active Vocabulary** | Understand meanings in context, spelling, synonyms/antonyms, collocations (e.g. *make a decision*), idioms, and phrasal verbs. |
+| 🔍 **3. Reading & Sentence Parsing** | Decode sentence actors, actions, pronoun references, negative words, transitional markers, tone, and inferences. |
+| ⏱ **4. PYQ Practice & Tests** | Solve easy exercises $\to$ untimed PYQs $\to$ timed mixed sets. Explain why the correct option works and why distractors fail. |
 
-**Within the existing 90 minutes:** learn words and their usage in the vocabulary slot; grammar and reading skills in lesson/practice time; repair gaps in correction time. Start with short, easy sentences, then paragraphs and longer passages. The scheduled E13 chapter develops this ongoing reading practice. For comprehension, use passage evidence rather than adding outside facts.
+---
 
-**One vocabulary reference in your existing notes:** word/phrase → simple meaning → word class or form where relevant → example sentence → common combination or confusing alternative. A collocation is a usual word combination, such as *make a decision*; also learn combinations such as *interested in*. Use your course/PYQ vocabulary and a learner's dictionary to check unfamiliar meanings and usage. Roots, prefixes and suffixes can help, but check the meaning in context. Keep the existing 10-new-word target; these are not extra daily quotas.
+### 🔍 Question-Type Prerequisite Map
 
-**Revision across all four:** keep vocabulary reviews after 1, 3, 7 and 21 days; re-solve errors after 7 and 21 days. Use fresh sentences or short passages to check transfer, rather than memorising answer positions.
+| Exam Chapter | Prerequisite Grammar / Vocabulary Foundation |
+|:---|:---|
+| **E01 / E02:** Common Errors & Sentence Improvement | Matching **EF1–EF3** rule, sentence structure, word usage, and collocations |
+| **E05:** Fill in the Blanks | Required word class/form, grammar, collocation, and complete sentence context |
+| **E03:** Active & Passive Voice | Subject-object identification, transitive verbs, tense-wise auxiliary changes |
+| **E04:** Direct & Indirect Speech | Reporting verbs, pronoun shifts, tense backshifting rules, and time/place adverbs |
+| **E06–E10:** Vocabulary Chapters | Meanings, prefixes/suffixes, spelling rules; learn idioms and phrasal verbs as units |
+| **E11:** Sentence Arrangement (Para Jumbles) | Sentence openers, pronoun references, logical connectors, and chronological flow |
+| **E12:** Cloze Test | Passage-wide tone/theme, contextual grammar, sentence-to-sentence links |
+| **E13:** Comprehension Test | Evidence-based reading, identifying stated facts, main idea, and author's tone |
 
-### Required foundations for each question type
+---
 
-| Chapter | Knowledge to use before harder questions |
-|---|---|
-| E01/E02: errors and improvement | Relevant EF1–EF3 rule, sentence meaning, word usage and common combinations |
-| E05: blanks | Required word class/form, grammar, collocation and the complete sentence's meaning |
-| E03: active/passive | Subject, verb, object, transitive verbs, tense, auxiliaries and past participles |
-| E04: direct/indirect speech | Sentence type, reporting verb, tense, pronoun reference and time/place expressions |
-| E06–E10: vocabulary chapters | Meanings, spelling and usage; learn idioms/phrasal verbs as expressions, not only individual words |
-| E11: sentence arrangement | Sentence structure, pronoun references, connectors and logical/time order |
-| E12: cloze | Whole-passage meaning, sentence links, grammar and vocabulary choices together |
-| E13: comprehension | Sentence understanding, paraphrases, explicit evidence and supported inference |
+### 🏷️ Error Classification & Immediate Repair
 
-Use this table to find a missing prerequisite in the existing checklist. It does not create additional chapters or a second completion record.
+| Error Type | Root Cause Analysis | Mandatory Repair Action |
+|:---|:---|:---|
+| 📘 **Grammar** | Did not know or misapplied the grammatical rule/structure. | Revisit matching **EF** topic; solve 5 easy sentence drills. |
+| 📗 **Vocabulary** | Did not know the word meaning, spelling, or collocation. | Record word + meaning + example sentence; review at 1/3/7/21 days. |
+| 📙 **Comprehension** | Knew vocabulary but misparsed sentence link or inference. | Paraphrase passage sentence-by-sentence; underline textual evidence. |
+| ⏱ **Execution** | Misread instruction ("incorrect" vs "correct"), rushed, or guessed. | Note trap in error notebook; retry question calmly. |
 
-### Error labels — repair the specific gap
+---
 
-| Label | What went wrong | Repair |
-|---|---|---|
-| Grammar | I did not know or apply the relevant rule/structure. | Revisit the matching EF topic and solve easy sentence exercises. |
-| Vocabulary | I did not know the word, expression, spelling or usage. | Check the meaning, record an example and recall/use it without notes. |
-| Comprehension | I knew the words but misunderstood the sentence, connection or inference. | Paraphrase the sentence/paragraph and identify the evidence for the answer. |
-| Execution | I misread the instruction, overlooked a negative, rushed, ran out of time or guessed. | Record the specific cause and retry; use short timed sets when speed is the issue. |
+### 📋 Standard 6-Step Study Protocol
 
-Record these labels in the existing error notebook. Label the underlying gap behind a guess; a correct guess is not evidence of mastery. Repair within the existing lesson/correction blocks and keep the other subjects moving.
+1. **Understand:** Watch lesson + note down meaning, rule, and one clear example sentence.
+2. **Recognise:** Identify the grammar rule, collocation, or question type in test items.
+3. **Easy Gate:** Solve 10–15 easy textbook questions. **Reach $\ge$ 70% unaided** before attempting PYQs.
+4. **PYQ Practice:** Attempt chapter PYQs before opening solutions; analyze distractor options.
+5. **Timed Test:** Take timed weekly test; track attempted, accuracy, and net marks in error notebook.
+6. **Spaced Re-Solve:** Re-solve error questions without notes at **Day 7** and **Day 21**.
 
-## Common study rule — use for every topic
+> [!NOTE]
+> **Ticking Rule:** Tick (`- [ ]` $\to$ `- [x]`) a subtopic only after you can explain the grammar rule or apply the skill independently. Completed checkboxes represent verified learning.
 
-1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
-2. Recognise the rule, word usage or reading skill in the question and distinguish its main types.
-3. Learn the relevant grammar, usage and exceptions. Keep short notes: meaning, rule or usage, one example and a mistake to avoid.
-4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
-5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
-6. Log wrong, skipped, slow and guessed questions with the error labels above. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
-
-**Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
-
-**Order:** foundations → chapter basics → applications → harder PYQs and timed work within that chapter. The book codes stay unchanged; their numbers are not the learning order. Dates and time allocations remain in the master plan.
+---
 
 ## EF1 — English basics: sentences and parts of speech
 
@@ -96,10 +97,11 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Interjection: short expressions of feeling
 - [ ] Word function in context: the same word used in different roles
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
+
+---
 
 ## EF2 — Grammar basics: nouns, pronouns and modifiers
-
 
 ### Nouns
 
@@ -163,13 +165,13 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Common interjections and their meanings in context
 - [ ] Punctuation and appropriate usage
 
-> Detailed verb rules belong to EF3 below. Apply these foundations later in E01/E02/E05 rather than relearning them as separate courses.
+> ℹ️ Detailed verb rules belong to EF3 below. Apply these foundations later in E01/E02/E05 rather than relearning them as separate courses.
 
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+---
 
 ## EF3 — Grammar basics: verbs, tenses and agreement
-
 
 ### Verbs
 
@@ -202,7 +204,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Phrases/clauses and simple, compound and complex sentences
 - [ ] Modifiers, parallelism and sentence-structure errors
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
+
+---
 
 ## E01 — Common Errors
 
@@ -212,7 +216,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Sentence structure, modifiers and parallelism
 - [ ] Error identification, correction and no-error cases
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E02 — Improvement of Sentences
 
@@ -221,7 +227,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Concise and parallel sentence structures
 - [ ] No-improvement cases
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E05 — Fill in the Blanks
 
@@ -229,7 +237,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Vocabulary and collocation-based blanks
 - [ ] Single/multiple blanks and whole-sentence meaning
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E03 — Transformation of Sentences (Active/Passive)
 
@@ -239,7 +249,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Questions and sentences with two objects
 - [ ] Meaning preservation and unsuitable passive constructions
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E04 — Direct/Indirect Speech
 
@@ -249,7 +261,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Yes/no and wh-questions
 - [ ] Commands, requests, advice and exclamations
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E06 — Synonyms
 
@@ -257,7 +271,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Synonyms in context
 - [ ] Close meanings and usage differences
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E07 — Antonyms
 
@@ -265,7 +281,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Prefixes and opposite meanings
 - [ ] Confusing antonym pairs
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E08 — One Word Substitution/Group of Words
 
@@ -274,7 +292,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Actions, situations and other course/PYQ word groups
 - [ ] Similar substitutions and contextual usage
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E09 — Idioms/Phrases
 
@@ -282,7 +302,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Common phrases and collocations
 - [ ] Phrasal verbs and meaning changes
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E10 — Selection of misspelt word/correctly spelt word
 
@@ -290,7 +312,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Prefixes, suffixes and confusing word forms
 - [ ] Homonyms, homophones and commonly confused words
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E11 — Arrangement of Sentences
 
@@ -299,7 +323,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Pronoun references, connectors and linking pairs
 - [ ] Time order, cause/effect and logical sequence
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E12 — Cloze Test
 
@@ -308,7 +334,9 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Connections across sentences
 - [ ] Completed-passage consistency
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## E13 — Comprehension Test
 
@@ -320,4 +348,6 @@ Apply these skills in short reading throughout preparation. Detailed connector/p
 - [ ] Reports, editorials and current-affairs passages
 - [ ] Multiple-passage timed practice
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---

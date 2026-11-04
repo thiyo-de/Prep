@@ -1,76 +1,74 @@
-# GK/GA: Detailed Subject Checklist
+# 🏛️ General Knowledge & Awareness: Comprehensive Preparation Checklist
 
 [Index and completion rules](README.md) | [Master plan](../FINAL-PLAN-NOV2026-MAY2027.md)
 
-**Existing allocation:** audio during work; recall, questions and corrections in the existing Sunday blocks.
+> 🎯 **Daily Audio & Sunday Mock Allocation:**
+> - **Workdays (Audio Habit):** Passive/semi-active audio listening for concepts, narratives, and timelines during transit/work breaks.
+> - **Sunday 60-Min GA Session:** 15 min active recall (no notes) + 25 min timed quiz (30 questions: 20 current/recent + 10 older revision) + 15 min error analysis/notebook logging + 5 min scorecard update. On the final Sunday of each month, replace the 20 current questions with full monthly current affairs consolidation.
 
-Sunday GA hour: 15 minutes recall + 25 minutes for 30 questions + 15 minutes corrections/planning + 5 minutes scorecard. Normally use **20 current-topic/current-affairs questions + 10 older-topic questions**. On the last Sunday, replace the first 20 with monthly-current-affairs questions. Optional workday recall replaces audio time; it adds no daily quota.
+---
 
-Learn meanings, timelines and maps before factual lists. The science headings below expand the broad school-level science scope into study topics; they are not an official chapter-wise weightage list. Current affairs continue throughout the plan. Date changeable facts and check them when revising. G12 delegates to the computer checklist.
+## 🏛️ The Four Pillars of GA / GK Mastery
 
-## Four pillars — necessary foundations for answering questions
+These four pillars form the non-negotiable core of general awareness preparation. Build them alongside the scheduled chapters. Understand unfamiliar terms before memorizing raw lists, and verify what you can retrieve independently.
 
-These are core learning requirements, not optional extras. Build them alongside the scheduled chapters. Learn an unfamiliar term before memorising facts about it, then check what you can recall independently. You do not need to finish all GK before attempting easy questions, and no fact list guarantees every answer.
+| Pillar | Focus Area | Required Demonstration & Standard |
+| :--- | :--- | :--- |
+| **1. Basic Terms & Concepts** | Conceptual Roots | Explain core terms (*constitution, inflation, latitude, cell, deficiency*) in simple words. Understand principles before cramming. |
+| **2. Core Factual Knowledge** | High-Yield Facts | Accurately recall names, places, dates, historical events, organizations, and scientific laws without multiple-choice hints. |
+| **3. Context & Connections** | Interlinking & Maps | Locate events on timelines and geographical maps. Link contemporary current affairs back to their static parent chapters. |
+| **4. Active Recall & PYQs** | Retrieval & Testing | Retrieve key facts cold from memory. Solve easy drill sets followed by official PYQs and timed sectionals. Review wrong, skipped, and slow questions. |
 
-| Pillar | What you need to know or demonstrate |
-|---|---|
-| Basic terms and concepts | Explain the meaning of terms such as constitution, inflation, latitude, cell and deficiency in simple words. Understand the relevant process or principle. |
-| Core factual knowledge | Recall names, places, dates, events, organisations, scientific facts and their relationships accurately. |
-| Context and connections | Locate facts on maps/timelines, compare similar terms and connect causes, events and outcomes. Link current affairs to the relevant static chapter. |
-| Active recall + PYQs/tests | Retrieve answers without notes, attempt easy questions and relevant PYQs, then timed quizzes. Review wrong, skipped, slow and guessed answers. |
+> 🎧 **Audio vs. Active Recall Discipline:** Audio builds familiarity; it is *not* proof of active retrieval. In Sunday's 15-minute recall window, reproduce outlines, timelines, or diagrams on a blank sheet before opening your notes. Maintain one centralized factual record per topic in your master notes.
 
-**Inside the existing routine:** use workday audio for meanings and chapter content. In Sunday's 15-minute recall slot, explain what you remember or recreate a short list, timeline or labelled diagram before opening notes. Use the existing quiz and correction slots to check it. Rotate these activities across weeks; do not add a new daily quota or another weekend block. Listening familiarity alone is not recall evidence.
+---
 
-**One factual record in your existing notes:** term/question → meaning or answer → distinguishing detail or connection → source/page → date/year where relevant. For confusing facts, use a small comparison table; for locations/events, use a map or timeline. Add to the main chapter's notes rather than duplicating the same fact in several lists.
+## 🗺️ Topic Foundation & Prerequisite Map
 
-Use the course/book for learning and PYQs for application. Check disputed or changeable facts against a suitable textbook or authoritative source, such as the responsible institution's official publication. Keep an old PYQ's exam-year answer distinct from today's answer when facts have changed. Revision covers all four pillars through the existing older-topic quiz rotation and 7/21-day reviews; use fresh short recall questions if there were no errors.
+| Chapter | Domain | Knowledge to Build Before Tackling Harder PYQs |
+| :--- | :--- | :--- |
+| **G01 / G02** | History (India & World) | GF1 chronological sense, centuries (BCE/CE), historical terms, map locations, and sequence of major events/movements. |
+| **G03** | Art & Culture | Terminology of classical/folk art forms, architectural styles, regional traditions, and distinguishing traits. |
+| **G04** | Indian Polity | Constitutional framework, Fundamental Rights, Articles/Amendments, Union/State executive, judiciary, and local governance. |
+| **G05–G07** | Geography (Physical, India, World) | Directions, map coordinates, latitude/longitude, physical terrain, river systems, climate belts, and resources. |
+| **G08** | Economics | Basic macroeconomic terms, national income (GDP/GNP), inflation, banking/monetary policy (RBI), fiscal budget, and market sectors. |
+| **G09** | Physics | SI units, dimensions, equations of motion, Newton's laws, optics, thermodynamics, and everyday practical applications. |
+| **G10** | Chemistry | States of matter, atomic structure, periodic trends, chemical bonding, acids/bases/salts, metals/non-metals, and everyday compounds. |
+| **G11** | Biology, Environment & Agri | Cell biology, organ systems, human physiology, vitamins/deficiencies, disease vectors, ecosystems, and Indian crop patterns. |
+| **G12** | Computers & IT | Hardware/software basics, networking, MS Office, cyber security; delegates to [Computers Checklist](COMPUTERS-CHECKLIST.md). |
+| **G13 / G14** | Science, Discoveries & Tech | Scientific branches, measuring instruments, space missions (ISRO), nuclear energy, and defense technology milestones. |
+| **G15 / G16** | Honours, Awards & Books | Bharat Ratna, Padma awards, Gallantry, Sahitya Akademi, Nobel; authors, classical works, and landmark modern publications. |
+| **G17** | Important Days & Themes | Key national/international observances, founding anniversaries, and year-specific official themes. |
+| **G18** | National & Global Organisations | UN bodies, Bretton Woods institutions, regional groupings (BRICS, ASEAN, SCO), and premier Indian statutory bodies. |
+| **G19** | Sports & Tournaments | Major trophies, Olympic/Asian Games, court dimensions, player terms, and tournament records. |
+| **G20 / G21** | Current Affairs (National & Global) | Key government policies, summits, bilateral agreements, indices, appointments, and global developments. |
+| **G22** | Miscellaneous | Acronyms, census highlights, superlative records, and landmark personalities. |
 
-### Required foundations for each chapter group
+---
 
-| Chapter | Knowledge to build before harder questions |
-|---|---|
-| G01/G02: history | GF1 chronology, centuries and BCE/CE; historical terms, relevant map locations and the sequence of major events |
-| G03: art and culture | Names and meanings of art forms, regions, periods, traditions and features that distinguish similar forms |
-| G04: polity | Constitution, law, rights and citizenship; Union/state/local government, institutions and their functions |
-| G05–G07: geography | Directions, map symbols, latitude/longitude, physical features and basic weather/climate processes |
-| G08: economics | Money, prices, income, production, sectors and markets; meanings of economic indicators and basic percentage comparisons |
-| G09: physics | Physical quantities, units, measurement, basic calculations and diagrams; the meaning of each principle before its applications |
-| G10: chemistry | Matter, elements/compounds/mixtures, atoms/molecules, symbols and simple reactions before detailed classifications |
-| G11: biology/environment/agriculture | Cells, tissues, organs and functions; nutrients, disease terms, classification, food chains and crop basics |
-| G12: computers | CF1 terms and the linked computer checklist; keep its existing practical checks and single progress record |
-| G13/G14: discoveries and technology | Scientific fields, instrument functions and discovery/invention distinctions; purpose of the named mission, technology or institution |
-| G15/G16: awards and books | Award categories, fields and relevant years; distinguish book titles, authors, languages and literary forms |
-| G17: days and years | Calendar terms, dates and the distinction between a recurring observance and its year-specific theme |
-| G18: organisations | Full names, purposes, headquarters and national/international roles; date-check current officeholders |
-| G19: sports | Game terminology, equipment, rules and tournament/trophy distinctions; attach edition/year to winners and records |
-| G20/G21: current affairs | What happened, who/where/when, the institution involved and its connection to static GK; distinguish an announcement from implementation |
-| G22: miscellaneous | Meaning and context of abbreviations, people and remaining course/PYQ facts; place each fact in an existing category where possible |
+## ⚠️ Error Classification & Diagnostic Protocol
 
-This table guides the existing GF1/GF2 and chapter work. It adds no chapters or separate completion records. Learn the needed basics as each topic begins; do not turn the prerequisites into another course.
+| Error Category | Diagnostic Trigger | Targeted Action / Remediation |
+| :--- | :--- | :--- |
+| **Concept Gap** | Failed to understand the underlying principle, mechanism, or term. | Revisit source video/text; summarize the concept in 2 plain English sentences with an everyday example. |
+| **Fact Gap** | Could not recall the specific name, year, location, or article. | Add a targeted Q&A flashcard into your notes; run closed-book retrieval drill within 24 hours. |
+| **Confusion Gap** | Mixed up adjacent facts, similar dynasties, articles, or scientific units. | Build a side-by-side comparison table highlighting the exact contrasting features. |
+| **Execution Error** | Misread question, overlooked *not / incorrect*, rushed, or guessed. | Log the behavioral trigger in your Error Notebook; slow down question stem reading during timed drills. |
 
-### Error labels — repair the specific gap
+---
 
-| Label | What went wrong | Repair |
-|---|---|---|
-| Concept gap | I did not understand the term, process or principle. | Revisit a short explanation and explain it with a simple example. |
-| Fact gap | I did not know or could not recall the required fact. | Verify it, add a short question-answer note and recall it without looking. |
-| Confusion between facts | I mixed up similar names, dates, functions or categories. | Compare the items side by side, identify the distinguishing detail and retest both. |
-| Execution error | I misread, overlooked not/incorrect, rushed, ran out of time or guessed despite knowing the material. | Record the specific cause and retry; use short timed practice when needed. |
+## 📋 Universal 6-Step Study Protocol
 
-Use the existing error notebook. Label the underlying gap behind a guess; a correct guess is not mastery. If the source is wrong or outdated, verify and correct the note before retesting. Repair within existing recall/correction time and keep the other subjects moving.
+1. **Understand Core Concepts:** Master principles and timeline logic via course lectures before memorizing raw lists.
+2. **Visual & Spatial Anchoring:** Map locations on a blank outline map; construct visual timelines for eras and dynasties.
+3. **Structured Factual Notes:** Record terms, key facts, distinctions, and common traps in a single master notebook.
+4. **Baseline Drill (70% Benchmark):** Attempt an easy 20-question drill. Reach **≥70% accuracy** without notes before touching complex PYQs.
+5. **PYQ Integration & Timed Sets:** Solve topic-wise SSC PYQs; transition to mixed timed sets in the Sunday testing slot.
+6. **Spaced Retrieval (7 & 21 Days):** Re-test flagged errors after **7 days** and **21 days**. Clear items only when retrieved independently without hesitation.
 
-## Common study rule — use for every topic
+> 💡 **Ticking Rule:** Tick an item (`- [ ]` → `- [x]`) only after completing the topic and passing an independent closed-book recall check. Follow the [Red/Amber/Green status guidelines](README.md#status-rules-from-the-current-plan).
 
-1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
-2. Recognise the topic in a question, sentence or diagram and distinguish its main types.
-3. Learn the relevant facts, concepts and distinctions; include formulas where the topic needs them. Keep short notes: meaning, key fact or process, one connection and a confusion to avoid.
-4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
-5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
-6. Log wrong, skipped, slow and guessed questions with the error labels above. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
-
-**Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
-
-**Order:** foundations → chapter basics → applications → harder PYQs and timed work within that chapter. The book codes stay unchanged; their numbers are not the learning order. Dates and time allocations remain in the master plan.
+---
 
 ## GF1 — GK basics: maps and timelines
 
@@ -78,7 +76,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Compass directions and map symbols
 - [ ] Timelines, centuries, BCE/CE and chronological order
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
+
+---
 
 ## GF2 — GK basics: everyday terms
 
@@ -87,7 +87,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Scientific units, observations and experiments: basic meanings
 - [ ] Unfamiliar terms introduced before each audio chapter
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
+
+---
 
 ## G05 — Physical Geography
 
@@ -97,7 +99,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Atmosphere, weather, climate and winds
 - [ ] Water cycle, oceans and currents
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G06 — Geography of India
 
@@ -108,7 +112,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Transport systems in India
 - [ ] Population and social/economic geography
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G07 — World Geography
 
@@ -118,7 +124,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Resources and relevant social/economic geography
 - [ ] Neighbouring countries: key geographical facts
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G04 — Indian Polity & Constitution
 
@@ -132,7 +140,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Constitutional bodies and important amendments
 - [ ] Governance and flagship government schemes
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G01 — Indian History
 
@@ -145,7 +155,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Freedom struggle: movements, organisations, leaders and acts
 - [ ] Independence and major post-independence developments at course/PYQ level
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G02 — World History
 
@@ -154,10 +166,11 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] World wars and broad outcomes
 - [ ] Relevant movements and events in the selected course/PYQs
 
-> Keep this existing book chapter concise; it is not a separate world-history specialist course.
+> 💡 *Note: Keep this existing book chapter concise; it is not a separate world-history specialist course.*
 
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+---
 
 ## G03 — Indian Art & Culture
 
@@ -167,7 +180,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Festivals, crafts and regional traditions
 - [ ] Literary/cultural traditions; book-author lists stay under G16
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G08 — Economics
 
@@ -180,7 +195,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Poverty, unemployment and development
 - [ ] Economic reforms and current economic developments
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G09 — Physics
 
@@ -196,7 +213,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Magnetism and electromagnetic effects
 - [ ] Everyday applications and instruments
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G10 — Chemistry
 
@@ -210,7 +229,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Carbon and its compounds
 - [ ] Fuels, combustion and common everyday chemicals
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G11 — Biology (Zoology, Botany, Health), Environment & Agriculture
 
@@ -227,14 +248,18 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Pollution and environmental issues in India and the world
 - [ ] Agriculture basics and crop production
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G12 — Computer & IT
 
 - [ ] Computer & IT subtopics in the [Computers checklist](COMPUTERS-CHECKLIST.md)
 - [ ] Closed-book questions and practical results recorded in that same checklist
 
-**Progress:** use the linked computer record; no second assessment here.
+> 📊 **Chapter Progress:** Linked to [Computers Checklist](COMPUTERS-CHECKLIST.md) — Single progress record maintained there.
+
+---
 
 ## G13 — Discoveries & Inventions (Branches of Science & Scientific Instruments)
 
@@ -243,7 +268,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Branches of science
 - [ ] Scientific instruments and what they measure
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G14 — Science & Technology
 
@@ -252,7 +279,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Major scientific institutions
 - [ ] Important scientific/technological developments and applications
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G18 — UNO, Other International & National Organisations
 
@@ -262,7 +291,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Functions, headquarters and relevant founding facts
 - [ ] Current officeholders: dated and verified during revision
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G15 — Honours & Awards
 
@@ -270,7 +301,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Award categories and fields
 - [ ] Relevant recipients and award years
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G16 — Books & Authors
 
@@ -278,7 +311,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Important books and authors
 - [ ] Recent books/authors from current affairs
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G17 — Important Decades, Years & Days
 
@@ -286,7 +321,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Relevant years and decades
 - [ ] Annual themes, dated to the correct year
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G19 — Sports
 
@@ -294,7 +331,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Major tournaments, trophies and venues
 - [ ] Relevant winners, records and sporting personalities
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G20 — National Events
 
@@ -303,7 +342,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] National developments linked to existing subject chapters
 - [ ] Monthly consolidation and older-month revision
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G21 — International Events
 
@@ -312,7 +353,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Major global developments and organisations involved
 - [ ] Monthly consolidation and older-month revision
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## G22 — Miscellaneous
 
@@ -320,7 +363,6 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Famous personalities of India and the world
 - [ ] Remaining relevant static-GK course/PYQ facts
 
-> Record facts under their main chapter where possible; do not create duplicate lists for current affairs and static GK.
+> 💡 *Note: Record facts under their main chapter where possible; do not create duplicate lists for current affairs and static GK.*
 
-
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`

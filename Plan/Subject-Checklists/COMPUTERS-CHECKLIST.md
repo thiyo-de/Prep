@@ -1,25 +1,36 @@
-# Computers: Detailed Subject Checklist
+# 💻 Computer Knowledge & IT: Detailed Subject Checklist
 
 [Index and completion rules](README.md) | [Master plan](../FINAL-PLAN-NOV2026-MAY2027.md)
 
-This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing foundation code; C01–C08 are checklist labels, not extra book chapters.
+> 🎯 **Tier-II Qualifying Standard & Allocation:**
+> - **Mandatory Qualifying Requirement:** Tier-II Computer Knowledge Test (15 minutes, 20 questions, 60 marks). Minimum qualifying threshold is strictly required for higher-grade posts (e.g., ASO, Inspector, Examiner).
+> - **Study Allocation:** Audio during workdays + designated 30-minute Sunday computer slot.
+> - **Practical Validation:** Alternate between closed-book MCQ testing and hands-on practical application using disposable sample files. MCQ accuracy alone does not guarantee practical operational competence.
 
-**Existing allocation:** workday audio and the existing 30-minute Sunday computer slot. Rotate recall, quiz/corrections and practical tasks across sessions. Use sample data and disposable practice files. Do not add another course or more hours.
+---
 
-## Common study rule — use for every topic
+## 🏛️ The Three Practical Pillars of Computer Proficiency
 
-1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
-2. Recognise the topic in a question, sentence or diagram and distinguish its main types.
-3. Learn the relevant rules, formulas and exceptions. Keep short notes: meaning, method, one example and a mistake to avoid.
-4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
-5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
-6. Log wrong, skipped and slow questions. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
+| Pillar | Operational Focus | Required Mastery & Standard |
+| :--- | :--- | :--- |
+| **1. Theoretical Fundamentals** | Architecture & OS | Hardware architecture, CPU/RAM/ROM, storage units, operating system concepts, and common networking protocols. |
+| **2. Office Productivity** | Practical Applications | Hands-on shortcuts, formatting, workbook formula syntax (SUM, AVERAGE, VLOOKUP basics), and presentation decks. |
+| **3. Security & Safe Computing** | Cyber Hygiene & Threats | Threat recognition (malware, phishing, ransomware), password integrity, backup procedures, and secure browsing. |
 
-**Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
+---
 
-**Order:** foundations → chapter basics → applications → harder PYQs and timed work within that chapter. The book codes stay unchanged; their numbers are not the learning order. Dates and time allocations remain in the master plan.
+## 📋 Universal 6-Step Study Protocol
 
-**Computer practice:** alternate closed-book questions with the matching practical task using sample files. For practical work, record whether you can complete the task unaided; the MCQ percentage alone does not prove practical skill.
+1. **Grasp Core Concepts:** Watch/listen to topic lectures; define unfamiliar hardware, networking, or OS terminology first.
+2. **Hands-On Application:** Practice the matching task directly in Windows, Word, Excel, or PowerPoint using sample practice files.
+3. **Structured Notes:** Log shortcut tables, formula syntax, protocol ports, and common exam traps in your master notebook.
+4. **Baseline Drill (70% Benchmark):** Complete a 15-question chapter quiz. Attain **≥70% accuracy** unaided before taking advanced PYQs.
+5. **Tier-II PYQ Practice:** Solve official SSC CGL/CHSL computer questions with strict time limits.
+6. **Spaced Retrieval (7 & 21 Days):** Re-test conceptual errors and practical tasks after **7 days** and **21 days**.
+
+> 💡 **Ticking Rule:** Tick an item (`- [ ]` → `- [x]`) only after mastering the concept and completing any associated practical actions unaided.
+
+---
 
 ## CF1 — Computer foundations
 
@@ -29,9 +40,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Keyboard, mouse and screen navigation
 - [ ] Files, folders and basic internet terms
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Theory Progress:** Easy: `__/__` | 7-Day: `__` | 21-Day: `__` | Next Repair: `__`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C01 — CPU, memory, storage and ports
 
@@ -41,9 +53,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Storage media and backup devices
 - [ ] Common ports and connectors
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C02 — Windows and shortcuts
 
@@ -52,9 +65,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Create, copy, move, rename and delete sample files/folders
 - [ ] Common keyboard shortcuts
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C03 — Word
 
@@ -64,9 +78,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Find/replace and spelling tools
 - [ ] Tables, page layout and print settings
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C04 — Excel
 
@@ -76,9 +91,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] SUM, AVERAGE, MIN, MAX and COUNT
 - [ ] Sorting, filtering and simple charts
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C05 — PowerPoint
 
@@ -87,9 +103,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Slide arrangement and presentation views
 - [ ] Slide-show controls
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C06 — Internet, email and e-banking
 
@@ -98,9 +115,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Email accounts, To/Cc/Bcc, attachments and folders
 - [ ] Basic e-banking and safe transactions
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C07 — Networks and protocols
 
@@ -109,9 +127,10 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Common protocols and their purposes
 - [ ] Internet/network addressing basics
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`
 
-**Practical record:** task __ | unaided result __ | next repair __
+---
 
 ## C08 — Cybersecurity and backup
 
@@ -122,6 +141,5 @@ This is the detailed checklist for **G12 Computer & IT**. CF1 is the existing fo
 - [ ] Backup and recovery
 - [ ] Safe handling of unfamiliar links, attachments and files
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
-
-**Practical record:** task __ | unaided result __ | next repair __
+> 📊 **Theory Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+> 🛠️ **Practical Record:** Task: `__` | Unaided Result: `__` | Next Repair: `__`

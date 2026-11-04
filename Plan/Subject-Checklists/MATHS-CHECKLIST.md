@@ -1,79 +1,77 @@
 # Maths: Detailed Subject Checklist
 
-[Index and completion rules](README.md) | [Master plan](../FINAL-PLAN-NOV2026-MAY2027.md)
+> **Arithmetic & Advanced Mathematics Syllabus Tracker**  
+> Use this checklist alongside the [Master Study Plan](../FINAL-PLAN-NOV2026-MAY2027.md) and [Study Resources Guide](../STUDY-RESOURCES.md).  
+> Review rules & status codes: [Index & Completion Guide](README.md).
 
-**November–March allocation:** 120 minutes: 40 lesson/examples/notes + 60 solving + 20 error revision. Use 5 minutes inside lesson time for calculation recall. **April–May weekdays:** 60 timed PYQs + 40 errors/formulas + 20 weakest-topic practice. Scheduled mock replacements follow the master plan.
+---
 
-MF1–MF3 build the tools used in the book chapters. Tables, squares and cubes develop gradually alongside chapters; they are not a memorisation barrier to starting. Learn the standard method before shortcuts.
+### ⏱ Time Allocations & Priorities
 
-Partnership and ages are introduced alongside ratio/mixture as scheduled; keep their completion record under M24. M22 owns charts/DI; M23 owns numerical statistics/probability. Study overlapping concepts once and apply them in both chapters.
+- 🌅 **November–March (Daily 120 min):** 40 min concept/worked examples + 60 min active solving + 20 min error revision *(5 min calculation recall inside concept block)*.
+- 🎯 **April–May Revision (Daily 120 min):** 60 min timed PYQs on focus topic + 40 min error notebook/formulas + 20 min weakest-topic surgery.
+- ⚡ **Core Rule:** Build standard conceptual methods first. Reach **$\ge$ 70% accuracy on easy sets** before touching Tier-II / CBT-2 PYQs. Never rely on shortcuts without understanding conditions.
 
-## Four pillars — necessary foundations for solving questions
+---
 
-These are core learning requirements, not optional extras. Build the relevant skills alongside each chapter. Knowing a formula is insufficient if you cannot interpret the question, choose the right quantities or calculate accurately. Repair the missing prerequisite before harder practice. You do not need perfect recall of every table or formula before starting easy questions, and these foundations do not guarantee every answer.
+### 🏛️ The Four Pillars of Problem Solving
 
-| Pillar | What you need to know or demonstrate |
-|---|---|
-| Concepts, rules and formulas | Explain the meaning, why the method works and when a formula applies. Know what each symbol represents and the conditions required. |
-| Calculation foundations | Use the four operations, signs, fractions, decimals, BODMAS, tables, powers/roots and unit conversions accurately; build recall and estimation gradually. |
-| Mathematical language and question setup | Understand terms and comparisons, identify given/required quantities and translate words into an equation, ratio, table or labelled diagram. |
-| Practice: PYQs + tests | Progress from easy independent questions to untimed PYQs and timed sets. Show the method, check the answer and review wrong, skipped, slow and guessed questions. |
+| Pillar | Core Skill & Demonstration Requirement |
+|:---|:---|
+| 📐 **1. Concepts & Formulas** | Explain the mathematical meaning, why the method works, what each variable represents, and exact boundary conditions. |
+| 🧮 **2. Calculation Foundations** | Fluency in 4 operations, negative signs, fractions, decimals, BODMAS, multiplication tables, powers/roots, and unit conversions. |
+| 📝 **3. Problem Setup & Translation** | Accurately decode mathematical wording, identify given vs. asked quantities, and formulate an equation, ratio, or diagram. |
+| ⏱ **4. PYQs & Timed Tests** | Progression from easy sets to untimed Tier-II/CBT-2 PYQs and timed sectionals. Log wrong, slow, and guessed items. |
 
-**Inside the existing 120 minutes:** teach missing concepts, terms and formulas in the lesson block; keep the existing 5-minute calculation recall inside that block; apply them in solving time and repair errors in the final revision block. April–May follows the existing revision split. Use the standard method first; add a shortcut only when you can explain its conditions.
+---
 
-**One method/formula record in your existing notes:** meaning → formula or method → symbols and units → when it applies → one worked example → common trap. Keep tables/squares/cubes and frequently used conversions in the existing quick-revision section. Work through a short derivation or explanation where useful, then practise recalling and applying the formula.
+### 🔍 Chapter Prerequisite Map
 
-**Question setup:** identify what is given and asked, define quantities, align units, select a relationship, then calculate. Check the result using estimation, substitution, units or a reverse calculation where suitable. Pay attention to the comparison base in percentages, rate versus total, and length versus area/volume.
+| Chapter Group | Prerequisite Foundations to Master First |
+|:---|:---|
+| **M01 / M02:** Number System & HCF/LCM | **MF1** operations, divisibility rules, factors/multiples, prime factorization |
+| **M03 / M04:** Simplification & Surds/Indices | **MF2** BODMAS, signs, fractions/decimals; **MF3** powers, roots, index laws |
+| **M05:** Average | Basic division/multiplication, total vs. count, missing value equations |
+| **M06 / M08:** Ratio & Percentage | Fractions, equivalent values, comparison bases, fraction-to-percentage conversion |
+| **M07:** Mixture & Alligation | **M05** averages, **M06** ratios, **M08** percentages, concentration equations |
+| **M09 / M10:** Profit, Loss & Discount | Base values (CP vs. SP vs. MP), markups, successive percentage change |
+| **M11 / M12:** Simple & Compound Interest | Principal/Rate/Time timelines, compounding cycles, installment equations |
+| **M13 / M14:** Time & Work, Pipe & Cistern | Fractions, LCM work units, efficiency ratios, positive/negative pipe rates |
+| **M15 / M16:** Speed, Time, Distance & Boats | Relative speed, unit conversion ($km/h \leftrightarrow m/s$), upstream/downstream |
+| **M17:** Sequence & Series | Differences, ratios, AP/GP term positions, summation notation |
+| **M18:** Algebra | Linear/quadratic equations, identities, factorization, coordinate graphs |
+| **M20:** Geometry | Lines, angles, triangle centers, similarity/congruence, circle chords & tangents |
+| **M21:** Mensuration (2D & 3D) | Perimeter vs. area, surface area vs. volume, prism/pyramid formula derivations |
+| **M19:** Trigonometry | Right triangles, Pythagoras theorem, ratio definitions, heights & distances |
+| **M22 / M23:** Data Interpretation & Statistics | Tables, histograms, mean/median/mode, standard deviation, basic probability |
+| **M24:** Partnership & Ages | Capital-time products, ratio distribution, linear age difference equations |
 
-Revision applies to all four pillars through the existing 7/21-day reviews. Use fresh questions with changed values or wording to check understanding; remembering a previous answer alone is insufficient.
+---
 
-### Required foundations for each chapter group
+### 🏷️ Error Classification & Immediate Repair
 
-| Chapter | Knowledge to build before harder questions |
-|---|---|
-| M01/M02: number system and HCF/LCM | MF1 operations, division/remainders, factors/multiples, primes and divisibility |
-| M03/M04: simplification, indices and surds | MF2 signs, fractions/decimals and BODMAS; MF3 powers and roots; learn each index rule before applying it |
-| M05: average | Addition/division, total versus count and simple missing-value relationships |
-| M06/M08: ratio and percentage | Fractions, equivalent quantities, comparison bases, unitary reasoning and fraction–decimal–percentage conversion |
-| M07: mixture | M05 averages, M06 ratios, M08 percentages and the meaning of concentration/quantity |
-| M09/M10: profit, loss and discount | Percentage bases; cost, selling and marked price; successive changes |
-| M11/M12: interest | Principal/rate/time/amount, percentages, matching time units, powers and payment/compounding timelines |
-| M13/M14: work and pipes | Fractions, reciprocals, LCM, direct/inverse proportion, work rates and positive/negative contributions |
-| M15/M16: distance and boats | Distance/speed/time, unit conversion, ratios, weighted averages and relative direction/speed |
-| M17: sequence and series | Operations, differences/ratios, powers and term positions; introduce simple variable notation before term/sum formulas |
-| M18: algebra | Signs, fractions, BODMAS and powers; then variables, expressions, equality and inverse operations |
-| M20: geometry | Shape names, angle notation and measurement; build basic properties before theorems, with simple algebra/ratios for applications |
-| M21: mensuration | M20 shape properties, perimeter versus area, surface area versus volume, formulas and square/cubic unit conversions |
-| M19: trigonometry | Right triangles, Pythagoras, side ratios, fractions/surds and algebra; label sides relative to the chosen angle |
-| M22: data interpretation | Table/chart labels, axes/scales/units, totals and M05/M06/M08 averages, ratios and percentages |
-| M23: statistics and probability | Ordered data, frequency, averages, squares/roots; counting distinct outcomes, fractions and equally likely cases |
-| M24: partnership and ages | Ratios, capital/time and present/past/future quantities; learn simple equation setup when ages first appears, without waiting for all of M18 |
+| Error Type | Root Cause Analysis | Mandatory Repair Action |
+|:---|:---|:---|
+| 🧠 **Concept / Formula** | Selected wrong relationship, forgot formula, or misapplied conditions. | Re-read concept notes; solve 5 easy textbook examples unaided. |
+| 🧮 **Calculation Slip** | Setup was correct, but arithmetic, sign, fraction, or conversion failed. | Pinpoint the exact step error; re-solve the entire problem cleanly. |
+| 👓 **Interpretation / Setup** | Misunderstood terms, inverted ratio, or used wrong base value. | Restate given vs. asked; draw a labelled diagram or equation table. |
+| ⏱ **Execution / Rushing** | Misread numbers, rushed under timer, or guessed under panic. | Record trap in error notebook; retry under a relaxed 2-min timer. |
 
-Use this table to locate prerequisites in MF1–MF3 or the relevant chapter. It adds no chapters or separate completion records. Learn a small missing skill within the current lesson/practice blocks before dependent questions; retain the existing chapter order and buffers.
+---
 
-### Error labels — repair the specific gap
+### 📋 Standard 6-Step Study Protocol
 
-| Label | What went wrong | Repair |
-|---|---|---|
-| Concept/formula | I chose the wrong relationship, forgot the formula or used it outside its conditions. | Revisit the meaning and conditions, then solve easy examples without help. |
-| Calculation | My setup was correct but an operation, sign, fraction, power or conversion was wrong. | Identify the exact step, practise that skill briefly and re-solve the full question. |
-| Interpretation/setup | I misunderstood a term/comparison, chose the wrong base or translated the information incorrectly. | Restate given/required quantities and rebuild the equation, table or labelled diagram. |
-| Execution | I copied/read a value incorrectly, rushed, lost track of steps, ran out of time or guessed despite knowing the method. | Record the specific cause and retry; use a short timed set when speed is the issue. |
+1. **Understand:** Watch video lesson + study worked examples; write key terms.
+2. **Setup:** Classify problem type, identify variables, and draw diagram/equation.
+3. **Easy Gate:** Solve 10–15 easy textbook questions. **Must hit $\ge$ 70% unaided** before proceeding.
+4. **PYQ Practice:** Attempt moderate and Tier-II PYQs before checking solutions. Mark any assisted answer.
+5. **Timed Test:** Take timed chapter test on Saturday; record net score and completion rate.
+6. **Double Spaced Re-Solve:** Re-solve all errors at **Day 7** and **Day 21** with zero notes.
 
-Use the existing error notebook. Label the underlying gap behind a guess; a correct guess is not mastery. Repair within the current lesson/correction blocks, keep the 70% unaided easy-practice gate and continue the other subjects.
+> [!NOTE]
+> **Ticking Rule:** Tick (`- [ ]` $\to$ `- [x]`) a subtopic only after you can explain the concept and solve questions independently. A tick represents genuine coverage, not speed mastery.
 
-## Common study rule — use for every topic
-
-1. Understand the meaning through your course lesson and worked examples; define unfamiliar terms first.
-2. Recognise the topic in a question, sentence or diagram and distinguish its main types.
-3. Learn the relevant rules, formulas and exceptions. Keep short notes: meaning, method, one example and a mistake to avoid.
-4. Solve an easy set independently. Reach **70% accuracy without help** before harder questions; otherwise repair and retest in existing practice time.
-5. Attempt relevant chapter PYQs before reading solutions, then progress to harder and timed sets. Foundations need easy exercises first, not advanced PYQs.
-6. Log wrong, skipped, slow and guessed questions with the error labels above. Re-solve errors without notes after **7 and 21 days**; use a fresh sample when there were no errors. Failed reviews return to repair.
-
-**Tick a subtopic after learning it and applying it independently.** A tick is coverage evidence, not timed mastery. Record helped answers separately. Use one error notebook; the short record below each chapter points to it. For tests, record correct/wrong/skipped, duration and net marks in that notebook. Follow the [existing Red/Amber/Green rules](README.md#status-rules-from-the-current-plan).
-
-**Order:** foundations → chapter basics → applications → harder PYQs and timed work within that chapter. The book codes stay unchanged; their numbers are not the learning order. Dates and time allocations remain in the master plan.
+---
 
 ## MF1 — Maths basics: numbers and operations
 
@@ -83,7 +81,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Multiplication and long division
 - [ ] Quotient, remainder and operation symbols
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
+
+---
 
 ## MF2 — Maths basics: fractions, decimals and signs
 
@@ -97,7 +97,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Brackets, operation order and BODMAS
 - [ ] Length, mass and time units and conversions
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
+
+---
 
 ## MF3 — Calculation recall: tables, squares, cubes and roots
 
@@ -107,7 +109,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Powers and repeated multiplication
 - [ ] Square roots, cube roots and exact-root recognition
 
-**Foundation record:** easy __/__ | 7-day review __ | 21-day review __ | next repair __
+> 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
+
+---
 
 ## M01 — Number System
 
@@ -117,7 +121,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Unit digits and repeating cycles
 - [ ] Remainders and number of factors
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M02 — LCM and HCF
 
@@ -125,7 +131,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Division method and HCF-LCM relationships
 - [ ] Grouping, equal distribution and repeating-event problems
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M03 — Simplification
 
@@ -135,7 +143,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Rounding, estimation and approximation
 - [ ] Exact-answer versus approximate-answer questions
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M04 — Power, Indices and Surds
 
@@ -144,7 +154,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Operations on surds
 - [ ] Simple denominator rationalisation
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M05 — Average
 
@@ -153,7 +165,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Addition/removal/replacement of observations
 - [ ] Weighted averages
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M06 — Ratio and Proportion
 
@@ -162,7 +176,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Proportion and continued proportion
 - [ ] Direct and inverse proportion
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M08 — Percentage
 
@@ -172,7 +188,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Successive changes
 - [ ] Population, expenditure and other chapter applications
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M07 — Alligation or Mixture
 
@@ -181,7 +199,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Alligation rule and its conditions
 - [ ] Replacement and repeated mixing
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M09 — Profit and Loss
 
@@ -190,7 +210,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Combined transactions and successive selling
 - [ ] False-weight applications in relevant PYQs
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M10 — Discount
 
@@ -198,7 +220,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Single and successive discounts
 - [ ] Discount combined with profit/loss
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M11 — Simple Interest
 
@@ -206,7 +230,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Simple-interest formula and unit conversion
 - [ ] Missing principal/rate/time and comparison questions
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M12 — Compound Interest
 
@@ -216,7 +242,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Simple-interest/compound-interest comparisons
 - [ ] Instalments and payment timelines
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M13 — Time and Work
 
@@ -226,7 +254,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Men-days-hours applications
 - [ ] Work-based wage sharing
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M14 — Pipe and Cistern
 
@@ -234,7 +264,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Combined filling/emptying
 - [ ] Leaks and changing pipe schedules
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M15 — Time and Distance
 
@@ -244,7 +276,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Trains crossing people, platforms and other trains
 - [ ] Races and head starts
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M16 — Boat and Stream
 
@@ -252,7 +286,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Upstream/downstream speed relationships
 - [ ] Journey time, distance and return trips
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M17 — Sequence and Series
 
@@ -261,7 +297,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Basic geometric progression: terms and sums
 - [ ] Course/PYQ applications; no advanced infinite-series course
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M18 — Algebra
 
@@ -272,7 +310,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Linear equations and relevant simple quadratic equations
 - [ ] Coordinates and graphs of linear equations
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M20 — Geometry
 
@@ -284,7 +324,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Circles, chords, arcs and angles subtended by chords
 - [ ] Tangents and common tangents to circles
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M21 — Mensuration
 
@@ -297,7 +339,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Regular right pyramid with triangular/square base
 - [ ] Combined-solid applications in relevant PYQs
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M19 — Trigonometry
 
@@ -307,7 +351,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Basic identities and complementary angles
 - [ ] Heights and distances with diagrams
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M22 — Statistics & Data Interpretation
 
@@ -316,7 +362,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Frequency tables, histograms and frequency polygons
 - [ ] Chart-based ratios, percentages, averages and comparisons
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M23 — Statistics & Probability
 
@@ -326,7 +374,9 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Outcomes, sample space and equally likely cases
 - [ ] Simple probability and complementary events
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
 
 ## M24 — Miscellaneous
 
@@ -334,4 +384,6 @@ Use the existing error notebook. Label the underlying gap behind a guess; a corr
 - [ ] Ages: present/past/future relationships and equations
 - [ ] Additional relevant course/PYQ question types, recorded here as encountered
 
-**Progress:** easy __/__ | timed result/reference __ | 7-day review __ | 21-day review __ | status __ | error-book page __
+> 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
+
+---
