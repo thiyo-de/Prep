@@ -29,6 +29,42 @@ export const noteDocuments = [
     "path": "Notes/General Awareness/Biology/02-Fibre-to-Fabric.md"
   },
   {
+    "id": "notes-reasoning-rf1",
+    "title": "Reasoning: Letters & numbers (RF1)",
+    "icon": "brain",
+    "subtitle": "Alphabet positions, opposites, basic patterns, primes, squares, and cubes.",
+    "label": "RF1: Letters & numbers",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Letters & numbers (RF1)",
+    "path": "Notes/Reasoning/00-RF1-Letters-and-Numbers.md"
+  },
+  {
+    "id": "notes-reasoning-rf2",
+    "title": "Reasoning: Instructions & relationships (RF2)",
+    "icon": "brain",
+    "subtitle": "Step-by-step instructions, conditional rules, and relationship parsing.",
+    "label": "RF2: Instructions & relations",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Instructions & relationships (RF2)",
+    "path": "Notes/Reasoning/00-RF2-Instructions-and-Relationships.md"
+  },
+  {
+    "id": "notes-reasoning-r01",
+    "title": "Reasoning: Analogy masterclass (R01)",
+    "icon": "brain",
+    "subtitle": "Foundations, relationship taxonomy, number/letter mechanics, traps, and 30 diagnostic practice items.",
+    "label": "R01: Analogy",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Analogy masterclass (R01)",
+    "path": "Notes/Reasoning/01-R01-Analogy.md"
+  },
+  {
     "id": "notes-english-ef1",
     "title": "English: Sentences & parts of speech (EF1)",
     "icon": "book-open",

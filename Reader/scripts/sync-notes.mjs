@@ -7,6 +7,9 @@ import { noteSubjects } from '../src/note-tree.js';
 // Keep existing routes and draft keys stable while discovering files from disk.
 const knownNotes = {
   'Reasoning/Reasoning-Notes.md': { id: 'notes-reasoning', title: 'Reasoning personal notes', label: 'Reasoning notes', icon: 'brain', subtitle: 'Concepts, patterns, traps, and exam-day decision rules.' },
+  'Reasoning/00-RF1-Letters-and-Numbers.md': { id: 'notes-reasoning-rf1', title: 'Reasoning: Letters & numbers (RF1)', label: 'RF1: Letters & numbers', icon: 'brain', subtitle: 'Alphabet positions, opposites, basic patterns, primes, squares, and cubes.' },
+  'Reasoning/00-RF2-Instructions-and-Relationships.md': { id: 'notes-reasoning-rf2', title: 'Reasoning: Instructions & relationships (RF2)', label: 'RF2: Instructions & relations', icon: 'brain', subtitle: 'Step-by-step instructions, conditional rules, and relationship parsing.' },
+  'Reasoning/01-R01-Analogy.md': { id: 'notes-reasoning-r01', title: 'Reasoning: Analogy masterclass (R01)', label: 'R01: Analogy', icon: 'brain', subtitle: 'Foundations, relationship taxonomy, number/letter mechanics, traps, and 30 diagnostic practice items.' },
   'English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md': { id: 'notes-english-ef1', title: 'English: Sentences & parts of speech (EF1)', label: 'EF1: Sentences & speech', icon: 'book-open', subtitle: 'Sentence foundations, phrases, clauses, and parts of speech.' },
   'English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md': { id: 'notes-english-ef2', title: 'English: Nouns & modifiers (EF2)', label: 'EF2: Nouns & modifiers', icon: 'text-aa', subtitle: 'Nouns, pronouns, adjectives, and adverbs.' },
   'English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md': { id: 'notes-english-ef3', title: 'English: Verbs, tenses & agreement (EF3)', label: 'EF3: Verbs & tenses', icon: 'pencil-line', subtitle: 'Finite verbs, tense consistency, and subject-verb agreement.' },
