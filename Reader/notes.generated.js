@@ -63,5 +63,17 @@ export const noteDocuments = [
     "folders": [],
     "noteLabel": "Verbs, tenses & agreement (EF3)",
     "path": "Notes/English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md"
+  },
+  {
+    "id": "notes-english-ef4",
+    "title": "English: Fundamentals masterclass (EF4)",
+    "icon": "book-open",
+    "subtitle": "Comprehensive in-depth notes from 01 Fundamentals.pdf (all 28 pages).",
+    "label": "EF4: Fundamentals masterclass",
+    "group": "Study notes",
+    "subject": "English",
+    "folders": [],
+    "noteLabel": "Fundamentals masterclass (EF4)",
+    "path": "Notes/English/04-English-Fundamentals-Detailed.md"
   }
 ];

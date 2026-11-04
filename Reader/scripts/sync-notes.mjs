@@ -10,6 +10,7 @@ const knownNotes = {
   'English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md': { id: 'notes-english-ef1', title: 'English: Sentences & parts of speech (EF1)', label: 'EF1: Sentences & speech', icon: 'book-open', subtitle: 'Sentence foundations, phrases, clauses, and parts of speech.' },
   'English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md': { id: 'notes-english-ef2', title: 'English: Nouns & modifiers (EF2)', label: 'EF2: Nouns & modifiers', icon: 'text-aa', subtitle: 'Nouns, pronouns, adjectives, and adverbs.' },
   'English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md': { id: 'notes-english-ef3', title: 'English: Verbs, tenses & agreement (EF3)', label: 'EF3: Verbs & tenses', icon: 'pencil-line', subtitle: 'Finite verbs, tense consistency, and subject-verb agreement.' },
+  'English/04-English-Fundamentals-Detailed.md': { id: 'notes-english-ef4', title: 'English: Fundamentals masterclass (EF4)', label: 'EF4: Fundamentals masterclass', icon: 'book-open', subtitle: 'Comprehensive in-depth notes from 01 Fundamentals.pdf (all 28 pages).' },
   'General Awareness/Biology/01-Food-and-Nutrition.md': { id: 'notes-biology-01', title: 'Biology: Food & nutrition', label: 'Biology: Nutrition', icon: 'dna', subtitle: 'Components of food, balanced diet, deficiencies, and tests.' },
   'General Awareness/Biology/02-Fibre-to-Fabric.md': { id: 'notes-biology-02', title: 'Biology: Fibre to fabric', label: 'Biology: Fibre to fabric', icon: 'plant', subtitle: 'Plant and animal fibres, silk and wool processing cycles.' }
 };
