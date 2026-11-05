@@ -145,6 +145,31 @@ Imagine a cotton shirt. The shirt is made of fabric. Pulling apart a small woven
 
 Classification reference: [NCERT chapter hosted by IIT Kanpur SATHEE: Fabrics Around Us](https://sathee.iitk.ac.in/gu/sathee-ssc/student-corner/ncert-books/class-11/human-ecology-and-family-sciences/chapter-05-fabrics-around-us/). Dated SSC/RRB rayon question references appear in Section 11.
 
+### 4.2 Chemistry of Fully Synthetic Fibres & The Melting Safety Hazard (SSC High-Yield)
+
+SSC (CGL/CHSL) and RRB exams frequently test the chemical monomer units, industrial landmarks, and safety rules of 100% synthetic polymers:
+
+| Synthetic Fibre | Chemical Family & Monomer | Key Properties | Exam Applications & High-Yield Facts |
+| :--- | :--- | :--- | :--- |
+| **Nylon** | **Polyamide** (Repeated amide linkages $-\text{CO}-\text{NH}-$, e.g., Nylon-6,6) | High tensile strength (**stronger than a steel wire of equal diameter**), highly elastic, lustrous, easy to wash. | **First 100% fully synthetic fibre** (made in 1931 from coal, water, and air without any plant/animal material). Used in parachutes, climbing ropes, fishing nets, socks. |
+| **Polyester** (Terylene / Dacron / PET) | **Polymer of repeating ester units** ($-\text{COO}-$, formed from dicarboxylic acid + diol) | Does not wrinkle easily, remains crisp and smooth, hydrophobic (dries very quickly). | Extensively used for dress materials. **PET (Polyethylene Terephthalate)** is the familiar form used for making transparent bottles, storage jars, utensils, and magnetic tapes. Blends: **Polycot** (Polyester + Cotton), **Polywool** (Polyester + Wool). |
+| **Acrylic** (Orlon / Acrilan) | **Polyacrylonitrile** ($-\text{CH}_2-\text{CH}(\text{CN})-$) | Lightweight, soft, warm, resistant to moths and chemical degradation. | **"Artificial Wool" (செயற்கைக் கம்பளி):** Inexpensive commercial alternative to costly sheep wool; widely used for sweaters, shawls, and blankets. |
+
+> [!CAUTION]
+> **The Thermal Melting Safety Trap (NCERT Class 8 Science / SSC Core Question):**  
+> Unlike natural fibres (cotton burns to ash, wool scorches), **synthetic fibres melt, shrink, and fuse upon heating**.  
+> If synthetic clothing catches fire, **the melted polymer adheres directly and tightly to the human skin**, causing devastating deep contact burns.  
+> **Safety Rule:** Never wear synthetic fabrics (nylon, polyester) while cooking near gas burners in the kitchen or conducting experiments in chemical laboratories.
+
+<!-- separate learning boxes -->
+
+> **தமிழில்: செயற்கை இழைகளின் வேதியியல் சிறப்புகள் (Synthetic Fibres Highlights):**
+>
+> 1. **நைலான் (Nylon):** நிலக்கரி, நீர் மற்றும் காற்றிலிருந்து 1931-ல் தயாரிக்கப்பட்ட **முழுமையான முதல் செயற்கை இழை** (Polyamide). சம தடிமனுள்ள எஃகு கம்பியை விட அதிக இழுவிசை வலிமை கொண்டது.
+> 2. **பாலியெஸ்டர் (Polyester / PET):** எளிதில் சுருங்காத துணி (Wrinkle-resistant). PET என்பது பாட்டில்கள் மற்றும் பாத்திரங்கள் செய்யப் பயன்படும் பாலியெஸ்டர் வகை.
+> 3. **அக்ரிலிக் (Acrylic):** இயற்கை கம்பளிக்கு மாற்றாகப் பயன்படும் மலிவான **"செயற்கைக் கம்பளி" (Artificial Wool)**.
+> 4. **ஆபத்து எச்சரிக்கை:** செயற்கை இழைகள் சூடாக்கினால் உருகும் தன்மையுடையவை. தீப்பிடித்தால் உருகி தோலுடன் ஒட்டிக்கொள்ளும் என்பதால் **சமையலறை மற்றும் ஆய்வகங்களில் செயற்கை ஆடைகளை அணியக்கூடாது**.
+
 ## 5. Plant fibres | தாவர நார்கள்
 
 ### 5.1 Cotton / பருத்தி
@@ -164,9 +189,10 @@ Cotton fibres grow as hairs on the seeds inside the **cotton boll**, the fruit o
 | Cotton | Seed hairs | பருத்தி - விதையைச் சுற்றிய நார் |
 | Jute | Stem bast fibres | சணல் - தண்டு நார் |
 | Flax, used for linen | Stem bast fibres | ஆளி - லினன் துணி |
+| Hemp | Stem bast fibres (*Cannabis sativa*) | கஞ்சா/சணல் வகை - தண்டு நார்; கப்பல் கயிறுகள், பாய்மரங்கள் |
 | Coir | Coconut husk | தென்னை நார் - தேங்காயின் நார்ப்பகுதி |
 
-**Bast** means fibres associated with the outer conducting tissues of the stem. For this exam level, remember **jute/flax = stem**, not root or leaf.
+**Bast** means fibres associated with the outer conducting tissues of the stem. For this exam level, remember **jute/flax/hemp = stem**, not root or leaf. **Hemp** is renowned for extreme tensile strength, durability, and resistance to saltwater rot, historically making it the world's premier fibre for maritime ropes, ship sails (canvas), and heavy-duty twines.
 
 **Jute retting:** Microbial action helps loosen the material binding the fibres within harvested stems, often during soaking. Fibres can then be separated, washed and dried. **Retting is not cotton ginning.**
 
@@ -217,25 +243,49 @@ References: [ICAR: jute retting](https://epubs.icar.org.in/index.php/JAEM/articl
 
 > **தமிழில்:** தக்ளி/ராட்டை = நூல் நூற்றல். தறி = நெசவு. கருவியின் பெயரையும் அது செய்யும் வேலையையும் சேர்த்து நினைவில் கொள்ளுங்கள்.
 
-### 6.2 Detail needed for source Q9
+### 6.2 Detail needed for source Q9: Carded vs. Combed Yarn
 
 For a conventional **carded cotton ring-spinning route**:
 
-Start with **ginned cotton bales**, then follow **blow room → carding → drawing → roving → spinning**. Learn the shorter sequence in Section 6.1 before this source-specific detail.
+Start with **ginned cotton bales**, then follow **blow room → carding → (combing) → drawing → roving → spinning**. Learn the shorter sequence in Section 6.1 before this source-specific detail.
 
-| Stage | One-line meaning |
-|---|---|
-| Blow room | Opens and mixes cotton; removes loose impurities |
-| Carding | Separates/disentangles fibres and forms a soft rope-like **sliver** |
-| Drawing | Combines and draws slivers to improve evenness and alignment |
-| Roving | Makes a thinner strand with a small amount of twist |
-| Ring spinning | Draws further and adds twist to form the yarn |
+| Stage | One-line meaning | Tamil explanation |
+|---|---|---|
+| Blow room | Opens and mixes cotton; removes loose impurities | பஞ்சைப் பிரித்து தூசிகளை அகற்றுதல் |
+| Carding | Separates/disentangles fibres and forms a soft rope-like **sliver** | நார்களைப் பிரித்து சீராக்கி தளர்வான sliver உருவாக்குதல் |
+| Combing *(optional)* | Removes short fibres (**noils**) and parallels long fibres for fine yarn | குறுகிய இழைகளை (noils) நீக்கி, நீண்ட இழைகளை வரிசைப்படுத்துதல் |
+| Drawing | Combines and draws slivers to improve evenness and alignment | இழைகளை இழுத்துச் சீராக்கி தடிமனைச் சமப்படுத்துதல் |
+| Roving | Makes a thinner strand with a small amount of twist | மெல்லிய இழையாக்கி லேசாக முறுக்குதல் |
+| Ring spinning | Draws further and adds final twist to form yarn | தேவையான முறுக்கேற்றி முழுமையான நூலாக்குதல் |
+
+- **Carded Yarn (கார்டட் நூல்):** Coarser, fuzzier yarn containing a mix of long and short fibres (used for denims, towels, heavy fabrics).
+- **Combed Yarn (கோம்ப்ட் நூல்):** Premium yarn produced by adding the **combing** process. Combing extracts short fibres called **noils** and leaves only long, uniform fibres aligned in parallel. Result: much stronger, smoother, and more lustrous yarn with minimal lint.
 
 <!-- separate learning boxes -->
 
-> **தமிழில்:** Sliver என்பது தளர்வாகச் சேர்ந்த நார்த் தொகுப்பு. Roving அதைவிட மெலிதான, சிறிது முறுக்கப்பட்ட நிலை. இறுதியில் தேவையான நூல் உருவாகிறது.
+> **தமிழில்:**
+> - **Sliver** என்பது தளர்வாகச் சேர்ந்த நார்த் தொகுப்பு. **Roving** அதைவிட மெலிதான, சிறிது முறுக்கப்பட்ட நிலை.
+> - **Combing (சீவுதல்):** கார்டிங்கிற்குப் பின் செய்யப்படும் கூடுதல் செயல்முறை. இது குறுகிய நைந்த இழைகளை (**noils**) அகற்றி, நீண்ட இழைகளை மட்டும் இணையான வரிசையில் வைக்கிறது. இதனால் சீப்பப்பட்ட பருத்தி (Combed cotton) அதிக வலிமையுடனும், மென்மையாகவும், பளபளப்பாகவும் இருக்கும்.
 
 This sequence explains the PDF's question. Other spinning systems can use different routes; do not learn it as compulsory for every fabric. [CottonWorks: fibre preparation](https://cottonworks.com/learning-hub/yarn-manufacturing/fiber-preparation-for-spinning/)
+
+### 6.3 Chemical Finishing: Mercerisation | மெர்சரைசேஷன்
+
+**Mercerisation** is a high-yield chemical finishing process for cellulosic fibres (predominantly cotton, also linen), patented by **John Mercer** (1844) and perfected under tension by **Horace Lowe** (1890).
+
+- **Chemical Reagent:** Concentrated caustic soda ($\text{NaOH}$, Sodium Hydroxide, typically $15-20\%$) applied to cotton yarn or fabric under physical tension at cold or room temperature, followed by neutralization and thorough rinsing.
+- **Structural Transformation (Morphological Swelling):**
+  - **Raw Cotton:** Flat, twisted, kidney-shaped ribbon cross-section with a collapsed central hollow canal (**lumen**).
+  - **Mercerised Cotton:** The $\text{NaOH}$ penetrates cell walls, uncoiling the natural twists and swelling the collapsed lumen. The cross-section converts into a plump, smooth, nearly circular **cylindrical rod**.
+- **Exam-Tested Property Upgrades:**
+  1. **Tensile Strength:** Increases by $20-25\%$ (unlike synthetic fibres which degrade in strong alkali, cotton cellulose swells and realigns crystallites under tension, becoming significantly stronger).
+  2. **Luster & Sheen:** The smooth, cylindrical rod shape reflects incident light uniformly (specular reflection), imparting a permanent, silk-like sheen.
+  3. **Dye Affinity & Reactivity:** Swelling permanently enlarges the internal amorphous pore volume, allowing dyestuff molecules to diffuse rapidly and deeply. The fabric yields deep, vibrant shades using $20-30\%$ less dye.
+  4. **Dimensional Stability:** Eliminates internal residual spinning stresses and drastically reduces fabric shrinkage during subsequent laundering.
+
+<!-- separate learning boxes -->
+
+> **தமிழில்:** மெர்சரைசேஷன் (Mercerisation) என்பது பருத்தி நூலை இழுவிசையில் (tension) வைத்து அடர் காஸ்டிக் சோடா ($\text{NaOH}$, $15-20\%$) கரைசலில் ஊறவைக்கும் ஒரு வேதியியல் செயல்முறையாகும். இதனால் தட்டையான பருத்தி இழைகள் உப்பி உருளை வடிவாக மாறி, $20-25\%$ கூடுதல் வலிமை, பட்டுப் போன்ற பளபளப்பு (luster) மற்றும் அதிக சாயமேற்கும் திறனைப் (dye affinity) பெறுகின்றன.
 
 ## 7. Weaving versus knitting | நெசவு மற்றும் பின்னல்
 
@@ -312,27 +362,66 @@ Learn this as the PDF's simplified sequence. Industrial ordering can vary; dyein
 
 > **Correction - burrs:** Burrs are plant material such as seed structures caught in fleece. Balls forming on a worn sweater are **pills**, made of tangled fibres. They are not the same thing.
 
-### 8.4 Sorter's disease / Anthrax
+### 8.4 Occupational Hazards in Textile Industries | தொழில்சார் நோய்கள்
 
-The PDF associates wool sorting with anthrax. Learn the accurate link: **anthrax is an infectious disease caused by Bacillus anthracis**. Exposure to contaminated animal products, including wool, can transmit it. Inhalation anthrax was historically associated with wool sorting.
+Textile processing involves occupational health risks from biological pathogens and airborne dusts that are heavily tested across SSC and RRB papers:
+
+1. **Sorter's Disease (Inhalation Anthrax):**
+   - **Causative agent:** Spores of the bacterium ***Bacillus anthracis***.
+   - **Transmission:** Workers sorting raw sheep fleece or handling hides inhale resistant bacterial endospores clinging to contaminated animal fibres.
+   - **Clinical note:** Anthrax is an acute bacterial zoonotic infection, not a generic mechanical dust irritation or simple "blood disease".
+2. **Byssinosis ("Brown Lung Disease" / "Monday Fever"):**
+   - **Causative agent:** Chronic inhalation of airborne **cotton dust**, flax, or hemp dust in textile mills (especially concentrated in opening, blow room, carding, and spinning sheds).
+   - **Pathophysiology:** Inhaled endotoxins from *Gram-negative bacteria* residing on dried cotton plant bracts trigger macrophage activation, leukotriene release, and acute bronchoconstriction.
+   - **Diagnostic hallmark ("Monday Fever" / "Monday Chest Tightness"):** Symptoms of tightness in the chest, coughing, and wheezing characteristically flare up on the first shift back at work (**Monday**) after a weekend or holiday break. Over years of chronic exposure, it progresses to irreversible obstructive lung damage and respiratory disability.
+3. **Comparative Diagnostic Table of Industrial Lung Hazards:**
+
+| Disease / நோய் | Causative Agent / Dust | High-Risk Industry / Sector | Key Diagnostic Feature |
+|---|---|---|---|
+| **Byssinosis** (பைசினோசிஸ் / பழுப்பு நுரையீரல்) | **Cotton dust**, flax, hemp | Cotton textile mills (ginning/carding) | **"Monday Fever"** (திங்கள் காய்ச்சல்) |
+| **Sorter's Disease** (ஆந்த்ராக்ஸ்) | ***Bacillus anthracis*** (bacterial endospores) | Wool sorting, tanning, hide handling | Bacterial zoonosis; cutaneous or inhalation |
+| **Anthracosis** (கருப்பு நுரையீரல்) | Coal dust / carbon particles | Coal mining ("Black Lung") | Massive pulmonary fibrosis from carbon |
+| **Silicosis** (சிலிகோசிஸ்) | Free crystalline silica ($\text{SiO}_2$) | Stone crushing, quartz quarries, foundries | Fibrotic nodule formation in lungs |
+| **Asbestosis** (அஸ்பெஸ்டோசிஸ்) | Asbestos mineral fibres | Construction, brake lining, fireproofing | Pleural plaques; risk of **mesothelioma** |
+| **Farmer's Lung** (விவசாயி நுரையீரல்) | Moldy hay/straw (*Actinomycetes* spores) | Agriculture, silos, grain storage | Extrinsic allergic alveolitis |
 
 <!-- separate learning boxes -->
 
-> **தமிழில்:** நோய்க்காரணம் பாக்டீரியா. பாதிக்கப்பட்ட விலங்குப் பொருட்களில் உள்ள கிருமி வித்துகளுடன் தொடர்பு ஏற்படுவது ஆபத்து. கம்பளியைப் பிரிக்கும் வேலை செய்வதாலேயே அனைவருக்கும் நோய் வரும் என்பது தவறு.
+> **தமிழில்:**
+> - **சார்ட்டர்ஸ் நோய் (Sorter's Disease):** கம்பளிப் பிரிக்கும் தொழிலாளர்கள் செம்மறி ஆட்டு ரோமத்தில் உள்ள *Bacillus anthracis* என்ற பாக்டீரியா வித்துகளைச் (spores) சுவாசிப்பதால் ஏற்படும் தீவிர ஆந்த்ராக்ஸ் தொற்று.
+> - **பைசினோசிஸ் (Byssinosis):** பருத்தி ஆலைகளில் பஞ்சுத் தூசியை (cotton dust) நீண்டகாலம் சுவாசிப்பதால் ஏற்படும் நுரையீரல் நோய். வார இறுதி விடுமுறைக்குப் பின் திங்கட்கிழமை வேலைக்குத் திரும்பும்போது நெஞ்சு இறுக்கமும் மூச்சுத்திணறலும் ஏற்படுவதால் இது **"Monday Fever"** (திங்கள் காய்ச்சல்) அல்லது **"Brown Lung Disease"** (பழுப்பு நுரையீரல் நோய்) என அழைக்கப்படுகிறது.
 
-Do not reduce it to “a blood disease caused by sorting”. [CDC: anthrax in the workplace](https://www.cdc.gov/niosh/anthrax/about/)
+[CDC: anthrax in the workplace](https://www.cdc.gov/niosh/anthrax/about/), [OSHA: cotton dust standard](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1043)
 
 ## 9. Silk and sericulture | பட்டும் பட்டு வளர்ப்பும்
 
-### 9.1 Where silk comes from
+### 9.1 Where silk comes from & Silk Protein Chemistry
 
-Silk is a **natural animal fibre** secreted by the silkworm larva while forming its cocoon. The silkworm is a moth's larva, not an earthworm. **Sericulture** means rearing silkworms for silk production.
+Silk is a **natural animal protein fibre** secreted by the silkworm larva while forming its cocoon. The silkworm is a moth's larva, not an earthworm. **Sericulture** means rearing silkworms for commercial silk production.
+
+- **Taxonomy:** Phylum **Arthropoda**, Class **Insecta**, Order **Lepidoptera** (moths and butterflies). Domesticated species: ***Bombyx mori*** (mulberry silkworm).
+- **Glandular Origin:** Secreted by a pair of modified labial salivary glands (**silk glands**) through a microscopic oral nozzle called the **spinneret**. The liquid protein solidifies immediately upon exposure to air.
+- **Biochemical Composition of Silk (High-Yield SSC/RRB Concept):**
+  1. **Fibroin (ஃபைப்ரோயின், $\approx 70-80\%$):**
+     - The insoluble, fibrous core protein.
+     - Secondary structure: Composed of tightly packed anti-parallel **$\beta$-pleated sheets** dominated by repeating sequences of small, non-bulky amino acids: Glycine ($\approx 44\%$), Alanine ($\approx 29\%$), and Serine ($\approx 12\%$).
+     - Imparts exceptional tensile strength (weight-for-weight stronger than steel wire), mechanical resilience, and flexibility.
+  2. **Sericin (செரிசின், $\approx 20-30\%$):**
+     - A water-soluble, amorphous, sticky glycoprotein gum.
+     - Envelopes and cements the two parallel fibroin strands (**brins**) together into a single twin filament (**bave**).
+     - **Degumming (Boiling-off / பசை நீக்குதல்):** During silk processing, sericin is removed by washing cocoons or woven fabric in hot alkaline soapy water to unveil the underlying lustrous, soft fibroin.
+- **Biochemical Contrast with Wool:** Both are natural animal protein fibres. However, wool is composed of **keratin** (rich in sulfur-containing cysteine, forming disulfide cross-links and emitting a pungent burning-hair odor when torched), whereas silk is composed of **fibroin and sericin** (lacks high sulfur content).
 
 <!-- separate learning boxes -->
 
-> **தமிழில்:** பட்டுப்புழு என்பது பட்டுப்பூச்சியின் இளம்புழுப் பருவம். அது சுரக்கும் இழையால் பட்டுக்கூடு உருவாகிறது. பட்டுக்காக இவற்றை வளர்ப்பது பட்டு வளர்ப்பு - sericulture.
+> **தமிழில்:**
+> - பட்டுப்புழு என்பது பூச்சிகள் (Phylum Arthropoda) வகுப்பைச் சேர்ந்த பட்டுப்பூச்சியின் (*Bombyx mori*) லார்வா (இளம்புழு) பருவம் ஆகும்.
+> - பட்டு இழையில் இரு முக்கிய புரதங்கள் உள்ளன:
+>   1. **ஃபைப்ரோயின் (Fibroin, $70-80\%$):** கரையாத கட்டமைப்பு புரதம்; பீட்டா-தாள்கள் ($\beta$-pleated sheets) அமைப்பைக் கொண்டதால் மிக அதிக வலிமை தருகிறது.
+>   2. **செரிசின் (Sericin, $20-30\%$):** ஃபைப்ரோயின் இழைகளை ஒன்றாக ஒட்டிப் பிடிக்கும் பசை போன்ற கரையக்கூடிய கிளைக்கோபுரதம். சூடான சோப்புக் கரைசலில் கொதிக்க வைத்து இப்பசையை நீக்குவதே **degumming** எனப்படும்.
+> - கம்பளியின் புரதம் **கெரட்டின் (Keratin)**, பட்டின் முக்கிய புரதம் **ஃபைப்ரோயின் (Fibroin)**.
 
-**Supplement:** The common domesticated mulberry silkworm is **Bombyx mori**. Silk contains **fibroin**, the structural protein, and **sericin**, a gum-like protein coating. Wool and silk are both protein fibres, but wool's main protein is keratin. [NPTEL: textile fibre introduction](https://archive.nptel.ac.in/content/storage2/courses/116102016/introduction/introduction.htm)
+[NPTEL: textile fibre introduction](https://archive.nptel.ac.in/content/storage2/courses/116102016/introduction/introduction.htm)
 
 ### 9.2 Life cycle
 
@@ -365,7 +454,7 @@ The PDF mentions approximately 25-30 days of larval feeding. Treat this as a tea
 
 > **தமிழில்:** மல்பெரி பட்டுப்புழுவுக்கு மல்பெரி இலைகள் உணவு. எல்லா வகைப் பட்டுப்புழுக்களுக்கும் இதே உணவு அல்லது இதே வளர்ச்சி நாட்கள் என்று பொதுமைப்படுத்த வேண்டாம்.
 
-### 9.4 Cocoon to silk thread
+### 9.4 Cocoon to silk thread & Ahimsa Silk (Peace Silk)
 
 **Cocoons → appropriate heat processing/cooking → Reeling → Silk yarn/thread preparation → Fabric.**
 
@@ -378,15 +467,28 @@ For the conventional reeled-silk route, read the steps as follows:
 
 **Result:** the silk filament is already present in the cocoon. Processing makes it usable as textile material; it does not create silk from nothing.
 
-**Reeling** means unwinding silk filaments from cocoons. Several fine filaments can be combined to make a usable raw silk thread.
+**Reeling** means unwinding continuous silk filaments ($600-1500\text{ m}$ per cocoon) from cocoons. Several fine filaments can be combined to make a usable raw silk thread.
 
-**Supplement:** In conventional reeled-silk production, **stifling** stops the pupa developing into a moth, protecting the cocoon's continuous filament. Cocoon **cooking** softens the gum so unwinding is easier. These purposes should not be merged into “heat simply produces silk”.
+**Supplement:** In conventional reeled-silk production:
+- **Stifling:** Killing the pupa inside the cocoon using hot air, steam, or boiling water before it metamorphoses into a moth. If the moth were allowed to emerge, it would secrete an alkaline fluid (**cocoonase**) to dissolve a hole in the cocoon, cutting the continuous single filament into thousands of useless short pieces.
+- **Cooking:** Boiling cocoons in water to soften the sticky **sericin** gum, allowing the filament to unwind smoothly during reeling.
+
+#### Ahimsa Silk / Peace Silk (அஹிம்சா பட்டு)
+
+A frequently tested modern innovation in Indian sericulture:
+- **Pioneer:** Conceived and commercialized in 1990–2001 by **Kusuma Rajaiah**, an officer of the Andhra Pradesh Khadi and Village Industries Board.
+- **Cruelty-Free Principle:** In conventional sericulture, roughly $15$ pupae are boiled alive to produce $1\text{ gram}$ of pure silk yarn. In Ahimsa silk, the pupa is allowed to complete its full metamorphosis into an adult moth, pierce or cut through the cocoon shell, and emerge and fly away freely.
+- **Reeling vs. Spinning:** Because the emerging moth punctures the cocoon and severs the long continuous filament, pierced cocoons **cannot be reeled**. Instead, the broken filaments are collected, degummed, and **spun** into yarn (spun silk) in the same mechanical manner as cotton or wool.
+- **Eri Silk Association:** Ahimsa silk predominantly uses cocoons of the **Eri silkworm** (*Samia cynthia ricini* / *Philosamia ricini*), an open-ended cocoon from which the moth emerges naturally without cutting threads. The resulting fabric is heavier, warm, highly durable, and possesses a soft, linen-like or wool-like matte texture.
 
 <!-- separate learning boxes -->
 
-> **தமிழில்:** கூடு உருவான பிறகுதான் அதிலுள்ள இழையை அவிழ்த்து எடுக்கிறோம். வெப்பம் புதிதாகப் பட்டு இழையை உருவாக்குவதில்லை. இழையை அவிழ்ப்பது reeling; குறுகிய நார்களை முறுக்கி நூலாக்குவது spinning.
+> **தமிழில்:**
+> - வழக்கமான பட்டு உற்பத்தியில், பட்டுப்பூச்சி கூட்டைத் துளைத்து வெளியேறினால் நீண்ட ஒற்றை இழை ($600-1500\text{ m}$) துண்டாகிவிடும் என்பதால், கூட்டுப்புழு உயிருடன் இருக்கும்போதே கொதிநீரில் அல்லது நீராவியில் வேகவைத்துக் கொல்லப்படுகிறது (**Stifling**).
+> - **அஹிம்சா பட்டு (Ahimsa Silk / Peace Silk):** ஆந்திரப் பிரதேசத்தைச் சேர்ந்த **குசுமா ராஜையா (Kusuma Rajaiah)** என்பவரால் உருவாக்கப்பட்ட முறை. இதில் கூட்டுப்புழு முதிர்ந்து பூச்சியாகப் பறந்து சென்ற பின்னரே காலியான பட்டுக்கூடுகள் சேகரிக்கப்படுகின்றன.
+> - துளையிடப்பட்ட கூட்டிலிருந்து நீண்ட இழையைச் சுற்ற (reel) முடியாது என்பதால், பஞ்சைப் போல நூலாக நூற்கப்படுகிறது (**Spun silk**). இதற்கு அஸ்ஸாமில் வளர்க்கப்படும் **எரி பட்டுப்புழு (Eri silkworm)** அதிகம் பயன்படுகிறது.
 
-**Exception for the exam trap:** Eri silk is commonly **spun**. Thus “all silk is always reeled” is too broad. [Central Silk Board: mulberry cocoon processing](https://silks.csb.gov.in/jorhat/processing-of-mulberry-cocoons/), [Central Silk Board: eri processing](https://silks.csb.gov.in/tamenglong/processing-of-eri-cocoons/)
+**Exception for the exam trap:** Eri silk and Ahimsa silk are commonly **spun**. Thus “all silk is always reeled” is an exam trap. [Central Silk Board: mulberry cocoon processing](https://silks.csb.gov.in/jorhat/processing-of-mulberry-cocoons/), [Central Silk Board: eri processing](https://silks.csb.gov.in/tamenglong/processing-of-eri-cocoons/)
 
 ### 9.5 Supplement: types of silk
 
