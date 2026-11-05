@@ -332,6 +332,31 @@ Vitamins, minerals and water do not directly supply calories. B vitamins help th
 
 **Bile is not a digestive enzyme.** It helps handle fats, including breaking large fat droplets into smaller ones (**emulsification - கொழுப்பைச் சிறு துளிகளாக்குதல்**), and supports fat absorption. Reduced bile availability can impair absorption of fat-soluble vitamins **A, D, E and K**. [NIDDK: digestive system](https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works)
 
+### 6.7 High-Yield Enzyme-Substrate Action Matrix
+
+SSC and RRB exams frequently test the exact enzyme, its secretory organ, substrate, product, and biochemical activating condition:
+
+| Secretory Organ / Gland | Enzyme Name | Substrate (Acts on...) | Product Formed | Key Exam Catchphrase & Activation Condition |
+| :--- | :--- | :--- | :--- | :--- |
+| **Salivary Glands** | **Salivary Amylase (Ptyalin)** | Starch (Polysaccharide) | Maltose (Disaccharide) | **Starch digestion begins in the mouth** at near-neutral $\text{pH } 6.8$. |
+| **Stomach (Gastric Juice)** | **Pepsin** | Proteins | Peptones & Proteoses | Secreted as inactive pepsinogen; strictly **requires acidic $\text{HCl}$ ($\text{pH } 1.5-2.5$)** for activation. |
+| **Stomach (Infants)** | **Rennin (Chymosin)** | Casein (Soluble milk protein) | Paracasein (Insoluble curd) | **Curdles milk in infants** to prolong retention for pepsin digestion. Absent in adult gastric juice. |
+| **Pancreas (Pancreatic Juice)** | **Trypsin & Chymotrypsin** | Proteins, Peptones & Proteoses | Small Peptides & Amino acids | Secreted into duodenum as inactive zymogens; activated in **alkaline medium ($\text{pH } 7.8-8.2$)**. |
+| **Pancreas & Small Intestine** | **Pancreatic Lipase (Steapsin)** | Emulsified Fats | Fatty acids & Glycerol | Ineffective on bulk fat globules; **bile must emulsify fats first**. |
+| **Small Intestine (Brush Border)** | **Lactase** | Lactose (Milk sugar) | Glucose + Galactose | Deficiency causes **Lactose Intolerance** (bloating, gas, cramps). |
+| **Small Intestine (Brush Border)** | **Maltase** | Maltose | Glucose + Glucose | Completes carbohydrate digestion to single hexose units. |
+| **Small Intestine (Brush Border)** | **Sucrase (Invertase)** | Sucrose (Cane sugar) | Glucose + Fructose | Splits table sugar into absorptive monosaccharides. |
+
+<!-- separate learning boxes -->
+
+> **தமிழில்: செரிமான நொதிகள் நினைவூட்டல் (Digestive Enzymes Memory Table):**
+>
+> 1. **வாயில்:** உமிழ்நீர் அமைலேஸ் (டயலின் / Ptyalin) மாவுச்சத்தை மால்டோஸாக மாற்றுகிறது. மாவுச்சத்து செரிமானம் வாயிலேயே தொடங்குகிறது.
+> 2. **இரைப்பையில்:** பெப்சின் (Pepsin) புரதங்களை உடைக்கிறது; இதற்கு $\text{HCl}$ அமிலம் ($\text{pH } 1.5-2.5$) கட்டாயம் தேவை.
+> 3. **குழந்தைகளில்:** ரெனின் (Rennin) தாய்ப்பாலின் கேசீன் (Casein) புரதத்தைத் தயிராகத் திரியச் செய்கிறது.
+> 4. **கணையம்:** டிரிப்சின் (புரதம்), லைபேஸ் (கொழுப்பு). லைபேஸ் செயல்பட பித்தநீரால் கொழுப்பு சிறு துளிகளாக்கப்பட (Emulsification) வேண்டும்.
+> 5. **சிறுகுடல்:** லாக்டேஸ் நொதிக் குறைபாட்டால்தான் பால் குடித்தால் செரிக்காத 'லாக்டோஸ் சகிப்பின்மை' (Lactose Intolerance) ஏற்படுகிறது.
+
 | Process | Meaning | Do not confuse with |
 |---|---|---|
 | Digestion / செரிமானம் | Breaking food into absorbable forms | Absorption |
@@ -448,6 +473,27 @@ For practical work, use teacher supervision: caustic soda is corrosive, and test
 
 **Exam limit:** these are supporting distinctions, not a claim that the supplied PDF or the dated PYQs ask all three tests. [AQA food-test practicals](https://filestore.aqa.org.uk/resources/science/AQA-8464-8465-PRACTICALS.PDF), [Virtual Labs: carbohydrate tests](https://biochem-dei.vlabs.ac.in/exp/sugar-estimation/procedure.html)
 
+### 7.5 Everyday Science: Common Food Adulteration Detection Tests (RRB NTPC High-Yield)
+
+Railway and SSC everyday science modules frequently test chemical methods used to detect harmful adulterants in household staples:
+
+| Food Article | Suspected Adulterant | Chemical Detection Protocol | Positive Observation & Danger |
+| :--- | :--- | :--- | :--- |
+| **Arhar / Toor Dal (துவரம் பருப்பு)** | **Metanil Yellow** (Non-permitted toxic coal-tar dye used for artificial yellow polish) | Shake $2\text{ g}$ of dal in $5\text{ mL}$ warm water; add a few drops of **dilute Hydrochloric Acid ($\text{HCl}$)**. | Immediate appearance of a **persistent Pink / Magenta colour** indicates toxic Metanil Yellow. (Pure dal retains yellow). |
+| **Dairy (Milk, Khoya, Paneer, Curd)** | **Starch** (Added as a cheap thickening agent to artificially boost solids-not-fat) | Boil $5\text{ mL}$ sample, cool to room temperature, and add 2–3 drops of **dilute Iodine solution**. | Formation of a **deep Blue-Black complex** confirms starch adulteration. (Pure milk stays white/faint yellow). |
+| **Table Sugar / Common Salt** | **Chalk Powder / White Stone Powder** | Stir 1 teaspoon of sample into a transparent glass of clear water. | Pure sugar/salt completely dissolves into a transparent solution. Insoluble chalk **settles as a white sediment at the bottom**; effervesces ($\text{CO}_2\uparrow$) on adding dilute acid. |
+| **Black Pepper Berries (மிளகு)** | **Dried Papaya Seeds (பப்பாளி விதைகள்)** | Drop the sample into a beaker of water. | **Dried papaya seeds float** on the surface (light, wrinkled); genuine dried black pepper berries **sink to the bottom**. |
+| **Turmeric Powder (மஞ்சள் தூள்)** | **Lead Chromate / Metanil Yellow** | Add warm water + dilute $\text{HCl}$ to a pinch of turmeric powder. | Instant **magenta/pink colour** indicates Metanil yellow; bright red precipitate indicates lead salts. |
+
+<!-- separate learning boxes -->
+
+> **தமிழில்: உணவுப் பொருள் கலப்படம் கண்டறிதல் (Food Adulteration Testing):**
+>
+> 1. **துவரம் பருப்பில் மெட்டானில் மஞ்சள் (Metanil Yellow):** பருப்பு நீருடன் நீர்த்த $\text{HCl}$ அமிலம் சேர்க்கும்போது **மெஜந்தா / இளஞ்சிவப்பு (Pink/Magenta)** நிறம் தோன்றினால் நச்சு சாயம் கலந்துள்ளது.
+> 2. **பால் மற்றும் பால்கோவாவில் ஸ்டார்ச் (Starch in Dairy):** அயோடின் கரைசல் சேர்க்கும்போது **நீலம்-கருப்பு (Blue-black)** நிறம் வந்தால் கெட்டிப்படுத்துவதற்காக ஸ்டார்ச் கலப்படம் செய்யப்பட்டுள்ளது.
+> 3. **சர்க்கரை / உப்பில் சுண்ணாம்புத் தூள் (Chalk Powder):** நீரில் கரைத்தால் சர்க்கரை முழுமையாகக் கரையும்; சுண்ணாம்புத் தூள் அடியில் வண்டலாகத் தங்கும்.
+> 4. **மிளகில் பப்பாளி விதை:** நீரில் போட்டால் பப்பாளி விதைகள் மிதக்கும்; நல்ல மிளகு அடியில் மூழ்கும்.
+
 ## 8. 📌 Vitamins | வைட்டமின்கள்
 
 Vitamins are substances needed in small amounts for normal body functions. There are **13 essential vitamins**: A, C, D, E, K and eight B vitamins.
@@ -474,27 +520,37 @@ Vitamins are substances needed in small amounts for normal body functions. There
 
 **Important exception:** Do not memorise “water-soluble vitamins are never stored”. The body can store **B12** for years, especially in the liver. [MedlinePlus: vitamin B12](https://medlineplus.gov/ency/article/002403.htm)
 
-### 8.2 Vitamin names to recognise
+### 8.2 Vitamin names, structural elements and functional aliases
 
-The B-vitamin names are covered on PDF pp.58-59. Additional names below help with name-matching questions. Some vitamins have several related forms; the familiar name is not necessarily their only form.
+The B-vitamin names are covered on PDF pp.58-59. Competitive exams (SSC CGL/CHSL, RRB NTPC) frequently test specific elemental cores, heterocyclic rings, and functional aliases:
 
-| Vitamin | Name commonly used in questions | Tamil reading / reminder |
-|---|---|---|
-| A | Retinol, a form of vitamin A | ரெட்டினால்; பார்வை |
-| B1 | Thiamine / thiamin | தையமின் |
-| B2 | Riboflavin | ரிபோஃபிளேவின் |
-| B3 | Niacin | நியாசின் |
-| B5 | Pantothenic acid | பான்டோதெனிக் அமிலம் |
-| B6 | Pyridoxine, one form | பைரிடாக்சின் |
-| B7 | Biotin | பயோட்டின் |
-| B9 | Folate; folic acid is a form used in fortification and supplements | ஃபோலேட் / ஃபோலிக் அமிலம் |
-| B12 | Cobalamin; cyanocobalamin is one form | கோபாலமின் |
-| C | Ascorbic acid | அஸ்கார்பிக் அமிலம் |
-| D | Calciferol group; D3 is cholecalciferol | கால்சிஃபெரால் |
-| E | Tocopherols, including alpha-tocopherol | டோகோஃபெரால் |
-| K | K1: phylloquinone; K2: menaquinones | பைலோகுவினோன்; இரத்தம் உறைதல் |
+| Vitamin | Chemical Name | Structural Element / Hidden Core | Functional / Exam Alias | Tamil Reminder & Key Role |
+| :---: | :--- | :--- | :--- | :--- |
+| **A** | **Retinol** (provitamin: $\beta$-carotene) | Terpenoid hydrocarbon ring | Anti-xerophthalmic vitamin | ரெட்டினால்; மாலைக்கண் மற்றும் பார்வை பாதுகாப்பு |
+| **B1** | **Thiamine / Thiamin** | Contains **Sulphur** (thiazole ring) + Nitrogen | Anti-beriberi / Aneurin | தையமின்; சல்பர் கொண்ட வைட்டமின்; நரம்பு இயக்கம் |
+| **B2** | **Riboflavin** | Flavin ring (yellow pigment; turns urine yellow) | Vitamin G / Yellow enzyme | ரிபோஃபிளேவின்; வாய் புண் / உதட்டு வெடிப்பு தடுப்பு |
+| **B3** | **Niacin (Nicotinic acid)** | Pyridine ring | Pellagra-preventive (PP) factor | நியாசின்; பெல்லாக்ரா (தோல் வெடிப்பு) தடுப்பு |
+| **B5** | **Pantothenic acid** | Amide of pantoic acid + $\beta$-alanine | "Panto" = everywhere | பான்டோதெனிக் அமிலம்; ஆற்றல் வளர்சிதை மாற்றம் |
+| **B6** | **Pyridoxine** | Pyridine derivative | Anti-dermatitis factor | பைரிடாக்சின்; புரத உருவாக்கம், நரம்பு இயக்கம் |
+| **B7** | **Biotin** | Contains **Sulphur** + Urea ring structure | **Vitamin H** / Coenzyme R | பயோட்டின்; சல்பர் கொண்டது; முடி, தோல் நலம் |
+| **B9** | **Folate / Folic Acid** | Pteridine ring + PABA + Glutamic acid | **Embryonic Protector** | ஃபோலிக் அமிலம்; கருவின் நரம்புக் குழாய் குறைபாடு (NTDs) தடுப்பு |
+| **B12**| **Cobalamin (Cyanocobalamin)** | **Central Cobalt ($\text{Co}^{3+}$) ion** (corrin ring) | **Only metal-containing vitamin** | கோபாலமின்; ஒரே உலோக அயனி (கோபால்ட்) கொண்ட வைட்டமின் |
+| **C** | **Ascorbic acid** | Enolic form of hexose (heat-sensitive) | Anti-scorbutic vitamin | அஸ்கார்பிக் அமிலம்; கொலாஜன், ஸ்கர்வி தடுப்பு |
+| **D** | **Calciferol** ($\text{D}_2$: ergocalciferol, $\text{D}_3$: cholecalciferol) | Steroid-derivative (secosteroid) | **Sunshine Vitamin** / Hormone-like | கால்சிஃபெரால்; எலும்பு உறுதி; ஸ்டீராய்டு போன்றது |
+| **E** | **Tocopherol** ($\alpha$-tocopherol) | Chromane ring with polyisoprenoid tail | **"Beauty Vitamin" / Anti-Sterility** | டோகோஃபெரால்; செல் சவ்வு பாதுகாப்பு, கருவுறுதல் உதவி |
+| **K** | **Phylloquinone** ($\text{K}_1$) / **Menaquinones** ($\text{K}_2$) | Naphthoquinone ring derivative | **Anti-Hemorrhagic Vitamin** | பைலோகுவினோன்; கல்லீரலில் புரோத்ராம்பின் $\to$ இரத்தம் உறைதல் |
 
 Names and grouping: [MedlinePlus: vitamins](https://medlineplus.gov/ency/article/002399.htm); K forms: [NIH: vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-Consumer/).
+
+<!-- separate learning boxes -->
+
+> **தமிழில்: வைட்டமின் கட்டமைப்பு ரகசியங்கள் (Vitamin Structural Highlights):**
+>
+> 1. **உலோக அயனி கொண்ட ஒரே வைட்டமின்:** வைட்டமின் $\text{B}_{12}$ (கோபாலமின்) - இதன் மையத்தில் **கோபால்ட் ($\text{Co}$)** உலோகம் உள்ளது.
+> 2. **சல்பர் (கந்தகம்) கொண்ட வைட்டமின்கள்:** வைட்டமின் $\text{B}_1$ (தையமின்) மற்றும் வைட்டமின் $\text{B}_7$ (பயோட்டின்).
+> 3. **கருவின் நரம்புக் குழாய் குறைபாடு (Neural Tube Defects - NTDs):** கர்ப்ப காலத்தில் ஃபோலிக் அமிலம் ($\text{B}_9$) பற்றாக்குறையால் உண்டாகிறது.
+> 4. **அழகு மற்றும் மலட்டுத்தன்மை தடுப்பு வைட்டமின்:** வைட்டமின் $\text{E}$ (டோகோஃபெரால் - Beauty & Anti-sterility vitamin).
+> 5. **இரத்தக் கசிவு தடுப்பு வைட்டமின்:** வைட்டமின் $\text{K}$ (Anti-hemorrhagic vitamin - இரத்தம் உறைய உதவும்).
 
 ### 8.3 Main functions and sources
 
@@ -531,6 +587,25 @@ Vitamin A and C explanations: [NIH: vitamin A](https://ods.od.nih.gov/factsheets
 
 > **தமிழில்:** வைட்டமின் D சூரிய ஒளியில் கலந்து வருவதில்லை. சூரிய ஒளியின் உதவியால் தோலில் உருவாகிறது; பின்னர் கல்லீரல் மற்றும் சிறுநீரகத்தில் மாற்றம் பெறுகிறது.
 
+### 8.5 Clinical Focus: Hypervitaminosis (Fat-Soluble vs. Water-Soluble Toxicity)
+
+Excessive intake through megadose dietary supplements can trigger toxic conditions known as **Hypervitaminosis**:
+
+* **Fat-Soluble Vitamins ($\text{A & D}$): High Toxicity Risk.**
+  * *Biochemical Reason:* Lipophilic molecules accumulate progressively in hepatic stellate cells and adipose tissues. Because they cannot be cleared rapidly by renal filtration, toxic levels build up over time.
+  * *Hypervitaminosis A:* Elevated intracranial pressure, severe hepatomegaly, dry peeling skin, bone thinning, and teratogenic birth defects during pregnancy.
+  * *Hypervitaminosis D:* Severe hypercalcemia leading to metastatic calcification (calcium precipitation in kidneys, blood vessels, heart, and lungs).
+* **Water-Soluble Vitamins ($\text{B-complex & C}$): Extremely Low Toxicity Risk.**
+  * *Biochemical Reason:* Readily dissolve in blood plasma. Excess concentrations above the renal tubular reabsorption threshold are rapidly excreted in urine.
+  * *Exception:* Very massive artificial doses of $\text{B}_6$ (neuropathy) or $\text{C}$ (oxalate kidney stones), but true systemic hypervitaminosis does not occur under normal diets.
+
+<!-- separate learning boxes -->
+
+> **தமிழில்: மிகை வைட்டமின் நச்சுத்தன்மை (Hypervitaminosis):**
+>
+> 1. கொழுப்பில் கரையும் **வைட்டமின் A மற்றும் D** உடலில் கல்லீரலிலும் கொழுப்பிலும் சேமிக்கப்படுவதால், அதிகப்படியான மாத்திரைகள் உட்கொள்ளும்போது நச்சாகி **ஹைப்பர்வைட்டமினோசிஸ் (Hypervitaminosis)** உண்டாகிறது.
+> 2. நீரில் கரையும் **B-complex மற்றும் C** வைட்டமின்கள் அதிகப்படியானால் சிறுநீர் வழியே எளிதில் வெளியேறி விடுவதால், அவற்றால் நச்சுத்தன்மை ஏற்படுவது மிக அரிது.
+
 ## 9. Minerals | தாதுக்கள்
 
 Minerals are inorganic nutrients. **Inorganic - கனிமத் தன்மையுடைய:** here it distinguishes mineral elements from organic compounds such as vitamins. Both are needed for normal body functions.
@@ -544,6 +619,7 @@ Minerals are inorganic nutrients. **Inorganic - கனிமத் தன்ம�
 | **Potassium** | Fluid balance, nerve and muscle function; blood-pressure regulation | Banana, potato, pulses | பொட்டாசியம் → தசை, நரம்பு, திரவச் சமநிலை |
 | **Magnesium** | Supports many enzymes, muscles and nerves | Nuts, seeds, whole grains | மெக்னீசியம் → நொதிகள், தசைகள் |
 | **Zinc** | Growth, immune function and wound healing | Meat, pulses, nuts | துத்தநாகம் → வளர்ச்சி, காயம் ஆறுதல் |
+| **Fluorine (Fluoride)** | Hardens enamel; prevents caries ($<0.5\text{ ppm}$ causes caries; $>1.5\text{ ppm}$ causes **Fluorosis**) | Fluoridated water, tea, seafood | ஃப்ளூரைடு → பல் எனாமல் உறுதி; மிகையானால் ஃப்ளூரோசிஸ் |
 
 **Haemoglobin / hemoglobin - ஹீமோகுளோபின்:** the oxygen-carrying protein in red blood cells.\
 **Thyroid - தைராய்டு சுரப்பி:** a gland in the neck whose hormones regulate many body processes.
@@ -559,6 +635,36 @@ Minerals are inorganic nutrients. **Inorganic - கனிமத் தன்ம�
 <!-- separate learning boxes -->
 
 > **Trap:** Iodized salt is salt with added iodine compounds. It does not mean “eat more salt”. Not every sea salt or rock salt is iodized; the product label matters.
+
+### 9.1 Nutritional Classification: Macro Minerals vs. Trace Minerals
+
+Quantitative dietary demand categorizes dietary minerals into two distinct functional groups:
+
+| Category | Daily Adult Requirement | Minerals Included | Key Physiological Functions |
+| :--- | :---: | :--- | :--- |
+| **Macro Minerals (பெருந்தாதுக்கள்)** | **$> 100\text{ mg/day}$** | **Calcium ($\text{Ca}$), Phosphorus ($\text{P}$), Potassium ($\text{K}$), Sodium ($\text{Na}$), Chloride ($\text{Cl}$), Magnesium ($\text{Mg}$), Sulphur ($\text{S}$)** | Structural scaffolding of skeleton, bulk osmotic electrolyte balance, action potential nerve conduction. |
+| **Trace Minerals / Micro Minerals (நுண்தாதுக்கள்)** | **$< 100\text{ mg/day}$** (often measured in $\mu\text{g}$) | **Iron ($\text{Fe}$), Zinc ($\text{Zn}$), Iodine ($\text{I}$), Fluorine ($\text{F}$), Copper ($\text{Cu}$), Selenium ($\text{Se}$), Manganese ($\text{Mn}$), Chromium ($\text{Cr}$)** | Catalytic enzymatic prosthetic groups, hormone synthesis (thyroxine), oxygen transport (haemoglobin). |
+
+### 9.2 Chemical Varieties: Bone Matrix Crystals & Iodised Table Salt
+
+* **The Bone Matrix Crystal (Hydroxyapatite):**
+  * Bones and tooth enamel are not amorphous calcium deposits. Calcium and phosphorus co-precipitate in an approximate $2:1$ stoichiometry to form the insoluble crystal lattice of **Hydroxyapatite**—$\text{Ca}_{10}(\text{PO}_4)_6(\text{OH})_2$.
+  * *Exam Trap:* Calcium alone cannot build bone; dietary phosphorus deficiency or altered $\text{Ca:P}$ ratio impairs hydroxyapatite crystal formation.
+* **Iodised Table Salt Chemistry:**
+  * Elemental iodine ($\text{I}_2$) is chemically unstable in open air, easily sublimating and evaporating into gas.
+  * Commercial table salt ($\text{NaCl}$) is iodised by blending trace amounts of non-volatile, heat-stable inorganic salts: **Potassium Iodate ($\text{KIO}_3$)** or **Potassium Iodide ($\text{KI}$)**, typically at $15-30\text{ ppm}$.
+* **Fluorine Dose-Response (The Bimodal Trap):**
+  * *Deficient ($<0.5\text{ mg/L}$ in drinking water):* Dental caries and weakened hydroxyapatite enamel structure.
+  * *Excess ($>1.5\text{ mg/L}$ in drinking water):* **Fluorosis** (mottling, yellow/brown pitting of teeth; chronic severe excess causes skeletal fluorosis and joint deformities).
+
+<!-- separate learning boxes -->
+
+> **தமிழில்: தாதுக்களின் சிறப்பு வேதியியல் தகவல்கள் (Minerals Chemistry Highlights):**
+>
+> 1. **பெருந்தாதுக்கள் vs நுண்தாதுக்கள்:** ஒரு நாளைக்கு $100\text{ mg}$-க்கு மேல் தேவைப்படுபவை பெருந்தாதுக்கள் (கால்சியம், பாஸ்பரஸ், பொட்டாசியம், சோடியம்); $100\text{ mg}$-க்குக் குறைவாகத் தேவைப்படுபவை நுண்தாதுக்கள் (இரும்பு, அயோடின், துத்தநாகம், ஃப்ளூரைடு).
+> 2. **எலும்பின் படிக அமைப்பு (Hydroxyapatite):** எலும்பிலும் பல்லின் எனாமலிலும் கால்சியமும் பாஸ்பரஸும் இணைந்து **ஹைட்ராக்ஸிஅபடைட்** [$\text{Ca}_{10}(\text{PO}_4)_6(\text{OH})_2$] என்ற வலிமையான படிக அமைப்பை உருவாக்குகின்றன.
+> 3. **அயோடின் கலந்த உப்பு:** ஆவியாகும் அயோடினை நேரடியாகச் சேர்க்காமல், **பொட்டாசியம் அயோடேட் ($\text{KIO}_3$)** அல்லது **பொட்டாசியம் அயோடைடு ($\text{KI}$)** சேர்க்கப்படுகிறது.
+> 4. **ஃப்ளூரைடு வரம்பு:** நீரில் ஃப்ளூரைடு குறைந்தால் **பல் சொத்தை (Dental Caries)** உண்டாகும்; அதிகமானால் பற்களில் பழுப்பு நிறப் புள்ளிகள் தோன்றும் **ஃப்ளூரோசிஸ் (Fluorosis)** மற்றும் எலும்பு பாதிப்பு உண்டாகும்.
 
 ## 10. Fibre and water | நார்ச்சத்து மற்றும் நீர்
 
