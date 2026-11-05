@@ -77,6 +77,18 @@ export const noteDocuments = [
     "path": "Notes/Reasoning/02-R04-Classification.md"
   },
   {
+    "id": "notes-reasoning-r07",
+    "title": "Reasoning: Series (R07)",
+    "icon": "brain",
+    "subtitle": "Number, letter and alphanumeric patterns, alternating streams, missing/wrong terms, and explained practice.",
+    "label": "R07: Series",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Series (R07)",
+    "path": "Notes/Reasoning/03-R07-Series.md"
+  },
+  {
     "id": "notes-english-ef1",
     "title": "English: Sentences & parts of speech (EF1)",
     "icon": "book-open",
