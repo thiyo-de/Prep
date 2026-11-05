@@ -29,6 +29,20 @@ export const noteDocuments = [
     "path": "Notes/General Awareness/Biology/02-Fibre-to-Fabric.md"
   },
   {
+    "id": "notes-biology-03",
+    "title": "Biology: Categories of plants",
+    "icon": "plant",
+    "subtitle": "Plant types, leaves, transport, photosynthesis, reproduction, and 45 source questions.",
+    "label": "Biology: Plants",
+    "group": "Study notes",
+    "subject": "General Awareness",
+    "folders": [
+      "Biology"
+    ],
+    "noteLabel": "Categories of plants",
+    "path": "Notes/General Awareness/Biology/03-Categories-of-Plants.md"
+  },
+  {
     "id": "notes-reasoning-rf1",
     "title": "Reasoning: Letters & numbers (RF1)",
     "icon": "brain",
