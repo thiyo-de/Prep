@@ -115,6 +115,18 @@ export const noteDocuments = [
     "path": "Notes/Reasoning/04-R12-Finding-the-Missing-Number.md"
   },
   {
+    "id": "notes-reasoning-r08",
+    "title": "Reasoning: Coding-decoding (R08)",
+    "icon": "brain",
+    "subtitle": "Letter shifts, word codes, number and symbol mappings, conditions, and multi-step decoding.",
+    "label": "R08: Coding-decoding",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Coding-decoding (R08)",
+    "path": "Notes/Reasoning/05-R08-Coding-Decoding.md"
+  },
+  {
     "id": "notes-english-ef1",
     "title": "English: Sentences & parts of speech (EF1)",
     "icon": "book-open",
