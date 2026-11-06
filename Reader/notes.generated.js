@@ -103,6 +103,18 @@ export const noteDocuments = [
     "path": "Notes/Reasoning/03-R07-Series.md"
   },
   {
+    "id": "notes-reasoning-r12",
+    "title": "Reasoning: Finding the missing number (R12)",
+    "icon": "brain",
+    "subtitle": "Rows, columns, grids, number figures, competing rules, and explained practice.",
+    "label": "R12: Missing number",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Finding the missing number (R12)",
+    "path": "Notes/Reasoning/04-R12-Finding-the-Missing-Number.md"
+  },
+  {
     "id": "notes-english-ef1",
     "title": "English: Sentences & parts of speech (EF1)",
     "icon": "book-open",
