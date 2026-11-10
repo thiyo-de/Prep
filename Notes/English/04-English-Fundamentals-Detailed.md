@@ -52,6 +52,31 @@ Read one section at a time. First understand the structural English explanation.
 
 ---
 
+## 🏛️ English Fundamentals Comprehensive Architecture Map
+
+```text
+========================================================================================
+             ENGLISH FUNDAMENTALS (EF4): 28-PAGE DOSSIER ARCHITECTURE MAP
+========================================================================================
+[Stage 1: Sentence Anatomy] ──► Building Blocks: Phrase vs. Clause vs. Sentence
+        │                       └── SVOCA Matrix: Subject, Verb, Object, Complement, Adjunct
+        ▼
+[Stage 2: 8 Word Classes]   ──► Form vs. Function: Identity governed by sentence role
+        │                       ├── Suffixes: Noun (-ness, -ity) vs. Adjective (-ful, -able)
+        │                       └── Action vs. Stative Verbs; Adjective vs. Adverbial (-ly)
+        ▼
+[Stage 3: Word Shapeshifters]─► Contextual Category Switching:
+        │                       ├── Preposition vs. Conjunction (NP Object vs. Finite Clause)
+        │                       ├── Preposition vs. Phrasal Verb Particle (Separation Test)
+        │                       └── 4-Way Cross-Class Anatomy (e.g. 'fast', 'water', 'pride')
+        ▼
+[Stage 4: Audit & Synthesis] ─► Exhaustive 28-Page Primary PDF Master Register (Pages 1–28)
+                                └── 30 Tier-II Diagnostic Models & Spaced Recall Protocol
+========================================================================================
+```
+
+---
+
 ## 1. Words, Groups and Sentence Anatomy | சொற்களும் வாக்கிய உறுப்புகளும்
 
 The title on page 1 of the source PDF is **Fundamentals of English Grammar**. Page 2 lists the 7 core building blocks: **Clause, Phrase, Sentence, Subject, Object, Subject complement, Object complement**.
@@ -1168,3 +1193,21 @@ Before completing this foundational module and moving to advanced grammar units,
 ---
 
 > **Final Study Recommendation:** Maintain an active error log for any missed questions in Section 18. Pair this foundational masterclass with introductory notes [EF1](01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md), [EF2](02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md), and [EF3](03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md) as you advance into the 30-Week Master Blueprint.
+
+---
+
+## 23. 🌉 Curriculum Forward Bridge: Transition to EF5 (Detailed Tenses Masterclass)
+
+```text
+========================================================================================
+                    ENGLISH PROGRESSION BRIDGE: EF4 ──► EF5
+========================================================================================
+  [EF4: English Fundamentals Detailed] ──► [EF5: Detailed Tenses Masterclass]
+  • 28-Page Foundation PDF Register         • 68-Page Exhaustive Tenses PDF Register
+  • SVOCA & Word Class Functional Roles     • 12 Tenses Mathematical Formulas & Timelines
+  • Preposition vs. Conjunction vs. Particle• Stative Traps, Since vs. For Anchors
+  • Cross-Category Word Shapeshifters       • Conditionals & Subjunctive Integration
+========================================================================================
+```
+
+> **Mastery Milestone:** Having mastered sentence anatomy, parts of speech functions, and word shapeshifters across all 28 pages of foundational lecture notes in EF4, proceed to [`05-Tenses-Detailed.md`](05-Tenses-Detailed.md) for the exhaustive 68-page masterclass on English tenses.
