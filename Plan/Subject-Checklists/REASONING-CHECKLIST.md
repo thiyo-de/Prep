@@ -73,11 +73,11 @@
 
 ## RF1 — Reasoning basics: letters and numbers
 
-- [ ] Alphabet positions: forward and reverse
-- [ ] Opposite letter pairs
-- [ ] Odd/even numbers and basic number patterns
-- [ ] Familiar primes, squares and cubes from Maths
-- [ ] Simple letter sequences and position changes
+- [x] Alphabet positions: forward and reverse
+- [x] Opposite letter pairs
+- [x] Odd/even numbers and basic number patterns
+- [x] Familiar primes, squares and cubes from Maths
+- [x] Simple letter sequences and position changes
 
 > 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
 
