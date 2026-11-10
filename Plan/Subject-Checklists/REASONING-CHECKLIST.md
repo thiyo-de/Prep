@@ -97,11 +97,11 @@
 
 ## R04 — Classification (verbal)
 
-- [ ] Word/category classification
-- [ ] Unfamiliar word meanings and category membership: animals, plants, tools, professions, materials and other course/PYQ groups
-- [ ] Defining features, subcategories and the specific property that separates the odd item
-- [ ] Letter and number classification
-- [ ] Similarities, differences and odd-one-out rules
+- [x] Word/category classification
+- [x] Unfamiliar word meanings and category membership: animals, plants, tools, professions, materials and other course/PYQ groups
+- [x] Defining features, subcategories and the specific property that separates the odd item
+- [x] Letter and number classification
+- [x] Similarities, differences and odd-one-out rules
 
 > 💡 **Knowledge Support:** Use the shared factual reference and relevant R01 categories. Learn only what current questions require.
 
@@ -111,26 +111,26 @@
 
 ## R01 — Analogy or Similarity (verbal)
 
-- [ ] Word and meaning-based analogies
-- [ ] Letter/alphabet analogies
-- [ ] Number and symbolic analogies
-- [ ] Consistent relationship rules
+- [x] Word and meaning-based analogies
+- [x] Letter/alphabet analogies
+- [x] Number and symbolic analogies
+- [x] Consistent relationship rules
 
 ### Word relationships and supporting knowledge
 
-- [ ] Word meanings: synonyms, antonyms and degrees of intensity
-- [ ] Professions: worker–tool, workplace, task and product
-- [ ] Tools/objects and their functions; instruments and what they measure; quantities and units
-- [ ] Branches of study and their subjects; medical specialists and their fields
-- [ ] Health/science pairs: nutrients and deficiency diseases; diseases and their causes or affected organs
-- [ ] Animals: young ones, homes, sounds, groups and male/female terms
-- [ ] Plants: parts, functions and products; materials and finished products
-- [ ] Part–whole, member–group and item–class relationships
-- [ ] Geography pairs: country–capital/currency and place–location
-- [ ] Sports: equipment, playing areas, trophies and terminology
-- [ ] Books/art and creators; discoveries/inventions and associated people
-- [ ] Sequence, stages and life cycles; cause–effect relationships
-- [ ] Relationship direction and specificity: distinguish a tool from a product, a cause from a carrier, and a part from a type
+- [x] Word meanings: synonyms, antonyms and degrees of intensity
+- [x] Professions: worker–tool, workplace, task and product
+- [x] Tools/objects and their functions; instruments and what they measure; quantities and units
+- [x] Branches of study and their subjects; medical specialists and their fields
+- [x] Health/science pairs: nutrients and deficiency diseases; diseases and their causes or affected organs
+- [x] Animals: young ones, homes, sounds, groups and male/female terms
+- [x] Plants: parts, functions and products; materials and finished products
+- [x] Part–whole, member–group and item–class relationships
+- [x] Geography pairs: country–capital/currency and place–location
+- [x] Sports: equipment, playing areas, trophies and terminology
+- [x] Books/art and creators; discoveries/inventions and associated people
+- [x] Sequence, stages and life cycles; cause–effect relationships
+- [x] Relationship direction and specificity: distinguish a tool from a product, a cause from a carrier, and a part from a type
 
 > 💡 **Reference:** Use the shared factual reference above. Add relevant variations from PYQs.
 
