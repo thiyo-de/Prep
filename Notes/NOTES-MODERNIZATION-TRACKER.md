@@ -11,11 +11,11 @@
 | :--- | :---: | :---: | :---: | :---: |
 | **Reasoning** | 7 | 7 | 0 | **100%** |
 | **General Awareness (Biology)** | 4 | 4 | 0 | **100%** |
-| **English Language** | 5 | 1 | 4 | **20%** |
-| **Total** | **16** | **12** | **4** | **75.0%** |
+| **English Language** | 5 | 2 | 3 | **40%** |
+| **Total** | **16** | **13** | **3** | **81.3%** |
 
 ```text
-Repository Progress: [████████████████░░░░] 75.0% (12 / 16 Notes Complete)
+Repository Progress: [█████████████████░░░] 81.3% (13 / 16 Notes Complete)
 ```
 
 ---
@@ -45,12 +45,12 @@ Repository Progress: [████████████████░░░�
 
 ---
 
-## 3. 📖 English Language Notes (1 / 5 Complete — 20%)
+## 3. 📖 English Language Notes (2 / 5 Complete — 40%)
 
 | Code | Note File | Coverage / Scope | Tests | Status |
 | :---: | :--- | :---: | :---: | :---: |
 | **EF1** | [`English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md`](English/01-EF1-English-Basics-Sentences-and-Parts-of-Speech.md) | 843 lines / 10 Practice Drills | ✅ Pass | **✅ Complete** |
-| **EF2** | [`English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md`](English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md) | 625 lines / 10 Practice Drills | ✅ Pass | **🟡 Next Up** |
-| **EF3** | [`English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md`](English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md) | 584 lines / 10 Practice Drills | ✅ Pass | **🟡 Pending** |
+| **EF2** | [`English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md`](English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md) | 688 lines / 10 Practice Drills | ✅ Pass | **✅ Complete** |
+| **EF3** | [`English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md`](English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md) | 584 lines / 10 Practice Drills | ✅ Pass | **🟡 Next Up** |
 | **EF4** | [`English/04-English-Fundamentals-Detailed.md`](English/04-English-Fundamentals-Detailed.md) | 1,171 lines / Comprehensive Bank | ✅ Pass | **🟡 Pending** |
 | **EF5** | [`English/05-Tenses-Detailed.md`](English/05-Tenses-Detailed.md) | 838 lines / 20 Checkpoint Qs | ✅ Pass | **🟡 Pending** |

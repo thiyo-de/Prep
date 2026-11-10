@@ -30,6 +30,34 @@
 
 ---
 
+## 🏛️ EF2 System Architecture Flowchart
+
+```text
+========================================================================================
+             ENGLISH FOUNDATION (EF2): NOUNS, PRONOUNS & MODIFIERS ENGINE
+========================================================================================
+[1. Noun System]     ──► 5 Categories: Proper, Common, Collective, Abstract, Material
+                         ├── Countable vs. Uncountable (Furniture, Scenery, Information)
+                         └── Compound Plurals: Principal noun takes '-s' (Commanders-in-chief)
+        ▼
+[2. Pronoun Cases]   ──► Subject (He) vs. Object (Him) vs. Possessive (His) vs. Reflexive
+                         ├── Etiquette Order: 2-3-1 (Virtue/Normal) vs. 1-2-3 (Confession/Fault)
+                         └── Relative Pronouns: Antecedent rule (who/which) & Mandatory 'That'
+        ▼
+[3. Determiners]     ──► Articles (A / An / The) & Quantifiers (Little/Few scales)
+                         └── Definite 'The': Superlatives, Unique bodies, Rivers, Oceans
+        ▼
+[4. Modifiers]       ──► Adjectives (Describe Nouns) vs. Adverbs (Describe Verbs/Adj/Adv)
+                         ├── Latin Comparatives: '-ior' adjectives strictly govern 'to'
+                         └── Absolute Adjectives: Non-gradable (Unique, Perfect, Dead)
+        ▼
+[5. Connectors]      ──► Prepositions (Direction, Place, Time; Fixed Verb Couplings)
+                         └── Conjunctions: FANBOYS coordinators & Parallel correlative pairs
+========================================================================================
+```
+
+---
+
 # 🏷️ PART 1: NOUNS & NUMBER (பெயர்ச்சொற்கள் & ஒருமை / பன்மை)
 
 A **Noun** is a naming word (person, place, animal, thing, quality, or idea).
@@ -622,3 +650,38 @@ In SSC CGL Tier-II, *Not only ... but also* must connect **grammatically identic
    * ❌ *Unless you do not run fast, you cannot catch the express train.*
    * ✅ *Unless you **run fast**, you cannot catch the express train.*
    * **Explanation:** *Unless* inherently means "except if / if ... not". Adding *do not* within the *unless*-clause creates an erroneous double negative.
+
+---
+
+## 8. 📋 10-Point EF2 Master Quality Checklist
+
+| # | Diagnostic Quality Criterion | Operational Status | Benchmark Target |
+| :-: | :--- | :---: | :--- |
+| **1** | **Uncountable Noun Invariant** | ✅ Verified | No indefinite articles ($a/an$) or plural $-s$ on *furniture, luggage, advice, scenery*. |
+| **2** | **Compound Plural Law** | ✅ Verified | Principal head-noun receives plural marker (*passers-by, commanders-in-chief*). |
+| **3** | **Possessive Apostrophe Distinction** | ✅ Verified | Joint ownership (*Ram & Shyam's father*) vs. Separate (*Ram's and Shyam's fathers*). |
+| **4** | **Pronoun Etiquette Protocol** | ✅ Verified | Positive contexts follow **2-3-1**; guilt/fault contexts follow **1-2-3**. |
+| **5** | **Relative Antecedent Agreement** | ✅ Verified | Verb agrees with antecedent noun (*one of the boys who have* vs *only one... has*). |
+| **6** | **Mandatory Relative 'That'** | ✅ Verified | Enforced after *all, none, the same, the only*, and superlative adjectives. |
+| **7** | **Latin Comparative Syntax** | ✅ Verified | *Senior, junior, superior, inferior, prior* govern **to** (never *than* / *more*). |
+| **8** | **Adverb vs. Adjective Placement** | ✅ Verified | *Enough* precedes nouns (*enough money*) but follows adjectives (*tall enough*). |
+| **9** | **Correlative Conjunction Parallelism**| ✅ Verified | *Not only ... but also* precedes identical grammatical structures. |
+| **10**| **Test Suite Verification** | ✅ Verified | 100% test pass in `npm test` across all 26 suites with zero parser warnings. |
+
+---
+
+## 9. 🌉 Curriculum Forward Bridge: Transition to EF3
+
+```text
+========================================================================================
+                    ENGLISH FOUNDATION PROGRESSION BRIDGE: EF2 ──► EF3
+========================================================================================
+  [EF2: Nouns, Pronouns & Modifiers]  ──► [EF3: Verbs, Tenses & Agreement]
+  • Noun Classifications & Plurals        • 4 Core Verb Forms (V1, V2, V3, V4)
+  • Pronoun Cases & Relative Antecedents   • Subject-Verb Agreement Invariant Laws
+  • Adjectives, Adverbs & Latin Forms     • 12 Tenses Timeline & Aspectual Grid
+  • Prepositions & Conjunction Pairs      • Subjunctive Mood & Conditionals (0–3rd)
+========================================================================================
+```
+
+> **Mastery Milestone:** Having mastered nouns, pronoun mechanics, and modifier structures in EF2, you are now prepared to advance to the dynamic engine of English syntax in [`03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md`](03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md).
