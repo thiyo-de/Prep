@@ -106,8 +106,8 @@
 - [ ] Multiplication tables up to 20
 - [ ] Squares up to 30
 - [ ] Cubes up to 15
-- [ ] Powers and repeated multiplication
-- [ ] Square roots, cube roots and exact-root recognition
+- [x] Powers and repeated multiplication
+- [x] Square roots, cube roots and exact-root recognition
 
 > 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
 
