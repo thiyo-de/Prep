@@ -28,6 +28,36 @@
 
 ---
 
+## 🏛️ EF3 System Architecture Flowchart
+
+```text
+========================================================================================
+         ENGLISH FOUNDATION (EF3): VERBS, TENSES & AGREEMENT ENGINE
+========================================================================================
+[1. Verb Morphology] ──► 4 Core Forms: V1 (Base), V2 (Past), V3 (Participle), V4 (-ing)
+                         ├── Finite (Has Tense/Subject) vs. Non-Finite (Infinitive/Gerund/Participle)
+                         └── Confusable Roots: Lie/Lay, Rise/Raise, Sit/Set
+        ▼
+[2. Agreement Laws]  ──► Singular Subject ──► Singular Verb (V1 + s/es)
+                         ├── First Subject Connectors: 'as well as', 'along with', 'with'
+                         ├── Nearest Subject Correlatives: 'either...or', 'neither...nor'
+                         └── Indefinite Distributives: 'each', 'every', 'either' ──► Singular Verb
+        ▼
+[3. 12-Tense Grid]   ──► Present / Past / Future across Simple, Continuous, Perfect, Perfect-Cont.
+                         ├── Past Perfect Sequence: Earlier Past (had + V3) vs. Later Past (V2)
+                         └── Stative Verbs: No continuous aspect for perception/cognition (know, love)
+        ▼
+[4. Conditionals]    ──► Type 0 (Universal: If V1, V1) ──► Type 1 (Probable: If V1, will + V1)
+                         ├── Type 2 (Improbable: If V2/were, would + V1)
+                         └── Type 3 (Past Impossible: If had + V3, would have + V3)
+        ▼
+[5. Subjunctive & Tags]► 'It is high time' + Subject + V2 (Overdue Action)
+                         └── Question Tags: Inverse polarity balance + Auxiliary extraction
+========================================================================================
+```
+
+---
+
 # ⚡ PART 1: VERBS & 4 VERB FORMS (வினைச்சொற்கள் & வடிவங்கள்)
 
 The **Verb** is the heartbeat of a sentence. Without a finite verb, no sentence can exist.
@@ -581,3 +611,37 @@ A mini-question attached to the end of a statement to seek confirmation or agree
      1. Indefinite person pronouns (*Nobody, Someone, Everyone*) convert to the pronoun **they** in question tags.
      2. *They* requires the plural auxiliary **do** (present tense of *knows*).
      3. *Nobody* is an inherently negative word, which strictly demands a **positive tag** (*do they?*).
+
+---
+
+## 7. 📋 10-Point EF3 Master Quality Checklist
+
+| # | Diagnostic Quality Criterion | Operational Status | Benchmark Target |
+| :-: | :--- | :---: | :--- |
+| **1** | **V3 Standalone Prohibition** | ✅ Verified | $V_3$ participle requires auxiliary (*has/have/had/been*); never acts as standalone verb. |
+| **2** | **First-Subject Invariant** | ✅ Verified | *As well as, along with, together with, in addition to* agree with Subject 1. |
+| **3** | **Nearest-Subject Correlative** | ✅ Verified | *Neither...nor, either...or, not only...but also* agree with nearest subject. |
+| **4** | **More Than One Formula** | ✅ Verified | *More than one + Sing. Noun* $\to$ Singular Verb; *More + Plural Nouns + than one* $\to$ Plural Verb. |
+| **5** | **Past Perfect Sequence** | ✅ Verified | Earlier completed past action takes *had + V3*; subsequent past action takes *V2*. |
+| **6** | **Subjunctive Past ("High Time")** | ✅ Verified | *It is high time / It is time + Subject* strictly governs **V2** past subjunctive. |
+| **7** | **Conditional Inversion Rules** | ✅ Verified | *Had he studied... would have passed* maintains Type 3 past counterfactual harmony. |
+| **8** | **Fixed Preposition + Gerund** | ✅ Verified | *Look forward to, with a view to, addicted to* govern **V4 (-ing)**, not bare V1. |
+| **9** | **Question Tag Polarity Balance** | ✅ Verified | Positive statement $\to$ Negative tag; Negative statement $\to$ Positive tag (*Nobody $\dots$ do they?*). |
+| **10**| **Test Suite Verification** | ✅ Verified | 100% test pass in `npm test` across all 26 suites with zero parser warnings. |
+
+---
+
+## 8. 🌉 Curriculum Forward Bridge: Transition to In-Depth Masterclasses (EF4 & EF5)
+
+```text
+========================================================================================
+             ENGLISH FOUNDATION PROGRESSION BRIDGE: EF3 ──► EF4 & EF5
+========================================================================================
+  [EF3: Verbs, Tenses & Agreement]   ──► [EF4 & EF5: In-Depth Masterclasses]
+  • 4 Core Verb Forms & S-V-A            • EF4: Exhaustive 28-Page Foundation PDF Notes
+  • 12 Tenses Blueprint & Timelines      • EF5: Comprehensive 68-Page All-Tenses Masterclass
+  • Conditional Clauses (0–3rd)          • Deep Error Diagnostics & 100+ Catalogued Source Qs
+========================================================================================
+```
+
+> **Mastery Milestone:** Having conquered the functional grammar rules of verbs, tenses, and agreement in EF3, you are ready to explore the exhaustive 28-page foundational PDF dossier in [`04-English-Fundamentals-Detailed.md`](04-English-Fundamentals-Detailed.md) and the 68-page deep-dive in [`05-Tenses-Detailed.md`](05-Tenses-Detailed.md).
