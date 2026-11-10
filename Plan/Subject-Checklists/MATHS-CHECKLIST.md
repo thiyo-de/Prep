@@ -87,15 +87,15 @@
 
 ## MF2 — Maths basics: fractions, decimals and signs
 
-- [ ] Positive/negative numbers and sign rules
-- [ ] Odd/even numbers, factors and multiples
-- [ ] Numerator, denominator and fraction types
-- [ ] Equivalent fractions, reduction and comparison
-- [ ] Addition, subtraction, multiplication and division of fractions
-- [ ] Decimal place value, comparison and four operations
-- [ ] Fraction-decimal conversion
-- [ ] Brackets, operation order and BODMAS
-- [ ] Length, mass and time units and conversions
+- [x] Positive/negative numbers and sign rules
+- [x] Odd/even numbers, factors and multiples
+- [x] Numerator, denominator and fraction types
+- [x] Equivalent fractions, reduction and comparison
+- [x] Addition, subtraction, multiplication and division of fractions
+- [x] Decimal place value, comparison and four operations
+- [x] Fraction-decimal conversion
+- [x] Brackets, operation order and BODMAS
+- [x] Length, mass and time units and conversions
 
 > 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
 
