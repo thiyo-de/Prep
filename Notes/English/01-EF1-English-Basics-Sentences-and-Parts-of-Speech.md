@@ -30,6 +30,32 @@
 
 ---
 
+## 🏛️ EF1 System Architecture Flowchart
+
+```text
+========================================================================================
+             ENGLISH FOUNDATION (EF1): CORE SYSTEM ARCHITECTURE MAP
+========================================================================================
+[Sounds & Letters] ──► 26 Letters (5 Vowels, 21 Consonants) ──► 44 Spoken Phonemes
+        │              └── Rule: Article (A / An) governed by Initial Sound, NOT Letter
+        ▼
+[Building Blocks]  ──► Words ──► Phrases (No Finite Verb) vs. Clauses (Subject + Verb)
+        │                        ├── Independent Clause: Complete thought (Free King)
+        │                        └── Dependent Clause: Starts with Subordinator (Slave)
+        ▼
+[Sentence Patterns]──► 4 Functional Forms: Assertive, Interrogative, Imperative, Exclamatory
+        │              4 Structural Forms: Simple, Compound (FANBOYS), Complex, Compound-Complex
+        ▼
+[Sentence Anatomy] ──► English S-V-O vs. Tamil S-O-V
+        │              └── SVOCA: Subject, Verb, Object (DO/IO), Complement, Adjunct
+        ▼
+[Core Parts of Speech]► Noun, Pronoun, Verb, Adjective, Adverb, Preposition, Conjunction, Interjection
+                       └── Golden Sentence: All 8 speech categories unified in 1 context!
+========================================================================================
+```
+
+---
+
 # 🔤 PART 1: LETTERS, SOUNDS, VOWELS & CONSONANTS (எழுத்துக்களும் ஒலிகளும்)
 
 ### 1. Alphabet vs. Letters
@@ -237,7 +263,8 @@ Now compare with a **true Dependent Clause**:
 #### 🧪 The Transformation Test: One Independent Sentence Transformed!
 
 Take one single independent sentence:  
-$$\mathbf{Ravi\ arrived\ at\ the\ station.}\quad \text{(👑 Free King — Independent Clause)}$$
+$$\mathbf{Ravi\ arrived\ at\ the\ station.}$$
+*(👑 Free King — Independent Clause)*
 
 Watch what happens when you place a Subordinator in front of it:
 
@@ -401,7 +428,8 @@ The **Complete Subject** consists of the core noun/pronoun plus its direct modif
 
 ### Direct Object (DO) vs. Indirect Object (IO)
 
-$$\text{Subject} + \text{Verb} + \mathbf{Indirect\ Object\ (யாருக்கு)} + \mathbf{Direct\ Object\ (எதை)}$$
+$$\text{Subject} + \text{Verb} + \mathbf{Indirect\ Object\ [IO]} + \mathbf{Direct\ Object\ [DO]}$$
+*(பயனிலை + யாருக்கு [IO] + எதை [DO])*
 
 * **Direct Object (DO):** Directly receives the action. Answers: **"What?" (எதை?)**
 * **Indirect Object (IO):** Receives the Direct Object. Answers: **"To whom?" (யாருக்கு?)**
@@ -450,7 +478,8 @@ Not every word following a verb is an Object! Linking verbs take **Complements**
 
 #### 🔍 Deep Dive: What does "A" (Adjunct / Adverbial) Mean?
 
-$$\mathbf{A} = \mathbf{Adjunct}\ \text{or}\ \mathbf{Adverbial}\quad \text{(வினையடைக்கூறு / கூடுதல் விவரம்)}$$
+$$\mathbf{A} = \mathbf{Adjunct}\ \text{or}\ \mathbf{Adverbial}$$
+*(வினையடைக்கூறு / கூடுதல் விவரம்)*
 
 An **Adjunct (A)** is any word, phrase, or clause that tells you **WHERE, WHEN, HOW, or WHY** the action took place.
 
@@ -776,3 +805,38 @@ Try answering these 6 quick questions:
    * ❌ *five-crores project*
    * ✅ *a **five-crore** project*
    * **Explanation:** When a number and noun act together as a compound modifier before a head noun (*project*), the unit remains in its singular form (*five-crore*, *ten-rupee note*, *three-man committee*).
+
+---
+
+## 8. 📋 10-Point EF1 Master Quality Checklist
+
+| # | Diagnostic Quality Criterion | Operational Status | Benchmark Target |
+| :-: | :--- | :---: | :--- |
+| **1** | **Phonetic Article Protocol** | ✅ Verified | Article choice ($A$ vs. $An$) governed strictly by opening sound, not spelling. |
+| **2** | **Alphabet Cardinality Law** | ✅ Verified | Single English alphabet containing 26 letters producing 44 phonemes. |
+| **3** | **Phrase vs. Clause Test** | ✅ Verified | Phrases contain no finite verb; clauses require explicit Subject + Finite Verb. |
+| **4** | **Independent vs. Dependent** | ✅ Verified | Subordinators create hanging dependent clauses; no coordinating conjunction without pair. |
+| **5** | **4 Functional Sentence Forms** | ✅ Verified | Assertive (.), Interrogative (?), Imperative (.), Exclamatory (!) syntax mastery. |
+| **6** | **SVOCA Sentence Anatomy** | ✅ Verified | SVO (English) vs. SOV (Tamil); Indirect Object only exists alongside Direct Object. |
+| **7** | **Punctuation & Splice Traps** | ✅ Verified | Comma splice elimination via semicolon, period, or FANBOYS coordinators. |
+| **8** | **8 Parts of Speech Mastery** | ✅ Verified | Complete classification of all 8 word types unified in the Master Golden Sentence. |
+| **9** | **KaTeX Mathematical Purity** | ✅ Verified | 0 KaTeX warnings; strict isolation of Tamil annotations and emoji glyphs outside math. |
+| **10**| **Test Suite Verification** | ✅ Verified | 100% test pass in `npm test` across all 26 test suites with zero rendering errors. |
+
+---
+
+## 9. 🌉 Curriculum Forward Bridge: Transition to EF2
+
+```text
+========================================================================================
+                    ENGLISH FOUNDATION PROGRESSION BRIDGE: EF1 ──► EF2
+========================================================================================
+  [EF1: Foundational Syntax]   ──► [EF2: Nouns, Pronouns & Modifiers]
+  • Sentence Anatomy (SVOCA)       • 5 Noun Categories & Pluralisation Irregulars
+  • Phrase vs. Clause Rules        • Pronoun Cases & Order of Persons (231 vs. 123)
+  • 8 Parts of Speech Intro       • Definite/Indefinite Article Mechanics (A/An/The)
+  • Sound-based A/An Rules         • Adjectives vs. Adverbs & Degrees of Comparison
+========================================================================================
+```
+
+> **Mastery Milestone:** Having mastered sentence typology, clause independence, and the 8 core parts of speech in EF1, you are now fully prepared to dissect granular word classes in [`02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md`](02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md).
