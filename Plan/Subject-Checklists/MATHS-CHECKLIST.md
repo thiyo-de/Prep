@@ -75,11 +75,11 @@
 
 ## MF1 — Maths basics: numbers and operations
 
-- [ ] Digits, place value, face value and zero
-- [ ] Whole-number comparison, ordering and number line
-- [ ] Addition and subtraction with carrying/borrowing
-- [ ] Multiplication and long division
-- [ ] Quotient, remainder and operation symbols
+- [x] Digits, place value, face value and zero
+- [x] Whole-number comparison, ordering and number line
+- [x] Addition and subtraction with carrying/borrowing
+- [x] Multiplication and long division
+- [x] Quotient, remainder and operation symbols
 
 > 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
 
