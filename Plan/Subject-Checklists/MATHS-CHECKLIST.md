@@ -115,11 +115,11 @@
 
 ## M01 — Number System
 
-- [ ] Natural, whole, integer, rational and irrational numbers
-- [ ] Prime/composite numbers and co-primes
-- [ ] Prime factorisation and divisibility rules
-- [ ] Unit digits and repeating cycles
-- [ ] Remainders and number of factors
+- [x] Natural, whole, integer, rational and irrational numbers
+- [x] Prime/composite numbers and co-primes
+- [x] Prime factorisation and divisibility rules
+- [x] Unit digits and repeating cycles
+- [x] Remainders and number of factors
 
 > 📊 **Chapter Progress:** Easy: `__/__` | Timed Result: `__` | 7-Day: `__` | 21-Day: `__` | Status: `__` | Error Notebook: `p. __`
 
