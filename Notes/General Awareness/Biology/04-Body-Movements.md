@@ -28,6 +28,44 @@ This chapter supports general-science questions about animal locomotion, human b
 > - **Nervous system:** coordinates activity - நரம்பு மண்டலம்.
 > - **Energy:** powers active biological movement - ஆற்றல்.
 
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                 HUMAN & ANIMAL LOCOMOTION ARCHITECTURE                      │
+└──────────────────────────────────────┬──────────────────────────────────────┘
+                                       │
+                      [NEUROMUSCULAR MOTOR COORDINATION]
+                                       │
+        ┌──────────────────────────────┼──────────────────────────────┐
+        ▼                              ▼                              ▼
+  ┌───────────┐                  ┌───────────┐                  ┌───────────┐
+  │  SKELETON │                  │   JOINTS  │                  │  MUSCLES  │
+  │  (Levers  │                  │ (Fulcrums │                  │  (Pulling │
+  │ & Protect)│                  │  & Pivot) │                  │   Force)  │
+  └─────┬─────┘                  └─────┬─────┘                  └─────┬─────┘
+        │                              │                              │
+        ▼                              ▼                              ▼
+  ┌──────────────────────┐       ┌──────────────────────┐       ┌──────────────────────┐
+  │ 206 ADULT BONES      │       │ 6 SYNOVIAL TYPES     │       │ ANTAGONISTIC PAIRS   │
+  │ • Axial (80): Skull  │       │ • Ball & Socket      │       │ • Biceps (Flexor)    │
+  │   (29), Spine (26),  │       │ • Hinge (Elbow/Knee) │       │ • Triceps (Extensor) │
+  │   Ribs (24), Sternum │       │ • Pivot (Atlas/Axis) │       │ • Tendons bind bone; │
+  │ • Appendicular (126):│       │ • Gliding (Wrist)    │       │   Ligaments bind bone│
+  │   Limbs (120) +      │       │ • Saddle (Thumb)     │       │   to bone at joint   │
+  │   Girdles (6)        │       │ • Condyloid (Radius) │       │                      │
+  └──────────────────────┘       └──────────────────────┘       └──────────────────────┘
+                                       │
+                                       ▼
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                      INVERTEBRATE LOCOMOTION SYSTEMS                    │
+  │   • Earthworm: Hydrostatic coelom + Circular/Longitudinal muscles + Setae│
+  │   • Cockroach: Chitinous exoskeleton + 3 pairs jointed legs + 2 wing prs│
+  │   • Snail: Muscular ventral foot + Viscous slime trail lubrication      │
+  │   • Fish: Streamlined spindle body + Caudal fin tail whip + Swim bladder│
+  │   • Birds: Hollow pneumatic bones + Modified forelimb wings + Pectorals │
+  │   • Snake: Alternating sideways S-curves against ground irregularities  │
+  └─────────────────────────────────────────────────────────────────────────┘
+```
+
 ### 1.1 Where the PDF content appears here
 
 Page numbers mean the PDF viewer's page count, including cover and repeated slides.
@@ -1144,3 +1182,26 @@ The supplied PDF is the main teaching and question source. The links beside Sect
 - Arthritis: [NIAMS overview](https://www.niams.nih.gov/health-topics/arthritis).
 
 **Unresolved source wording remains marked**, particularly Q1, Q15, Q25, Q28, Q32, Q43-Q44, Q66, Q70, Q72-Q73, Q75, Q77, Q85, Q91-Q92, Q95 and Q97. Do not treat this guide as an official exam answer key. It is a corrected study companion to the supplied material.
+
+---
+
+### Curriculum Forward Bridge: Transition to Chapter 05
+
+```
+   ┌────────────────────────────────────────────────────────────────────────┐
+   │                  You Have Completed: Chapter 04                        │
+   │               BODY MOVEMENTS (ORGAN & TISSUE BIOMECHANICS)             │
+   └───────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼
+   ┌────────────────────────────────────────────────────────────────────────┐
+   │                  Up Next: Chapter 05 (Organismal Diversity)            │
+   │               THE LIVING ORGANISMS — CHARACTERISTICS & HABITATS        │
+   │                                                                        │
+   │  • Habitats: Terrestrial (Desert, Mountain, Grassland) & Aquatic       │
+   │  • Adaptations: Xerophytic, Camel cameloid fat hump, Fish gills        │
+   │  • Biological Characteristics: Cellular respiration, Excretion, Stimuli│
+   │  • Stimulus & Response: Tropisms, Nastic movements, Homeostasis        │
+   └────────────────────────────────────────────────────────────────────────┘
+```
+

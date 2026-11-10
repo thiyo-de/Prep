@@ -11,13 +11,13 @@
 | Subject Area | Total Notes | ✅ Modernized & Verified | 🟡 Layout Upgrade Pending | Progress % | Primary Focus |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | **Reasoning** | 7 | 7 | 0 | **100%** | Full coverage: Foundations, Analogy, Classification, Series, Missing Numbers, Coding-Decoding. |
-| **General Awareness (Biology)** | 4 | 3 | 1 | **75%** | Chapters 01, 02, and 03 completed with full ASCII maps, checklists, and bridges; Chapter 04 tracked. |
+| **General Awareness (Biology)** | 4 | 4 | 0 | **100%** | Chapters 01, 02, 03, and 04 completed with full ASCII architecture, checklists, and bridges. |
 | **English Language** | 5 | 0 | 5 | **0%** | Content-rich notes (EF1–EF5) queued for 4-column model cards and KaTeX sanitisation. |
-| **Total Study Notes** | **16** | **10** | **6** | **62.5%** | **10 of 16 notes completely modernized and verified.** |
+| **Total Study Notes** | **16** | **11** | **5** | **68.8%** | **11 of 16 notes completely modernized and verified.** |
 
 ```text
 Progress Overview:
-[██████████████░░░░░░░░] 62.5% Completed (10 / 16 Notes)
+[███████████████░░░░░░░] 68.8% Completed (11 / 16 Notes)
 ```
 
 ---
@@ -60,7 +60,7 @@ Every note must satisfy all 8 pillars before receiving the **✅ Complete** sign
 | **G11-P1** | [`General Awareness/Biology/01-Food-and-Nutrition.md`](General%20Awareness/Biology/01-Food-and-Nutrition.md) | Nutrient Chemistry, Cobalt core (B12), Sulphur rings, Enzyme-Substrate Matrix, Food Adulteration, Minerals, Deficiencies | 25 Models<br>50 Questions | Modernized | ✅ 26/26 Passed | **✅ Complete** |
 | **G11-P2** | [`General Awareness/Biology/02-Fibre-to-Fabric.md`](General%20Awareness/Biology/02-Fibre-to-Fabric.md) | Synthetic Fibres (Nylon, PET, Acrylic), Mercerisation, Textile Hazards (Byssinosis vs. Anthrax), Silk Chemistry (Fibroin vs. Sericin) | 20 Models<br>45 Questions | Modernized | ✅ 26/26 Passed | **✅ Complete** |
 | **G11-P3** | [`General Awareness/Biology/03-Categories-of-Plants.md`](General%20Awareness/Biology/03-Categories-of-Plants.md) | Habits (Basal Branching), Foliar Venation & Cotyledons, Xylem/Phloem, Transpiration vs. Guttation, Floral Whorls, Seed Anatomy | 35 Models<br>10 Protocols<br>45 Source Qs | [`7c59848`](https://github.com/thiyo-de/Prep/commit/7c59848) | ✅ 26/26 Passed | **✅ Complete** |
-| **G11-P4** | [`General Awareness/Biology/04-Body-Movements.md`](General%20Awareness/Biology/04-Body-Movements.md) | Locomotion, Bone matrix ($80+126=206$), 6 Synovial Joints, Muscle Antagonism, Earthworm/Cockroach/Fish Mechanics | 40 Models<br>100 Questions | Tracked | ✅ 26/26 Passed | **🟡 Layout Standardisation Pending** |
+| **G11-P4** | [`General Awareness/Biology/04-Body-Movements.md`](General%20Awareness/Biology/04-Body-Movements.md) | Locomotion, Bone matrix ($80+126=206$), 6 Synovial Joints, Muscle Antagonism, Earthworm/Cockroach/Fish Mechanics | 40 Models<br>100 Questions | Modernized | ✅ 26/26 Passed | **✅ Complete** |
 
 ---
 
