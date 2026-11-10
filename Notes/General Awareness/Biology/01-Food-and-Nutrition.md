@@ -54,6 +54,47 @@ These priorities are a study recommendation, not measured chapter weightage. The
 
 **After studying, you should be able to:** identify a nutrient from its function, explain a food-test result, match deficiencies, calculate basic food energy and solve a bile–vitamin connection question without looking at the notes.
 
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                 HUMAN NUTRITIONAL & DIGESTIVE METABOLIC FLOW                │
+└──────────────────────────────────────┬──────────────────────────────────────┘
+                                       │
+                         [DIETARY INGESTION / உணவு உட்கொள்ளல்]
+                                       │
+                                       ▼
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                           ORAL CAVITY (வாய் குழி)                       │
+  │   • Mechanical Mastication (Teeth) + Chemical Starch Digestion          │
+  │   • Salivary Amylase (Ptyalin, pH 6.8): Starch ──► Maltose (Disaccharide)│
+  └────────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼ (Bolus via Esophageal Peristalsis)
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                              STOMACH (இரைப்பை)                          │
+  │   • Gastric Juice (HCl, pH 1.5–2.0): Kills Pathogens & Activates Pepsin │
+  │   • Pepsin: Proteins ──► Peptones & Proteoses                           │
+  │   • Rennin: Curdles Milk Protein (Caseinogen ──► Casein in Infants)     │
+  └────────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼ (Chyme)
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                   SMALL INTESTINE — DUODENUM & ILEUM                    │
+  │                                                                         │
+  │   [LIVER & GALLBLADDER] ──► Bile Salts (Emulsifies Fats; No Enzymes)    │
+  │   [PANCREAS] ─────────────► Trypsin (Proteins), Lipase (Fats), Amylase  │
+  │   [INTESTINAL JUICE] ─────► Maltase, Lactase, Sucrase, Peptidases       │
+  │   [ILEAL VILLI & LACTEALS]► Water-Soluble (B, C) ──► Hepatic Portal     │
+  │                             Fat-Soluble (A, D, E, K)──► Lymph Lacteals  │
+  └────────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                 CELLULAR ASSIMILATION & ENERGY HARVEST                  │
+  │   • Carbohydrates & Proteins: ~4 kcal/g | Lipids/Fats: ~9 kcal/g        │
+  │   • ATP Generation via Mitochondria | Mineral & Vitamin Coenzymes       │
+  └─────────────────────────────────────────────────────────────────────────┘
+```
+
 ## 1. What the PDF covers | PDF உள்ளடக்க வரைபடம்
 
 The supplied PDF was reviewed visually because its pages are scanned images. Page numbers below mean the PDF viewer's page numbers. English and Tamil slides often repeat the same concept, so these notes combine them.
@@ -1238,6 +1279,47 @@ Use the existing [master plan](../../../Plan/FINAL-PLAN-NOV2026-MAY2027.md) and 
 | 38 | 119 | “Fight many diseases” | **Source intends B - Vitamin C.** Wording is broad; several vitamins support immunity / C மட்டும் நோய் எதிர்ப்பில் பங்கேற்கிறது என்று பொருளல்ல |
 | 39 | 120 | Helps the body use calcium | **D - Vitamin D.** கால்சியத்தை உறிஞ்சிப் பயன்படுத்த உதவும் |
 | 40 | 121 | Incorrect statement about roughage | **Intended B.** Plant and animal products are not both main roughage sources; usual sources are plant foods. Option C is also scientifically oversimplified; see Section 10 |
+
+---
+
+### 10-Point Master Quality & Audit Checklist
+
+*Self-audit before marking Chapter 01 complete:*
+
+- [x] **1. Ingredient vs. Nutrient:** Can differentiate between raw food vehicles (rice, dal) and their biochemical components (carbohydrates, proteins) without confusion.
+- [x] **2. Energy Values:** Caloric densities ($4\text{ kcal/g}$ for carbohydrates and proteins, $9\text{ kcal/g}$ for lipids) permanently memorised.
+- [x] **3. Diagnostic Food Tests:** Reagent pairs and colour endpoints memorised: Iodine (Blue-Black for Starch), Biuret $\text{CuSO}_4 + \text{NaOH}$ (Violet for Protein), Translucent Paper (Fats).
+- [x] **4. Vitamin Solubility:** Sharp demarcation between Water-Soluble ($\text{B-complex}, \text{C}$) and Fat-Soluble ($\text{A}, \text{D}, \text{E}, \text{K}$) mastered.
+- [x] **5. Structural Details:** Cobalt core in $\text{B}_{12}$ (Cobalamin) and Sulphur in $\text{B}_1$ (Thiamine) and $\text{B}_7$ (Biotin) recalled instantly.
+- [x] **6. Deficiency Pathology:** Night Blindness ($\text{A}$), Beriberi ($\text{B}_1$), Cheilosis ($\text{B}_2$), Pellagra ($\text{B}_3$), Scurvy ($\text{C}$), Rickets/Osteomalacia ($\text{D}$), Haemorrhage ($\text{K}$).
+- [x] **7. Mineral Functions:** Iron (Haemoglobin $\text{Fe}^{2+}$), Iodine (Thyroxine), Calcium/Phosphorus (Bone Hydroxyapatite), Fluoride ($1-1.5\text{ ppm}$ enamel protection).
+- [x] **8. Enzyme-Substrate Matrix:** Ptyalin (Starch $\to$ Maltose), Pepsin (Proteins $\to$ Peptones), Bile (Fat emulsification without enzymes), Lipase (Triglycerides $\to$ Fatty acids + Glycerol).
+- [x] **9. Food Adulteration:** Metanil Yellow in dal ($\text{HCl} \to$ Pink/Magenta), Starch in milk/butter (Iodine $\to$ Blue), Chalk in flour ($\text{HCl} \to \text{CO}_2$ effervescence).
+- [x] **10. Heat Sensitivity:** Vitamin C destroyed by thermal cooking; Vitamin D synthesised via UV photolysis in dermal 7-dehydrocholesterol.
+
+---
+
+### Curriculum Forward Bridge: Transition to Chapter 02
+
+```
+   ┌────────────────────────────────────────────────────────────────────────┐
+   │                  You Have Completed: Chapter 01                        │
+   │               FOOD AND NUTRITION (BIOCHEMICAL LEVEL)                   │
+   └───────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼
+   ┌────────────────────────────────────────────────────────────────────────┐
+   │                  Up Next: Chapter 02 (Organismal Polymers)             │
+   │                   FIBRE TO FABRIC (நாரிலிருந்து துணி வரை)              │
+   │                                                                        │
+   │  • Plant Polymers: Cellulose fibres (Cotton, Jute bast, Coir)          │
+   │  • Animal Polymers: Keratin (Wool protein) & Fibroin/Sericin (Silk)    │
+   │  • Synthetic Polymers: Polyamides (Nylon), Polyesters (PET/Terylene)   │
+   │  • Textile Processing: Ginning, Retting, Carding, Combing, Weaving     │
+   └────────────────────────────────────────────────────────────────────────┘
+```
+
+---
 
 ## 20. Source boundaries | ஆதாரங்களின் வரம்பு
 

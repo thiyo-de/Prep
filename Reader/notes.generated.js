@@ -43,6 +43,20 @@ export const noteDocuments = [
     "path": "Notes/General Awareness/Biology/03-Categories-of-Plants.md"
   },
   {
+    "id": "notes-biology-04",
+    "title": "Biology: Body movements",
+    "icon": "dna",
+    "subtitle": "Animal locomotion, bones, joints, muscles, 40 worked models, and 100 source questions with corrections.",
+    "label": "Biology: Body movements",
+    "group": "Study notes",
+    "subject": "General Awareness",
+    "folders": [
+      "Biology"
+    ],
+    "noteLabel": "Body movements",
+    "path": "Notes/General Awareness/Biology/04-Body-Movements.md"
+  },
+  {
     "id": "notes-reasoning-rf1",
     "title": "Reasoning: Letters & numbers (RF1)",
     "icon": "brain",

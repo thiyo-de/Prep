@@ -45,6 +45,45 @@ This is a study order, not measured chapter weightage. For exam-depth and offici
 
 The PDF's questions have no exam/year/shift references. They are **source practice**, not verified PYQs. Section 11 separately links dated **publisher-reported PYQs**. Generated examples are explicitly labelled. A dated publisher attribution is useful evidence, but is not an independently checked official response sheet.
 
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    COMPLETE TEXTILE PROCESSING ARCHITECTURE                 │
+└──────────────────────────────────────┬──────────────────────────────────────┘
+                                       │
+                      [NATURAL & SYNTHETIC RAW SOURCES]
+                                       │
+        ┌──────────────────────────────┼──────────────────────────────┐
+        ▼                              ▼                              ▼
+  ┌───────────┐                  ┌───────────┐                  ┌───────────┐
+  │   PLANT   │                  │   ANIMAL  │                  │ SYNTHETIC │
+  │  (Cotton, │                  │   (Wool,  │                  │  (Nylon,  │
+  │   Jute)   │                  │   Silk)   │                  │ Polyester)│
+  └─────┬─────┘                  └─────┬─────┘                  └─────┬─────┘
+        │                              │                              │
+        ▼ (Ginning / Retting)          ▼ (Shearing / Reeling)         ▼ (Polymer Melt)
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                         FIBRE ISOLATION (இழை பிரித்தல்)                  │
+  │   • Cotton: Ginning (Comb separation of seeds) ──► Carding / Combing    │
+  │   • Jute: Stem Retting in slow water ──► Manual Stripping of Bast Fibres│
+  │   • Wool: Shearing fleece ──► Scouring (Grease wash) ──► Sorting        │
+  │   • Silk: Cocoon boiling/steaming ──► Reeling continuous filament       │
+  └────────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼ (Twisting Fibres Together)
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                           YARN SPINNING (நூல் நூற்றல்)                   │
+  │   • Twisting fibres draws them together into continuous yarn            │
+  │   • Tools: Takli (hand spindle), Charkha (spinning wheel), Ring Frames  │
+  └────────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                         FABRIC CONSTRUCTION (துணி நெய்தல்)               │
+  │   • WEAVING (நெசவு): Two sets of orthogonal yarns on Handloom/Powerloom │
+  │   • KNITTING (பின்னல்): Single continuous yarn looped by needles/machine│
+  └─────────────────────────────────────────────────────────────────────────┘
+```
+
 ## 1. PDF coverage and exam focus | உள்ளடக்கமும் தேர்வு நோக்கமும்
 
 All 64 scanned pages were visually reviewed. Page numbers below refer to the PDF viewer.
@@ -814,6 +853,47 @@ Score **one point per fully correct answer**. Q6 and Q9 need both sides of the d
 | 10 | 63 | Name for silk rearing | **C: Sericulture.** Silviculture relates to forests / பட்டு வளர்ப்பு |
 
 **Q8 correction:** Food composition does not follow a universal “90%” rule for any food. This slide also jumps from textile fibres to dietary fibre. Retain it only as a source-error example; use the Food notes for dietary fibre.
+
+---
+
+### 10-Point Master Quality & Audit Checklist
+
+*Self-audit before marking Chapter 02 complete:*
+
+- [x] **1. Fibre Hierarchy:** Clear understanding of Fibre (strand) $\to$ Yarn (twisted strand) $\to$ Fabric (woven/knitted sheet).
+- [x] **2. Three Fibre Classes:** Natural (Plant/Animal), Regenerated (Rayon from wood cellulose), and Synthetic (Petrochemical: Nylon, PET, Acrylic).
+- [x] **3. Plant Fibres:** Cotton from seed hair/bolls; Jute from stem bast phloem; Coir from coconut fibrous mesocarp husk; Flax/Linen from stem bast.
+- [x] **4. Wool Sourcing & Steps:** Shearing $\to$ Scouring (washing sweat/grease) $\to$ Sorting (occupational anthrax / sorter's disease) $\to$ Dyeing $\to$ Rolling into yarn.
+- [x] **5. Silk Biology:** Bombyx mori silkworm; egg $\to$ larva (caterpillar eating mulberry leaves) $\to$ pupa inside cocoon spun from salivary fibroin/sericin $\to$ adult moth.
+- [x] **6. Reeling vs. Spinning:** Reeling is unwinding unbroken filaments from boiled cocoons; spinning is drawing and twisting short staple fibres.
+- [x] **7. Weaving vs. Knitting:** Weaving interlaces two sets of yarns (warp and weft); knitting interloops a single continuous yarn.
+- [x] **8. High-Yield Synthetics:** Nylon is a polyamide (first 100% synthetic fibre from coal/water/air); Polyester/PET is wrinkle-resistant ester; Acrylic is artificial wool.
+- [x] **9. Mercerisation:** Treatment of cotton yarn with $20-25\%\text{ NaOH}$ alkali under tension to swell fibres, round cross-sections, and increase tensile strength by $20\%$.
+- [x] **10. Ahimsa Silk:** Pioneered by Dr. Kusuma Rajaiah (AP, 1990s), allowing the silkworm (often Eri moth) to emerge safely before spinning pierced cocoons.
+
+---
+
+### Curriculum Forward Bridge: Transition to Chapter 03
+
+```
+   ┌────────────────────────────────────────────────────────────────────────┐
+   │                  You Have Completed: Chapter 02                        │
+   │               FIBRE TO FABRIC (ORGANISMAL POLYMERS)                    │
+   └───────────────────────────────────┬────────────────────────────────────┘
+                                       │
+                                       ▼
+   ┌────────────────────────────────────────────────────────────────────────┐
+   │                  Up Next: Chapter 03 (Botany & Plant Anatomy)          │
+   │                   CATEGORIES OF PLANTS (தாவரங்களின் வகைகள்)             │
+   │                                                                        │
+   │  • Plant Habits: Herbs (tender green), Shrubs (basal wood), Trees      │
+   │  • Anatomy & Venation: Reticulate (Dicot / Taproot) vs Parallel (Monocot)│
+   │  • Conduction: Unidirectional Xylem (Water) vs Bidirectional Phloem   │
+   │  • Reproduction: Complete floral whorls, double fertilisation, seed    │
+   └────────────────────────────────────────────────────────────────────────┘
+```
+
+---
 
 ## 16. Source boundaries and next chapter link
 
