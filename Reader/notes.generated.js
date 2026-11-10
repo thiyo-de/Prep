@@ -173,5 +173,17 @@ export const noteDocuments = [
     "folders": [],
     "noteLabel": "Fundamentals masterclass (EF4)",
     "path": "Notes/English/04-English-Fundamentals-Detailed.md"
+  },
+  {
+    "id": "notes-english-ef5",
+    "title": "English: Tenses detailed notes (EF5)",
+    "icon": "pencil-line",
+    "subtitle": "Verb forms, timelines, aspects, common errors, and source question bank.",
+    "label": "EF5: Tenses",
+    "group": "Study notes",
+    "subject": "English",
+    "folders": [],
+    "noteLabel": "Tenses detailed notes (EF5)",
+    "path": "Notes/English/05-Tenses-Detailed.md"
   }
 ];
