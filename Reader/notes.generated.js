@@ -57,6 +57,20 @@ export const noteDocuments = [
     "path": "Notes/General Awareness/Biology/04-Body-Movements.md"
   },
   {
+    "id": "notes-biology-05",
+    "title": "Biology: Living organisms & habitats",
+    "icon": "plant",
+    "subtitle": "Life processes, habitat adaptations, 35 worked models, and 60 source questions with explanations.",
+    "label": "Biology: Living organisms",
+    "group": "Study notes",
+    "subject": "General Awareness",
+    "folders": [
+      "Biology"
+    ],
+    "noteLabel": "Living organisms & habitats",
+    "path": "Notes/General Awareness/Biology/05-Living-Organisms-Characteristics-and-Habitats.md"
+  },
+  {
     "id": "notes-reasoning-rf1",
     "title": "Reasoning: Letters & numbers (RF1)",
     "icon": "brain",
