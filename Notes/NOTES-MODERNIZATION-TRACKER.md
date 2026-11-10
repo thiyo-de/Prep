@@ -11,11 +11,11 @@
 | :--- | :---: | :---: | :---: | :---: |
 | **Reasoning** | 7 | 7 | 0 | **100%** |
 | **General Awareness (Biology)** | 4 | 4 | 0 | **100%** |
-| **English Language** | 5 | 4 | 1 | **80%** |
-| **Total** | **16** | **15** | **1** | **93.8%** |
+| **English Language** | 5 | 5 | 0 | **100%** |
+| **Total** | **16** | **16** | **0** | **100.0%** |
 
 ```text
-Repository Progress: [███████████████████░] 93.8% (15 / 16 Notes Complete)
+Repository Progress: [████████████████████] 100.0% (16 / 16 Notes Complete) 🎉
 ```
 
 ---
@@ -45,7 +45,7 @@ Repository Progress: [███████████████████�
 
 ---
 
-## 3. 📖 English Language Notes (4 / 5 Complete — 80%)
+## 3. 📖 English Language Notes (5 / 5 Complete — 100%)
 
 | Code | Note File | Coverage / Scope | Tests | Status |
 | :---: | :--- | :---: | :---: | :---: |
@@ -53,4 +53,4 @@ Repository Progress: [███████████████████�
 | **EF2** | [`English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md`](English/02-EF2-Grammar-Basics-Nouns-Pronouns-and-Modifiers.md) | 688 lines / 10 Practice Drills | ✅ Pass | **✅ Complete** |
 | **EF3** | [`English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md`](English/03-EF3-Grammar-Basics-Verbs-Tenses-and-Agreement.md) | 648 lines / 10 Practice Drills | ✅ Pass | **✅ Complete** |
 | **EF4** | [`English/04-English-Fundamentals-Detailed.md`](English/04-English-Fundamentals-Detailed.md) | 1,214 lines / 28-Page Register / 30 Qs | ✅ Pass | **✅ Complete** |
-| **EF5** | [`English/05-Tenses-Detailed.md`](English/05-Tenses-Detailed.md) | 838 lines / 20 Checkpoint Qs | ✅ Pass | **🟡 Next Up** |
+| **EF5** | [`English/05-Tenses-Detailed.md`](English/05-Tenses-Detailed.md) | 1,398 lines / 68-Page Register / 20 Qs | ✅ Pass | **✅ Complete** |
