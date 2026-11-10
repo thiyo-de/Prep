@@ -85,11 +85,11 @@
 
 ## RF2 — Reasoning basics: instructions and relationships
 
-- [ ] Instructions: not, except, only, neither, at least and at most
-- [ ] Left/right, compass directions and turns
-- [ ] Family terms, generations and gender clues
-- [ ] Comparisons: older/younger, taller/shorter and ranks
-- [ ] Simple tables, diagrams and condition checking
+- [x] Instructions: not, except, only, neither, at least and at most
+- [x] Left/right, compass directions and turns
+- [x] Family terms, generations and gender clues
+- [x] Comparisons: older/younger, taller/shorter and ranks
+- [x] Simple tables, diagrams and condition checking
 
 > 📊 **Foundation Record:** Easy: `__/__` | 7-Day Review: `__` | 21-Day Review: `__` | Next Repair: `__`
 
