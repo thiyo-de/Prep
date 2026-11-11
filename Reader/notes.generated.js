@@ -213,5 +213,17 @@ export const noteDocuments = [
     "folders": [],
     "noteLabel": "Tenses detailed notes (EF5)",
     "path": "Notes/English/05-Tenses-Detailed.md"
+  },
+  {
+    "id": "notes-english-sva",
+    "title": "English: Subject-verb agreement (EF6)",
+    "icon": "pencil-line",
+    "subtitle": "English + Tamil lessons, 55 worked models, all 104 PDF pages, source corrections, and independent practice.",
+    "label": "EF6: Subject–Verb Agreement",
+    "group": "Study notes",
+    "subject": "English",
+    "folders": [],
+    "noteLabel": "Subject-verb agreement (EF6)",
+    "path": "Notes/English/06-Subject-Verb-Agreement-Detailed.md"
   }
 ];
