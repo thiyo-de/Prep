@@ -71,6 +71,20 @@ export const noteDocuments = [
     "path": "Notes/General Awareness/Biology/05-Living-Organisms-Characteristics-and-Habitats.md"
   },
   {
+    "id": "notes-biology-06",
+    "title": "Biology: Nutrition in plants",
+    "icon": "plant",
+    "subtitle": "English + Tamil photosynthesis and plant nutrition, 40 worked models, and 60 source questions with corrections.",
+    "label": "Biology: Plant nutrition",
+    "group": "Study notes",
+    "subject": "General Awareness",
+    "folders": [
+      "Biology"
+    ],
+    "noteLabel": "Nutrition in plants",
+    "path": "Notes/General Awareness/Biology/06-Nutrition-in-Plants.md"
+  },
+  {
     "id": "notes-reasoning-rf1",
     "title": "Reasoning: Letters & numbers (RF1)",
     "icon": "brain",

@@ -23,7 +23,8 @@ const knownNotes = {
   'General Awareness/Biology/02-Fibre-to-Fabric.md': { id: 'notes-biology-02', title: 'Biology: Fibre to fabric', label: 'Biology: Fibre to fabric', icon: 'plant', subtitle: 'Plant and animal fibres, silk and wool processing cycles.' },
   'General Awareness/Biology/03-Categories-of-Plants.md': { id: 'notes-biology-03', title: 'Biology: Categories of plants', label: 'Biology: Plants', icon: 'plant', subtitle: 'Plant types, leaves, transport, photosynthesis, reproduction, and 45 source questions.' },
   'General Awareness/Biology/04-Body-Movements.md': { id: 'notes-biology-04', title: 'Biology: Body movements', label: 'Biology: Body movements', icon: 'dna', subtitle: 'Animal locomotion, bones, joints, muscles, 40 worked models, and 100 source questions with corrections.' },
-  'General Awareness/Biology/05-Living-Organisms-Characteristics-and-Habitats.md': { id: 'notes-biology-05', title: 'Biology: Living organisms & habitats', label: 'Biology: Living organisms', icon: 'plant', subtitle: 'Life processes, habitat adaptations, 35 worked models, and 60 source questions with explanations.' }
+  'General Awareness/Biology/05-Living-Organisms-Characteristics-and-Habitats.md': { id: 'notes-biology-05', title: 'Biology: Living organisms & habitats', label: 'Biology: Living organisms', icon: 'plant', subtitle: 'Life processes, habitat adaptations, 35 worked models, and 60 source questions with explanations.' },
+  'General Awareness/Biology/06-Nutrition-in-Plants.md': { id: 'notes-biology-06', title: 'Biology: Nutrition in plants', label: 'Biology: Plant nutrition', icon: 'plant', subtitle: 'English + Tamil photosynthesis and plant nutrition, 40 worked models, and 60 source questions with corrections.' }
 };
 
 export async function readNoteDocuments(notesRoot) {

@@ -10,12 +10,12 @@
 | Subject Area | Total Notes | ✅ Modernized | 🟡 Pending | Progress |
 | :--- | :---: | :---: | :---: | :---: |
 | **Reasoning** | 7 | 7 | 0 | **100%** |
-| **General Awareness (Biology)** | 5 | 5 | 0 | **100%** |
+| **General Awareness (Biology)** | 6 | 6 | 0 | **100%** |
 | **English Language** | 6 | 6 | 0 | **100%** |
-| **Total** | **18** | **18** | **0** | **100.0%** |
+| **Total** | **19** | **19** | **0** | **100.0%** |
 
 ```text
-Repository Progress: [████████████████████] 100.0% (18 / 18 Notes Complete) 🎉
+Repository Progress: [████████████████████] 100.0% (19 / 19 Notes Complete) 🎉
 ```
 
 ---
@@ -34,7 +34,7 @@ Repository Progress: [███████████████████�
 
 ---
 
-## 2. 🌿 General Awareness — Biology (5 / 5 Complete — 100%)
+## 2. 🌿 General Awareness — Biology (6 / 6 Complete — 100%)
 
 | Code | Note File | Coverage / Models | Tests | Status |
 | :---: | :--- | :---: | :---: | :---: |
@@ -43,6 +43,7 @@ Repository Progress: [███████████████████�
 | **G11-P3** | [`General Awareness/Biology/03-Categories-of-Plants.md`](General%20Awareness/Biology/03-Categories-of-Plants.md) | 35 Models / 45 Qs | ✅ Pass | **✅ Complete** |
 | **G11-P4** | [`General Awareness/Biology/04-Body-Movements.md`](General%20Awareness/Biology/04-Body-Movements.md) | 40 Models / 100 Qs | ✅ Pass | **✅ Complete** |
 | **G11-P5** | [`General Awareness/Biology/05-Living-Organisms-Characteristics-and-Habitats.md`](General%20Awareness/Biology/05-Living-Organisms-Characteristics-and-Habitats.md) | 35 Models / 60 Qs | ✅ Pass | **✅ Complete** |
+| **G11-P6** | [`General Awareness/Biology/06-Nutrition-in-Plants.md`](General%20Awareness/Biology/06-Nutrition-in-Plants.md) | 40 Models / 60 Qs | ✅ Pass | **✅ Complete** |
 
 ---
 
