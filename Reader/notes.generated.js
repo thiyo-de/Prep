@@ -169,6 +169,18 @@ export const noteDocuments = [
     "path": "Notes/Reasoning/05-R08-Coding-Decoding.md"
   },
   {
+    "id": "notes-reasoning-r09",
+    "title": "Reasoning: Word formation (R09)",
+    "icon": "brain",
+    "subtitle": "English + Tamil letter counts, selected positions, jumbles, order rules, 20 worked models and independent practice.",
+    "label": "R09: Word formation",
+    "group": "Study notes",
+    "subject": "Reasoning",
+    "folders": [],
+    "noteLabel": "Word formation (R09)",
+    "path": "Notes/Reasoning/06-R09-Word-Formation.md"
+  },
+  {
     "id": "notes-english-ef1",
     "title": "English: Sentences & parts of speech (EF1)",
     "icon": "book-open",
