@@ -40,8 +40,8 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 └───────┬───────┘           └───────┬───────┘           └───────┬───────┘
         │                           │                           │
   [+] English (15 min):       [+] GA Recall (10 min):     [+] Maths (15 min):
-      • 5m: Due reviews           • 5m: Static recall         • 5m: Tables/Squares
-      • 5m: 3-5 new words         • 5m: Current affairs       • 5m: Fractions/%
+      • 5m: Due reviews           • Morning audio transit     • 5m: Tables/Squares
+      • 5m: 3-5 new words         • Post-lunch recall         • 5m: Fractions/%
       • 5m: Read / grammar    [+] Typing (20 min):            • 5m: Mental math
   [+] Reasoning (5 min):          • Lunch break accuracy  [+] Core Maths (145m):
       • 2m: Alphabet / rules  [+] Fallback:               • Chapter / PYQ deep
@@ -255,6 +255,25 @@ The existing Sunday GA quiz supplies the longer check. A daily five-minute news 
 
 > **தமிழில்:** குறிப்பைப் பார்த்துக்கொண்டே படிப்பது நினைவில் இருப்பதற்குச் சான்றல்ல. மூடிவிட்டு பதில் சொல்; பிறகு சரிபார். நாள்தோறும் புதிய அத்தியாயம் தொடங்காமல், படித்தவற்றை மீட்டெடு.
 
+### 6.1 The Working Professional's Routine: Morning Audio ➔ After-Lunch Recall
+
+For candidates managing an 8:00 AM – 7:00 PM job, do not try to read static textbooks or write extensive notes during office hours or late at night. Execute this two-stage habit loop:
+
+1. **Morning Commute / Transit (Audio Input):**
+   - Listen to GK audio, daily current affairs compilations, or science/history lectures on headphones while traveling to work.
+   - This provides low-friction mental exposure and initial encoding without consuming seated study hours.
+2. **After-Lunch Workday Break (Closed-Book Recall, 5–10 min):**
+   - 4 to 6 hours after listening, spend 5–10 minutes during your post-lunch break or short walk performing **closed-book retrieval**.
+   - Mentally ask yourself: *"What were the 3–5 key facts, names, dates, or terms from this morning's audio?"*
+   - **Non-negotiable rule:** Do **NOT** re-listen to the audio during lunch. Passive re-listening creates an illusion of competence; only unaided memory retrieval builds permanent retention.
+   - If you encounter a blank, note 1 keyword on your phone (e.g., `magnesium in chlorophyll?`).
+3. **Evening Benefit (Zero GK Burden):**
+   - If you noted a blank keyword at lunch, look it up for 30 seconds upon getting home.
+   - **Tick the daily 10-minute GA Foundation Drill as COMPLETE.**
+   - Do not open GK books in the evening; protect your uninterrupted 8:00–11:00 PM session 100% for deep Maths practice.
+
+---
+
 ## 7. 💻 Computers and typing: keep the existing arrangement
 
 Your **45-minute drill total excludes the existing workday lunch typing slot**, which is up to 20 minutes when practical, and the existing weekend computer practical/review. This is already part of your wider plan; it is not a new addition.
@@ -407,7 +426,7 @@ This diagnostic checklist tests whether your daily foundation routine satisfies 
 | **05** | **Exact vs. Rounded Fractions** | Use exact mixed fractions where applicable (1/3 = 33⅓%); use ≈ for decimals (1/7 ≈ 14.29%). | Writing 1/7 = 14.28% as an exact equality is mathematically wrong. | [ ] |
 | **06** | **Contextual Vocabulary** | Anchor every new word to a concise Tamil meaning, one related word, and one short sentence. | Do not memorize isolated dictionary lists without contextual usage. | [ ] |
 | **07** | **Reasoning Micro-Drills** | Test forward/reverse alphabet positions (sum = 27) and letter counts in word formation. | Do not attempt 15-minute puzzles in this 5-minute maintenance slot. | [ ] |
-| **08** | **Static Contrast & Dated CA** | Isolate confusing pairs (chloroplast = organelle vs. chlorophyll = pigment); date changeable news facts. | Do not count untested audio listening as active retention. | [ ] |
+| **08** | **Morning Audio ➔ Lunch Recall** | Morning audio provides initial exposure; after lunch, perform closed-book mental recall of 3–5 facts. | Never count untested audio listening as active retention; do not re-listen at lunch. | [ ] |
 | **09** | **Emergency Fallback Execution** | On exhausted or overtime days, execute the 15-minute emergency routine (M5 + E5 + R2 + GA3). | Do not skip entirely or double tomorrow's hours; log it honestly as reduced. | [ ] |
 | **10** | **Shuffled Sample Benchmark** | Aim for ≥ 19/20 correct on shuffled familiar fact samples across 3 separate days. | Fast recall proves fluency, but does not replace full chapter problem solving. | [ ] |
 

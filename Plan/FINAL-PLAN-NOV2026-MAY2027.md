@@ -54,7 +54,8 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 │  (2 Hours)              │  (Office + Transit)           │  (3 Hours)                   │
 ├─────────────────────────┼───────────────────────────────┼──────────────────────────────┤
 │  • Phase 1: Reasoning   │  • 🎧 Audio: GK & Computers   │  • 📐 Maths Depth            │
-│  • Phase 2: English     │  • ⌨️ Lunch: 20m DEST Typing  │  • Uninterrupted 180 min     │
+│  • Phase 2: English     │  • 🧠 Lunch: 10m GA Recall    │  • Uninterrupted 180 min     │
+│                         │  • ⌨️ Lunch: 20m DEST Typing  │                              │
 └─────────────────────────┴───────────────────────────────┴──────────────────────────────┘
 ```
 
@@ -63,7 +64,7 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 **Work Hours: 8:00 AM – 7:00 PM**  
 - **Morning (5:00–7:00 AM):** Reasoning until its dedicated learning phase is complete; then English. One main learning subject per morning.
 - **Evening (8:00–11:00 PM):** Maths throughout both phases. Give the weakest subject the largest daily block.
-- **Workday Audio:** Listen to GK/current affairs and computer theory during transit/work breaks.
+- **Workday Audio & Recall:** Listen to GK/current affairs and computer theory during morning transit. After lunch, spend 5–10 minutes performing closed-book mental recall of key facts (completes the daily GA foundation drill).
 - **Lunch Break:** 20 minutes beginner typing practice (separate from the 5 study hours; preserve time to eat).
 
 | Study Block | Duration | Detailed Schedule & Action Plan |
