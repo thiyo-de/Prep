@@ -69,10 +69,25 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 
 | Study Block | Duration | Detailed Schedule & Action Plan |
 | :--- | :---: | :--- |
-| 🌅 **Morning — Reasoning Phase (Nov–Jan)** | **120 min** | **30 min:** English foundation habit (10m vocab & roots + 10m reading + 10m grammar PYQs) → **90 min:** Dedicated Reasoning chapter work (**10 min:** recall earlier methods/due errors → **25 min:** concepts/examples → **45 min:** independent TCS PYQs → **10 min:** corrections). |
-| 🌅 **Morning — English Phase (Feb–Mar)** | **120 min** | Replaces the Reasoning block: **30 min:** English foundation habit → **90 min:** Advanced English Mains practice (extended Reading Comprehension, Cloze Tests, Para-jumbles, and 45-question Tier-II mock solving). |
+| 🌅 **Morning — Reasoning Phase (Nov–Jan)** | **120 min** | **5:00–5:30 AM (30 min):** English foundation habit (10m vocab & roots + 10m micro-reading + 10m grammar PYQs) → **5:30–7:00 AM (90 min):** Reasoning session (**15 min:** reflex warmup on alphabet/opposites/errors → **75 min:** deep chapter concepts, independent TCS PYQs & error repair). |
+| 🌅 **Morning — English Phase (Feb–Mar)** *(The Swap)* | **120 min** | The Clean Swap: **5:00–5:30 AM (30 min):** Reasoning maintenance drills & 15-question speed sets → **5:30–7:00 AM (90 min):** English Mains mastery (**15 min:** vocab/grammar warmup → **75 min:** Voice, Narration, long RC, and full Tier-II mocks). |
 | 🌙 **Evening — Maths (Both Phases)** | **180 min** | **15 min:** Recall, including 5 min tables/squares/cubes → **40 min:** Concepts / attempted examples → **5 min:** Break → **90 min:** Independent practice / PYQs → **5 min:** Break → **25 min:** Error correction and due re-solves. On practice days, use concept time for solving. |
 | **Total Weekday Study Volume** | **300 min (5h)** | One morning row + Maths; includes the two short breaks. Workday audio and 20 min lunch typing remain separate. |
+
+### 📋 The Three Daily Micro-Drill Protocols (Action Checklists)
+
+1. **📖 English (30 min: 5:00–5:30 AM):**
+   - **10m Vocab & Roots:** 5m closed-book due reviews + 5m learn 3–5 new PYQ words/roots (Tamil meaning + 1 context sentence).
+   - **10m Active Reading:** 150–200 word passage → 1-sentence central idea summary.
+   - **10m Grammar PYQs:** 3–5 TCS PYQ questions with rule justification.
+2. **🧠 Reasoning Reflex Warmup (15 min: 5:30–5:45 AM):**
+   - **5m Alphabet Reflex:** Forward ranks ($A=1 \dots Z=26$), reverse ranks ($27-p$), and opposite pairs ($A\text{-}Z, B\text{-}Y, D\text{-}W, G\text{-}T, K\text{-}P, M\text{-}N$) in $< 1$s.
+   - **5m Compass & Traps:** 8-point compass mental turns; logic traps (*at least*, *at most*, word formation letter counts).
+   - **5m Error Re-Solve:** Unaided re-solve of 2–3 recent chapter/test mistakes.
+3. **🌍 GA/GK Workday Routine (10 min on the job):**
+   - **Morning Transit (15–30 min):** Audio listening on headphones (current affairs, biology, history).
+   - **Post-Lunch Break (5–10 min):** 100% closed-book mental recall of 3–5 anchor facts from the morning audio (no re-listening). Note blank keyword on phone.
+   - **Evening (30 sec):** Look up blank keyword. Mark GA drill 100% DONE; zero evening GK fatigue.
 
 ---
 

@@ -39,14 +39,14 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 │   (120 min)   │           │   (30 min)    │           │   (180 min)   │
 └───────┬───────┘           └───────┬───────┘           └───────┬───────┘
         │                           │                           │
-  [+] English (30 min):       [+] GA Recall (10 min):     [+] Maths (15 min):
-      • 10m: Vocab & roots        • Morning audio transit     • 5m: Tables/Squares
-      • 10m: Reading & summary    • Post-lunch recall         • 5m: Fractions/%
-      • 10m: Grammar PYQs     [+] Typing (20 min):            • 5m: Mental math
-  [+] Main Subject (90m):         • Lunch break accuracy  [+] Core Maths (145m):
-      • Deep Reasoning (P1)   [+] Fallback:               • Chapter / PYQ deep
-        or Deep English (P2)      • Shift to evening      [+] Two 5-min Breaks:
-      • Concepts + 25 PYQs          if break missed           • Rest & reset
+  [+] Phase 1 (Nov–Jan):      [+] GA Routine (10m):       [+] Maths (15 min):
+      • 30m: Eng 10-10-10         • Transit audio input       • 5m: Tables/Squares
+      • 15m: Reas Drills          • Post-lunch recall         • 5m: Fractions/%
+      • 75m: Reas Chapter     [+] Typing (20 min):            • 5m: Mental math
+  [+] Phase 2 (The Swap):         • Lunch break accuracy  [+] Core Maths (145m):
+      • 30m: Reas Drills      [+] Fallback:               • Chapter / PYQ deep
+      • 15m: Eng Warmup           • Shift to evening      [+] Two 5-min Breaks:
+      • 75m: Eng Chapter            if break missed           • Rest & reset
         │                           │                           │
         └───────────────────────────┼───────────────────────────┘
                                     │
@@ -89,9 +89,9 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 
 **Important time correction:** Five scheduled hours minus two 5-minute breaks gives **4 hours 50 minutes** of active study. Because GA recall is completed on the job during your post-lunch break, the evening block gives Maths uninterrupted depth.
 
-**Reasoning phase (Nov–Jan):** The morning begins with 30 minutes of English foundation habit (5:00–5:30 AM), followed by a 90-minute uninterrupted Reasoning chapter block (5:30–7:00 AM: 10 min due-error recall + 25 min concepts/examples + 45 min independent questions/PYQs + 10 min corrections). This eliminates mid-morning context-switching while giving Reasoning sufficient depth to finish all chapters by late January.
+**Reasoning phase (Nov–Jan):** The morning begins with 30 minutes of English foundation habit (5:00–5:30 AM), followed by a 90-minute Reasoning session divided as: **First 15 min (5:30–5:45 AM):** Reasoning reflex drills (alphabet ranks, opposites, error re-solve) → **Next 75 min (5:45–7:00 AM):** Deep chapter practice (concepts, independent TCS PYQs, and corrections). This ensures both subjects advance daily without context-switch friction.
 
-**English phase (Feb–Mar):** The morning maintains the same 30-minute foundation habit, followed by 90 minutes of advanced English Mains practice (extended Reading Comprehension, Cloze Tests, Para-jumbles, and full Tier-II 45-question mocks).
+**English phase (Feb–Mar) — The Swap:** On February 1st, the roles swap cleanly: **5:00–5:30 AM (30 min):** Reasoning maintenance drills & 15-question speed sets to preserve your peak 45+/50 score → **5:30–5:45 AM (15 min):** English vocab/grammar warmup → **5:45–7:00 AM (75 min):** Deep English Mains practice (Voice/Narration mechanics, long Reading Comprehension, Cloze Tests, and full Tier-II 45-question mocks).
 
 **If GA is completed in a suitable work break:** Tick it once and return the evening 10 minutes to Maths or recovery. Do not repeat it merely to fill the schedule. Your study accounting becomes 35 drill minutes inside the main blocks plus 10 during the break.
 
@@ -201,31 +201,46 @@ A full editorial every day is not required for this beginner maintenance slot. L
 
 > **தமிழில்:** புதிய சொற்களைவிட பழைய சொற்கள் நினைவில் உள்ளனவா என்பதே முதலில் முக்கியம். ஒரு சொல்லின் தமிழ் அர்த்தத்துடன் அது ஆங்கில வாக்கியத்தில் எப்படி பயன்படுகிறது என்பதையும் அறிந்துகொள்.
 
+### 4.4 📋 Concrete Checklist: What To Do in Your 30-Minute English Drill
+
+Use this step-by-step diagnostic checklist every morning from 5:00 to 5:30 AM:
+
+| Time | Component | Exact Action Items to Complete | Common Mistake to Avoid |
+| :---: | :--- | :--- | :--- |
+| **00–10m** | **Vocabulary & Roots** | • **00–05m:** Closed-book recall of previous 10–15 words (cover English/Tamil, retrieve unaided).<br>• **05–10m:** Learn **3–5 new PYQ words** OR **1 root family** (e.g., `BENE-` = good $\to$ *beneficial, benevolent, benefactor*).<br>• Anchor each word to: **Spelling + Tamil meaning + 1 simple context sentence**. | Do not memorize isolated dictionary lists without contextual usage. If reviews exceed 10m, add zero new words that day. |
+| **10–20m** | **Active Micro-Reading** | • Read **one short passage (150–200 words)** from an editorial, NCERT, or comprehension guide.<br>• Write down or state the core central idea in **exactly one sentence**.<br>• Identify tone (informative, critical, supportive) and note at most 1–2 blocking words. | Do not translate word-by-word into Tamil in your head; read for sentence-level meaning and flow. |
+| **20–30m** | **Grammar PYQ Application** | • Solve **3 to 5 TCS PYQ questions** (Spotting Errors / Sentence Improvement) on a learned rule.<br>• State the exact grammatical reason for the correction (e.g. *"Plural subject with 'as well as' retains head noun agreement"*). | Do not rely on "sounds right / sounds wrong" intuition; demand the exact grammatical rule. |
+
 ---
 
 ## 5. 🧠 Reasoning: 90 minutes deep morning study (Phase 1: Nov–Jan)
 
-During Phase 1 (Nov–Jan), the remaining **90 minutes of your morning (5:30–7:00 AM)** is dedicated entirely to deep Reasoning chapter study. This eliminates mid-morning context switching and gives your brain sufficient depth to master 20–25 PYQs per session:
+During Phase 1 (Nov–Jan), the remaining **90 minutes of your morning (5:30–7:00 AM)** is dedicated entirely to deep Reasoning mastery. It is split into an initial **15-minute reflex warmup drill** followed by **75 minutes of uninterrupted chapter PYQ solving**:
 
-1. **10 min:** Recall earlier methods / due errors from previous chapters.
-2. **25 min:** Concepts, patterns, and attempted examples from the current chapter.
-3. **45 min:** Independent solving of TCS PYQs (Tier-I and CBT-2).
-4. **10 min:** Immediate mistake repair and logging in your error tracker.
+### 5.1 📋 Concrete Checklist: What To Do in Your 15-Minute Reasoning Warmup Drill (5:30 – 5:45 AM)
 
-Useful rapid-recall prompts to keep fresh during chapter warmups:
+Before diving into the 75-minute chapter solving block, execute this 3-step rapid reflex routine:
 
-- Q is the **17th** letter; its reverse-alphabet position is **10**.
-- Opposite of D is **W**; their forward positions sum to **27**.
-- “At least three” means **three or more**, not exactly three.
-- Word-formation questions require letter **counts**, not only the presence of each distinct letter.
+| Time | Drill Focus | Exact Action Items to Complete | Speed & Accuracy Goal |
+| :---: | :--- | :--- | :---: |
+| **00–05m** | **Alphabet Positions & Opposite Pairs** | • Test 8 random letters for forward ranks ($A=1 \dots Z=26$) and reverse ranks ($27 - p$) using **EJOTY** ($5, 10, 15, 20, 25$) and **CFILORUX** ($3, 6, 9 \dots 24$).<br>• Test 5 opposite pairs (sum = 27) using anchors: $A\text{-}Z$, $B\text{-}Y$ (*Boy*), $C\text{-}X$, $D\text{-}W$ (*Dew*), $E\text{-}V$ (*Even*), $F\text{-}U$ (*Full*), $G\text{-}T$ (*GT Road*), $H\text{-}S$ (*High School*), $I\text{-}R$ (*Indian Railway*), $J\text{-}Q$ (*Jungle Queen*), $K\text{-}P$ (*KanPur*), $L\text{-}O$ (*Love*), $M\text{-}N$ (*Man*). | **< 1 second per letter** (Zero finger-counting) |
+| **05–10m** | **Compass & Logic Trap Reflexes** | • Mental 8-point compass turns (Face North $\to$ Right is East; Face West $\to$ Right is North; $180^\circ$ reverse turn; $270^\circ$ right = $90^\circ$ left).<br>• Trap verification: *"at least"* = $\ge$, *"at most"* = $\le$; verify letter **counts** in word formation (e.g. repeating letters). | **Zero diagramming** on 1-hop direction questions |
+| **10–15m** | **Past Error Re-Solve** | • Pull **2 to 3 questions you got wrong** from previous chapters or Sunday tests from your error notebook.<br>• Re-solve them completely unaided to confirm the misconception is permanently repaired. | **100% unaided correction** |
 
-During Phase 2 (Feb–Mar), when the main morning block transitions to full English, maintain a 5-minute maintenance recall drill for Reasoning alongside the Sunday mixed test.
+### 5.2 Next 75 Minutes: Deep Chapter Problem Solving (5:45 – 7:00 AM)
 
-**No blanket 30-second target:** A one-step letter question and a multi-condition puzzle do not require the same time. Record your time after you can solve the method correctly.
+With your brain fully warmed up by the 15-minute drill, execute your chapter workload:
+- **15 min:** Concepts, patterns, and attempted examples from your current chapter note.
+- **50 min:** Independent solving of 20–25 TCS PYQs (SSC CGL Tier-I/II and RRB NTPC CBT-2).
+- **10 min:** Immediate mistake repair and logging in your error tracker.
 
-**Supporting knowledge:** Learn only the vocabulary/facts that your current reasoning questions require. Alphabet and number recall overlap with RF1/Maths; do not repeat identical drills in multiple blocks just to tick both subjects.
+### 5.3 Phase 2 Swap Routine (February – March)
 
-> **தமிழில்:** காலையில் Reasoning பாடத்திற்கு தொடர்ச்சியாக 90 நிமிடங்கள் ஒதுக்குவதால் ஒரு அத்தியாயத்தை 2 அல்லது 3 நாட்களில் முழுமையாக முடித்துவிடலாம். கற்ற முறைகளை மறக்காமல் வைத்திருக்க தினசரி தவறுகளை முதலில் மீட்டெடு.
+When February 1st arrives, the morning routine swaps:
+- **5:00 – 5:30 AM (30 min):** Reasoning takes the first 30 minutes as a **maintenance speed drill & 15-question mixed sectional test** to preserve your 45+/50 score.
+- **5:30 – 7:00 AM (90 min):** English takes the main learning slot (15m vocab/grammar warmup + 75m deep Mains practice on Voice, Narration, and long Reading Comprehension).
+
+> **தமிழில்:** காலையில் Reasoning பாடத்திற்கு தொடர்ச்சியாக 90 நிமிடங்கள் ஒதுக்குவதால் ஒரு அத்தியாயத்தை 2 அல்லது 3 நாட்களில் முழுமையாக முடித்துவிடலாம். முதல் 15 நிமிடங்களை எழுத்து நிலைகள் மற்றும் பழைய தவறுகளை மீட்டெடுக்கப் பயன்படுத்து.
 
 ---
 
@@ -271,6 +286,14 @@ For candidates managing an 8:00 AM – 7:00 PM job, do not try to read static te
    - If you noted a blank keyword at lunch, look it up for 30 seconds upon getting home.
    - **Tick the daily 10-minute GA Foundation Drill as COMPLETE.**
    - Do not open GK books in the evening; protect your uninterrupted 8:00–11:00 PM session 100% for deep Maths practice.
+
+### 6.2 📋 Concrete Checklist: What To Do in Your Workday GA/GK Routine
+
+| Stage | Activity | Exact Action Items to Complete | Why It Works |
+| :---: | :--- | :--- | :--- |
+| **Stage 1 (Morning Transit)** | **Audio Exposure (15–30 min)** | • Listen to 1 curated GK audio episode / current affairs podcast on headphones while traveling to work.<br>• Focus on recognizing core ideas, key historical dates, dynasties, or scientific mechanisms (e.g. *Plant Hormones, Vitamins, Article numbers*). | Low cognitive friction; turns dead commute time into productive memory priming without screen fatigue. |
+| **Stage 2 (Post-Lunch Break)** | **Closed-Book Recall (5–10 min)** | • 4 to 6 hours later, pause during your lunch break or a brief walk.<br>• **Ask yourself:** *"What was the topic? What were 3 to 5 concrete facts or terms mentioned?"*<br>• **Strict Rule:** Do NOT re-listen to the audio. Retrieve from memory only.<br>• If stuck, write **one single keyword** on your phone (e.g., `auxin vs cytokinin?`). | **Delayed Retrieval Effect:** The struggle to recall facts after 4 hours forces long-term memory consolidation. |
+| **Stage 3 (Evening 30s Check)** | **Verification & Signoff** | • Look up your blank keyword for 30 seconds upon reaching home.<br>• **Mark the daily 10-minute GA drill as 100% COMPLETE.**<br>• Do NOT touch GA in the evening; protect your 8:00–11:00 PM session exclusively for Maths. | Closes the error-repair loop immediately, leaving evening mental bandwidth 100% free for Maths. |
 
 ---
 
