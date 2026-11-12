@@ -53,24 +53,24 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 │  5:00 AM – 7:00 AM      │  8:00 AM – 7:00 PM            │  8:00 PM – 11:00 PM          │
 │  (2 Hours)              │  (Office + Transit)           │  (3 Hours)                   │
 ├─────────────────────────┼───────────────────────────────┼──────────────────────────────┤
-│  • Phase 1: Reasoning   │  • 🎧 Audio: GK & Computers   │  • 📐 Maths Depth            │
-│  • Phase 2: English     │  • 🧠 Lunch: 10m GA Recall    │  • Uninterrupted 180 min     │
-│                         │  • ⌨️ Lunch: 20m DEST Typing  │                              │
+│  • 30m English 10-10-10 │  • 🎧 Audio: GK & Computers   │  • 📐 Maths Depth            │
+│  • 90m Deep Reasoning   │  • 🧠 Lunch: 10m GA Recall    │  • Uninterrupted 180 min     │
+│    (Nov–Jan Phase 1)    │  • ⌨️ Lunch: 20m DEST Typing  │                              │
 └─────────────────────────┴───────────────────────────────┴──────────────────────────────┘
 ```
 
 ### ⏰ Monday–Saturday: Weekday Schedule Breakdown
 
 **Work Hours: 8:00 AM – 7:00 PM**  
-- **Morning (5:00–7:00 AM):** Reasoning until its dedicated learning phase is complete; then English. One main learning subject per morning.
+- **Morning (5:00–7:00 AM):** 30 minutes English foundation habit (10m vocab & roots + 10m reading + 10m grammar PYQs), followed by 90 minutes of dedicated main subject study (Reasoning in Phase 1; advanced English in Phase 2).
 - **Evening (8:00–11:00 PM):** Maths throughout both phases. Give the weakest subject the largest daily block.
 - **Workday Audio & Recall:** Listen to GK/current affairs and computer theory during morning transit. After lunch, spend 5–10 minutes performing closed-book mental recall of key facts (completes the daily GA foundation drill).
 - **Lunch Break:** 20 minutes beginner typing practice (separate from the 5 study hours; preserve time to eat).
 
 | Study Block | Duration | Detailed Schedule & Action Plan |
 | :--- | :---: | :--- |
-| 🌅 **Morning — Reasoning Phase** | **120 min** | **15 min:** Recall earlier methods / due errors → **35 min:** Concepts and attempted examples → **55 min:** Independent questions / PYQs → **15 min:** Corrections. On practice days, transfer concept time to solving and the topic test. |
-| 🌅 **Morning — English Phase** | **120 min** | Replaces the Reasoning morning: **20 min:** Vocabulary and due reviews → **30 min:** Current grammar / reading method → **55 min:** Independent practice / PYQs → **15 min:** Corrections. |
+| 🌅 **Morning — Reasoning Phase (Nov–Jan)** | **120 min** | **30 min:** English foundation habit (10m vocab & roots + 10m reading + 10m grammar PYQs) → **90 min:** Dedicated Reasoning chapter work (**10 min:** recall earlier methods/due errors → **25 min:** concepts/examples → **45 min:** independent TCS PYQs → **10 min:** corrections). |
+| 🌅 **Morning — English Phase (Feb–Mar)** | **120 min** | Replaces the Reasoning block: **30 min:** English foundation habit → **90 min:** Advanced English Mains practice (extended Reading Comprehension, Cloze Tests, Para-jumbles, and 45-question Tier-II mock solving). |
 | 🌙 **Evening — Maths (Both Phases)** | **180 min** | **15 min:** Recall, including 5 min tables/squares/cubes → **40 min:** Concepts / attempted examples → **5 min:** Break → **90 min:** Independent practice / PYQs → **5 min:** Break → **25 min:** Error correction and due re-solves. On practice days, use concept time for solving. |
 | **Total Weekday Study Volume** | **300 min (5h)** | One morning row + Maths; includes the two short breaks. Workday audio and 20 min lunch typing remain separate. |
 

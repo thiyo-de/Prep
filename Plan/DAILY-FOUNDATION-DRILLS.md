@@ -39,15 +39,14 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 │   (120 min)   │           │   (30 min)    │           │   (180 min)   │
 └───────┬───────┘           └───────┬───────┘           └───────┬───────┘
         │                           │                           │
-  [+] English (15 min):       [+] GA Recall (10 min):     [+] Maths (15 min):
-      • 5m: Due reviews           • Morning audio transit     • 5m: Tables/Squares
-      • 5m: 3-5 new words         • Post-lunch recall         • 5m: Fractions/%
-      • 5m: Read / grammar    [+] Typing (20 min):            • 5m: Mental math
-  [+] Reasoning (5 min):          • Lunch break accuracy  [+] Core Maths (145m):
-      • 2m: Alphabet / rules  [+] Fallback:               • Chapter / PYQ deep
-      • 3m: 1-3 Qs method         • Shift to evening      [+] Two 5-min Breaks:
-  [+] Main Subject (100m):          if break missed           • Rest & reset
-      • Deep chapter study
+  [+] English (30 min):       [+] GA Recall (10 min):     [+] Maths (15 min):
+      • 10m: Vocab & roots        • Morning audio transit     • 5m: Tables/Squares
+      • 10m: Reading & summary    • Post-lunch recall         • 5m: Fractions/%
+      • 10m: Grammar PYQs     [+] Typing (20 min):            • 5m: Mental math
+  [+] Main Subject (90m):         • Lunch break accuracy  [+] Core Maths (145m):
+      • Deep Reasoning (P1)   [+] Fallback:               • Chapter / PYQ deep
+        or Deep English (P2)      • Shift to evening      [+] Two 5-min Breaks:
+      • Concepts + 25 PYQs          if break missed           • Rest & reset
         │                           │                           │
         └───────────────────────────┼───────────────────────────┘
                                     │
@@ -69,35 +68,34 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 
 ---
 
-## 2. ⏱️ The daily budget: 45 minutes
+## 2. ⏱️ The daily budget: Morning 120m + Evening 180m
 
 | Area | Time | Minimum useful output within the slot |
 |---|---:|---|
-| Maths | **15 min** | Mixed fact recall, a few fraction conversions and short calculations; identify mistakes |
-| English | **15 min** | Due vocabulary review, a small number of new words, short reading or grammar application |
-| Reasoning | **5 min** | Letter/instruction recall and 1–3 short questions from learned methods |
-| GA/GK | **10 min** | Closed-book static recall and a few current-affairs prompts |
-| **Total** | **45 min** | Stop at the limit; record unfinished repair work |
+| English | **30 min** | The 10–10–10 Routine: 10m Vocab & roots + 10m micro-reading + 10m grammar PYQs |
+| Reasoning (Phase 1) | **90 min** | Dedicated morning chapter block: 10m review → 25m concepts → 45m PYQs → 10m corrections |
+| Maths | **15 min** | Mixed fact recall, fraction conversions, short mental calculations; identify mistakes |
+| GA/GK | **10 min** | Morning transit audio exposure + post-lunch closed-book recall on the job |
 
-**45 minutes is a starting coaching budget, not a scientifically proven optimum.** Try it for two weeks. Adjust the mix using your results without automatically increasing total hours.
+**45 minutes of foundation drills (Maths 15m + English 30m) fit naturally into your 5 scheduled study hours without adding fatigue.**
 
 ### Fit inside your existing blocks
 
 | Block | Allocation | Total |
 |---|---|---:|
-| Morning | English maintenance 15 min + Reasoning maintenance 5 min + main morning subject 100 min | 120 min |
-| Evening | Maths drills 15 min + Maths chapter/PYQ/correction work 145 min + two 5-min breaks + GA recall 10 min | 180 min |
-| **Combined** | 45 min drills + 245 min chapter/practice/correction work + 10 min breaks | **300 min** |
+| Morning (5:00–7:00 AM) | English foundation habit 30 min + Main morning subject (Reasoning P1 / English P2) 90 min | 120 min |
+| Evening (8:00–11:00 PM) | Maths drills 15 min + Maths chapter/PYQ/correction work 145 min + two 5-min breaks + GA time credit 10 min | 180 min |
+| **Combined** | 45 min foundation habits + 235 min chapter/practice work + 10 min breaks + 10m GA on job | **300 min** |
 
-**Important time correction:** Five scheduled hours minus 45 minutes leaves 4 hours 15 minutes of schedule space. Because your plan includes two short breaks, actual chapter/practice/correction time here is **4 hours 5 minutes**. Do not count breaks as questions solved.
+**Important time correction:** Five scheduled hours minus two 5-minute breaks gives **4 hours 50 minutes** of active study. Because GA recall is completed on the job during your post-lunch break, the evening block gives Maths uninterrupted depth.
 
-**Reasoning phase:** The 100-minute main morning block can be 10 min due-error recall + 30 min concepts/examples + 45 min independent questions/PYQs + 15 min corrections. The separate five-minute drill is simple maintenance; it does not replace conceptual error repair.
+**Reasoning phase (Nov–Jan):** The morning begins with 30 minutes of English foundation habit (5:00–5:30 AM), followed by a 90-minute uninterrupted Reasoning chapter block (5:30–7:00 AM: 10 min due-error recall + 25 min concepts/examples + 45 min independent questions/PYQs + 10 min corrections). This eliminates mid-morning context-switching while giving Reasoning sufficient depth to finish all chapters by late January.
 
-**English phase:** Keep the same 15-minute English foundation slot, then use the 100-minute main block for approximately 30 min current concept/reading method + 55 min practice/PYQs + 15 min corrections. The 15-minute slot replaces the older separate vocabulary allocation; do not add both. Reasoning's five-minute maintenance does not replace its existing Sunday mixed test.
+**English phase (Feb–Mar):** The morning maintains the same 30-minute foundation habit, followed by 90 minutes of advanced English Mains practice (extended Reading Comprehension, Cloze Tests, Para-jumbles, and full Tier-II 45-question mocks).
 
 **If GA is completed in a suitable work break:** Tick it once and return the evening 10 minutes to Maths or recovery. Do not repeat it merely to fill the schedule. Your study accounting becomes 35 drill minutes inside the main blocks plus 10 during the break.
 
-**Chapter forecasts must reflect the smaller main morning block:** If a topic uses two mornings, it now receives about **200 minutes of dedicated chapter work**, rather than four full hours. Keep the existing two-/three-morning first-pass approach, record unresolved basics honestly, and update your Sunday forecast from actual progress.
+**Chapter forecasts reflect the 90-minute morning block:** Each morning provides **90 minutes of dedicated chapter practice**. Keep the existing two-/three-morning first-pass approach, record unresolved basics honestly, and update your Sunday forecast from actual progress.
 
 ### Protect a workable sleep window
 
@@ -173,15 +171,15 @@ The emphasis changes; keep a few due errors from other groups. Never delay the c
 
 ---
 
-## 4. 📖 English: 15 minutes daily
+## 4. 📖 English: 30 minutes daily (The 10–10–10 Routine)
 
 ### 4.1 The three-part routine
 
 | Time | Action | What to record |
 |---|---|---|
-| 5 min | Recall due words before opening their meanings | Correct / unsure / wrong |
-| 5 min | Learn **3 new useful words initially**, at most 5 if reviews remain manageable | Spelling, Tamil meaning, one useful English meaning/context |
-| 5 min | Short reading **or** 2–3 grammar questions on a learned rule | One-sentence summary or explanation of the correction |
+| **10 min** | **Vocabulary & Root Words:** 5 min recall due words (closed-book) + 5 min learn **3–5 new words** or 1 root word | Spelling, Tamil meaning, one context sentence |
+| **10 min** | **Active Reading & Comprehension:** Read one short passage (150–200 words) from an editorial or NCERT | One-sentence summary in your own words |
+| **10 min** | **Grammar PYQ Application:** Solve 3–5 TCS PYQ questions on error-spotting or sentence improvement | Rule justification for why the correction works |
 
 **Old words come first.** If due reviews fill the slot, learn **zero new words** that day. This is maintenance, not failure. Do not add ten words merely to preserve a streak while forgetting the previous fifty.
 
@@ -195,37 +193,39 @@ Use one short sentence for application; you do not have to write a long original
 
 ### 4.3 Reading and grammar rotation
 
-- **Monday/Wednesday/Friday:** Read one short paragraph, roughly 100–150 words or less if needed. Give its main point in one sentence. Look up at most 1–2 blocking words.
-- **Tuesday/Thursday/Saturday:** Attempt 2–3 questions on a grammar rule you have learned. Say why the corrected form works.
+- **Monday/Wednesday/Friday:** Read one short paragraph, roughly 150–200 words. Give its main point in one sentence. Look up at most 1–2 blocking words.
+- **Tuesday/Thursday/Saturday:** Attempt 3–5 questions on a grammar rule you have learned (e.g. Subject-Verb Agreement, Pronouns, Tenses). Say why the corrected form works.
 - **Sunday:** Review errors using the existing revision slot; do not add a full editorial and a new grammar test.
 
-A full editorial every day is not required for this beginner maintenance slot. Longer reading and 10–15-question grammar sets belong inside the **main English phase**, not on top of the 15 minutes. If a rule is still unlearned, use the slot for vocabulary/reading and put the concept into the main learning queue.
+A full editorial every day is not required for this beginner maintenance slot. Longer reading and 15–20-question grammar sets belong inside the **main English phase (Feb–Mar)**, not on top of the 30 minutes. If a rule is still unlearned, put the concept into the main learning queue.
 
 > **தமிழில்:** புதிய சொற்களைவிட பழைய சொற்கள் நினைவில் உள்ளனவா என்பதே முதலில் முக்கியம். ஒரு சொல்லின் தமிழ் அர்த்தத்துடன் அது ஆங்கில வாக்கியத்தில் எப்படி பயன்படுகிறது என்பதையும் அறிந்துகொள்.
 
 ---
 
-## 5. 🧠 Reasoning: 5 minutes daily
+## 5. 🧠 Reasoning: 90 minutes deep morning study (Phase 1: Nov–Jan)
 
-Use this slot for basic recall and familiar methods. **Do not try to learn seating arrangements, puzzles or syllogism from scratch in five minutes.**
+During Phase 1 (Nov–Jan), the remaining **90 minutes of your morning (5:30–7:00 AM)** is dedicated entirely to deep Reasoning chapter study. This eliminates mid-morning context switching and gives your brain sufficient depth to master 20–25 PYQs per session:
 
-1. **About 2 minutes:** 5–8 mixed prompts on forward/reverse alphabet positions, opposite pairs or instruction meanings.
-2. **About 3 minutes:** 1–3 short questions from learned chapters, including checking. Start with RF1/RF2 and the methods you have actually practised.
+1. **10 min:** Recall earlier methods / due errors from previous chapters.
+2. **25 min:** Concepts, patterns, and attempted examples from the current chapter.
+3. **45 min:** Independent solving of TCS PYQs (Tier-I and CBT-2).
+4. **10 min:** Immediate mistake repair and logging in your error tracker.
 
-Useful prompts:
+Useful rapid-recall prompts to keep fresh during chapter warmups:
 
 - Q is the **17th** letter; its reverse-alphabet position is **10**.
 - Opposite of D is **W**; their forward positions sum to **27**.
 - “At least three” means **three or more**, not exactly three.
 - Word-formation questions require letter **counts**, not only the presence of each distinct letter.
 
-During the Reasoning phase, draw questions from earlier completed methods. During the English phase, continue this tiny maintenance slot and retain the existing **Sunday mixed Reasoning set and corrections**.
+During Phase 2 (Feb–Mar), when the main morning block transitions to full English, maintain a 5-minute maintenance recall drill for Reasoning alongside the Sunday mixed test.
 
 **No blanket 30-second target:** A one-step letter question and a multi-condition puzzle do not require the same time. Record your time after you can solve the method correctly.
 
 **Supporting knowledge:** Learn only the vocabulary/facts that your current reasoning questions require. Alphabet and number recall overlap with RF1/Maths; do not repeat identical drills in multiple blocks just to tick both subjects.
 
-> **தமிழில்:** சிறிய அடிப்படைப் பயிற்சியும் முழு Reasoning அத்தியாயப் பயிற்சியும் வேறு. கற்ற முறைகளை மறக்காமல் வைத்திருக்க இந்த ஐந்து நிமிடம் பயன்படும்.
+> **தமிழில்:** காலையில் Reasoning பாடத்திற்கு தொடர்ச்சியாக 90 நிமிடங்கள் ஒதுக்குவதால் ஒரு அத்தியாயத்தை 2 அல்லது 3 நாட்களில் முழுமையாக முடித்துவிடலாம். கற்ற முறைகளை மறக்காமல் வைத்திருக்க தினசரி தவறுகளை முதலில் மீட்டெடு.
 
 ---
 
@@ -419,13 +419,13 @@ This diagnostic checklist tests whether your daily foundation routine satisfies 
 
 | # | Diagnostic Standard | Key Routine Rule | Common Mistake to Avoid | Status |
 | :-: | :--- | :--- | :--- | :-: |
-| **01** | **Strict 45-Minute Ceiling** | 15m Maths + 15m English + 5m Reasoning + 10m GA = 45 min total. Stop at the timer limit. | Never steal time from your 7-hour sleep window or core chapter deep-work. | [ ] |
+| **01** | **Strict Morning Timebox** | 30m English habit + 90m Reasoning = 120 min total morning window (5:00–7:00 AM). | Never steal time from your 7-hour sleep window or extend morning past 7:00 AM. | [ ] |
 | **02** | **Closed-Book Retrieval First** | Always attempt recall from memory before flipping the card or checking notes. | Passive rereading is recognition, not retrieval; only unaided recall builds memory. | [ ] |
 | **03** | **Zero-Backlog Rule** | Review due cards first. If reviews fill the slot, add exactly **zero new words/cards** that day. | Never add 10 new words just to maintain a streak while forgetting the previous 50. | [ ] |
 | **04** | **Bidirectional Math Roots** | Practice both ways: 25² = 625 ↔ √625 = 25; 12³ = 1728 ↔ ∛1728 = 12. | Don't just recite tables in sequential order; test shuffled, mixed products. | [ ] |
 | **05** | **Exact vs. Rounded Fractions** | Use exact mixed fractions where applicable (1/3 = 33⅓%); use ≈ for decimals (1/7 ≈ 14.29%). | Writing 1/7 = 14.28% as an exact equality is mathematically wrong. | [ ] |
 | **06** | **Contextual Vocabulary** | Anchor every new word to a concise Tamil meaning, one related word, and one short sentence. | Do not memorize isolated dictionary lists without contextual usage. | [ ] |
-| **07** | **Reasoning Micro-Drills** | Test forward/reverse alphabet positions (sum = 27) and letter counts in word formation. | Do not attempt 15-minute puzzles in this 5-minute maintenance slot. | [ ] |
+| **07** | **English 10-10-10 Habit** | 10m Vocab & roots + 10m micro-reading + 10m grammar PYQs build intuitive English fluency. | Do not skip reading to just memorize isolated vocabulary lists. | [ ] |
 | **08** | **Morning Audio ➔ Lunch Recall** | Morning audio provides initial exposure; after lunch, perform closed-book mental recall of 3–5 facts. | Never count untested audio listening as active retention; do not re-listen at lunch. | [ ] |
 | **09** | **Emergency Fallback Execution** | On exhausted or overtime days, execute the 15-minute emergency routine (M5 + E5 + R2 + GA3). | Do not skip entirely or double tomorrow's hours; log it honestly as reduced. | [ ] |
 | **10** | **Shuffled Sample Benchmark** | Aim for ≥ 19/20 correct on shuffled familiar fact samples across 3 separate days. | Fast recall proves fluency, but does not replace full chapter problem solving. | [ ] |
