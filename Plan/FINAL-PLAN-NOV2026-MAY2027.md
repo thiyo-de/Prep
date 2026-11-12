@@ -86,8 +86,8 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
    - **5m Error Re-Solve:** Unaided re-solve of 2–3 recent chapter/test mistakes.
 3. **🌍 GA/GK Workday Routine (10 min on the job):**
    - **Morning Transit (15–30 min):** Audio listening on headphones (current affairs, biology, history).
-   - **Post-Lunch Break (5–10 min):** 100% closed-book mental recall of 3–5 anchor facts from the morning audio (no re-listening). Note blank keyword on phone.
-   - **Evening (30 sec):** Look up blank keyword. Mark GA drill 100% DONE; zero evening GK fatigue.
+   - **Post-Lunch Break (5–10 min):** 100% closed-book mental recall of 3–5 anchor facts from the morning audio (no re-listening).
+   - **100% Complete on the Job:** Your daily GA drill is fully finished right at work. Zero GK tasks, notes, or lookups in the evening!
 
 ---
 

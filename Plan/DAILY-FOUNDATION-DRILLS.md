@@ -281,19 +281,15 @@ For candidates managing an 8:00 AM – 7:00 PM job, do not try to read static te
    - 4 to 6 hours after listening, spend 5–10 minutes during your post-lunch break or short walk performing **closed-book retrieval**.
    - Mentally ask yourself: *"What were the 3–5 key facts, names, dates, or terms from this morning's audio?"*
    - **Non-negotiable rule:** Do **NOT** re-listen to the audio during lunch. Passive re-listening creates an illusion of competence; only unaided memory retrieval builds permanent retention.
-   - If you encounter a blank, note 1 keyword on your phone (e.g., `magnesium in chlorophyll?`).
-3. **Evening Benefit (Zero GK Burden):**
-   - If you noted a blank keyword at lunch, look it up for 30 seconds upon getting home.
-   - **Tick the daily 10-minute GA Foundation Drill as COMPLETE.**
-   - Do not open GK books in the evening; protect your uninterrupted 8:00–11:00 PM session 100% for deep Maths practice.
+   - **100% Signoff on the Job:** Once you complete this 5–10 minute mental recall, **your daily 10-minute GA Foundation Drill is 100% COMPLETE**.
+   - You do NOT carry any GK tasks into your evening at home; protect your uninterrupted 8:00–11:00 PM session 100% for deep Maths practice.
 
 ### 6.2 📋 Concrete Checklist: What To Do in Your Workday GA/GK Routine
 
 | Stage | Activity | Exact Action Items to Complete | Why It Works |
 | :---: | :--- | :--- | :--- |
 | **Stage 1 (Morning Transit)** | **Audio Exposure (15–30 min)** | • Listen to 1 curated GK audio episode / current affairs podcast on headphones while traveling to work.<br>• Focus on recognizing core ideas, key historical dates, dynasties, or scientific mechanisms (e.g. *Plant Hormones, Vitamins, Article numbers*). | Low cognitive friction; turns dead commute time into productive memory priming without screen fatigue. |
-| **Stage 2 (Post-Lunch Break)** | **Closed-Book Recall (5–10 min)** | • 4 to 6 hours later, pause during your lunch break or a brief walk.<br>• **Ask yourself:** *"What was the topic? What were 3 to 5 concrete facts or terms mentioned?"*<br>• **Strict Rule:** Do NOT re-listen to the audio. Retrieve from memory only.<br>• If stuck, write **one single keyword** on your phone (e.g., `auxin vs cytokinin?`). | **Delayed Retrieval Effect:** The struggle to recall facts after 4 hours forces long-term memory consolidation. |
-| **Stage 3 (Evening 30s Check)** | **Verification & Signoff** | • Look up your blank keyword for 30 seconds upon reaching home.<br>• **Mark the daily 10-minute GA drill as 100% COMPLETE.**<br>• Do NOT touch GA in the evening; protect your 8:00–11:00 PM session exclusively for Maths. | Closes the error-repair loop immediately, leaving evening mental bandwidth 100% free for Maths. |
+| **Stage 2 (Post-Lunch Break)** | **Closed-Book Recall (5–10 min) & 100% Signoff** | • 4 to 6 hours later, pause during your lunch break or a brief walk.<br>• **Ask yourself:** *"What was the topic? What were 3 to 5 concrete facts or terms mentioned?"*<br>• **Strict Rule:** Do NOT re-listen to the audio. Retrieve from memory only.<br>• **100% Complete:** Your daily GA drill is finished right here at work. Zero GK tasks, notes, or lookups in the evening! | **Delayed Retrieval Effect:** The struggle to recall facts after 4 hours forces long-term memory consolidation, leaving your evening 100% free for Maths. |
 
 ---
 
