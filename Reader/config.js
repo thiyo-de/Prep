@@ -3,6 +3,7 @@ import { noteDocuments } from './notes.generated.js';
 export const repo = { owner: 'thiyo-de', name: 'Prep', branch: 'main' };
 export const documents = [
   { id: 'plan', title: 'The study plan', label: 'Master plan', icon: 'compass', group: 'Your roadmap', path: 'Plan/FINAL-PLAN-NOV2026-MAY2027.md', subtitle: 'One plan. A little progress, every day.' },
+  { id: 'daily-drills', title: 'Daily foundation drills', label: 'Daily drills', icon: 'compass', group: 'Your roadmap', path: 'Plan/DAILY-FOUNDATION-DRILLS.md', subtitle: 'A 45-minute routine for recall, calculation, vocabulary and revision within your study time.' },
   { id: 'maths', title: 'Maths', icon: 'math', group: 'Subject checklists', path: 'Plan/Subject-Checklists/MATHS-CHECKLIST.md', subtitle: 'Understand the method. Build accuracy. Then speed.' },
   { id: 'english', title: 'English', icon: 'book', group: 'Subject checklists', path: 'Plan/Subject-Checklists/ENGLISH-CHECKLIST.md', subtitle: 'Build meaning, one sentence at a time.' },
   { id: 'reasoning', title: 'Reasoning', icon: 'puzzle', group: 'Subject checklists', path: 'Plan/Subject-Checklists/REASONING-CHECKLIST.md', subtitle: 'Find the relationship. Explain the answer.' },
