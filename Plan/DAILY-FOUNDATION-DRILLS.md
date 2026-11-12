@@ -1,7 +1,7 @@
 # 🎯 Daily Foundation Drills | தினசரி அடிப்படைப் பயிற்சிகள்
 
 > **For:** Your SSC CGL and RRB NTPC preparation; CHSL remains a backup  
-> **Normal-day budget:** 45 minutes, included within your existing study time  
+> **Normal-day budget:** 55 minutes foundation habits (Eng 30m + Maths 25m), included within your existing 5 study hours  
 > **Main priority:** Maths depth in the evening; Reasoning first in the morning, then English  
 > **Updated:** 12 November 2026
 
@@ -19,17 +19,17 @@ These short drills build the recall and basic fluency that support chapter pract
 
 The older resource guide's “10 new words plus an editorial daily” is **not an extra quota** on top of this routine. Use the manageable word and reading targets below.
 
-### 1.1 Master Architecture Map — Daily 45-Minute Foundation Routine & Habit Loop
+### 1.1 Master Architecture Map — Daily Foundation Routines & Habit Loop
 
 ```text
 ═══════════════════════════════════════════════════════════════════════════════
-        DAILY 45-MINUTE FOUNDATION ROUTINE & HABIT LOOP ARCHITECTURE
+        DAILY FOUNDATION ROUTINES & HABIT LOOP ARCHITECTURE
 ═══════════════════════════════════════════════════════════════════════════════
 
                     ┌────────────────────────────────┐
                     │      WORKING PROFESSIONAL      │
                     │   8:00 AM – 7:00 PM Workday    │
-                    │   45-Min Fixed Daily Drills    │
+                    │ 55-Min Habits (Eng 30m+Math 25m)│
                     └───────────────┬────────────────┘
                                     │
         ┌───────────────────────────┼───────────────────────────┐
@@ -39,14 +39,18 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 │   (120 min)   │           │   (30 min)    │           │   (180 min)   │
 └───────┬───────┘           └───────┬───────┘           └───────┬───────┘
         │                           │                           │
-  [+] Phase 1 (Nov–Jan):      [+] GA Routine (10m):       [+] Maths (15 min):
-      • 30m: Eng 10-10-10         • Transit audio input       • 5m: Tables/Squares
-      • 15m: Reas Drills          • Post-lunch recall         • 5m: Fractions/%
-      • 75m: Reas Chapter     [+] Typing (20 min):            • 5m: Mental math
-  [+] Phase 2 (The Swap):         • Lunch break accuracy  [+] Core Maths (145m):
-      • 30m: Reas Drills      [+] Fallback:               • Chapter / PYQ deep
-      • 15m: Eng Warmup           • Shift to evening      [+] Two 5-min Breaks:
-      • 75m: Eng Chapter            if break missed           • Rest & reset
+  [+] Phase 1 (Nov–Jan):      [+] GA Routine (10m):       [+] Maths (25 min):
+      • 30m: Eng 10-10-10         • Transit audio input       • 5m: Tables (1–30)
+      • 15m: Reas Drills          • Post-lunch recall         • 5m: Squares & Cubes
+      • 75m: Reas Chapter     [+] Typing (20 min):            • 5m: Fractions & %
+  [+] Phase 2 (The Swap):         • Lunch break accuracy      • 5m: Triplets & Geom
+      • 30m: Reas Drills      [+] Fallback:                   • 5m: Mental Math & Split
+      • 15m: Eng Warmup           • Shift to evening      [+] Core Maths (145m):
+      • 75m: Eng Chapter            if break missed           • 60m: Concepts/PYQ
+        │                           │                         • 65m: Timed Solving
+        │                           │                         • 20m: Error Repair
+        │                           │                     [+] Two 5-min Breaks:
+        │                           │                         • 9:25–9:30 & 10:35–10:40
         │                           │                           │
         └───────────────────────────┼───────────────────────────┘
                                     │
@@ -73,19 +77,19 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 | Area | Time | Minimum useful output within the slot |
 |---|---:|---|
 | English | **30 min** | The 10–10–10 Routine: 10m Vocab & roots + 10m micro-reading + 10m grammar PYQs |
-| Reasoning (Phase 1) | **90 min** | Dedicated morning chapter block: 10m review → 25m concepts → 45m PYQs → 10m corrections |
-| Maths | **15 min** | Mixed fact recall, fraction conversions, short mental calculations; identify mistakes |
+| Reasoning (Phase 1) | **90 min** | Dedicated morning chapter block: 15m reflex drills → 75m deep chapter practice & PYQs |
+| Maths | **25 min** | First 25 minutes of evening (8:00–8:25 PM): 5-point calculation warmup (tables, squares/cubes, fractions, triplets, mental math) |
 | GA/GK | **10 min** | Morning transit audio exposure + post-lunch closed-book recall on the job |
 
-**45 minutes of foundation drills (Maths 15m + English 30m) fit naturally into your 5 scheduled study hours without adding fatigue.**
+**55 minutes of foundation habits (English 30m + Maths 25m) fit naturally into your 5 scheduled study hours without adding fatigue.**
 
 ### Fit inside your existing blocks
 
 | Block | Allocation | Total |
 |---|---|---:|
 | Morning (5:00–7:00 AM) | English foundation habit 30 min + Main morning subject (Reasoning P1 / English P2) 90 min | 120 min |
-| Evening (8:00–11:00 PM) | Maths drills 15 min + Maths chapter/PYQ/correction work 145 min + two 5-min breaks + GA time credit 10 min | 180 min |
-| **Combined** | 45 min foundation habits + 235 min chapter/practice work + 10 min breaks + 10m GA on job | **300 min** |
+| Evening (8:00–11:00 PM) | Maths speed drills 25 min + Maths chapter concepts 60 min + timed solving 65 min + error repair 20 min + two 5-min breaks | 180 min |
+| **Combined** | 55 min foundation habits + 215 min chapter/practice work + 20 min error repair + 10 min breaks + 10m GA on job | **300 min** |
 
 **Important time correction:** Five scheduled hours minus two 5-minute breaks gives **4 hours 50 minutes** of active study. Because GA recall is completed on the job during your post-lunch break, the evening block gives Maths uninterrupted depth.
 
@@ -93,7 +97,7 @@ The older resource guide's “10 new words plus an editorial daily” is **not a
 
 **English phase (Feb–Mar) — The Swap:** On February 1st, the roles swap cleanly: **5:00–5:30 AM (30 min):** Reasoning maintenance drills & 15-question speed sets to preserve your peak 45+/50 score → **5:30–5:45 AM (15 min):** English vocab/grammar warmup → **5:45–7:00 AM (75 min):** Deep English Mains practice (Voice/Narration mechanics, long Reading Comprehension, Cloze Tests, and full Tier-II 45-question mocks).
 
-**If GA is completed in a suitable work break:** Tick it once and return the evening 10 minutes to Maths or recovery. Do not repeat it merely to fill the schedule. Your study accounting becomes 35 drill minutes inside the main blocks plus 10 during the break.
+**GA is completed on the job:** GA recall is completed during your post-lunch break (10 min), leaving your evening 8:00–11:00 PM session 100% focused on Maths without distraction.
 
 **Chapter forecasts reflect the 90-minute morning block:** Each morning provides **90 minutes of dedicated chapter practice**. Keep the existing two-/three-morning first-pass approach, record unresolved basics honestly, and update your Sunday forecast from actual progress.
 
@@ -103,9 +107,37 @@ Your requested **11 PM finish and 5 AM restart leave only six hours between sess
 
 ---
 
-## 3. 📐 Maths: 15 minutes daily
+## 3. 📐 Maths: 25 minutes daily (The Evening Calculation Warmup)
 
-### 3.1 What to learn, in order
+### 3.1 Why the First 25 Minutes (8:00 – 8:25 PM)?
+
+A crucial strategic decision in your daily study routine is **when** to perform calculation drills:
+
+| Timing Option | Strategic Assessment | Recommendation |
+|---|---|---|
+| **First 25 min (8:00–8:25 PM)** | **Fires up the brain's arithmetic engine.** Starting with rapid mental calculation shakes off office fatigue, gets blood flowing, and sets a high-speed tempo for the 2.5 hours of chapter problem solving that follow. | ✅ **Mandatory (The Optimal Path)** |
+| **Last 30 min (10:30–11:00 PM)** | **Cognitive exhaustion.** After 2 hours of heavy algebra, geometry, or arithmetic, your brain is depleted. Doing rapid drills late at night causes careless errors, frustration, and ruins sleep onset. The final 20 minutes (10:40–11:00 PM) are reserved strictly for quiet error logging and wind-down. | ❌ **Forbidden (Low Retention)** |
+
+> **தமிழில்:** கணக்கு வேகப் பயிற்சிகளை (Drills) இரவு அமர்வின் **முதல் 25 நிமிடங்களில் (8:00 – 8:25 PM)** செய்ய வேண்டும். இது மூளையை உற்சாகப்படுத்தி, அடுத்த 2 மணி நேரப் பயிற்சிக்குத் தயார்படுத்தும். அமர்வின் முடிவில் (10:30 PM) மூளை சோர்வடைந்துவிடும் என்பதால், கடைசி 20 நிமிடங்களைத் தவறு திருத்துவதற்கும் (Error Log) அமைதியான திருப்புதலுக்கும் மட்டுமே பயன்படுத்த வேண்டும்.
+
+---
+
+### 3.2 The 180-Minute Evening Maths Blueprint
+
+The complete evening anchor (8:00 PM – 11:00 PM) is structured with precision to balance calculation speed, deep conceptual learning, timed pressure, and error consolidation:
+
+| Timeline | Phase | Duration | Core Action & Execution Standard |
+| :---: | :--- | :---: | :--- |
+| **8:00 – 8:25 PM** | **Phase 1: Calculation Warmup Drills** | **25 min** | Non-negotiable mental arithmetic warmup (5 drills × 5 min each: Tables, Squares/Cubes, Fractions, Triplets, Mental Splitting). Closed-book; zero scratchpad dependency. |
+| **8:25 – 9:25 PM** | **Phase 2: Concept Learning & Worked PYQs** | **60 min** | Study chapter theory, derivations, shortcut logic, and analyze 10–12 representative TCS PYQ pattern models. Understand *why* methods work. |
+| **9:25 – 9:30 PM** | **⚡ Brain Reset & Hydration Break** | **5 min** | Step away from the desk, drink water, stretch eyes. Zero screen time. |
+| **9:30 – 10:35 PM** | **Phase 3: Timed Independent Solving** | **65 min** | High-intensity sprint: Solve 25–35 fresh TCS PYQs under exam timer. Focus on question selection, skip discipline, and sub-60s execution. |
+| **10:35 – 10:40 PM** | **⚡ Physical Reset Break** | **5 min** | Short walk, deep breathing, reset mental state. |
+| **10:40 – 11:00 PM** | **Phase 4: Error Repair & Formula Retention** | **20 min** | Log missed/slow questions into Error Tracker. Re-solve wrong questions completely unaided. Quick 3-min flashcard review of tough formulas. Pack desk for 11:00 PM wind-down. |
+
+---
+
+### 3.3 What to learn, in order
 
 These are preparation targets, not an official exam-mandated memorisation list. Learn in small batches; do not wait to finish the entire list before starting chapter questions.
 
@@ -115,7 +147,7 @@ These are preparation targets, not an official exam-mandated memorisation list. 
 | First | Squares **1²–20²** | Recall the square and recognise its positive square root |
 | First | Cubes **1³–10³** | Recall the cube and recognise its cube root |
 | First | Common fractions and percentages | Convert both ways and use them to find a part of a quantity |
-| Next | Squares **21²–30²**, cubes **11³–15³** | Add gradually once earlier facts are dependable |
+| Next | Squares **21²–50²**, cubes **11³–30³** | Add gradually once earlier facts are dependable |
 | Ongoing | Short mental arithmetic | Use decomposition, complements, cancellation and estimation on methods already learned |
 
 **Roots mean inverse recall:** 25² = 625 ↔ √625 = 25; 12³ = 1728 ↔ ∛1728 = 12. You do **not** need to memorise decimal values of √1 through √30. Non-perfect roots, approximation and surds belong in their Maths lessons.
@@ -124,19 +156,9 @@ These are preparation targets, not an official exam-mandated memorisation list. 
 
 > **தமிழில்:** அட்டவணையை வரிசையாகச் சொல்வது மட்டும் போதாது. கலந்த வரிசையில் கேட்கும்போதும் விடை தெரிய வேண்டும். வர்க்கம்–வர்க்கமூலம், கனம்–கனமூலம் ஆகியவற்றை இரு திசைகளிலும் பயிற்சி செய்.
 
-### 3.2 Divide the 15 minutes
+---
 
-| Time | Task | Starting quantity, not a compulsory race |
-|---|---|---|
-| 5 min | Mixed tables/squares/cubes/root recall | Around 10–15 short prompts, including yesterday's errors |
-| 5 min | Fraction ↔ percentage recall and one application | Around 4–6 prompts plus checking |
-| 5 min | Mental calculations or one learned calculation shortcut | Around 3–5 short calculations plus correction |
-
-Count **first-attempt correct** answers. If you have to derive a forgotten fact correctly, mark it “correct but slow”; that is different from instant recall and different from an incorrect answer.
-
-Examples of useful application: **47 × 6 = 282**, **38 + 59 + 27 = 124**, **12.5% of 640 = 80**. Learn why the method works before timing it. Mental calculation is a drill format; using rough work in an exam is not a failure.
-
-### 3.3 Fraction–percentage recall
+### 3.4 Fraction–percentage recall
 
 Start with the common rows below. Then practise the remaining unit fractions **1/n for n = 2…20** by conversion and approximation. You do not need to memorise long repeating decimals.
 
@@ -147,27 +169,52 @@ Start with the common rows below. Then practise the remaining unit fractions **1
 | 1/4 and 3/4 | 25% and 75% | Exact |
 | 1/5, 2/5, 3/5, 4/5 | 20%, 40%, 60%, 80% | Exact |
 | 1/6 and 5/6 | 16⅔% and 83⅓% | Exact mixed fractions; decimals repeat |
+| 1/7 | 14.2857% (14²⁄₇%) | ≈ 14.29% to two decimal places |
 | 1/8, 3/8, 5/8, 7/8 | 12.5%, 37.5%, 62.5%, 87.5% | Exact |
+| 1/9 and 2/9 | 11.11% (11¹⁄₉%) and 22.22% | Exact recurring |
 | 1/10 | 10% | Exact |
-| 1/12 | 8⅓% | Exact mixed fraction |
-| 1/16 | 6.25% | Exact |
+| 1/11 | 9.09% (9¹⁄₁₁%) | Exact recurring |
+| 1/12 | 8⅓% (8.33%) | Exact mixed fraction |
+| 1/13 | 7.69% (7⁹⁄₁₃%) | Approximate |
+| 1/14 | 7.14% (7¹⁄₇%) | Approximate |
+| 1/15 | 6⅔% (6.67%) | Exact mixed fraction |
+| 1/16 | 6.25% (6¼%) | Exact |
+| 1/17 | 5.88% (5¹⁵⁄₁₇%) | Approximate |
+| 1/18 | 5.55% (5⁵⁄₉%) | Approximate |
+| 1/19 | 5.26% (5⁵⁄₁₉%) | Approximate |
 | 1/20 | 5% | Exact |
 
 **Conversion rule:** a/b as a percentage = (a ÷ b) × 100%. Use **≈** for rounding: **1/7 ≈ 14.2857%**, or **14.29% to two decimal places**. Writing 14.28% as an exact equality is wrong. Retain fractions when rounding would affect the final answer.
 
-### 3.4 Rotate instead of reciting everything
+---
 
-| Day | Emphasis within the same 15 minutes |
+### 3.5 Concrete Checklist: The 5 Core Calculation Drills (8:00 – 8:25 PM)
+
+Execute these five 5-minute modules daily in strict sequence. Use closed-book retrieval; write only final answers:
+
+| Drill # | Module Name | Daily Target & Content Scope | Execution & Quality Standard |
+| :---: | :--- | :--- | :--- |
+| **01** | **Shuffled Tables (1–30)**<br>*(5 min)* | • Mixed multiplication tables **12×, 13×, 14× … 29×, 30×**.<br>• Example prompts: $19 \times 7 = 133$, $23 \times 8 = 184$, $28 \times 6 = 168$, $247 \div 13 = 19$. | Random shuffled prompts (never recite $19 \times 1, 19 \times 2$ in order). Recall product in $< 2$ seconds without manual column addition. |
+| **02** | **Bidirectional Squares ($1–50$) & Cubes ($1–30$)**<br>*(5 min)* | • **Squares 1–50:** $24^2 = 576$, $37^2 = 1369$, $43^2 = 1849$, $47^2 = 2209$.<br>• **Cubes 1–30:** $12^3 = 1728$, $15^3 = 3375$, $17^3 = 4913$, $21^3 = 9261$.<br>• **Inverse Roots:** $\sqrt{1444} = 38$, $\sqrt[3]{2744} = 14$. | Bidirectional reflex: Prompting 1369 must trigger 37 instantly; prompting 1728 must trigger 12. Recognize unit digit signatures ($7^2 \to 9, 8^3 \to 2$). |
+| **03** | **Reciprocal Fractions to % ($1/1$ to $1/20$)**<br>*(5 min)* | • Unit fractions $1/2$ through $1/20$ and key multiples ($3/8 = 37.5\%$, $5/6 = 83⅓\%$, $4/7 \approx 57.14\%$).<br>• Direct percentage-of application: $12.5\%$ of $640 = 80$, $16⅔\%$ of $420 = 70$. | Instant fractional substitution. Never calculate $12.5 \times 640 / 100$; immediately substitute $\frac{1}{8} \times 640 = 80$. |
+| **04** | **Pythagorean Triplets & Geometry Constants**<br>*(5 min)* | • **Base Triplets:** $(3,4,5)$, $(5,12,13)$, $(7,24,25)$, $(8,15,17)$, $(9,40,41)$, $(11,60,61)$, $(12,35,37)$, $(20,21,29)$.<br>• **Scaled Multiples:** $(6,8,10)$, $(15,36,39)$, $(14,48,50)$, $(16,30,34)$.<br>• **Mensuration Multiples:** Multiples of 7 ($\pi = 22/7$), radius $r=7 \to \text{Circumference} = 44, \text{Area} = 154$; $r=14 \to C=88, A=616$. | Spotting hypotenuse/legs in 1 second without applying $a^2 + b^2 = c^2$. Eliminates 45 seconds of heavy arithmetic per Mensuration/Trigonometry question. |
+| **05** | **Mental Arithmetic, Splitting & Smart Approximation**<br>*(5 min)* | • **Splitting Method:** $47 \times 6 = (40 \times 6) + (7 \times 6) = 240 + 42 = 282$.<br>• **Percentage Splitting:** $68\%$ of $250 = 250\%$ of $68 = 68 \times 2.5 = 136 + 34 = 170$.<br>• **Base 100 Multiplications:** $96 \times 93 = (100 - 4 - 7) \mid (4 \times 7) = 8928$.<br>• **Digit Sum & Last Digit Checks:** Rapid options elimination. | All steps performed mentally or with one-line rough scratchpad. Train brain to break complex expressions into comfortable tens and units. |
+
+---
+
+### 3.6 Weekly Drill Rotation & Emphasis
+
+| Day | Primary Drill Emphasis within the 25 Minutes |
 |---|---|
-| Monday | Tables and division partners; old errors |
-| Tuesday | Squares and square-root recognition |
-| Wednesday | Cubes and cube-root recognition |
-| Thursday | Fraction–percentage conversions and “percentage of” applications |
-| Friday | Mixed calculation and estimation |
-| Saturday | Shuffled sample across all learned groups |
-| Sunday | Use the existing speed drill/test analysis as the review; no duplicate session |
+| **Monday** | Shuffled Tables (1–30) and division partners; old calculation error log re-solve |
+| **Tuesday** | Squares (1–50) and square-root identification; unit-digit filtering |
+| **Wednesday** | Cubes (1–30) and cube-root recognition; digital root checks |
+| **Thursday** | Fraction–percentage conversions ($1/1$ to $1/20$) and "percentage-of" splits |
+| **Friday** | Pythagorean Triplets, Scaled Families & Mensuration Constants ($\pi r^2$) |
+| **Saturday** | Mixed 25-prompt speed run across all 5 modules (aim for $< 8$ minutes total) |
+| **Sunday** | Sunday speed test review; analyze calculation slips from the mock; zero duplicate drills |
 
-The emphasis changes; keep a few due errors from other groups. Never delay the current Maths chapter until every recall fact is perfect.
+The emphasis changes, but keep 2–3 due errors from previous days active. Never delay the evening chapter study because a calculation fact felt slightly slow.
 
 ---
 
@@ -295,7 +342,7 @@ For candidates managing an 8:00 AM – 7:00 PM job, do not try to read static te
 
 ## 7. 💻 Computers and typing: keep the existing arrangement
 
-Your **45-minute drill total excludes the existing workday lunch typing slot**, which is up to 20 minutes when practical, and the existing weekend computer practical/review. This is already part of your wider plan; it is not a new addition.
+Your **daily foundation habits total excludes the existing workday lunch typing slot**, which is up to 20 minutes when practical, and the existing weekend computer practical/review. This is already part of your wider plan; it is not a new addition.
 
 - **Typing:** Accuracy first. Log the tool's speed and accuracy on a short familiar-format passage; do not substitute repeated easy text for all practice.
 - **Computer theory:** Recall terms from the material you studied; use the existing Sunday quiz/practical check to test them.
@@ -383,23 +430,23 @@ If you want an app, [Anki's official site](https://apps.ankiweb.net/) links its 
 
 ## 11. ✅ Normal day, difficult day and Sunday
 
-### Normal day: 45 minutes
+### Normal day: Daily foundation routines
 
-- [ ] Maths — 15 min; first-attempt score recorded.
-- [ ] English — 15 min; due words before new words.
-- [ ] Reasoning — 5 min; familiar methods only.
-- [ ] GA — 10 min; recalled without looking before checking.
+- [ ] Morning English Habit — 30 min (The 10-10-10 routine: vocab, micro-reading, grammar PYQs).
+- [ ] Morning Reasoning Warmup — 15 min (Alphabet ranks, opposite pairs, error re-solves).
+- [ ] Workday GA Routine — 10 min (Transit audio + post-lunch closed-book recall on the job).
+- [ ] Evening Maths Warmup — 25 min (The 5 calculation drills: tables 1–30, squares/cubes, fractions to %, triplets, mental splitting).
 - [ ] Any mistake requiring chapter repair moved to the existing correction queue.
 
 ### Difficult day: 15-minute foundation fallback
 
 **Maths 5 + English 5 + Reasoning 2 + GA 3 = 15 minutes.** Review only the most useful due items; add no new material.
 
-This fits **inside**, not on top of, the master plan's bad-day routine. For example: within its 20 Maths minutes use five for drill recall; within its 15 morning-subject minutes use five for English and two for Reasoning maintenance; within its 15 GA minutes use three for recall. The remaining minutes and typing follow that fallback plan. Log the day as **reduced**, not as a completed 45-minute session.
+This fits **inside**, not on top of, the master plan's bad-day routine. For example: within its 20 Maths minutes use five for drill recall; within its 15 morning-subject minutes use five for English and two for Reasoning maintenance; within its 15 GA minutes use three for recall. The remaining minutes and typing follow that fallback plan. Log the day as **reduced**, not as a completed foundation session.
 
 ### Sunday or a scheduled mock day
 
-Use the existing speed drill, mixed test, GA quiz and correction sessions to supply recall practice. A mock may cover some areas; briefly review a due area it did not cover. **Do not stack another compulsory 45 minutes on top of the scheduled tests and analysis.** Record “integrated” when the work was done inside those sessions.
+Use the existing speed drill, mixed test, GA quiz and correction sessions to supply recall practice. A mock may cover some areas; briefly review a due area it did not cover. **Do not stack another compulsory foundation session on top of the scheduled tests and analysis.** Record “integrated” when the work was done inside those sessions.
 
 ### Reusable weekly log
 
@@ -441,7 +488,7 @@ This diagnostic checklist tests whether your daily foundation routine satisfies 
 | **01** | **Strict Morning Timebox** | 30m English habit + 90m Reasoning = 120 min total morning window (5:00–7:00 AM). | Never steal time from your 7-hour sleep window or extend morning past 7:00 AM. | [ ] |
 | **02** | **Closed-Book Retrieval First** | Always attempt recall from memory before flipping the card or checking notes. | Passive rereading is recognition, not retrieval; only unaided recall builds memory. | [ ] |
 | **03** | **Zero-Backlog Rule** | Review due cards first. If reviews fill the slot, add exactly **zero new words/cards** that day. | Never add 10 new words just to maintain a streak while forgetting the previous 50. | [ ] |
-| **04** | **Bidirectional Math Roots** | Practice both ways: 25² = 625 ↔ √625 = 25; 12³ = 1728 ↔ ∛1728 = 12. | Don't just recite tables in sequential order; test shuffled, mixed products. | [ ] |
+| **04** | **Evening Math Calculation Warmup** | First 25m of evening (8:00–8:25 PM): Shuffled tables (1–30), squares (1–50), cubes (1–30), fractions, triplets, and mental splitting. | Never leave calculation drills to 10:30 PM when fatigued; warm up before problem solving. | [ ] |
 | **05** | **Exact vs. Rounded Fractions** | Use exact mixed fractions where applicable (1/3 = 33⅓%); use ≈ for decimals (1/7 ≈ 14.29%). | Writing 1/7 = 14.28% as an exact equality is mathematically wrong. | [ ] |
 | **06** | **Contextual Vocabulary** | Anchor every new word to a concise Tamil meaning, one related word, and one short sentence. | Do not memorize isolated dictionary lists without contextual usage. | [ ] |
 | **07** | **English 10-10-10 Habit** | 10m Vocab & roots + 10m micro-reading + 10m grammar PYQs build intuitive English fluency. | Do not skip reading to just memorize isolated vocabulary lists. | [ ] |
@@ -457,7 +504,7 @@ This diagnostic checklist tests whether your daily foundation routine satisfies 
 
 ```text
 ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
-│  Daily 45-Min Drills   │ ───► │  Core Chapter Study    │ ───► │  Sunday Speed Mocks    │
+│ Daily Foundation Drills│ ───► │  Core Chapter Study    │ ───► │  Sunday Speed Mocks    │
 │  Fast recall, zero     │      │  Deep concept mastery, │      │  Timed performance,    │
 │  calculation friction  │      │  PYQs, method nuances  │      │  exam temperament      │
 └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
@@ -472,10 +519,10 @@ This diagnostic checklist tests whether your daily foundation routine satisfies 
 
 ### B. Core Principles of Progression:
 1. **Frictionless Arithmetic in Maths:**
-   - Instant recall of squares (1²–30²), cubes (1³–15³), and reciprocal percentage conversions (1/2 through 1/20) removes cognitive load during multi-step Algebra, Geometry, and Arithmetic problems.
+   - Instant recall of squares (1²–50²), cubes (1³–30³), and reciprocal percentage conversions (1/2 through 1/20) removes cognitive load during multi-step Algebra, Geometry, and Arithmetic problems.
 2. **Grammar & Vocabulary Intuition in English:**
    - Reviewing 3–5 words daily with sentence application builds passive vocabulary into active recognition for Cloze Tests, Synonyms/Antonyms, and Reading Comprehension.
 3. **Reasoning Reflexes:**
    - Knowing letter values (A = 1 … Z = 26) and opposites (27 − p) instantly turns Coding-Decoding, Analogy, and Series into 15-second mechanical points.
 4. **Consistency over Intensity:**
-   - 45 minutes of daily spaced recall beats 5 hours of weekend cramming every single time.
+   - 55 minutes of daily spaced recall beats 5 hours of weekend cramming every single time.

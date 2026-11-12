@@ -54,8 +54,8 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 │  (2 Hours)              │  (Office + Transit)           │  (3 Hours)                   │
 ├─────────────────────────┼───────────────────────────────┼──────────────────────────────┤
 │  • 30m English 10-10-10 │  • 🎧 Audio: GK & Computers   │  • 📐 Maths Depth            │
-│  • 90m Deep Reasoning   │  • 🧠 Lunch: 10m GA Recall    │  • Uninterrupted 180 min     │
-│    (Nov–Jan Phase 1)    │  • ⌨️ Lunch: 20m DEST Typing  │                              │
+│  • 90m Deep Reasoning   │  • 🧠 Lunch: 10m GA Recall    │  • 25m Warmup Drills         │
+│    (Nov–Jan Phase 1)    │  • ⌨️ Lunch: 20m DEST Typing  │  • 155m Core Study & Solve   │
 └─────────────────────────┴───────────────────────────────┴──────────────────────────────┘
 ```
 
@@ -71,10 +71,10 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
 | :--- | :---: | :--- |
 | 🌅 **Morning — Reasoning Phase (Nov–Jan)** | **120 min** | **5:00–5:30 AM (30 min):** English foundation habit (10m vocab & roots + 10m micro-reading + 10m grammar PYQs) → **5:30–7:00 AM (90 min):** Reasoning session (**15 min:** reflex warmup on alphabet/opposites/errors → **75 min:** deep chapter concepts, independent TCS PYQs & error repair). |
 | 🌅 **Morning — English Phase (Feb–Mar)** *(The Swap)* | **120 min** | The Clean Swap: **5:00–5:30 AM (30 min):** Reasoning maintenance drills & 15-question speed sets → **5:30–7:00 AM (90 min):** English Mains mastery (**15 min:** vocab/grammar warmup → **75 min:** Voice, Narration, long RC, and full Tier-II mocks). |
-| 🌙 **Evening — Maths (Both Phases)** | **180 min** | **15 min:** Recall, including 5 min tables/squares/cubes → **40 min:** Concepts / attempted examples → **5 min:** Break → **90 min:** Independent practice / PYQs → **5 min:** Break → **25 min:** Error correction and due re-solves. On practice days, use concept time for solving. |
+| 🌙 **Evening — Maths (Both Phases)** | **180 min** | **8:00–8:25 PM (25 min):** Calculation Warmup Drills (Tables 1–30, Squares 1–50, Cubes 1–30, Fractions to %, Triplets, Mental Splitting) → **8:25–9:25 PM (60 min):** Concepts & Worked PYQs → **9:25–9:30 PM (5 min):** Break → **9:30–10:35 PM (65 min):** Timed Independent PYQ Practice → **10:35–10:40 PM (5 min):** Break → **10:40–11:00 PM (20 min):** Error Repair & Formula Log. |
 | **Total Weekday Study Volume** | **300 min (5h)** | One morning row + Maths; includes the two short breaks. Workday audio and 20 min lunch typing remain separate. |
 
-### 📋 The Three Daily Micro-Drill Protocols (Action Checklists)
+### 📋 The Four Daily Micro-Drill Protocols (Action Checklists)
 
 1. **📖 English (30 min: 5:00–5:30 AM):**
    - **10m Vocab & Roots:** 5m closed-book due reviews + 5m learn 3–5 new PYQ words/roots (Tamil meaning + 1 context sentence).
@@ -88,6 +88,12 @@ This preparation focuses strictly on the **upcoming 2027 recruitment cycles**: S
    - **Morning Transit (15–30 min):** Audio listening on headphones (current affairs, biology, history).
    - **Post-Lunch Break (5–10 min):** 100% closed-book mental recall of 3–5 anchor facts from the morning audio (no re-listening).
    - **100% Complete on the Job:** Your daily GA drill is fully finished right at work. Zero GK tasks, notes, or lookups in the evening!
+4. **📐 Maths Calculation Warmup (25 min: 8:00–8:25 PM):**
+   - **5m Shuffled Tables (1–30):** Mixed products and division facts (e.g. $19 \times 7 = 133, 23 \times 8 = 184, 247 \div 13 = 19$). Never recite sequentially.
+   - **5m Bidirectional Squares ($1–50$) & Cubes ($1–30$):** Inverse root recall ($37^2 = 1369 \leftrightarrow \sqrt{1369} = 37$; $17^3 = 4913 \leftrightarrow \sqrt[3]{4913} = 17$).
+   - **5m Reciprocal Fractions to % ($1/1$ to $1/20$):** Exact conversions ($1/8 = 12.5\%, 1/16 = 6.25\%$) and rounded values ($1/7 \approx 14.29\%$). Instant fractional substitution in percentages.
+   - **5m Pythagorean Triplets & Geometry Constants:** Base triplets ($(3,4,5), (5,12,13), (7,24,25), (8,15,17), (9,40,41), (11,60,61), (12,35,37), (20,21,29)$) and scaled multiples; Mensuration multiples ($\pi \approx 22/7, r=7 \to A=154$).
+   - **5m Mental Arithmetic & Percentage Splitting:** Decomposition, base 100 multiplication ($96 \times 93 = 8928$), and percentage inversion ($68\%$ of $250 = 250\%$ of $68 = 170$).
 
 ---
 
